@@ -1,2 +1,28 @@
-kagglehub==0.3.11
-pandas==2.2.3
+
+# == Core Machine Learning Stack ==
+torch==2.2.2+cu121         # Stable PyTorch build with CUDA 12.1
+torchvision==0.17.2+cu121
+torchaudio==2.2.2+cu121
+--index-url https://download.pytorch.org/whl/cu121
+
+# == Hugging Face Transformers Stack ==
+transformers==4.39.3       # Latest stable transformers (April 2025)
+bitsandbytes==0.43.1       # GPU quantization + LLM acceleration
+accelerate==0.28.0
+sentencepiece==0.2.0
+huggingface_hub==0.23.1
+pydantic==1.10.13           # Transformers still use v1 schema
+
+# == Jupyter + Dev Support ==
+notebook==7.1.2
+ipywidgets==8.1.2
+widgetsnbextension==4.0.9
+ipykernel==6.29.4
+tqdm==4.66.2
+pandas==2.2.2
+
+# == Optional: Utility + Compatibility Tools ==
+setuptools>=69.5.1
+wheel>=0.43.0
+numpy==1.26.4
+
