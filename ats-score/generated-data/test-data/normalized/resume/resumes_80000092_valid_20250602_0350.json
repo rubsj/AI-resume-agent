@@ -1,0 +1,91 @@
+[
+    {
+        "record_id": 80000092,
+        "domain": "FITNESS",
+        "input_text": "SERVER\nProfessional Summary\nAmbitious student looking for an opportunity to use my knowledge and experience to learn about the mental health\nfield.\nSkill Highlights\nSuperior communication skills Solution-focused counseling Exceptional problem solver Positive attitude\n\nPROFESSIONAL EXPERIENCE\n\nCompany Name\nCity ,\nState\nServer\n\n01/2017 to Current\nSpoke with patrons to ensure satisfaction with food and service\nDisplayed enthusiasm and knowledge about the restaurant's menu and products.\nCommunicated with other kitchen team members to ensure food was prepared on time and correctly.\nCompany Name\nCity ,\nState\nServer\n\n08/2016 to 12/2016\nProvided friendly and attentive service and exceptional hospitality.\nSet dining tables according to type of event and service standards.\nConsistently offered professional, friendly and engaging service.\nStocked service stations with items such as ice, napkins, and straws.\nCompany Name\nCity ,\nState\nFront Desk\n\n01/2014 to 05/2015\nPromoted club programs, products and services to participants\nTrained all new sales employees on effective techniques.\nListened to customer needs and preferences to provide accurate advice.\nCorrected dangerous movements and suggested alternate exercises.\n\nEDUCATION AND TRAINING\n\nHigh School Diploma\nJackson Liberty High School ,\nCity ,\nState\nAssociate of Science : Psychology\nUniversity of South Florida\nPsychology\nAssociate of Science : Psychology\nTemple University ,\nCity ,\nState\nPsychology",
+        "output_json": {
+            "resume_id": 80000092,
+            "total_experience_years": 10.3,
+            "summary": "Ambitious student looking for an opportunity to use my knowledge and experience to learn about the mental health field.",
+            "education": [
+                {
+                    "degree": "Associate of Science",
+                    "field": "Psychology",
+                    "institution": "University of South Florida",
+                    "year": ",",
+                    "gpa": 0.0
+                },
+                {
+                    "degree": "Associate of Science",
+                    "field": "Psychology",
+                    "institution": "Temple University",
+                    "year": ",",
+                    "gpa": 0.0
+                },
+                {
+                    "degree": "High School Diploma",
+                    "field": ",",
+                    "institution": "Jackson Liberty High School",
+                    "year": ",",
+                    "gpa": 0.0
+                }
+            ],
+            "experience": [
+                {
+                    "job_title": "Server",
+                    "company": "Company Name",
+                    "start_date": "01/2017",
+                    "end_date": "Current",
+                    "description": [
+                        "Spoke with patrons to ensure satisfaction with food and service",
+                        "Displayed enthusiasm and knowledge about the restaurant's menu and products",
+                        "Communicated with other kitchen team members to ensure food was prepared on time and correctly"
+                    ]
+                },
+                {
+                    "job_title": "Server",
+                    "company": "Company Name",
+                    "start_date": "08/2016",
+                    "end_date": "12/2016",
+                    "description": [
+                        "Provided friendly and attentive service and exceptional hospitality",
+                        "Set dining tables according to type of event and service standards",
+                        "Consistently offered professional, friendly and engaging service",
+                        "Stocked service stations with items such as ice, napkins, and straws"
+                    ]
+                },
+                {
+                    "job_title": "Front Desk",
+                    "company": "Company Name",
+                    "start_date": "01/2014",
+                    "end_date": "05/2015",
+                    "description": [
+                        "Promoted club programs, products and services to participants",
+                        "Trained all new sales employees on effective techniques",
+                        "Listened to customer needs and preferences to provide accurate advice",
+                        "Corrected dangerous movements and suggested alternate exercises"
+                    ]
+                }
+            ],
+            "skills": [
+                "Superior communication skills",
+                "Solution-focused counseling",
+                "Exceptional problem solver",
+                "Positive attitude"
+            ],
+            "certifications": [],
+            "projects": [],
+            "languages": [],
+            "other": [
+                {
+                    "section_name": "Professional Experience",
+                    "content": "Company Name, City, State"
+                },
+                {
+                    "section_name": "Education and Training",
+                    "content": "High School Diploma, Jackson Liberty High School, City, State"
+                }
+            ]
+        }
+    }
+]
