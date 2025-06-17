@@ -1,0 +1,51 @@
+{
+    "resume_id": "37540732",
+    "jd_id": "3901981100",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.668,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, and there are no specific certification requirements in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Administration from The Citadel, which is relevant to the job description's preferred degree requirement. However, the GPA is not provided, which could be a factor in assessing educational qualifications."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.5 yrs (capped to 28.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 28 years of experience in sales and marketing management, which is more than the required 5 years. The detailed job history in the resume matches the job responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The information is presented clearly and logically."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or achievements, but the job history suggests a high level of responsibility and success in sales, which could indicate leadership qualities. However, there is no direct evidence of leadership skills or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's job history includes responsibilities such as sales management, account management, and working with outside sales representatives, which align with the job responsibilities described in the job description. However, there is no direct mention of managing large multistore retailers or conducting sales forecasts and reports."
+        },
+        "skills": {
+            "score": 0.696,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has extensive experience in sales, which aligns with the required skills of business development and sales. The resume also lists specific skills like Excel and Microsoft Windows, which match the tools and technologies mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like effective communication, negotiation, and problem-solving, which are aligned with the soft skills required in the job description. However, there is no explicit mention of presenting in front of large groups or working well within a team."
+        },
+        "tools": {
+            "score": 0.46,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Windows (substring)'] | (LLM 0.4): The candidate's experience includes using Excel and Microsoft Windows, which are mentioned as tools in the job description. However, there is no explicit mention of proficiency in retailer portals, which is another tool mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists various skills that can be transferred to the job, such as sales techniques, customer service, and retail sales. However, there is no direct mention of specific transferable skills like working knowledge of retailer portals or setting up items."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.605
+}

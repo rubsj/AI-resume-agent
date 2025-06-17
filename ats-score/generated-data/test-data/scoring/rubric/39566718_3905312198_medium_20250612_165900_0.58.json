@@ -1,0 +1,51 @@
+{
+    "resume_id": "39566718",
+    "jd_id": "3905312198",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.676,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has some certifications listed, but not all required by the job description."
+        },
+        "education": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has relevant education in Electrical Engineering, but the details are not fully specified."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 11.8 yrs (capped to 11.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in construction and project management, aligning closely with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in project management demonstrates leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities listed in the job description, but not all."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has MSWord and Excel skills listed, which match the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows leadership and teamwork, which are soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.438,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 1}. Matched: ['MS Project (fuzzy)', 'Word (substring)', 'Excel (exact)'] | (LLM 0.4): The candidate has experience with MSWord and Excel, which are tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in construction management transfers well to the job description's requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.582
+}

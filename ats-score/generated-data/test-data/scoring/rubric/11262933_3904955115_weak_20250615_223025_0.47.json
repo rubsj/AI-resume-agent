@@ -1,0 +1,51 @@
+{
+    "resume_id": "11262933",
+    "jd_id": "3904955115",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.424,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate possesses certifications like 'Certification as Nursing Assistant' and 'MLS Real Estate School', which are not directly related to the financial domain required by the job description."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education includes an Associates Degree in Applied Science, Criminal Justice, which does not align with the required BS degree in technology or engineering."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 7.1 yrs (capped to 7.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles such as 'Account Receivable', 'Treasury Services Advisor', and 'Lead Ops Representative'. However, the job description requires more specific experience in financial services."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, the lack of specific details in certain sections reduces the score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume that align with the job description's requirements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed in the description, such as 'collaboration with internal groups', 'analysis of business processes', and 'preparation of proposals'. However, there is no mention of experience with specific tools or technologies."
+        },
+        "skills": {
+            "score": 0.327,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Excel (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'account management', 'call center', 'customer service', and 'data entry'. However, there is a lack of detail in the job description regarding specific tools and technologies used."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like'strong communication', 'problem-solving', and 'decision-making', which are aligned with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.048,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['ServiceNow (fuzzy)', 'Web Services (fuzzy)'] | (LLM 0.4): The job description mentions specific tools like 'ServiceNow', 'Salesforce', 'SharePoint', etc., but the candidate's resume does not mention any proficiency or experience with these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'account management', 'call center', and 'customer service', which could be applicable in the financial domain. However, the lack of specific tool and technology knowledge reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.469
+}

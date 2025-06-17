@@ -1,0 +1,51 @@
+{
+    "resume_id": "37374340",
+    "jd_id": "3902343426",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.418,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires at least an Associate degree."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only a High School Diploma and Some College degree, which do not match the required minimum education level of an Associate degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in Healthcare Senior Outreach and Administration, which aligns with the job responsibilities. However, the job description specifically requires B2B Partnerships experience, which is not mentioned in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions being a Creative and adaptable leader in the 'Other' section, which aligns with the job requirement of being a self-motivated and results-driven leader. However, the job description does not specify any leadership-related skills or experiences."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that align with the job responsibilities, such as counseling, promoting integration of services, and assisting customers. However, the job responsibilities specifically require building strategic partnerships and enhancing the well-being of businesses through insurance solutions, which is not mentioned in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Confidential data protection, Data entry, Scheduling clients for evaluations for Managed Long Term Care Intake, Submission of Medicaid applications for clients, and Intake and submission of Pool Trust for Long Term Care clients. However, the job description requires Business Development, Consulting, and Sales skills which are missing."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills include Strong passion for making a positive impact, Excellent communication and interpersonal skills, and Self-motivated with a results-driven mindset, which align with the job requirements. However, the job description also requires Willingness to be out in the community, which is not explicitly mentioned in the candidate's soft skills."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): The job description does not mention any specific tools or technologies required, so no score can be assigned."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include Leadership, Decision-making, Team management, Recordkeeping and data input, Online research, and Data collection, which are relevant to the job responsibilities. However, the job description requires specific skills like Business Development, Consulting, and Sales, which are not mentioned in the candidate's transferable skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.507
+}

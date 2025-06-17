@@ -1,0 +1,51 @@
+{
+    "resume_id": "11121498",
+    "jd_id": "3906095241",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.71,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, and the job description requires ServSafe certification."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has degrees in Culinary Arts and Nutrition Dietetics, but the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.1 yrs (capped to 24.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in various culinary roles, including chef positions, which aligns well with the required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing staff and overseeing operations indicates leadership skills, but the lack of detail reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as creating menus, managing staff, and ensuring food quality, which aligns well with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in culinary arts, nutrition, and dietetics, which aligns well with the required skills of creating menus that optimize nutrition and accommodate specific dietary needs."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions flexible temperament and professional communication skills, which align with the soft skills required for the position."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume, and the job description does not require any specific tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in managing daily demands and accommodating special requests are transferable to the role, but the lack of specific details reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.602
+}

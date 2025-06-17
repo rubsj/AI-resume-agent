@@ -1,0 +1,51 @@
+{
+    "resume_id": "26341645",
+    "jd_id": "3904387488",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.424,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement for an ASE Certification in the job description."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds relevant degrees in Management Information Systems and Computer Science, but the lack of GPA details may be seen as less favorable."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 27.5 yrs (capped to 27.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate's experience spans over 27 years, with detailed descriptions that match the responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which contrasts with the requirement for advanced leadership skills in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in Systems Analysis, Technical Skills, and Business Systems Analysis, aligning closely with the required skills of Customer Service and Sales."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as effective communication and problem-solving, are mentioned but could be more explicitly stated to align better with the job description."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate possesses knowledge in Microsoft Office Suite and POS and Parts lookup systems, which are aligned with the tools required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are evident in their experience and education, but they lack explicit mention of skills like Advanced solution, project, and product quality recommendation ability, which are required in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.523
+}

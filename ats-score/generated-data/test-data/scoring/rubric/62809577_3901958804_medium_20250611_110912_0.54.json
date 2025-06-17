@@ -1,0 +1,51 @@
+{
+    "resume_id": "62809577",
+    "jd_id": "3901958804",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.655,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a degree in Accounting, but the job description does not specify a minimum educational requirement beyond a High School diploma/GED."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 17.6 yrs (capped to 17.6), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in Accounts Payable and Accounts Receivable roles, which matches the job responsibilities. However, the total experience years exceed the required 3 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume, which is not a requirement for the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that match some of the job responsibilities listed, such as processing invoices and managing accounts payable. However, there is no direct match for all responsibilities."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in Accounts Payable, Accounts Receivable, and administrative tasks, which aligns well with the job requirements. The resume also mentions proficiency in Microsoft Office applications, which is a tool required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention soft skills like Safety Judgement/Decision Making, Teamwork/Interpersonal Skills, Attendance, and Attention to detail and accuracy of work, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.53,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office applications, which is a tool required by the job description. However, there is no mention of SAP experience, which is optional."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills that can be transferred to the job, such as accounting software proficiency and attention to detail. However, there is no explicit mention of specific tools like SAP or Microsoft Excel."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.542
+}

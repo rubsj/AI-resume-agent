@@ -1,0 +1,51 @@
+{
+    "resume_id": "29399491",
+    "jd_id": "3902763185",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.52,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description prefers an MBA degree."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an Associate of Arts degree, which is not directly related to the job requirements. The degree is also current, suggesting ongoing education rather than completion."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 12.1 yrs (capped to 12.1), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has relevant experience in retail and customer service roles, which aligns well with the job responsibilities. The total experience is slightly less than the required 6+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they can lead recruitment marketing campaigns or initiatives."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like customer service, communication, and problem-solving, which are aligned with the job responsibilities. However, there is no evidence of strategic planning or campaign management."
+        },
+        "skills": {
+            "score": 0.285,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Analytics (fuzzy)'] | (LLM 0.4): The candidate has relevant skills like Customer Service, Communication, and Problem Solving, which match the job requirements. However, there is no mention of specific technical skills required for the role."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as Communication, Creativity, and Adaptability, which are mentioned in the job description. However, there is no explicit mention of Organizational Skills, Strategic Planning, or Leadership."
+        },
+        "tools": {
+            "score": 0.084,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, while the job description requires proficiency in Excel, Tableau, Salesforce, CRM, and Tableau."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills are mostly transferable, but there is a lack of detail on how they specifically apply to the job requirements, particularly in areas like Data Analysis, Analytics, and Project Management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.429
+}

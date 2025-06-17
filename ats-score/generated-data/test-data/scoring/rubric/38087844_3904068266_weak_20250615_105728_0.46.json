@@ -1,0 +1,51 @@
+{
+    "resume_id": "38087844",
+    "jd_id": "3904068266",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.406,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume that match the job description's requirement."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Business Administration and High School Diploma, which does not directly match the job description's preferred degree of Bachelor's degree in photography or related field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 22.7 yrs (capped to 22.7), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in sales roles, which aligns with the job description's required experience of 5+ years. However, the specific experience in photography is lacking."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but there is no explicit mention of leadership skills in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing shoots and ensuring image quality, which aligns with the job description's responsibilities. However, there is no mention of providing art direction or packaging consulting."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Sales, Sales Management, and Project Management, which align with the job description's required skills of Art/Creative and Design."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong soft skills such as Excellent communication skills and Keen eye for detail, which aligns with the job description's soft skills."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Art direction (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, which contrasts with the job description's requirement of Digital photography, Film photography, etc."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills like Leadership, Problem Solving, and Project Management, which can be transferred to the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.459
+}

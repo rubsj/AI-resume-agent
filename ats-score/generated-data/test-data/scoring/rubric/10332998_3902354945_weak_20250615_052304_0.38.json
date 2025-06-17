@@ -1,0 +1,51 @@
+{
+    "resume_id": "10332998",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.409,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required PMP certification."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a J.D. and Bachelor of Arts degree, which are relevant to the JD's required education but lack specific details about the field of study."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in various legal roles, including as a Consultant Attorney and Special Assistant Corporation Counsel, which aligns with the required experience in Project Management. However, the experience does not directly match the required role of a Senior Project Manager."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership skills are mentioned in their resume, but there is no specific evidence of leadership in the context of project management or team leading multiple efforts."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.282,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Time management (fuzzy)'] | (LLM 0.4): The candidate has skills in Legal Document Preparation, Court Procedures, and Strong Researcher, which align well with the required skills of Consulting, Information Technology, and Project Management. However, there is no direct match with ERP implementation, Systems integrations, or Technical solutions."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses leadership skills, which align with the soft skills required. However, there is no evidence of influencing, motivating, negotiation, conflict resolution, documentation, dissemination, time management, adaptability, problem-solving, teamwork, or communication."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools used in the candidate's experience match the required tools such as ERP, Cloud applications, Network, Cloud/compute, Security, Microsoft Office, Adobe Creative Suite, Facebook, Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like Communication, Leadership, Team Player, and Detail-Oriented, which could be applicable in a project management role. However, these skills are not as directly aligned with the specific responsibilities and tools required."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.38
+}

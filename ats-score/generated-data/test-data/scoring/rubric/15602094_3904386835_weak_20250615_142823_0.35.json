@@ -1,0 +1,51 @@
+{
+    "resume_id": "15602094",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.558,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not list any certifications that match the required ones in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is listed as current and incomplete, which does not meet the requirement for a Bachelor's degree in a relevant field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 32.8 yrs (capped to 32.8), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has over 30 years of experience in IT consultancy and software development, which is highly relevant to the job description. However, the job description requires at least 12 years of experience, and the candidate's experience is not explicitly stated to be within the last 12 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes roles that demonstrate leadership, but these are not specifically related to the job responsibilities or required skills in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in IT consultancy and software development, which aligns well with the required skills in consulting and information technology. However, there is no mention of specific tools like AWS, GCP, Azure, or certifications like Spark, Python, or SQL."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong leadership and motivation abilities, which aligns with the soft skills required in the job description. However, these skills are not quantified or detailed in the resume."
+        },
+        "tools": {
+            "score": 0.068,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Spark (fuzzy)', 'HBase (fuzzy)'] | (LLM 0.4): The candidate does not have any experience with the tools mentioned in the job description such as AWS, Python, Snowflake, Hadoop, Hive, Spark, or HBase."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as database design, excellent problem-solving abilities, and website maintenance, which could be relevant to the job. However, these skills are not directly aligned with the job responsibilities or required tools."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.35
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "28790806",
+    "jd_id": "3904392011",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.401,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds certifications in IBM DataStage and Oracle SQL, which are relevant to the job, but the lack of specific dates reduces the score."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lacks details such as graduation year and GPA, making it less informative compared to the job description requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 9.5 yrs (capped to 9.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate's experience includes projects that match the job responsibilities, such as data migration and ETL development, but the lack of specific dates and details reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.1,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly correlate with the job responsibilities listed, particularly in terms of sales and customer service."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience with IBM DataStage, Unix Shell Scripting, SQL, Informatica ETL, and hands-on experience with various databases, which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section mentions technical expertise, but there is no explicit mention of soft skills such as communication and problem-solving abilities."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like IBM DataStage and SQL, which are mentioned in the job description, but the depth of experience could be more detailed."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Unix Shell Scripting and SQL can be considered transferable to the job, but the lack of detail in the experience section reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.464
+}

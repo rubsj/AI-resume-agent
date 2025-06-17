@@ -1,0 +1,51 @@
+{
+    "resume_id": "12693146",
+    "jd_id": "3905393552",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.535,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which might be a concern given the job description's preference for certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Science in Construction Management is listed, but the GPA is not provided, which could be seen as incomplete information."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.4 yrs (capped to 15.4), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has extensive experience in construction management, including roles as Superintendant and Superintendent, which closely matches the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for some missing punctuation and unclear dates."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership is mentioned in the resume but not quantified or detailed, which could be a concern given the importance of leadership in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles cover many of the job description's responsibilities, such as project management, safety oversight, and client relations."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a comprehensive set of skills including project management, coordination, and safety oversight, which aligns well with the job description's requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication and organization, are mentioned but not quantified or detailed in the resume."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience with tools like the Incident and Issues Tracking (IIT) system aligns with the job description's mention of project management software, though specific tool knowledge is not detailed."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like coordination and problem-solving are transferable but not explicitly highlighted in the resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.536
+}

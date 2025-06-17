@@ -1,0 +1,51 @@
+{
+    "resume_id": "16237710",
+    "jd_id": "3904358760",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.666,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds an Associate Member of the Association of Business Executives certification, but it does not match the required Bachelor's degree in accounting."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts degree in Business Studies and an unspecified certification, neither of which directly match the required Bachelor's degree in accounting."
+        },
+        "experience": {
+            "score": 0.68,
+            "reason": "(Rule 0.5): Resume: 3.3 yrs (capped to 3.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience as an Accountant, which aligns with the job responsibilities. However, the experience is limited to 3.3 years, falling short of the preferred 5-7 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not provide evidence of leadership skills, which are mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.312,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Financial reporting (fuzzy)'] | (LLM 0.5): The candidate's experience includes some responsibilities like maintaining accounts receivable and processing payroll, but lacks details on monthly close activities, revenue recognition, and other advanced accounting tasks."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Organization, Time Management, Budgeting, Adaptability, and Communication, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions self-motivation, reliability, and integrity, which are aligned with the soft skills required. However, the lack of specific examples may lower the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in QuickBooks Online, CMiC, or other construction industry software tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include organization, time management, and communication, which are generally applicable but do not specifically address technical accounting skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.444
+}

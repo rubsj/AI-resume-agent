@@ -1,0 +1,51 @@
+{
+    "resume_id": "14585273",
+    "jd_id": "3905312198",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.7,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have the preferred certifications listed in the job description: PMP certification and Universal EPA certification."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education information is incomplete and does not provide details about the degree obtained or the institution's location, which could be relevant for the job."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 29.3 yrs (capped to 29.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has a strong background in managing various types of properties, including commercial and residential, which matches the job requirements. The experience includes roles that involve project management, budgeting, and staff supervision, which are key aspects of the job."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate's summary and experience sections are clear and concise, making it easy to understand their qualifications."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes roles with titles like President and Manager, which suggests leadership experience. However, there is no explicit mention of leadership skills or responsibilities that directly align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows a history of managing projects, overseeing budgets, and supervising staff, which aligns with some responsibilities listed in the job description. However, there is no direct mention of responsibilities like assembling accurate estimates or negotiating terms of agreements."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in asset management, budgeting, and facility management, which aligns well with the job requirements. However, there is no mention of PMP certification or Universal EPA certification, which are preferred certifications."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions skills like crisis management, which aligns with the soft skill requirement of strong decision-making. However, there is no explicit mention of leadership or effective communication, which are also important soft skills."
+        },
+        "tools": {
+            "score": 0.575,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 3, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Project (fuzzy)', 'Word (exact)', 'Excel (exact)', 'PowerPoint (exact)'] | (LLM 0.4): The candidate's skills include proficiency in Microsoft Office tools such as Word, Excel, and PowerPoint, which are mentioned in the job description. However, there is no explicit mention of MS Project or Gantt schedule creation, which are tools the job requires."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills list includes asset management, budgeting, and facility management, which can be considered transferable skills. However, there is no mention of specific skills related to manufacturing or construction management, which are not directly aligned with the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.575
+}

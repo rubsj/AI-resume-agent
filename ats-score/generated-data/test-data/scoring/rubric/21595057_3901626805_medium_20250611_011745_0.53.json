@@ -1,0 +1,51 @@
+{
+    "resume_id": "21595057",
+    "jd_id": "3901626805",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.656,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No formal education is listed in the resume."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 9.8 yrs (capped to 9.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales roles, which aligns with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed in the job description, but not all."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched skills: ['Sales (exact)', 'Customer Service (substring)', 'Sales Force.com (fuzzy)'] | (LLM 0.4): The candidate has relevant skills like 'excellent customer service', 'customer service','sales', and 'problem solver'. However, there is no formal education or certifications listed."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'excellent customer service', 'rapport', and 'communication skills', which are aligned with the job description."
+        },
+        "tools": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Sales Force.com (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Salesforce.com and TapScan, which are mentioned in the job description. However, they lack experience with SAP, which is also mentioned."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'cash handling', 'office', and 'team player', which are not explicitly mentioned in the job description but could be relevant."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.53
+}

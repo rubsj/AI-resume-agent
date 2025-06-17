@@ -1,0 +1,51 @@
+{
+    "resume_id": "15083600",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.483,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires specific certifications related to data analytics and IT."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an MBA and an Accounting degree, which are not directly aligned with the required degrees in the job description but are related to finance and business."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 26.4 yrs (capped to 26.4), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has significant experience in financial sectors, particularly in capital markets, which aligns well with the job description. However, the job description focuses more on cloud solutions and IT, which may not be fully covered by the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership roles or achievements, which is a key requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not explicitly mentioned in the resume, making it difficult to compare them directly with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Implementation level knowledge of Front Arena, Adaptiv, Opics, and proficiency in Excel, PowerPoint, Word, Access. However, there is no direct match with AWS, GCP, Azure, etc., which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not list any soft skills, whereas the job description emphasizes strong leadership and motivation abilities."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Spark (fuzzy)'] | (LLM 0.4): The candidate does not mention any specific tools or technologies used in their experience, which contrasts with the job description requiring knowledge of AWS, Python, Snowflake, Hadoop, Hive, Spark, and HBase."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like consulting and information technology, which can be transferred to the role, but they lack specific technical skills and certifications required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.359
+}

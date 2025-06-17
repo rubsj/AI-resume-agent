@@ -1,0 +1,51 @@
+{
+    "resume_id": "13130984",
+    "jd_id": "3905231467",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.669,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume that directly match the job description's required certifications."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Business Administration and a Bachelor's degree in Accounting Management, both of which are relevant to the job description's preferred degrees."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 19.2 yrs (capped to 19.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in accounting roles that involve tasks like budgeting, reconciliation, and process improvement, which align with the job responsibilities. However, the experience is slightly less detailed than what is expected for the required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume that would indicate the candidate has led projects or teams, which is not explicitly required but could be beneficial."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, but there is no direct mention of financial reporting, working with cross-functional teams, or meeting deadlines, which are required."
+        },
+        "skills": {
+            "score": 0.37,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['team player (substring)'] | (LLM 0.4): The candidate has relevant skills such as budget forecasting, analytical reasoning, account reconciliation, strong organizational skills, general ledger accounting, customer relations, and advanced computer proficiency. These align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as conscientiousness, detail orientation, teamwork, and strong computer skills, which are aligned with the job description's soft skills requirements."
+        },
+        "tools": {
+            "score": 0.38,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['teams (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like MS Outlook, MS Word, and MS Excel, which are listed in the job description's tools and technologies section. However, there is no mention of proficiency with teams or multi-tasking, which are also required."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include budgeting, data entry, and problem-solving, which are relevant to the job responsibilities. However, there is no explicit mention of GAAP standards or financial data management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.491
+}

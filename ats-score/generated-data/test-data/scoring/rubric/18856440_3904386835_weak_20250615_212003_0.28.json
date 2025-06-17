@@ -1,0 +1,51 @@
+{
+    "resume_id": "18856440",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.495,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which are required skills in the job description."
+        },
+        "education": {
+            "score": 0.028,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Technical (fuzzy)'] | (LLM 0.5): The candidate's education does not match the required degree levels or fields specified in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 26.6 yrs (capped to 26.6), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in customer service and administration, which aligns with some of the job responsibilities. However, the total experience years exceed the preferred range."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have any evidence of leadership skills or experience listed."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's job responsibilities do not match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a variety of skills listed, including cash handling, shipping and receiving, customer service, and typing, which align with some of the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have any soft skills listed, which are required skills in the job description."
+        },
+        "tools": {
+            "score": 0.068,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Spark (fuzzy)', 'HBase (fuzzy)'] | (LLM 0.4): The candidate does not have any tools or technologies listed, which are required skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as multi-tasking, time management, and customer service, which are aligned with some of the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.277
+}

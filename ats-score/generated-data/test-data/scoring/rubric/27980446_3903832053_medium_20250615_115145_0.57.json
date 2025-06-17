@@ -1,0 +1,51 @@
+{
+    "resume_id": "27980446",
+    "jd_id": "3903832053",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.618,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, and the job description requires CPA certification."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume mentions a B.S. degree in Business Administration Accounting, but the degree is not from a recognized institution or includes a graduation year, making it unclear if the candidate holds a valid degree."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 23.2 yrs (capped to 23.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting and auditing roles, which matches the job description. However, the total experience years stated do not exactly match the required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, some sections lack detail, which could affect clarity."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume, which could be beneficial for an Audit Senior role."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities listed in the description, indicating a good fit. However, there is no mention of GAAP or auditing standards knowledge, which might be expected for an Audit Senior role."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and auditing, aligning closely with the job requirements. The skills listed match those needed for the position."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in customer service, teamwork, and communication aligns with the soft skills required for the position. However, there is no explicit mention of strong organizational abilities."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the resume, whereas the job description does not require knowledge of any specific tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as financial statement preparation and analysis, which are relevant to the job. However, there is no mention of specific auditing techniques or software proficiency."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.573
+}

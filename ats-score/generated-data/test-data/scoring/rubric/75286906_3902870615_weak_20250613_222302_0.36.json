@@ -1,0 +1,51 @@
+{
+    "resume_id": "75286906",
+    "jd_id": "3902870615",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.414,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the required certifications 'Bachelors', 'CFA', 'FRM', 'CTP', 'financial systems training' mentioned in the job description."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education does not match the required degree level mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 24.0 yrs (capped to 24.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in 'Accounting' roles which aligns with the inferred domain 'Finance'. The candidate has experience in managing accounts payable, accounts receivable, and other financial tasks which are relevant to the job responsibilities. However, the candidate's experience does not explicitly mention the required experience level of '5+' years as stated in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills that are mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.616,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills in 'Account Management', 'accounts payable', 'accounts receivable', 'administrative', 'ADP', 'A/P', 'Bank Reconciliation', 'Basic', 'Billing', 'Closing', 'CMS', 'CPT', 'credit', 'Customer service', 'database', 'Debit', 'Excel', 'Exchange', 'GL', 'ICD-9', 'Invoicing', 'Mac', 'Medical Billing', 'Microsoft Access', 'Microsoft Office', 'office', 'Power Point', 'Microsoft Windows', 'Word', 'Enterprise', 'operating system', 'Payroll', 'payroll processing', 'Peachtree', 'Coding', 'QuickBooks','reconciling','record keeping', 'Russian','sales','spreadsheets', 'Staff Training','supervisor', 'VI', 'year-end'. However, there is no direct match with the required skill 'Finance' and 'Sales' which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have soft skills that match the soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['SWIFT (fuzzy)'] | (LLM 0.4): The candidate does not have any tools or technologies listed that match the required tools 'Kyriba', 'SAP', 'FIS Quantum/Integrity', 'IT2', 'GTreasury', 'SWIFT' mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have transferable skills that match the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.359
+}

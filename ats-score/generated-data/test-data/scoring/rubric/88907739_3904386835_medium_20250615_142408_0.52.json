@@ -1,0 +1,51 @@
+{
+    "resume_id": "88907739",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.605,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description mentions specific certifications like Spark, Python, and SQL."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds advanced degrees in Software Management and International Business, which align well with the job requirements. The GPA is also impressive."
+        },
+        "experience": {
+            "score": 0.825,
+            "reason": "(Rule 0.5): Resume: 11.4 yrs (capped to 11.4), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in consulting and managing projects, but the job description requires more than 12 years of experience, which is not fully met by the candidate."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it could benefit from more specific details and quantifiable achievements to better align with the job description."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading cross-functional teams and managing projects demonstrates leadership skills. However, there is no explicit mention of leadership roles or responsibilities that align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned in the description, such as leading cross-functional teams and managing projects. However, there is no direct match with the high-level architecture and design responsibilities."
+        },
+        "skills": {
+            "score": 0.57,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Consulting (exact)', 'SQL (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Strategy & Operations Process Optimization', 'Digital Transformation', 'Cross Functional Team Management', 'Project/Product Management', and 'Agile/Lean Methodologies'. However, there is a lack of specific technical skills like AWS, GCP, Azure, which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills include strong leadership and motivation abilities, which are aligned with the job description. However, the candidate does not explicitly mention any soft skills related to influencing or high-level presentations."
+        },
+        "tools": {
+            "score": 0.234,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['HBase (fuzzy)'] | (LLM 0.4): The candidate lists some tools like Balsamiq, ALM Octane, Agile Manager, Trello, Version One, Microsoft Office Suite, and Visio, but lacks specific tools like AWS, Python, Snowflake, Hadoop, Hive, Spark, and HBase that are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as data analysis, project management, and strategic planning, which are relevant to the job description. However, there is a lack of specific technical skills and certifications."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.519
+}

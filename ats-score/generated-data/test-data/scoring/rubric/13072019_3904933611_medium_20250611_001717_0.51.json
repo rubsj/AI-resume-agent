@@ -1,0 +1,51 @@
+{
+    "resume_id": "13072019",
+    "jd_id": "3904933611",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.712,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may be a concern given the importance of financial compliance and regulation in the role."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education details are vague and do not provide clear information about the degree or field, making it difficult to assess the relevance to the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 38.3 yrs (capped to 38.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 38 years of experience, which is significantly more than the required 5 years. The detailed descriptions of various roles show strong skills in project management, accounting, and construction, closely matching the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism. However, the lack of specific details in some sections could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume that would indicate the candidate can lead a project team effectively, which is a requirement for the position."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing subcontracts, purchase orders, and project close-out information, which align with the job responsibilities. However, there is no explicit mention of overseeing project-related accounting or performing job costing, which are key responsibilities."
+        },
+        "skills": {
+            "score": 0.465,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Project Management (substring)', 'AIA (exact)'] | (LLM 0.4): The candidate has extensive experience in project management, accounting systems, and Microsoft applications, aligning well with the required skills. However, there is no mention of advanced knowledge in project accounting, job costing, or forecasting, which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary highlights strong skills in prioritization and completion of tasks, which are soft skills aligned with the job requirements. However, there is no explicit mention of strong knowledge of project accounting, job costing, or forecasting, which are preferred soft skills."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate is proficient in AS400, SAP, JD Edwards, and Construction Imaging software, which are tools mentioned in the job description. However, there is no explicit mention of MS Office suite and MS Excel, which are also required."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses a wide range of transferable skills, including accounting systems, project management, and Microsoft applications, which are relevant to the job. However, there is no explicit mention of advanced skills in project accounting or job costing, which are preferred."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.514
+}

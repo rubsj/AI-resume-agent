@@ -1,0 +1,51 @@
+{
+    "resume_id": "15499825",
+    "jd_id": "3902863976",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.46,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.2 yrs (capped to 15.2), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare and information technology, particularly in roles related to medical records and patient privacy, which aligns with the job requirements. However, the total years of experience do not match the minimum requirement of 12-15+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate leadership experience or qualifications that align with the job description's requirements for leading technical strategies, managing teams, and promoting a culture of cooperation."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that align with the job description's requirements for leading technical strategies, managing projects, defining architectural strategies, serving as a technical expert, aligning technology solutions with business objectives, ensuring operational efficiency, mentoring teams, promoting cooperation, keeping abreast of cloud technologies and AI, and leading digital transformation efforts."
+        },
+        "skills": {
+            "score": 0.326,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Health insurance (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'billing', 'charts', 'clarify', 'clients', 'DDS', 'diagnosis', 'documentation', 'focus', 'government regulations', 'legal','managing', 'patient privacy', 'payroll processing', 'policies', 'coding', 'protected health information', 'quality', 'quality assurance','requirement','research'. However, there is no direct match for 'Engineering' and 'Information Technology' which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks explicit soft skills that match the job description's requirements for exceptional leadership, communication, interpersonal skills, and teamwork."
+        },
+        "tools": {
+            "score": 0.14,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['AWS (substring)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, which contrasts with the job description's requirement for knowledge of Azure, AWS, and General AI."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight any transferable skills that directly correspond to the job description's requirements for leadership, communication, interpersonal skills, team management, cloud technologies, AI, machine learning, health insurance, life sciences, drug commercialization, patient claims, real-world data, EHR/EMR, market access, medical affairs, and regulatory landscape."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.328
+}

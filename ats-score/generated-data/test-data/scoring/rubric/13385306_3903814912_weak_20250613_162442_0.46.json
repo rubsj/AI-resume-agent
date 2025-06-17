@@ -1,0 +1,51 @@
+{
+    "resume_id": "13385306",
+    "jd_id": "3903814912",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.528,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not list any certifications, while the job description requires AWS Certified Solutions Architect and Microsoft Certified: Azure Solutions Architect."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Business Administration and a Bachelor of Arts, but these degrees do not directly align with the preferred degrees in Computer Science or Information Technology."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 19.4 yrs (capped to 19.4), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in leading IT teams and managing projects, which aligns with the job responsibilities. However, the experience is not as recent as the required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading multiple IT teams and managing projects demonstrates strong leadership skills, which aligns with the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes leading strategic planning and execution of Enterprise Scale Application Architecture and Migration initiatives, which aligns with the job responsibilities. However, there is no explicit mention of designing comprehensive Application Architecture logical and entity framework designs."
+        },
+        "skills": {
+            "score": 0.514,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Information Technology (substring)', 'Databases (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in.NET, ASP, VB.NET, and SQL Server, which aligns well with the required skills in Information Technology and Engineering. However, there is no mention of AWS, Azure, or DevSecOps Services, which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary indicates a passion for technology and solving business problems, which aligns with the soft skills. However, there is no explicit mention of self-directedness or hunger to learn."
+        },
+        "tools": {
+            "score": 0.022,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Databases (fuzzy)'] | (LLM 0.4): The candidate does not mention using any tools listed in the job description such as AWS, Azure, Docker, Kubernetes, Terraform, or CloudFormation."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Agile, Business Intelligence, and Project Management are transferable to the role, but there is no explicit mention of DevSecOps Services or CI/CD software releases."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.464
+}

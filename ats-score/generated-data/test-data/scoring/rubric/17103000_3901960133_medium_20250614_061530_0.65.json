@@ -1,0 +1,51 @@
+{
+    "resume_id": "17103000",
+    "jd_id": "3901960133",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.55,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the job requirements."
+        },
+        "education": {
+            "score": 0.525,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Science (exact)'] | (LLM 0.5): The candidate holds a Master's degree in Business Administration and a Bachelor's degree in Electrical Engineering, which are relevant fields for the job. However, the lack of specific years and GPA values reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 23.7 yrs (capped to 23.7), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in engineering management and systems engineering, which closely matches the required experience level and responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and assess."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including being a technical lead engineer and managing a team of engineers. This aligns well with the job requirements for leadership."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, particularly in terms of technical leadership, project management, and engineering execution. However, there is no direct mention of leading a program chief engineer."
+        },
+        "skills": {
+            "score": 0.616,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched skills: ['Engineering (exact)', 'Hardware design (substring)', 'Secret Security Clearance (substring)'] | (LLM 0.4): The candidate has extensive experience in engineering roles, including leadership positions, which aligns well with the job requirements. The skills listed are relevant to the position."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as technical integrity, engineering execution, and customer engagement, which are relevant to the job. However, there is no explicit mention of senior leadership interaction or rapid development environment."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office, which are mentioned in the job description. However, there is no explicit mention of proficiency with Adobe Creative Suite, Facebook, Salesforce, or other tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like risk analysis, process improvement, and conflict management are transferable to the job, but there is no explicit mention of high volume factory production or part obsolescence mitigation."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.647
+}

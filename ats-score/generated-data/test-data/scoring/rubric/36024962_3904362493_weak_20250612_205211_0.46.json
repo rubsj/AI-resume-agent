@@ -1,0 +1,51 @@
+{
+    "resume_id": "36024962",
+    "jd_id": "3904362493",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.667,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, while the job description does not explicitly require any certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two Bachelor of Science degrees in Accounting and Business Administration, which aligns with the preferred degree requirements in the job description. However, the lack of GPA information may be seen as a minor drawback."
+        },
+        "experience": {
+            "score": 0.575,
+            "reason": "(Rule 0.5): Resume: 0.9 yrs (capped to 0.9), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience as a General Accountant and Staff Accountant, which matches the required experience level. However, the lack of detail in the current position description might slightly reduce the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership roles or responsibilities, whereas the job description mentions leadership skills as a requirement."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the responsibilities listed in the job description, such as managing accounting operations, preparing financial statements, and maintaining confidentiality. However, there is no direct mention of responsibilities related to ERP systems or month-end closings."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has listed skills that match the required skills in the job description, such as 'accounting', 'AP', 'AR', 'balance sheet', 'Finance', and 'financials'. However, there is no mention of specific tools like 'ERP system' or 'Infor LN Manufacturing' which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as'strong organizational skills', 'efficient time management', and 'demonstrated ability to work in a dynamic environment', match the soft skills required in the job description. There is no direct mention of self-starter or detailed work, which could be considered as a slight mismatch."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate lists proficiency in QuickBooks, Intacct, Financial statement reporting, Excel, and Word, but the job description requires specific tools like 'ERP system', 'Infor LN Manufacturing', and 'OneStream'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'accounting', 'AP', 'AR', 'balance sheet', and 'Finance', which are relevant to the job description. However, the lack of specific technical skills like 'ERP system' or 'Infor LN Manufacturing' reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.457
+}

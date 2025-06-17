@@ -1,0 +1,51 @@
+{
+    "resume_id": "24643412",
+    "jd_id": "3904951326",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.404,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No specific certifications mentioned in the resume match the job description's required certifications."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Computer Science from a reputable university, which matches the job description's preferred degree requirement."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 35.5 yrs (capped to 35.5), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that involve programming, software development, and systems analysis, but the job description requires more senior-level experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not highlight any leadership roles or achievements that would indicate the candidate's ability to lead teams or projects."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines responsibilities related to cloud solutions, high-level architecture, and data strategy, which are not reflected in the candidate's resume."
+        },
+        "skills": {
+            "score": 0.335,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['SQL (exact)'] | (LLM 0.4): The candidate has a Master's degree in Computer Science and extensive experience in programming languages such as SQL, HTML, ASP, Mysql, PHP,.net, Ajax, C#, and others, which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description mentions soft skills such as analytical products offered as a service and industry trends, which are not evident in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.12,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 2, 'fuzzy': 0}. Matched: ['DBA (substring)', 'SQL (exact)', 'API (substring)'] | (LLM 0.4): No mention of tools or technologies used in the resume that match the job description's required tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like problem-solving, communication, and project management, which are generally applicable across different roles."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.347
+}

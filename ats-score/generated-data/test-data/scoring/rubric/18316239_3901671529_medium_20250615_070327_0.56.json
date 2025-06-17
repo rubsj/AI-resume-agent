@@ -1,0 +1,51 @@
+{
+    "resume_id": "18316239",
+    "jd_id": "3901671529",
+    "domain": "HR",
+    "resume_jd_similarity": 0.643,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a PHR certification, which is relevant to the job description. However, it lacks details about when it was issued."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an Associate of Applied Science degree in Business Administration, which is less than the required Bachelor's Degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as an HR Generalist, HR Representative, and HR Assistant. However, the lack of specific dates and details may affect the assessment."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, but there are missing details in the resume."
+        },
+        "skills": {
+            "score": 0.619,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'Training (exact)', 'Safety (exact)'] | (LLM 0.4): The candidate has relevant skills such as HR, manufacturing, training, safety, quality, reliability, SQR, corporate strategy, respect, honesty, integrity, diversity, inclusion, and safety of others. However, there are some discrepancies in the skills listed compared to the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has soft skills such as communication, compliance, continuous improvement, union awareness, cultural sensitivity, cost management, employment law, recruiting, staffing, succession planning, mentoring, career development, training, orientation, compensation, benefits, complaint resolution, dispute management, grievance handling, data management, file management, regulatory compliance, food safety, quality assurance, SQF 2000 Systems, and Kroger Manufacturing Food Safety and Quality Principles. However, some details are missing."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as project management, recruitment, and managing. However, these skills are not as detailed as those in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.563
+}

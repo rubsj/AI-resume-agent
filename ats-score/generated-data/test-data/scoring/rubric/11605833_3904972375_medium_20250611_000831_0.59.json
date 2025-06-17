@@ -1,0 +1,51 @@
+{
+    "resume_id": "11605833",
+    "jd_id": "3904972375",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.68,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications such as 'Certified Computer Technician' and 'Certified Medical Supply Technician'. While these certifications are relevant, they do not directly match the specific certifications listed in the job description such as CPR/BLS, EMT certification, CNA certification, Hyperbaric Technologies exam, Telemetry Monitor Observer course."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Bachelors of Science and Business degree in Health Care Management. This education aligns with the healthcare domain but lacks specific details about the institution and GPA which could be more relevant for the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.4 yrs (capped to 15.4), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in various roles within the healthcare sector, including managing patient services, IT support, and medical equipment management. This experience closely matches the responsibilities and skills required by the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The formatting and structure are clear and easy to read, enhancing the readability and professionalism of the document."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly mention leadership roles or responsibilities in their resume. Leadership is not a critical requirement for the job description, so the score reflects the absence of relevant information."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities listed in the job description, such as providing physical and clerical support, coordinating activities, and contributing to unit operations."
+        },
+        "skills": {
+            "score": 0.608,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'accounting', 'business — case', 'charts', 'hardware', 'configuration management', 'counseling', 'client', 'documentation', 'financial statements', 'graphs', 'information systems', 'information technology','market analysis','materials', 'office', 'Monitors', 'network', 'operating systems', 'peripherals', 'policies', 'publications','staffing', 'telephone', 'troubleshooting'. These skills align well with the required skills of the job description including 'information technology' and 'engineering'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions being customer service oriented, reliable, flexible, and having a security clearance. These soft skills are aligned with the soft skills required by the job description such as effective communication and professionalism."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Microsoft Word and Excel, which are mentioned in the job description under 'tools and technologies'. However, there is no explicit mention of other tools such as CPR/BLS, EMT certification, etc., which are also required."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like accounting, business — case, and financial statements can be transferred to the role, but the lack of specific technical skills like CPR/BLS or EMT certification reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.592
+}

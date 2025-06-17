@@ -1,0 +1,51 @@
+{
+    "resume_id": "15602094",
+    "jd_id": "3904951326",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.527,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description mentions specific certifications that are preferred."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is listed as current and incomplete, which does not meet the requirement of a Bachelor's or College Degree in the specified fields."
+        },
+        "experience": {
+            "score": 0.925,
+            "reason": "(Rule 0.5): Resume: 32.8 yrs (capped to 32.8), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in IT consultancy and software development, which matches the job responsibilities. The detailed descriptions of past roles provide evidence of skills such as database design, web development, and project management."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight any leadership roles or achievements that would indicate suitability for a senior leadership position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not explicitly state any responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in IT consultancy and software development, which aligns well with the required skills in business development and sales. However, there is no mention of specific tools like AWS, Google Cloud Platform, Azure, etc., which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks explicit soft skills statements, which are crucial for senior-level positions."
+        },
+        "tools": {
+            "score": 0.06,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 3}. Matched: ['DBA (fuzzy)', 'TOGAF (fuzzy)', 'CISSP (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their experience, which contrasts with the job description's mention of AWS, Google Cloud Platform, Azure, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as problem-solving, communication, and leadership, which are essential for a senior cloud solutions lead position. However, these skills are not as prominently featured as those in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.311
+}

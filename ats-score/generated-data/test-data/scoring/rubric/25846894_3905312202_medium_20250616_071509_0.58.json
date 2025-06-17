@@ -1,0 +1,51 @@
+{
+    "resume_id": "25846894",
+    "jd_id": "3905312202",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.437,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Accounting & Finance, which is relevant to the job description's inferred domain of finance. However, the GPA is not provided, which could be a factor in assessing educational qualifications."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 20 years of experience in various accounting roles, including positions that align with the job responsibilities such as managing relationships and loan portfolios. This experience directly matches the required experience years and responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-structured and free of grammatical errors, making it easy to read and understand. The summary is concise and highlights relevant experience and skills."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume, which contrasts with the job description's requirement for leadership."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing relationships, analyzing financial data, and providing guidance to customers, which aligns with the job responsibilities listed in the job description. However, there is no direct mention of managing credit quality or credit risk."
+        },
+        "skills": {
+            "score": 0.72,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Sales (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, aligning closely with the required skills of finance and sales. The skills section also lists proficiency in various accounting tools and technologies, which matches the job description's requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section lists strong soft skills such as analytical, problem-solving, and communication abilities, which are aligned with the soft skills required in the job description. However, there is no explicit mention of teamwork."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's skills section mentions proficiency in tools like Excel, QuickBooks, and PeopleSoft, which are aligned with the tools and technologies required in the job description. However, there is no explicit mention of credit risk management or customer relationship management tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section lists a variety of transferable skills such as account reconciliation, financial management, and customer service, which are relevant to the job responsibilities. However, there is no explicit mention of sales skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.58
+}

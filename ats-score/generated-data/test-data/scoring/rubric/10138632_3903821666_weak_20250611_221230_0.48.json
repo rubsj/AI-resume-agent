@@ -1,0 +1,51 @@
+{
+    "resume_id": "10138632",
+    "jd_id": "3903821666",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.671,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume only lists a high school diploma, which does not meet the preferred degree requirement of a Bachelor's degree in engineering or related field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.3 yrs (capped to 20.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in Sales Management, which is relevant to the job description. However, the detailed job responsibilities do not match exactly, and the experience is not as recent as the required experience of 5 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in directing staff, training, and performance evaluations, which indicates leadership skills. However, the resume does not provide enough detail on leadership roles or achievements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like managing sales processes and meeting revenue targets, which align with the job description. However, the detailed job responsibilities are not fully matched, and the experience is not as recent as the required experience of 5 years."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant experience in Sales and Marketing, which aligns with the job requirements. However, there is no mention of Business Development skills, which are preferred."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like Critical Thinking, Negotiation, Persuasion, and Sales, which are aligned with the soft skills required. However, the resume lacks detail on strategic thinking, creativity, self-starting, organization, time management, urgency, verbal communication, written communication, and relationship-building."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions 'Consultative selling techniques', but the resume does not indicate proficiency or use of these techniques."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills in Computers and Electronics, Administration and Management, and Critical Thinking, which can be considered transferable. However, the resume lacks detail on Business Development, Strategic Thinking, Creativity, Self-Starting, Organization, Time Management, Urgency, Verbal Communication, Written Communication, and Relationship-Building."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.483
+}

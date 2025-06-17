@@ -1,0 +1,51 @@
+{
+    "resume_id": "25315791",
+    "jd_id": "3902763185",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.554,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the requirements of the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The highest degree listed is a High School Diploma, which is significantly lower than the preferred MBA degree."
+        },
+        "experience": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Resume: 3.9 yrs (capped to 3.9), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in sales and customer service roles, which aligns well with the job responsibilities. However, the total experience is less than the required 6 years."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on specific responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in sales, customer service, and basic tools like calculators and cash registers, but lacks advanced technology skills required for the role."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions some soft skills like communication and teamwork, but lacks detail on leadership, strategic planning, and other critical soft skills required for the role."
+        },
+        "tools": {
+            "score": 0.132,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Excel (substring)', 'Salesforce (fuzzy)'] | (LLM 0.4): The resume does not mention any proficiency in tools like Excel, Tableau, Salesforce, CRM, or Tableau, which are required for the role."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in sales, customer service, and basic tools, but lacks advanced skills in data analysis, campaign management, and project management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.35
+}

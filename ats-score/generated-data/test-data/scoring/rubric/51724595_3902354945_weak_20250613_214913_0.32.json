@@ -1,0 +1,51 @@
+{
+    "resume_id": "51724595",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.591,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned that align with the job description's required certifications."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education does not align with the job description's requirements for a degree in management consulting or engineering."
+        },
+        "experience": {
+            "score": 0.765,
+            "reason": "(Rule 0.5): Resume: 9.3 yrs (capped to 9.3), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in systems integration and project management, but the details provided do not fully match the job responsibilities listed."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership experience is not clearly stated in the resume, making it difficult to assess how well the candidate can lead multiple efforts simultaneously."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not cover all the responsibilities listed in the job description, particularly those related to project planning, budgeting, and oversight."
+        },
+        "skills": {
+            "score": 0.448,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)'] | (LLM 0.4): The candidate has relevant skills such as CRM, Siebel, and Oracle, which match the job requirements. However, there is a lack of detail in the skills section."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the candidate's resume, which are crucial for project management roles."
+        },
+        "tools": {
+            "score": 0.073,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Cloud applications (fuzzy)', 'Salesforce (substring)'] | (LLM 0.4): The candidate does not mention proficiency in tools like ERP, Cloud applications, Network, Security, Microsoft Office, Adobe Creative Suite, Facebook, or Salesforce, which are required for the role."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There are no transferable skills mentioned that could be directly applied to the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.315
+}

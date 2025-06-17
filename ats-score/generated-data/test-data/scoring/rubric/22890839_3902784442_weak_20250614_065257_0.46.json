@@ -1,0 +1,51 @@
+{
+    "resume_id": "22890839",
+    "jd_id": "3902784442",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.482,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate possesses certifications such as CompTIA Linux+/LPIC-1 and CCNA, which align with the required skills but lacks specific certifications mentioned in the job description like AWS tools and services."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section is incomplete and does not provide details about degree, field, institution, year, or GPA."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.8 yrs (capped to 12.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in corporate engineering support and help desk support, which matches the job responsibilities. However, the education details are missing."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities in terms of remote support and troubleshooting, but lacks detail on full-stack development tools and technologies."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has a strong set of skills relevant to the job description, including proficiency in various operating systems, software installation, and networking knowledge."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The soft skills section is empty, and there is no mention of any soft skills that match the job description."
+        },
+        "tools": {
+            "score": 0.373,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Python (exact)', 'Go (substring)'] | (LLM 0.4): The candidate's skills include proficiency in tools like Bash, Python, and networking knowledge, which aligns with the job description's required skills. However, it lacks specific tools like AWS tools and services."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as problem-solving, collaboration, and technical support, which are relevant to the job responsibilities. However, the lack of specific soft skills reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.457
+}

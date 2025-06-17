@@ -1,0 +1,51 @@
+{
+    "resume_id": "28867567",
+    "jd_id": "3901981100",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.683,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's mention of 'proven experience in sales, account management, or a related field'."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a BS in Hospitality & Business Management, which is relevant to the job description's inferred domain of sales but lacks specific details about the GPA."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.5 yrs (capped to 15.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales roles, including Sales Representative, Beverage Manager, Merchaniser, and Sales Associate, which aligns with the job description's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free from grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as a Beverage Manager indicates some leadership skills, but there is no explicit mention of leadership in the resume."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as sales management, account management, and customer relationship building, which align with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Relationship selling, Territory sales, Sales closing, Product management and pricing, etc., which match the job description's required skills of Business Development and Sales."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like effective communication, negotiation, and interpersonal skills, which are mentioned in the job description's soft skills section."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions proficiency in tools like Microsoft Windows, Excel spreadsheets using VLOOKUP and pivot tables, and Retailer portals, but the resume does not explicitly state these skills."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include working collaboratively, organizational and people skills, which are relevant to the job description's soft skills section."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.553
+}

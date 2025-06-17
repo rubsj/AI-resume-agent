@@ -1,0 +1,51 @@
+{
+    "resume_id": "95429627",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.522,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a CPA certification, which is relevant but not directly aligned with the job description's technical skillset."
+        },
+        "education": {
+            "score": 0.355,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Business (exact)'] | (LLM 0.5): The candidate has a Master's degree in Business Administration and a Bachelor's degree in Accounting, which are relevant to the job description's requirement for a bachelor's or college degree in computer science or related fields."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 22.5 yrs (capped to 22.5), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has over 22 years of experience, which exceeds the minimum required experience of 12 years. The experience includes roles that involve consulting, data management, and system integration, which align with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): While the candidate has experience managing teams and departments, there is no specific mention of leadership skills or achievements in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows involvement in tasks like designing data warehouses, leading architecture and design, and building data solutions, which align with the job responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.33,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['SQL (exact)'] | (LLM 0.4): The candidate has a strong set of technical skills relevant to the job, including proficiency in various programming languages and tools like SQL, XML, and MVC, which align well with the required and preferred skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions strong problem-solving skills and customer relations, which are relevant soft skills. However, there is no explicit mention of leadership abilities in the resume."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Python (exact)', 'HBase (fuzzy)'] | (LLM 0.4): The candidate's experience with tools like AWS, Python, Snowflake, Hadoop, Hive, Spark, and HBase matches some of the tools listed in the job description's 'tools_and_technologies' section."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing teams, integrating systems, and automating processes demonstrates transferable skills that could be valuable in a senior cloud solutions lead role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.49
+}

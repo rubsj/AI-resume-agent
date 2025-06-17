@@ -1,0 +1,51 @@
+{
+    "resume_id": "37997506",
+    "jd_id": "3902786618",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not mention any certifications, while the job description mentions CPA as an optional skill. However, the candidate's lack of certification does not necessarily disqualify them given their experience."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA and a B.A. in Accounting, which aligns with the job description's preferred degree requirement of a Bachelor's degree in Accounting. However, the specific institutions and GPAs are not provided, which could be a point of concern."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 7.6 yrs (capped to 7.6), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including experience in financial reporting, budgeting, and financial analysis, which matches the job description's required experience and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand. However, there are minor inconsistencies in formatting and missing details that could affect clarity."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are not explicitly mentioned in the job description but could be important for certain roles."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles match some of the job description's responsibilities, such as performing month-end close processes and preparing financial reports. However, there is no direct mention of conducting accounting research or interacting with auditors, which are mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.385,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)', 'Financial reporting (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the job description's required skills. The resume includes proficiency in GAAP, GASB, IFRS, and automated systems like QuickBooks, Sun system, and Peachtree Accounting, which are mentioned as required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in organization, prioritization, attention to detail, and problem-solving align with the soft skills mentioned in the job description. However, there is no explicit mention of analytical or research skills, which are also mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience with accounting software like QuickBooks, Sun system, and Peachtree Accounting aligns with the job description's requirement for proficiency in Microsoft Office Suite tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting systems, accounts payable, accounts receivable, and financial reporting align with the job description's required skills. However, there is no explicit mention of public accounting experience or SAP experience, which are mentioned as optional skills in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.477
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "34198885",
+    "jd_id": "3904362397",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.433,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, which contrasts with the requirement for 'Financial Services Experience' in the soft skills section of the job description."
+        },
+        "education": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Master of Professional Accountancy and a Bachelor of Business Administration in Accounting, both from Texas A&M International University. This education aligns closely with the required degree level and field of study."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 18.9 yrs (capped to 18.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 18 years of experience in various accounting roles, which is close to the required minimum of 5 years but does not explicitly mention leadership or strategic thinking, which are part of the soft skills section of the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is professionally formatted and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership skills or experience, which is a critical component of the job description's responsibilities section."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like leading initiatives, liaising with partners, and driving automation projects, which aligns with some of the responsibilities listed in the job description. However, there is no explicit mention of leading complex initiatives with broad impact or defining automation strategy."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has experience with multiple accounting software tools relevant to the job description, including Sage MAS 200 ERP, Peachtree Complete Accounting, QuickBooks Pro, and Profitool. This aligns well with the required skills for the Automation Lead Business Execution Consultant position."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention 'Influencing Skills', 'Strategic Thinking and Implementation', or 'Financial Services Experience', which are part of the soft skills section of the job description."
+        },
+        "tools": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's skills section mentions proficiency in Microsoft Office Accounting Software, which is relevant to the tools and technologies section of the job description. However, it lacks specific mention of BPM and Digital Transformation tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various accounting roles demonstrates transferable skills such as time management, analytical reasoning, and detail orientation, which are beneficial for the role. However, there is no explicit mention of influencing skills or strategic implementation."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.725
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "29928796",
+    "jd_id": "3885826857",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.431,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires 'A+ Certification'."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is not detailed enough to compare with the job description requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 11.8 yrs (capped to 11.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant work experience in sales roles, which aligns with the job description's requirement for experience in a retail environment. However, the job description focuses on technical skills and troubleshooting, which are not directly reflected in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not explicitly mention leadership, and the candidate's resume does not highlight any leadership roles or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines responsibilities related to hardware and software troubleshooting, installation, and customer service, which do not match the candidate's experience."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Attentive to small details', 'Very calm under pressure but not to leisured to resolve the problem', 'Positive influence', and 'Dependable'. However, there is no direct match with the required skills listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as 'Good customer service skills' and 'Strong communication skills', align well with the job description's requirements for good customer service and strong communication."
+        },
+        "tools": {
+            "score": 0.21,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['A+ (substring)'] | (LLM 0.4): The job description mentions specific tools like 'A+' and 'Net+', but the candidate's resume does not mention any related tools or technologies."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like attention to detail and leadership, which could be beneficial in a manufacturing environment. However, these skills are not directly aligned with the job description's focus on technical skills and hardware/software troubleshooting."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

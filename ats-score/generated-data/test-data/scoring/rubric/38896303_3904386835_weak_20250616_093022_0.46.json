@@ -1,0 +1,51 @@
+{
+    "resume_id": "38896303",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.5,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds several Apple certifications relevant to IT support and network administration, but lacks certifications in cloud solutions or specific technologies mentioned in the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in Psychology, which does not directly align with the required degrees in computer science, engineering, or related fields."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.8 yrs (capped to 18.8), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has over 18 years of experience in IT support and network administration, which significantly exceeds the required minimum experience of 12 years. The detailed descriptions of past roles show a strong background in managing networks, troubleshooting, and supporting various technologies."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate uses clear and concise language throughout the document."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates leadership through roles such as IT Director and General Manager, which aligns with the leadership requirement. However, there is no explicit mention of motivating others."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not explicitly match the job responsibilities listed in the job description, such as leading analytics data or designing data solutions optimized for modern platforms."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in IT support and network administration, which aligns well with the required skills in information technology and consulting. However, there is no direct mention of cloud solutions or specific tools like AWS, GCP, or Azure."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong leadership abilities, which aligns with the soft skill requirement. However, there is no explicit mention of motivation abilities."
+        },
+        "tools": {
+            "score": 0.214,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Hive (substring)', 'HBase (fuzzy)'] | (LLM 0.4): The candidate's experience includes some tools like Filemaker, but lacks direct experience with AWS, GCP, or Azure, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as problem-solving, customer service, and technical support, which are valuable in any IT role. However, they lack specific skills related to cloud solutions and advanced data management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.464
+}

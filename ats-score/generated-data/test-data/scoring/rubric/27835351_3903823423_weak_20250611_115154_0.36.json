@@ -1,0 +1,51 @@
+{
+    "resume_id": "27835351",
+    "jd_id": "3903823423",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.654,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed match the job description's requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest education is a High School Diploma, which does not meet the preferred degree requirement of an Associate's Degree in Engineering, Business Administration, or related field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 10.4 yrs (capped to 10.4), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in Maintenance, Home Construction, and RV Technician roles, which align with the job description's responsibilities. However, the total experience is less than the required 4 years."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate leadership experience or skills that would make them suitable for a Maintenance Supervisor role."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job description's detailed list of responsibilities for a Maintenance Supervisor."
+        },
+        "skills": {
+            "score": 0.327,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Safety (substring)'] | (LLM 0.4): The candidate has relevant skills in Mechanical Repair, Troubleshooting, and Power and Hand Tool Use, which align well with the job description's required skills in Management and Manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills that are essential for leadership and management positions, such as Team Leadership, Resourcefulness, and Effective Communication."
+        },
+        "tools": {
+            "score": 0.175,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 1, 'fuzzy': 2}. Matched: ['Blow Molding (fuzzy)', 'Preventative Maintenance Systems (fuzzy)', 'Equipment (exact)', 'Materials (exact)', 'Safety Standards (substring)'] | (LLM 0.4): No specific tools or technologies used by the candidate are mentioned, which contrasts with the job description's requirement for knowledge of Injection Molding, Blow Molding, Packaging Equipment, and Preventative Maintenance Systems."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like Problem Solving, Time Management, and Technical Knowledge, which can be applied in various roles including Maintenance Supervisor."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.357
+}

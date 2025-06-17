@@ -1,0 +1,51 @@
+{
+    "resume_id": "63145386",
+    "jd_id": "3902364144",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.666,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description requires a Bachelor's Degree in Construction Project Management, Architecture, Engineering, or related field."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Finance, which is not directly aligned with the required degree in Construction Project Management, Architecture, or Engineering."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 13.1 yrs (capped to 13.1), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction project management, which matches the job requirements. The experience includes managing multiple projects, budgets, and teams, demonstrating proficiency in project control and financial management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary statement is clear and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership skills or experience, although experience in managing multiple projects and teams could imply leadership qualities."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, such as managing projects, budgets, and teams. However, there is no direct mention of responsibilities related to datacenter design or IT infrastructure."
+        },
+        "skills": {
+            "score": 0.33,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Controls (fuzzy)'] | (LLM 0.4): The candidate has relevant skills in project management, accounting, and construction, which align with the job requirements. However, there is no mention of specific software tools like Microsoft Cloud or Datacenter engineering."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like efficiency in cost management, collaboration, and accountability, which are important for the role. However, there is no explicit mention of safety management or client relationship management."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with software tools like Microsoft Office applications, but lacks specific knowledge of Microsoft Cloud tools or Datacenter engineering software."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in project management, accounting, and construction, which could be beneficial in the new role. However, there is no mention of specific skills related to datacenter operations or IT infrastructure."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.505
+}

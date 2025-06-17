@@ -1,0 +1,51 @@
+{
+    "resume_id": "23636277",
+    "jd_id": "3886886429",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.75,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in Commerce and Law, which are beneficial for the position. However, there is no mention of a Bachelor's degree in Accounting, as specified in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 15.4 yrs (capped to 15.4), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in various accounting roles, including experience with QuickBooks, SAP, and other accounting software, which matches the job requirements. The experience is detailed and relevant to the position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate has used appropriate terminology and formatting consistent with professional standards."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and coordinating with departments, which indicates some level of leadership. However, there is no explicit mention of leadership responsibilities or achievements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, such as reviewing and recording transactions, generating financial reports, and assisting with month-end close. However, there is no explicit mention of cross-training for payroll or software implementation."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting, auditing, and financial analysis, aligning closely with the required skills. They have also demonstrated proficiency in Microsoft Excel and QuickBooks, which are mentioned as tools in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as attention to detail, strong communication, and teamwork, match the soft skills required by the job description. However, there is no explicit mention of ethics or integrity, which are mentioned as soft skills in the job description."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Excel and QuickBooks, which are mentioned as tools in the job description. However, they do not mention specific experience with Bullhorn and Sage Intacct, which are also listed as preferred tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as bookkeeping, financial reporting, and tax preparation, which are relevant to the job description. However, there is no explicit mention of specific technical skills like GAAP knowledge or regulatory compliance."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.58
+}

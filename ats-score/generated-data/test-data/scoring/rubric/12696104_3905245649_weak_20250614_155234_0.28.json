@@ -1,0 +1,51 @@
+{
+    "resume_id": "12696104",
+    "jd_id": "3905245649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.498,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires 'CIC', 'CRM', 'CPCU', or 'ARM' certifications."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only a High School Diploma and is currently enrolled in a culinary program, which does not align with the job description's requirement for a Bachelor's degree in Business Administration or related fields."
+        },
+        "experience": {
+            "score": 0.46,
+            "reason": "(Rule 0.5): Resume: 3.2 yrs (capped to 3.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant work experience in sales roles, but the job description requires at least 10 years of experience, which is significantly more than what the candidate has."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate any leadership experience or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information about past responsibilities that align with the job description's responsibilities such as collaborating with senior leaders, contributing to strategic planning, or providing leadership and mentorship."
+        },
+        "skills": {
+            "score": 0.526,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Management (exact)', 'Communication (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'Good at communicating and interacting with customers', 'Good time management', 'Self-motivation', and 'Good adaptability'. However, there is no mention of specific management or sales skills required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions self-motivation and good communication skills, which are aligned with some of the soft skills required by the job description. However, the candidate lacks other essential soft skills like strategic thinking, analytical skills, and leadership."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have any experience with the tools mentioned in the job description such as CRM tools or Blueprint."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills are somewhat transferable to the role, but they lack the depth and breadth required for a Regional Sales Leader position."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.276
+}

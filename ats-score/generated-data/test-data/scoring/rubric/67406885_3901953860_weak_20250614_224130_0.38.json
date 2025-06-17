@@ -1,0 +1,51 @@
+{
+    "resume_id": "67406885",
+    "jd_id": "3901953860",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.418,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications mentioned in the candidate's resume match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate's education does not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.3 yrs (capped to 14.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in 'Engineering Consultant', 'Staff Production Engineer', and 'Senior Drilling Engineer' roles which align with the job responsibilities requiring sales team leadership and account management."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is grammatically clean and professionally formatted."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experiences that align with the job responsibilities requiring leadership."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.336,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has skills in 'acquisitions', 'billing', 'clients', 'Explorer', 'Win', 'PHD', 'progress','record keeping', 'routing' which align with the required skills of 'Consulting', 'Management', 'Manufacturing'. However, there is no direct match with 'Manufacturing' skill."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are explicitly mentioned in the job description such as 'Exceptional client management', 'Financial acumen', 'High emotional intelligence', 'Ability to navigate complex interpersonal dynamics', and 'Proven ability to work in matrix enterprise structure'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, which are listed as required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes transferable skills like 'acquisitions', 'billing', 'clients', 'Explorer', 'Win', 'PHD', 'progress','record keeping', 'routing' which could potentially be useful in the role but do not directly match the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.378
+}

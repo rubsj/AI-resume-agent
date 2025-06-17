@@ -1,0 +1,51 @@
+{
+    "resume_id": "86828820",
+    "jd_id": "3901638144",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.657,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, and the job description requires Six Sigma certification, which is not provided."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's and Bachelor's degree in Mechanical Engineering, which matches the educational background expected for the job. However, the exact years of graduation are not specified."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 23.8 yrs (capped to 23.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 23 years of experience in various engineering roles, including management, design, and manufacturing, which closely matches the job description's requirement for at least 2 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, despite the job description mentioning the need for someone who can establish continuous improvement goals and lead cross-functional teams."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job description's expectations, such as managing manufacturing processes, supporting sales, and working on product development. However, there is no direct mention of responsibilities related to continuous improvement goals or utilizing lean manufacturing abilities."
+        },
+        "skills": {
+            "score": 0.72,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Manufacturing (exact)'] | (LLM 0.4): The candidate has extensive experience in engineering, manufacturing, and design, aligning closely with the job description's requirements. The resume includes specific skills like CAD, 3D modeling, and lean manufacturing techniques, which are directly relevant to the job."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks explicit soft skills statements, which are crucial for the job description's requirements, such as leadership, teamwork, and communication."
+        },
+        "tools": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's skills include proficiency in tools like AutoCAD, Solid Edge, and Microsoft Navision, which are relevant to the job description. However, the resume does not explicitly mention any tool-specific certifications or advanced usage."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like problem-solving, attention to detail, and adaptability, which are essential for the job. However, the resume could benefit from more detailed examples of how these skills have been applied in past roles."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.571
+}

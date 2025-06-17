@@ -1,0 +1,51 @@
+{
+    "resume_id": "19928941",
+    "jd_id": "3902920283",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.401,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, which are not required for the job."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education is in Operations and Supply Chain Management, which does not directly align with the required degree of 'Manufacturing'."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 14.3 yrs (capped to 14.3), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in sales and construction, which aligns with some responsibilities but lacks specific experience in manufacturing processes or supervision."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are not explicitly mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes roles that could contribute to some responsibilities like training, troubleshooting, and support, but lacks specific experience in maintaining plant machinery or ensuring safety standards."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has skills in 'Decision Making', 'inventory', 'layout','machinery', 'Marketing', 'Materials Management', 'Negotiation', 'Project Plans', and 'Sales', which align well with the required skills of 'Management' and 'Manufacturing'. However, there is no direct match with 'Technical information reading', 'Shop blueprints and drawings', 'Advanced shop mathematics', 'Geometry', 'Machine tool design', 'Set-ups', 'Tool life', 'Machine-ability', 'Production equipment', 'Communication', 'Multiple priorities management', and 'Attention to detail'."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists skills in 'Decision Making', 'inventory', 'layout','machinery', 'Marketing', 'Materials Management', 'Negotiation', 'Project Plans', and 'Sales', which align with soft skills like Communication, Attention to detail, and Multiple priorities management. However, there is no explicit mention of these soft skills in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any tools or technologies used, which contrasts with the required knowledge of PC usage, Technical information reading, Shop blueprints and drawings, Advanced shop mathematics, Geometry, Machine tool design, Set-ups, Tool life, Machine-ability, Production equipment, Communication, Multiple priorities management, and Attention to detail."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Decision Making', 'inventory', 'layout','machinery', 'Marketing', 'Materials Management', 'Negotiation', 'Project Plans', and 'Sales' can be transferred to the role, but lack specific manufacturing or technical skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.471
+}

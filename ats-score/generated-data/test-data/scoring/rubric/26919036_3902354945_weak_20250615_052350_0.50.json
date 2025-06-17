@@ -1,0 +1,51 @@
+{
+    "resume_id": "26919036",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.529,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the job description's requirement for PMP."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): Bachelor of Arts degree in Communications is relevant but lacks specific details like GPA or graduation year."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 20.3 yrs (capped to 20.3), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in various roles that directly relate to project management, account management, and process improvement."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written, with clear sections and bullet points, but some sections lack detail or contain placeholders like commas instead of years."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through supervisor roles, but there is no explicit mention of leadership skills or achievements."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's requirements for defining business cases, managing project budgets, and overseeing project work."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Account Management, Process Improvement, and Sales, which align well with the job description's requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Leadership, Negotiation, and Communication are present but could be more detailed to match the job description's emphasis on soft skills."
+        },
+        "tools": {
+            "score": 0.026,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Network (fuzzy)'] | (LLM 0.4): No tools or technologies used are explicitly mentioned, and the job description requires knowledge of ERP, Cloud applications, Network, Security, etc."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Problem Solving and Team Building are mentioned but lack specific examples or context to fully align with the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.498
+}

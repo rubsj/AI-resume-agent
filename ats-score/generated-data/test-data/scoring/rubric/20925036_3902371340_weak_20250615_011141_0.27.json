@@ -1,0 +1,51 @@
+{
+    "resume_id": "20925036",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.435,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Science in Human Resource Management from Cardiff University and an MBA in Human Resource, but the GPA is missing. The Bachelor of Science in Computer Science lacks details."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 5.6 yrs (capped to 5.6), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, including HR Generalist and HR Executive positions. However, the descriptions are brief and lack specific achievements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written, but there are some inconsistencies in the use of commas and periods."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not list any responsibilities that align with the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong background in Human Resources and relevant skills such as Recruitment, Payroll Processing, and Employee Engagement. However, there is a lack of detail in the summary and some skills are listed twice."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.022,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP System (fuzzy)'] | (LLM 0.4): No tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not highlight any transferable skills that could be beneficial for the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.27
+}

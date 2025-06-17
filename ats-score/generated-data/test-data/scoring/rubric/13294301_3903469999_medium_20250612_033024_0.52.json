@@ -1,0 +1,51 @@
+{
+    "resume_id": "13294301",
+    "jd_id": "3903469999",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.717,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not list any certifications, while the job description prefers candidates with a Bachelor's degree or a Certified Public Accountant (CPA) certification."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science in Accounting and Finance and an Associate degree in Accounting, which aligns with the minimum education requirement. However, the lack of GPA information may be seen as less favorable."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 12.5 yrs (capped to 12.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that match the job description's requirements, including experience in financial processes, accounting corrections, and governmental report preparation."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in some sections could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are mentioned as optional skills in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's requirements for performing general accounting activities, preparing financial statements, and ensuring the integrity of accounting records. However, there is no explicit mention of experience in budgeting or auditing."
+        },
+        "skills": {
+            "score": 0.472,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Critical thinking skills (substring)'] | (LLM 0.4): The candidate has relevant skills such as Accounting/Auditing, Finance, Critical thinking skills, and Proficient using Microsoft Office, particularly Excel. However, there is no mention of specific certifications like CPA, which might be preferred."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong written and verbal communication skills, attention to detail, and the ability to work under pressure, which are aligned with the soft skills required by the job description. However, there is no explicit mention of leadership skills."
+        },
+        "tools": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Excel (substring)'] | (LLM 0.4): The candidate lists proficiency in Microsoft Office, which matches the tools required by the job description. However, there is no mention of specific experience with Oracle, which is also mentioned as a tool."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in critical thinking, data entry, and superior analytical skills are transferable to the role. However, there is no explicit mention of experience in technical accounting issues or working with accounting systems."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.522
+}

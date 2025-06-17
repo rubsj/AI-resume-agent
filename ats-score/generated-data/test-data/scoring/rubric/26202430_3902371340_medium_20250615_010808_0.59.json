@@ -1,0 +1,51 @@
+{
+    "resume_id": "26202430",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.628,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate possesses a Bachelor's degree but lacks specific certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a BBA degree from Campbell University, which is relevant to the job description's educational requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 8.6 yrs (capped to 8.6), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has a total of 8.6 years of experience, with significant roles in HRIS and Business Analysis, matching the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading projects and teams aligns with the job description's leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job description's responsibilities, particularly in project management and system implementation."
+        },
+        "skills": {
+            "score": 0.616,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'Project Management (substring)'] | (LLM 0.4): The candidate has extensive experience in HRIS, Business Analysis, and Project Management, aligning closely with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership, problem-solving, and communication, are relevant to the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.418,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 2}. Matched: ['HRIS (exact)', 'ERP System (fuzzy)', 'Project management tools (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like SAP HCM, Success Factors, Service Now, Smartsheet, Panaya, and SilkRoad, which are aligned with the job description's tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various HRIS roles provides transferable skills, but there is no explicit mention of the job description's specific tools or technologies."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.587
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "14049846",
+    "jd_id": "3905324989",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.444,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Engineering Management and a Bachelor's degree in Chemical Engineering, which are relevant to the job requirements."
+        },
+        "experience": {
+            "score": 0.317,
+            "reason": "(Rule 0.5): Resume: 0.1 yrs (capped to 0.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience as an Engineering Intern, but the details provided do not fully match the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide any information about responsibilities that align with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Engineering (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Engineering, Information Technology, and specific technical skills like AutoCAD and MS Office, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned in the resume, which are important for the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools used in the resume matches the job description's required tools such as network analyzers, spectrum analyzers, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Quality control, Failure analysis, and Systems Engineering management, which could be beneficial in the job, but they are not as detailed or specific as those required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.312
+}

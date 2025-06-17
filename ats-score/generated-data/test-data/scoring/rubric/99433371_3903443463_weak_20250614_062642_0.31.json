@@ -1,0 +1,51 @@
+{
+    "resume_id": "99433371",
+    "jd_id": "3903443463",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.479,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required 'Professional Engineer (PE) Licensure in Texas'."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BFA in Product Design and a Bachelor of Interior Architecture, but the latter is not specified in terms of degree level or field, which may not meet the minimum requirement of a Bachelor's degree in Civil Engineering."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 20.6 yrs (capped to 20.6), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in administrative duties and some skills that align with the job description, but lacks specific experience in civil engineering or related fields."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No responsibilities listed match the job responsibilities outlined in the description."
+        },
+        "skills": {
+            "score": 0.35,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 2, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Excel (exact)', 'Power Point (fuzzy)', 'Word (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'administrative duties', 'Adobe Photoshop', 'AutoCAD', 'Excel', 'PowerPoint', 'Microsoft Word', 'organizing', which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools like CAD/CAM or Microsoft Office suite, which are required."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Excel', 'PowerPoint', and 'organizing' are transferable to the role, but they do not cover all the required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.313
+}

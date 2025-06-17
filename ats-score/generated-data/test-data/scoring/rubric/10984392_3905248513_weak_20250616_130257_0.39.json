@@ -1,0 +1,51 @@
+{
+    "resume_id": "10984392",
+    "jd_id": "3905248513",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.441,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed in the resume match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: [\"Bachelor's degree in Business, Finance, or related field (fuzzy)\", 'MBA is a plus (fuzzy)'] | (LLM 0.5): The resume does not mention any degrees that match the preferred degrees in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 22.6 yrs (capped to 22.6), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has relevant experience in operations management and process consulting, which aligns with the job responsibilities. However, the total years of experience do not meet the minimum requirement specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume appears to be well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership roles or achievements in the resume that would indicate leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not explicitly state responsibilities that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.325,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched skills: ['Project management (substring)', 'Drive (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Negotiations', 'Strategic thinker', 'Team building', 'Driven', 'Advanced problem solving skills', 'Operations analysis', 'Process development and execution', 'Employee training, support, and development', 'Project management'. These align well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills section mentions skills like 'Analyst', 'idealist', 'goal setter', etc., which are somewhat aligned with the soft skills required in the job description. However, there is no direct match."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not list any tools or technologies used, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Operations analysis', 'Process development and execution', 'Employee training, support, and development', 'Project management' can be considered transferable, but they are not directly stated in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.394
+}

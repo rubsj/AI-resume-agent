@@ -1,0 +1,51 @@
+{
+    "resume_id": "22351830",
+    "jd_id": "3904951326",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.414,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.079,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['SQL (substring)', 'API (exact)'] | (LLM 0.5): No certifications mentioned match the job description's required certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Computer Applications, which is relevant, but the Bachelor's degree in Commerce is less relevant to the job."
+        },
+        "experience": {
+            "score": 0.613,
+            "reason": "(Rule 0.5): Resume: 7.5 yrs (capped to 7.5), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in software development roles, but the job description requires more senior-level experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have responsibilities listed that match the job description's required responsibilities."
+        },
+        "skills": {
+            "score": 0.332,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['SQL (substring)'] | (LLM 0.4): The candidate has relevant skills such as Java, JEE, and ADP, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.085,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['SQL (substring)', 'API (exact)'] | (LLM 0.4): No tools or technologies used by the candidate match the job description's required tools."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No transferable skills are mentioned in the candidate's resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.264
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "22465498",
+    "jd_id": "3904365340",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.41,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that align with the job description's requirements."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume lacks formal education in finance or banking, which is preferred in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 23.6 yrs (capped to 23.6), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting and finance roles, but the job description prefers more years of experience specifically in the financial services industry."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership skills or experiences in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's requirements for responsibilities such as customer service, financial analysis, and compliance. However, there is no mention of specific responsibilities like 'proactively acquiring new customers' or'managing complex client needs'."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Finance', 'Sales', 'Accounting', 'Auditing', 'Reconciling bank statements', and 'Accountant'. However, there is no explicit mention of 'Financial services industry experience' or 'Customer service focus' which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like 'customer services', 'decision-making', and 'communication skills', which are aligned with the soft skills required. However, there is no explicit mention of 'financial services industry experience' or 'customer service focus'."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume that match the job description's requirements."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'accounting system', 'administrative', 'auditing', and'reconciling bank statements' are transferable to the job description's requirements. However, there is no mention of specific skills like 'proactively acquiring new customers' or'managing complex client needs'."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.582
+}

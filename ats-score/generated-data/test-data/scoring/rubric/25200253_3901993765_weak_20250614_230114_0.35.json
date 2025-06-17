@@ -1,0 +1,51 @@
+{
+    "resume_id": "25200253",
+    "jd_id": "3901993765",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.542,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not align with the job requirements, which prefer an MSc degree in Engineering or Information Technology."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 36.5 yrs (capped to 36.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in banking operations and data processing roles, which align with the job responsibilities. However, the total experience is significantly higher than required."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No direct match with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.247,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['SQL (exact)'] | (LLM 0.4): The candidate has relevant skills like 'Account reconciliation', 'Data Entry', and 'Customer Service', which align with the job requirements. However, there is a lack of specific technical skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.21,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['SQL (exact)', 'Tableau (fuzzy)'] | (LLM 0.4): No mention of proficiency in tools like Python, SQL, Tableau, or MDLC best practices, which are preferred skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Customer Service', 'Data Entry', and 'Problem solving' are transferable to the role, but the candidate lacks specific technical skills and certifications."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.353
+}

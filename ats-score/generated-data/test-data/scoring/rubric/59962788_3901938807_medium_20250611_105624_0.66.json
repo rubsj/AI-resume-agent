@@ -1,0 +1,51 @@
+{
+    "resume_id": "59962788",
+    "jd_id": "3901938807",
+    "domain": "HR",
+    "resume_jd_similarity": 0.677,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a relevant certification (CAPM), which is beneficial but not as critical as other skills mentioned in the job description."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Master's degree in Human Resource and a Bachelor's degree in Computer Science Engineering, which aligns well with the job requirements."
+        },
+        "experience": {
+            "score": 0.64,
+            "reason": "(Rule 0.5): Resume: 1.9 yrs (capped to 1.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, including experience with HR systems, employee recruitment, and compensation management, which closely matches the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership experience, which could be crucial for the role of Vice President, HR Technology."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, particularly in managing HRIS systems and providing consultation and support."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills that align with the job requirements, including new employee orientations, compensation and benefits, termination procedures, and project management."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as attention to detail, strong work ethic, flexibility, and comfort interacting with employees, which are important for the role."
+        },
+        "tools": {
+            "score": 0.354,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['HRIS systems (fuzzy)'] | (LLM 0.4): The candidate has proficiency in MS Office, which is listed as a required tool in the job description. However, specific knowledge of HRIS systems like Workday is missing."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles, but there is no direct mention of experience in financial services, banking, or fintech, which is preferred in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.659
+}

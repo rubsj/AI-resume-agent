@@ -1,0 +1,51 @@
+{
+    "resume_id": "28078163",
+    "jd_id": "3902742492",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.449,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which may be a concern given the job description's requirement for an Active TS/SCI Clearance with Polygraph."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds advanced degrees in Computer Science and Electronics and Communication Engineering, which are relevant to the job description. However, the lack of specific GPA information might be seen as a minor drawback."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has significant experience in software engineering management, including leading teams and implementing agile methodologies like Scrum. This directly matches the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. This contributes positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's history of leading teams, implementing agile methodologies, and managing complex projects demonstrates strong leadership abilities, which aligns well with the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing CI within a large-scale enterprise and facilitating Government and contract reviews align with the job description's expectations, though the details provided are more general than those listed in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in software engineering and management, which aligns well with the required skills in the job description. The resume mentions expertise in C++, Windows, STL, OOP, MFC, and other technologies that are relevant to the job."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's emphasis on strong communication and detail-oriented skills matches the job description's requirements for these soft skills."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience with tools like Visual C++, Windows, and others aligns with the job description's mention of MS Product Suite (Word, Excel, SharePoint), but there is no explicit mention of ServiceNow CMDB modules, which is a tool the job description suggests familiarity with."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): While the candidate has a wealth of technical skills and experience, the job description does not explicitly list transferable skills, so it's difficult to assess how well they match the job requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.55
+}

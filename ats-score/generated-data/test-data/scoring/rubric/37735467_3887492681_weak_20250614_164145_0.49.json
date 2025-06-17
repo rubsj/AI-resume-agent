@@ -1,0 +1,51 @@
+{
+    "resume_id": "37735467",
+    "jd_id": "3887492681",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.563,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has completed two degrees, but the GPA is not provided, which makes it difficult to assess the level of education."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 6.2 yrs (capped to 6.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and retail, which aligns with the job requirements. However, the job description requires 3-5 years of experience, and the resume only lists total experience as 6.2 years without specifying the relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities, such as managing day-to-day operations, optimizing processes, and enhancing the customer journey. However, there is no direct mention of responsibilities related to CRO, A/B testing, or web analytics."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills such as Inventory control procedures, Cash handling accuracy, Dispute mediation, Relationship selling, Merchandising knowledge, Sales expertise, Cash register operation, Client account management, Excellent communication skills, Market research and analysis, Product Sales, Retail merchandising expertise. However, there is no mention of specific tools like Shopify or Google Analytics."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as strong analytical skills, proficiency in web analytics tools, excellent communication, and team management skills. These skills are aligned with the job requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as problem-solving, communication, and teamwork, which are essential for the role. However, there is no explicit mention of skills related to CRO, A/B testing, or web analytics."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.493
+}

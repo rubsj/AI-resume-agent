@@ -1,0 +1,51 @@
+{
+    "resume_id": "31602598",
+    "jd_id": "3905247545",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.671,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a CI White Belt Certificate, but the job description requires more specific certifications like U.S. GAAP, CAS, and FAR."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts in Supply Chain Management and an Associate of Arts in Accounting Technology, which are relevant but not as detailed as a degree in Accounting or Finance preferred by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.5 yrs (capped to 13.5), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has over 13 years of experience, which exceeds the required minimum of 8 years, but the job description prefers candidates with public accounting experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are important for a Controller position."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like month-end close, setting up new and updating current SUC's, and fixed asset reconciliations, which align with some of the responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills like SAP Financial-Accounting Module, Lawson/InfoPro, and QuickBooks, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include process-driven, strong internal control environment, adaptable, team player, and effective communicator, which align with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.16,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like SAP FI/CO Module, PB Views/Six Sigma, and Lawson/InfoPro, but lacks experience with Deltek Costpoint ERP system specifically mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like MS Excel, MS Access, and MS PowerPoint are transferable but may not directly match the job's specific tool requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

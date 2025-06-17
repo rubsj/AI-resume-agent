@@ -1,0 +1,51 @@
+{
+    "resume_id": "17823436",
+    "jd_id": "3904059851",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.502,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, while the job description requires an active Series 7 license."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor of Engineering degree in Information Technology from University of Mumbai, which aligns with the job requirements. However, the GPA is missing."
+        },
+        "experience": {
+            "score": 0.775,
+            "reason": "(Rule 0.5): Resume: 5.1 yrs (capped to 5.1), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in software implementation and business analysis, which matches the job responsibilities. The detailed job history provides context and relevance."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, some sections lack detail, which could affect clarity."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which might be required for the role."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job responsibilities, such as supporting customers and managing accounts. However, there is no direct mention of research or updating clients on case status."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as C++, Core Java, and Oracle databases, which match the job requirements. However, there are missing details in the skill section."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks soft skills, which are crucial for the role as indicated in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume, whereas the job description mentions proficiency in various tools and technologies."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like problem-solving and communication, which are beneficial for the role. However, these skills are not explicitly stated."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.519
+}

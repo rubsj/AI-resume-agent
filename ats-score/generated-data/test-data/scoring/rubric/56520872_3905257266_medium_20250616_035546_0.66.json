@@ -1,0 +1,51 @@
+{
+    "resume_id": "56520872",
+    "jd_id": "3905257266",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.454,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has certifications like 'BLS' and 'CNOR', but the latter is incomplete and not specified. The certifications are relevant to the healthcare field but may not directly align with the specific job requirements mentioned."
+        },
+        "education": {
+            "score": 0.825,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [\"Bachelor's Degree (substring)\"] | (LLM 0.5): The candidate holds a Master's Degree in Nursing, a Bachelor's Degree in Nursing, and a Nursing Diploma, all of which are highly relevant to the healthcare industry and the job role requiring a minimum of a Bachelor's Degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.7 yrs (capped to 17.7), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has extensive experience in various nursing roles, including RN, RN Supervisor, RN Case Manager, and Billing Supervisor, which aligns well with the job responsibilities that require sales and business development skills in the healthcare sector."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. This contributes positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles such as RN Supervisor and RN Case Manager, indicating some level of leadership experience. However, the job description does not emphasize leadership as a key requirement."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows a strong background in healthcare roles that involve responsibilities such as managing patient care, which aligns with some of the job responsibilities like managing customer retention and providing product evaluation support. However, there is no direct match with the job responsibilities that specifically mention sales or business development."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'acutecare', 'billing', 'Case management', 'charts', 'chemotherapy', 'closing', 'coaching', 'Client', 'clients', 'discharge planning', 'insurance', 'director','meetings', 'presenting', 'quality', 'Quest','reporting','supervising', 'telecommunication', 'wound care'. These skills align well with the job requirements of Business Development and Sales."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like 'coaching', 'presentation', and 'team selling', which could be considered soft skills relevant to the job. However, these are not explicitly stated as soft skills in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the candidate's resume, and the job description does not specify any required tools or technologies."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like 'acutecare', 'billing', and 'discharge planning' can be transferred to the job, as they involve healthcare-related tasks that could contribute to the role's responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.661
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "19582792",
+    "jd_id": "3887492681",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.511,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications mentioned in the resume match the job description's requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks specific details about education that would match the job description's requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in management and sales, which aligns with the job description's requirements. However, the resume lacks detail about specific experiences related to ecommerce."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for missing details in sections like education and tools."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions experience in leading teams and implementing operational improvements, which aligns with leadership requirements. However, it lacks specifics on ecommerce leadership."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on responsibilities that align with the job description's responsibilities for managing ecommerce platforms and optimizing processes."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills like 'accounting','sales', 'customer service experience', and 'general management' which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong organizational skills and proficiency in Microsoft Office suite, which aligns with some soft skills required by the job description. However, it lacks specific soft skills like strong analytical skills and proficiency in web analytics tools."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any tools or technologies used, which contrasts with the job description's requirement for experience with Shopify and Google Analytics."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'customer service experience', 'general management', and 'project management' that could be applicable to ecommerce roles. However, these skills are not directly aligned with the job description's specific requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.438
+}

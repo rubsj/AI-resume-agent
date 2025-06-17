@@ -1,0 +1,51 @@
+{
+    "resume_id": "20033302",
+    "jd_id": "3905300513",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.495,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): A Bachelor of Science degree in Business Management is listed, but it lacks details such as GPA and graduation date, making it less relevant to the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in business management, including roles that demonstrate leadership, strategic planning, and operational efficiency, which closely matches the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The information is presented clearly and logically."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows leadership through managing teams, implementing strategies, and achieving results, which are key aspects of leadership in the food service industry."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to food service, such as managing staff, improving customer satisfaction, and maintaining quality standards. However, the job description focuses on more specific tasks within food service rather than broader management responsibilities."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate possesses skills in management, marketing, and customer relationship management, which align well with the job requirements. However, there is no direct mention of manufacturing skills, which are preferred but not required."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include customer relationship management, which aligns with the job description's focus on serving customers. However, there is no explicit mention of soft skills like teamwork or communication, which are often required in food service positions."
+        },
+        "tools": {
+            "score": 0.66,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): The candidate lists proficiency in Microsoft Word, Excel, PowerPoint, Access, Outlook, and Google Docs, which are tools commonly used in the food service industry. However, there is no mention of specific tools like QuickBooks or Salesforce, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like administrative proficiency, attention to detail, and problem-solving are transferable to the food service industry. However, the lack of specific culinary or food service skills reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.669
+}

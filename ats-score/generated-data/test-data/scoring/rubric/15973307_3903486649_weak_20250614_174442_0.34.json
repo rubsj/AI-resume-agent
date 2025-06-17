@@ -1,0 +1,51 @@
+{
+    "resume_id": "15973307",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.404,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a Bachelor's Degree in Sociology from Columbia University, which is relevant to the job in Retail and Operations, but lacks details such as GPA and graduation date."
+        },
+        "experience": {
+            "score": 0.384,
+            "reason": "(Rule 0.5): Resume: 0.8 yrs (capped to 0.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in Sales Consulting, Facilitation, and Internship roles, but lacks detail on specific achievements or responsibilities that align closely with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for missing dates and GPA in education section."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership roles or responsibilities that align with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on past responsibilities that align with the job responsibilities listed."
+        },
+        "skills": {
+            "score": 0.336,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has skills in Critical Thinking, Goal Setting and Implementation, Teamwork Skills, Proficient with MS Word, Excel, and PowerPoint, which aligns with the job requirements in Information Technology, Purchasing, and Supply Chain."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly list soft skills that align with the job requirements such as Self-starter, Organized, Data Extraction and Analytical Capabilities, Thoughtful Pursuit of Results, High Energy Environment, Tactical and Strategic Activities, and Customer-centric Philosophy."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate lists proficiency in Excel, which is a required tool in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of transferable skills that align with the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.335
+}

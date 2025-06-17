@@ -1,0 +1,51 @@
+{
+    "resume_id": "20345168",
+    "jd_id": "3904709148",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.675,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Management from Arizona State University, which is relevant to the field of finance. However, the GPA is not provided, which could be a factor in assessing the quality of education."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 23.2 yrs (capped to 23.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has a total of 23.2 years of experience in various accounting roles, which is more than the required 1 to 3 years. The experience is detailed and shows proficiency in various accounting tasks such as financial statement preparation, payroll management, and account reconciliation."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The summary, experience descriptions, and other sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which contrasts with the job description's requirement for an entry-level position."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the responsibilities listed in the job description, such as preparing general ledger reconciliations, journal entries, and providing accounting support. However, there is no direct match for all responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.387,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting software and processes, which aligns well with the required skills in accounting and finance. The candidate also possesses advanced data entry skills and proficiency in Microsoft Office Suite, particularly Excel, which matches the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong organizational skills and attention to detail, are aligned with the job description's requirements. However, the candidate does not explicitly mention respect, trust, integrity, care, consideration for Cenlar's reputation, ethical judgment, supervision, and accountability, which are part of the company's core values."
+        },
+        "tools": {
+            "score": 0.74,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft Office Suite (fuzzy)', 'Excel (exact)'] | (LLM 0.4): The candidate is proficient in Microsoft Office Suite and QuickBooks, QuickBooks Pro, Quicken, which are tools mentioned in the job description. However, the job description specifically mentions proficiency in Excel, which is not explicitly stated in the candidate's skills."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as effective time management and strong organizational skills, are relevant to the job description. However, the candidate does not explicitly mention the specific soft skills required by the company, such as respect, trust, integrity, care, and accountability."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.55
+}

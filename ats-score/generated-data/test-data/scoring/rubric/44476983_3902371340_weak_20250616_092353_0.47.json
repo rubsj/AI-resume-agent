@@ -1,0 +1,51 @@
+{
+    "resume_id": "44476983",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.459,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the resume, which may be a concern given the preferred certification mentioned in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in Organizational Management, Human Resources, but the GPA is not provided, which could indicate a lack of academic achievement in the field."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 9.5 yrs (capped to 9.5), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in Human Resources, including roles that involve performance management, talent planning, and benefits, which matches the job description's requirements. The experience also includes leadership and project management aspects."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, there are minor inconsistencies in formatting and missing details that slightly impact its overall professionalism."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including HR Business Partner and Sr. HR Consultant, which indicates a strong background in leadership. However, the resume could benefit from more detailed examples of leadership achievements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, particularly in terms of project management and leadership. However, there is no explicit mention of leading major business system implementation projects."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in Human Resources and Information Technology, aligning closely with the job description's required skills. The resume also mentions leadership development and collaboration, which are beneficial soft skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as leadership, collaboration, and communication, which are essential for the role. However, the resume lacks specific examples or quantifiable achievements that demonstrate these skills."
+        },
+        "tools": {
+            "score": 0.055,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['HRIS (exact)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used in previous roles, which contrasts with the job description's emphasis on tools like Deltek, Procore, and HRIS systems."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include time management, conflict mediation, and self-starter qualities, which are generally applicable but do not specifically match the job description's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.471
+}

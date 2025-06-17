@@ -1,0 +1,51 @@
+{
+    "resume_id": "29815762",
+    "jd_id": "3886837912",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.652,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications, whereas the job description requires a high school diploma or equivalent."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate only has a High School Diploma listed, which matches the minimum requirement but does not specify any additional education beyond high school."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in retail sales, customer service, and warehouse operations, which closely matches the job description. The experience is detailed and includes relevant tasks and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of detail in some sections could affect the overall clarity."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership roles or responsibilities, which might be expected for a full-time position."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with most of the responsibilities listed in the job description, such as maintaining customer service, maintaining standards, and ensuring saleable merchandise. However, there is no explicit mention of experience with ACIS or CAO."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as customer service, retail sales, and warehouse operations, which align with the job description. However, there is no mention of specific certifications required by the job."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume demonstrates strong soft skills through their emphasis on customer service, teamwork, and quick learning, which are key requirements in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like ACIS and CAO, but the candidate's resume does not indicate any proficiency or experience with these tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as customer service, retail sales, and warehouse operations, which can be applied across different industries. However, the lack of specific certifications and tools proficiency limits the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.527
+}

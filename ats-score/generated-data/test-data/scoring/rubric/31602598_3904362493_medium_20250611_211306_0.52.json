@@ -1,0 +1,51 @@
+{
+    "resume_id": "31602598",
+    "jd_id": "3904362493",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.654,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the requirements specified in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts degree in Supply Chain Management, which does not directly match the preferred degree in the job description. However, they also have an Associate of Arts degree in Accounting Technology, which is closer to the preferred degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.5 yrs (capped to 13.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 13 years of experience in accounting roles, which exceeds the required experience years specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities outlined in the job description, particularly in areas like preparing journal entries, account reconciliations, and month-end closing processes."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in various accounting software and processes, which aligns well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as strong organizational skills, efficient time management, and the ability to work independently, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP system (fuzzy)'] | (LLM 0.4): The candidate has experience with several tools mentioned in the job description, including SAP Financial-Accounting Module, Lawson/InfoPro, and Oracle-GL/OPM/Payables/Fixed Assets. However, they lack experience with ERP system, Infor LN Manufacturing, and OneStream."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat aligned with the job description, but there is room for improvement in terms of specific technical skills and certifications."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.524
+}

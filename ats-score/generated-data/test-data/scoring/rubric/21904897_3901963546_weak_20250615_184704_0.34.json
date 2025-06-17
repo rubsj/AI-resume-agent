@@ -1,0 +1,51 @@
+{
+    "resume_id": "21904897",
+    "jd_id": "3901963546",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.417,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume that directly match the job's requirement for an associate's degree or equivalent college coursework."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['High School diploma or equivalent; Associate’s degree with relevant college course work preferred (fuzzy)'] | (LLM 0.5): The resume only lists a high school diploma, lacking the associate's degree or equivalent college coursework required by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 30.2 yrs (capped to 30.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has significant experience in culinary roles, particularly as a chef, which is relevant to the job's requirement for experience in a manufacturing setting or food manufacturing. However, the resume lacks specific details on experience in poultry processing."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not explicitly mention leadership experience or skills, which are important for the job's responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide information on responsibilities related to managing production lines or departments, which is crucial for the job."
+        },
+        "skills": {
+            "score": 0.323,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Fast-paced environment (substring)'] | (LLM 0.4): The candidate has extensive experience in various kitchen roles, which aligns well with the job's requirement for food processing supervision. The resume mentions skills like food safety, quality control, and multitasking, which are relevant to the job."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions skills like attention to detail and organizational skills, which are part of the soft skills required by the job. However, it lacks specifics on leadership, conflict resolution, and other soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any tools or technologies used, which contrasts with the job's requirement for proficiency in Microsoft Office and Adobe Creative Suite."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in food preparation, quality control, and multitasking are transferable to the job, but the lack of direct experience in poultry processing reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.343
+}

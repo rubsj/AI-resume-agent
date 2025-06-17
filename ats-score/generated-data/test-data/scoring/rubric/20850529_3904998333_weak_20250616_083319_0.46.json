@@ -1,0 +1,51 @@
+{
+    "resume_id": "20850529",
+    "jd_id": "3904998333",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.433,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume only lists a High School Diploma, which does not match the required degree level of Engineering school, Sciences university, or Business school."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales and management roles, which aligns with the job responsibilities. However, the experience is not as recent or specialized as required for the Junior Trader position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but the resume does not provide specifics on leadership skills or achievements that align with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on specific responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.577,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)', 'SQL (exact)'] | (LLM 0.4): The candidate has relevant skills such as communication, customer service, account management, data entry, project development, computer proficiency, customer satisfaction, inventory, team leadership, marketing plans, market research, and sales. However, there is no mention of specific technical skills like Python, VBA, or SQL."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions soft skills such as communication, customer service, and teamwork, which are aligned with the soft skills required. However, there is no explicit mention of business insight or willingness to take on new projects."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SQL (exact)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used, which contrasts with the requirement for Python, VBA, and SQL."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as communication, customer service, and project development, but lacks specific technical skills and recent experience in finance."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.457
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "25810233",
+    "jd_id": "3887492681",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.55,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the resume that directly match the job requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Business Administration, which is relevant to the job, but the lack of specific years and GPA makes it less impactful."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 26.9 yrs (capped to 26.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and marketing roles, particularly in sales management and consulting, which aligns with the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free from grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing inventory, which shows some level of leadership, but the details are not as extensive as required for the job."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles show alignment with some job responsibilities, such as managing day-to-day operations and optimizing processes."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills such as Advertising, Computer Knowledge, and Sales, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like Excellent Communication, Team Building, and Strong Analytical Skills, which are aligned with the job requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of specific tools like Shopify or Google Analytics in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Innovation, Inventory Management, and Web Analytics are transferable and relevant to the job, but the lack of detail makes it less impactful."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.508
+}

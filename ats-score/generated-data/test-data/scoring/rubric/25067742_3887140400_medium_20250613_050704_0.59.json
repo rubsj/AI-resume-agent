@@ -1,0 +1,51 @@
+{
+    "resume_id": "25067742",
+    "jd_id": "3887140400",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.662,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Accounting (exact)'] | (LLM 0.5): The candidate has a degree in Accounting from Phoenix University/US-Florida-Miami, but the field of study does not match the required degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 21.5 yrs (capped to 21.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that align with the job responsibilities, including experience in accounts payable, accounts receivable, payroll, and financial reporting."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience supervising and training staff, which indicates some level of leadership, but it is not explicitly mentioned as a key responsibility in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as preparing financial statements, managing accounts payable, accounts receivable, and payroll, forecasting cash flow, supporting strategic planning, leading the annual tax return process, and performing key responsibilities, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as General Accounting, accounts payable, accounts receivable, Microsoft Office, Outlook, Windows XP, Word, Excel, and Quickbooks Enterprise 17.0, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates soft skills such as time management, critical analysis, organization, task orientation, self-motivation, analytical and problem-solving, communication, attention to detail, independence, collaboration, work ethic, and a can-do attitude, which are aligned with the soft skills required by the job."
+        },
+        "tools": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Quickbooks (exact)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office, Outlook, Windows XP, Word, Excel, and Quickbooks Enterprise 17.0, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in accounting roles provides transferable skills that can be applied to the job responsibilities, such as financial analysis, budgeting, and compliance."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.586
+}

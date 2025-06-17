@@ -1,0 +1,51 @@
+{
+    "resume_id": "20565849",
+    "jd_id": "3885806889",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.732,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate lacks certifications that are specifically mentioned in the job description."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's educational background includes only a high school diploma and an associate degree, which may not be sufficient for the required experience level."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 10.9 yrs (capped to 10.9), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Carpenter and Foreman, which aligns with the job description's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is limited to being a Foreman, which may not fully meet the expectations set by the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows proficiency in responsibilities like reading blueprints, managing tasks, and overseeing work, which aligns with the job description."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills like blueprints, equipment operator, welding, and supervising, which match the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as attention to detail and teamwork, are reflected in their experience and are aligned with the job description."
+        },
+        "tools": {
+            "score": 0.507,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 5, 'substring': 0, 'fuzzy': 0}. Matched: ['blueprints (exact)', 'tools (exact)', 'concrete (exact)', 'equipment (exact)', 'materials (exact)'] | (LLM 0.4): The candidate's experience with tools matches the job description's requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like problem-solving and communication, which are essential for the job but could be further developed based on the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.517
+}

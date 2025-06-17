@@ -1,0 +1,51 @@
+{
+    "resume_id": "39674178",
+    "jd_id": "3906084962",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.74,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a concern given the job's preference for candidates with advanced degrees or specific certifications like USGAAP, IFRS, or Sarbanes-Oxley."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor's degree is listed, but it lacks a graduation year and GPA, which could indicate incomplete or insufficient information regarding formal education."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.2 yrs (capped to 28.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including federal accounting, resource officer positions, and financial management, which closely matches the job's requirements for experience in accounting and finance."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail or clarity, which could affect the ATS's ability to accurately match the candidate to the job."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates leadership experience through their role as a supervisor and resource officer, which aligns with the job's requirement for leadership skills. However, there is no explicit mention of leading teams or managing projects."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as month-end closing activities, balance sheet reconciliations, and internal control maintenance, which align well with the job's responsibilities. However, there is no explicit mention of financial reporting or audit skills."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and financial management, which aligns well with the job's requirement for strong analytical abilities and attention to detail. The resume also mentions proficiency in accounting systems and processes, which are essential skills for the role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights leadership and supervisory experience, which aligns with the soft skill requirement of working independently and receiving minimal guidance. However, there is no explicit mention of strong analytical abilities or excellent attention to detail."
+        },
+        "tools": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP systems (fuzzy)'] | (LLM 0.4): The resume mentions experience with ERP systems and SAP, which are tools preferred by the job description. However, there is no explicit mention of proficiency in Microsoft Office or other tools specifically mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills such as accounting, auditing, and financial management, which are transferable skills relevant to the job. However, there is no explicit mention of specific technologies or software tools used in their work."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.547
+}

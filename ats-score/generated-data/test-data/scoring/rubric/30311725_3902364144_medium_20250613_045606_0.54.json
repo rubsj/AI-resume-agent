@@ -1,0 +1,51 @@
+{
+    "resume_id": "30311725",
+    "jd_id": "3902364144",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.674,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate possesses certifications such as LEED AP and ICC Class A License, but lacks the ASHE certification mentioned in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in Construction Management and Business Management, which are relevant to the job description, but the lack of details about GPA and graduation dates may be seen as less favorable."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 28.2 yrs (capped to 28.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has a long history of experience in project management, which matches the required experience level. However, the job description specifies a preference for a Bachelor's Degree in Construction Project Management, Architecture, Engineering, or related field, which is not explicitly mentioned in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of detail in certain sections could potentially affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is not explicitly mentioned in the job description. The candidate has held leadership positions in previous roles, but the job description does not specify any leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, such as managing projects, maintaining schedules, and collaborating with various internal groups. However, there is no direct mention of responsibilities related to data center operations or Microsoft Cloud services."
+        },
+        "skills": {
+            "score": 0.494,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 2, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Controls (fuzzy)', 'Project management (substring)', 'Project management (substring)', 'Project Management (substring)'] | (LLM 0.4): The candidate has extensive experience in project management, which aligns well with the required skills in the job description. However, specific skills like 'Datacenter design' are missing."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as safety management, client relationship management, and efficiency in cost management, match the soft skills required in the job description. However, the job description also requires specific soft skills like 'Strategies', 'Negotiation', and 'Collaboration', which are not explicitly mentioned in the candidate's profile."
+        },
+        "tools": {
+            "score": 0.182,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Project management tools (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office and Project Management tools, which are aligned with the job description. However, the job description mentions specific tools like Microsoft Cloud, Project management tools, Datacenter engineering, and others that are not covered in the candidate's experience."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as procurement, systems protocols, and quality control, are relevant to the job description. However, the job description also requires specific skills like 'Datacenter design' and 'Engineering', which are not covered in the candidate's profile."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.542
+}

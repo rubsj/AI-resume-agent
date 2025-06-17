@@ -1,0 +1,51 @@
+{
+    "resume_id": "37540732",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.482,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, which contrasts with the job description's mention of potential certifications such as Excel proficiency."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Administration from The Citadel, which is relevant to the job description's focus on retail and operations. However, the GPA is not provided, which could impact the relevance."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.5 yrs (capped to 28.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 28 years of experience in sales and marketing management, which significantly exceeds the required experience of 3 years. The detailed job history shows a strong track record of sales success and leadership in various roles."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The content is concise and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing sales teams and achieving top rankings in sales performance indicates strong leadership skills, which aligns with the job description's emphasis on leading and overseeing the instock function."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, such as leading and overseeing the instock function and improving customer experience. However, there is no direct match with driving cross-functional strategic initiatives or enhancing supply chains and operational excellence."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Purchasing (exact)', ', (substring)'] | (LLM 0.4): The candidate has extensive experience in sales and marketing management, which aligns well with the required skills of information technology, purchasing, and supply chain management. The candidate's skills also include Excel proficiency, which matches one of the tools mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as being a self-starter and having organized skills, align with the job description's emphasis on data extraction and analytical capabilities. However, there is no explicit mention of a customer-centric philosophy or high energy environment."
+        },
+        "tools": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate possesses Excel proficiency, which is one of the tools mentioned in the job description. However, there is no explicit mention of other tools like SQL or process improvement techniques."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as sales and account management, are relevant to the job description's focus on retail and operations. However, there is no explicit mention of specific technical skills like SQL or process improvement techniques."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.622
+}

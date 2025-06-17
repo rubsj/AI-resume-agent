@@ -1,0 +1,51 @@
+{
+    "resume_id": "10138632",
+    "jd_id": "3905691192",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.732,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume only lists a High School Diploma, which does not meet the preferred degree requirement of a Bachelor's degree in Engineering or a related technical field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.3 yrs (capped to 20.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in Sales roles, including Sales Manager, which aligns with the job responsibilities. However, the experience is not as recent as the required years of experience (5 years)."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in directing staff, planning, and coordinating activities, which indicates leadership skills. However, there is no explicit mention of leading sales teams or managing complex projects."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like sales management and customer service, but lacks experience in lead nurturing, conversion, strategic account management, and Salesforce utilization."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has experience in Sales and Marketing, which aligns with the required skills of Technical Sales Manager role. However, there is no mention of Business Development, which is also a required skill."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong organizational and prioritization abilities, which aligns with soft skills like Communication and Time Management. However, it lacks explicit mention of other soft skills like Adaptability and Innovation."
+        },
+        "tools": {
+            "score": 0.12,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Salesforce (fuzzy)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used, while the job description requires Salesforce and CRM Systems usage."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills in Computers and Electronics, Administration and Management, Critical Thinking, Negotiation, Persuasion, and Sales and Marketing, which can be considered transferable. However, these skills are not as closely aligned with the specific requirements of the Technical Sales Manager role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.474
+}

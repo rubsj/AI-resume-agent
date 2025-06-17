@@ -1,0 +1,51 @@
+{
+    "resume_id": "23734441",
+    "jd_id": "3903814954",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.577,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which is a requirement for the job."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Accounting and Bachelor's degrees in Business Administration and Accounting, which are relevant to the job requirements. However, the lack of a CPA certification reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 19 years of experience in accounting roles, which closely matches the minimum requirement of three years. The detailed job descriptions show proficiency in various accounting tasks."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume, which is a requirement for the mid-senior level position."
+        },
+        "responsibilities": {
+            "score": 0.419,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Account reconciliations (fuzzy)'] | (LLM 0.5): The candidate's responsibilities align with the job description, including tasks like journal entries, account reconciliations, and analysis of accounts and reports. However, the lack of specific details about proficiency in financial systems reduces the score."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the job requirements. The resume includes specific skills like 'accounting', 'accountant', 'accounts payable', 'accounts receivable', and 'financial', which are directly relevant to the job."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions some soft skills such as 'highly motivated' and'results-driven', but these are not quantified or detailed enough to fully match the job requirements."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with MS Office applications, which is a requirement. However, there is no mention of specific financial systems or ERP tools like SAP, which are preferred."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a range of transferable skills, including 'accounting', 'finance', and 'excel', which are relevant to the job. However, the lack of specific skills like 'cpa' or 'erp' reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.503
+}

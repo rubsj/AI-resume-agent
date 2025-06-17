@@ -1,0 +1,51 @@
+{
+    "resume_id": "19201175",
+    "jd_id": "3905302212",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.436,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications mentioned in the resume that align with the job description requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a GED and an Information Technology degree, which may be relevant to the job description but lacks details such as GPA and graduation year."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in Information Technology Specialist and Shift Leader roles, which align with the job description. However, the experience is not detailed enough to fully match the job responsibilities listed."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume that align with the job description requirements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed in the job description, such as providing technical support, training employees, and conducting simulations. However, there is no direct match with responsibilities related to developing and optimizing algorithms for ADAS functionalities."
+        },
+        "skills": {
+            "score": 0.337,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Problem-solving (substring)'] | (LLM 0.4): The candidate has relevant skills such as Hardware updates, Process improvement implementation, Permissions management, Software licenses and patches, Excellent problem solving skills, Operating systems, Task estimation, GUI and tools, Knowledge of streaming video platforms, Timeline management, Operational support, Windows operating systems. However, there is no mention of specific skills related to Embedded Software Application Engineering, such as Algorithm Development, Real-time Systems, Safety Standards, Sensor Systems Integration, and Hardware-in-the-loop (HIL) Testing."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as Strong Problem-solving Skills, Effective Team Environment, Clear Communication Skills, Convey Complex Technical Concepts, Multidisciplinary Team Collaboration, Cross-functional Interaction, Business Anchoring. These skills are aligned with the job description's soft skills requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools such as Software Tools, Hardware-in-the-loop (HIL) setups, Simulation Tools, Data Analysis Tools, Model-based Design Tools, Automotive Communication Protocols, Software Development Tools, ADAS Technologies, Sensor Systems, Vehicle Controllers, CAN, LIN, Ethernet, etc., which are not mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as Hardware updates, Process improvement implementation, Permissions management, Software licenses and patches, Excellent problem solving skills, Operating systems, Task estimation, GUI and tools, Knowledge of streaming video platforms, Timeline management, Operational support, Windows operating systems. However, these skills are not directly related to the job responsibilities listed in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.446
+}

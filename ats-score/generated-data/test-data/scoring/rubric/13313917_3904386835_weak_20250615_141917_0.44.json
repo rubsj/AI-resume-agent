@@ -1,0 +1,51 @@
+{
+    "resume_id": "13313917",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.446,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.057,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Industry trends (substring)'] | (LLM 0.5): The candidate does not have any certifications listed that match the required or optional skills in the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts degree in International Relations and a Certificate in Asian Studies, which do not directly align with the required or preferred degrees in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.6 yrs (capped to 14.6), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in business planning, operations management, and strategic initiatives, which align with the job responsibilities. However, the experience lacks specific details about technology-related tasks or achievements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate uses clear and concise language."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as President and Director, which indicates strong leadership capabilities. However, there is no explicit mention of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in their resume are not detailed enough to fully match the job responsibilities listed in the job description. There is no mention of providing thought leadership on High-Level Architecture and Design, collaborating with the Application Development team, or championing analytics data."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Consulting (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'business planning', 'budgets', 'business development', and 'operations management'. However, there is a lack of specific technical skills like AWS, GCP, Azure, etc., which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong leadership and motivation abilities, which align with the soft skills required in the job description. However, these skills are not explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Spark (fuzzy)'] | (LLM 0.4): The candidate does not list any tools or technologies used in their experience, which contrasts with the job description's requirement for skills in AWS, GCP, Azure, etc."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as attention to detail, negotiation, and project management, but they lack specific technical skills that are crucial for the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.441
+}

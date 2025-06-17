@@ -1,0 +1,51 @@
+{
+    "resume_id": "20624984",
+    "jd_id": "3904955739",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.695,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job description requirements."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The MBA degree in Finance and IT is relevant, but the lack of specific details and GPA makes it less impactful."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.9 yrs (capped to 3.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in various accounting roles, including Accounts Payable, which aligns with the job responsibilities. However, the brief duration of each role reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like maintaining ledgers, preparing entries, and reconciliation, which align with the job responsibilities. However, the brief duration of each role reduces the score."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills such as Accounting, Auditing, Finance, and specific software like SAP FI Module, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like SAP FI Module and Microsoft Excel, which are mentioned in the job description. However, the lack of detail on proficiency impacts the score."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like focus, functional, and process invoices are transferable, but the lack of detail and context reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.544
+}

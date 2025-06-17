@@ -1,0 +1,51 @@
+{
+    "resume_id": "20624984",
+    "jd_id": "3887100279",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.652,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description prefers 'MBA' and 'CPA'."
+        },
+        "education": {
+            "score": 0.416,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['MBA (exact)'] | (LLM 0.5): The candidate has an MBA in Finance and IT, which is relevant, but the details are not clearly provided, and there are no other degrees that directly match the job requirements."
+        },
+        "experience": {
+            "score": 0.545,
+            "reason": "(Rule 0.5): Resume: 3.9 yrs (capped to 3.9), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, but the job description requires more senior-level experience specifically in construction-focused organizations."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the candidate's resume, which is a requirement for the job position."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate lacks experience in responsibilities such as leading a team, assessing and streamlining accounting operations, and providing accurate financial reporting, which are key requirements in the job description."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'account reconciliations', 'accounting', 'accounts payable', 'Balance sheet', 'Bank Reconciliation', etc., which match the job requirements. However, there is a lack of specific mention of 'Finance' and 'Sales' skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'detail-oriented' and'reliable', but lacks specific skills like 'leadership', 'team management', and 'communication' that are emphasized in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume, whereas the job description does not specify any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles, such as 'account reconciliations', 'accounting', and 'general ledger', which could be applicable in a senior accounting role. However, they lack specific skills like 'Finance' and 'Sales' that are required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.493
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "34198885",
+    "jd_id": "3901955543",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.736,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may be a concern given the preferred degree requirement."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Professional Accountancy and a Bachelor of Business Administration, both in Accounting, which aligns well with the required education."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 18.9 yrs (capped to 18.9), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, including positions that match responsibilities listed in the job description. However, the experience is slightly older than the preferred years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume, which could be important for a staff accountant role."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities listed in the job description, such as month-end close and account reconciliations. However, there is no explicit mention of technical accounting or business integration activities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has experience with Microsoft Office Accounting Software, which matches the required skill set. However, there is no mention of Netsuite, which is preferred but not required."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are explicitly mentioned in the resume, which contrasts with the job description's emphasis on integrity, impact, passion, and fun."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No experience with MS Office or Netsuite is mentioned, which are tools and technologies listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like attention to detail and problem-solving abilities, which are beneficial for accounting roles. However, there is no explicit mention of leadership or project management skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.448
+}

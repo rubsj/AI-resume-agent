@@ -1,0 +1,51 @@
+{
+    "resume_id": "12065211",
+    "jd_id": "3904062814",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.666,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a Certified Public Accountant certification, which is relevant to the finance domain but does not match the specific tools and technologies required in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Business Administration in Accounting from Temple University, which is aligned with the preferred degree requirement in the job description. However, the GPA is not provided, which could be a concern."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 22.9 yrs (capped to 22.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, including senior accountant positions, which align with the job responsibilities listed in the job description. The experience is slightly less detailed than what is expected for a staff accountant position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are often required in accounting roles but are not explicitly mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.372,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Preparing financial statements (substring)'] | (LLM 0.5): The candidate's experience includes responsibilities such as managing and executing the full cycle of accounting duties, preparing financial statements, performing account analysis and reconciliation, and maintaining the general ledger, which align with the job responsibilities. However, there is no direct match with the specific responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as Accounting/Auditing, Finance, Excel proficiency, and ADP Payroll accounting experience, which align well with the job description requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention soft skills that are directly relevant to the job description, such as proactive follow-up, ensuring timely payments, and liaising with customers."
+        },
+        "tools": {
+            "score": 0.66,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['ADP (fuzzy)', 'Excel (exact)'] | (LLM 0.4): The candidate has experience with tools like Aderant/CMS, QuickBooks Pro, SQL Access, Peachtree, Hyperion, Essbase, and Worked with Deloitte, which are not directly mentioned in the job description. However, some of these tools may be indirectly relevant."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like bookkeeping, budget development, and individual tax returns can be considered transferable to the role, although they may not be directly required by the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.624
+}

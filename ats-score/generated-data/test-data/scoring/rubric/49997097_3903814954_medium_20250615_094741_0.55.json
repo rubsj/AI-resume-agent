@@ -1,0 +1,51 @@
+{
+    "resume_id": "49997097",
+    "jd_id": "3903814954",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.604,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description prefers candidates with CPA certification."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Accounting, which matches the preferred degree in the job description. However, the GPA is not provided, which could be a point of concern."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in accounting roles, including management positions, which aligns well with the job responsibilities. The experience spans over 10 years, which is more than the minimum requirement of three years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in management roles, which indicates leadership skills. However, there is no explicit mention of leadership qualities or specific leadership achievements in the resume."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as month-end closing, financial statement preparation, and internal control compliance, which align with the job responsibilities. However, there is no explicit mention of external reporting items or integration of acquisitions, which are part of the job responsibilities."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, auditing, and financial processes, aligning closely with the job requirements. The resume mentions skills in ERP systems like JD Edwards and Microsoft Office, which are listed as tools in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions some soft skills like decision-making and supervisory experience, but does not explicitly highlight highly motivated, results-driven, or fast-paced environment adaptability, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Financial systems (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like QuickBooks, MS Excel, and JD Edwards, which are mentioned in the job description. However, there is no explicit mention of proficiency in MS Office (Word, PowerPoint, Access, Teams) as listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills like accounting, auditing, and financial processes, which are transferable to the job responsibilities. However, there is no explicit mention of proficiency in financial systems or ERP systems like SAP, which are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.547
+}

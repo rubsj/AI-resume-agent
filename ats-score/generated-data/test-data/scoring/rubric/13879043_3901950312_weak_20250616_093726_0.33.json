@@ -1,0 +1,51 @@
+{
+    "resume_id": "13879043",
+    "jd_id": "3901950312",
+    "domain": "HR",
+    "resume_jd_similarity": 0.471,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the required ones in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an MBA in Human Resource Management, which is relevant, but lacks details about the Bachelors of Commerce degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 6.7 yrs (capped to 6.7), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, particularly in areas like performance management, recruitment, and employee relations. However, the job description requires more specific experience in supervision and continuous improvement."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have any experience or skills listed that specifically indicate leadership abilities, which are required."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have responsibilities listed that match the job description's requirements for supervising improvement projects and managing a project portfolio."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Human Resource', 'HR', 'Leadership', and 'People Management'. However, there is no mention of specific tools like 'SharePoint' or 'Project management tools' which are required."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have soft skills listed that match the job description's requirements for leadership, communication, analytical skills, research, problem-solving, adaptability, and cultural sensitivity."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any experience with tools like 'Microsoft Office', 'SharePoint', or 'Project management tools', which are required."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have any transferable skills listed that match the job description's requirements for skills like 'State of Minnesota leadership program completion', 'Six Sigma Green or Black Belt certification', or 'Advanced SharePoint training'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.329
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "28828844",
+    "jd_id": "3902872520",
+    "domain": "HR",
+    "resume_jd_similarity": 0.661,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications, which could be beneficial for certain roles in HR."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education details are incomplete and do not provide clear information about the degrees obtained."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 16.8 yrs (capped to 16.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles that match the job description requirements. The detailed job descriptions in the resume show a strong background in HR operations, employee relations, and project management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are inconsistencies in formatting and missing details in sections like education."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading HR initiatives and managing employees, which indicates some level of leadership ability. However, the resume could provide more detail on specific leadership achievements or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, covering areas such as employee relations, HR projects, and compliance. However, the resume lacks specific details on conducting new employee orientations and participating in HR-related projects."
+        },
+        "skills": {
+            "score": 0.648,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (exact)', 'Human Resources (substring)'] | (LLM 0.4): The candidate has extensive experience in various HR roles, which aligns well with the required skills in the job description. The skills listed in the resume cover a broad range of HR functions, including administration, benefits, coaching, conflict resolution, and leadership."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like excellent communication and leadership, which are important for HR roles. However, the resume does not explicitly highlight interpersonal skills or sensitivity to handling sensitive information."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with ADP and PeopleSoft, which are mentioned in the job description as preferred tools. However, there is no explicit mention of proficiency in HRIS/ATS systems or MS Office Suite."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are evident in their experience across different HR roles, but the resume could benefit from more specific examples of how these skills have been applied in previous positions."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.574
+}

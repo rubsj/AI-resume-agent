@@ -1,0 +1,51 @@
+{
+    "resume_id": "78016758",
+    "jd_id": "3903812675",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.508,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has certifications in 'MCSE : Communication' and 'MCSA: Office 365', but lacks certifications in 'Advanced proficiency in Microsoft Suite' and other tools mentioned in the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is listed in a non-standard format and does not provide clear information about the degrees obtained or the fields of study."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.5 yrs (capped to 16.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles that align with the job description, particularly in 'Strategy & Transformation Consulting'. However, the experience is not detailed enough to fully match the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks clarity in sections like education and experience, which affects the overall ATS score."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through roles like 'Lead Application Engineer' and 'Consultant', but there is no explicit mention of leadership in the context of 'Strategy & Transformation Consulting'."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not explicitly mention having led client meetings or managed stakeholder engagement, which are key responsibilities in the job description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Architect', 'Engineer', 'Content and Developing', 'Delivery', 'Designing', and 'Focus'. However, there is a lack of specific skills like 'Business Development' and 'Sales' which are required."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has soft skills such as 'Facilitation and consensus building', 'Excellent verbal and written communication', and 'Strong analytical, problem-solving, and critical thinking skills'. However, there is no explicit mention of leading client discussions or meetings."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with some tools mentioned in the job description, such as 'Microsoft Suite', but lacks details on proficiency levels and specific experiences using these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Project Management', 'Team Leadership', and 'Client Relationship Management'. However, there is no explicit mention of skills related to 'Business Development' and 'Sales'."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.519
+}

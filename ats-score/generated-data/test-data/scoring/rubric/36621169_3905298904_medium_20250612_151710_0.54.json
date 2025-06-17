@@ -1,0 +1,51 @@
+{
+    "resume_id": "36621169",
+    "jd_id": "3905298904",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.706,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement for 'Business Development' skills."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Fashion Merchandising Management, which is relevant to the fashion industry but lacks specific details about GPA or major courses."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in sales and product development roles, which aligns with the job responsibilities. However, the lack of specific achievements or metrics reduces the score slightly."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume, which contrasts with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly match the job responsibilities listed, particularly in terms of driving sales through appointment-based selling and conducting DSA-run product knowledge meetings."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has relevant skills such as proficiency in Microsoft Office Suite, Adobe Creative Suite, and Ronlynn Apparel Software, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include internet research and social media proficiency, which are somewhat aligned with the soft skills required, but lacks specific examples of interpersonal skills or competitive team environment."
+        },
+        "tools": {
+            "score": 0.46,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['social media (substring)'] | (LLM 0.4): The candidate mentions proficiency in tools like Microsoft Office Suite, Adobe Creative Suite, and Ronlynn Apparel Software, which are aligned with the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Mac and PC platforms, Microsoft Office Suite, Adobe Creative Suite, internet research, and social media proficiency are transferable to the role, though they do not fully match the job requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.542
+}

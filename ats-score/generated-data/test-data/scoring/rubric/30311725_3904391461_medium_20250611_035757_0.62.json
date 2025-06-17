@@ -1,0 +1,51 @@
+{
+    "resume_id": "30311725",
+    "jd_id": "3904391461",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.655,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds certifications such as LEED AP and ICC Class A License, which are relevant to the job but not directly mentioned in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Construction Management and a Bachelor's degree in Business Management, which are aligned with the job requirements but do not specify the field of study."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.2 yrs (capped to 28.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has a long history of experience in various project management roles, including senior project manager positions, which closely matches the job description's requirement for 2+ years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as a president in some roles indicates leadership skills, but the job description does not explicitly mention leadership as a requirement."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as developing project plans, coordinating resources, and monitoring project performance, which aligns with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.608,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Project Management (substring)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in project management, which aligns well with the job requirements. The skills listed match the job description's need for project management expertise."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions strong problem-solving and time management abilities, which are soft skills that align with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.5,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'project management software (fuzzy)'] | (LLM 0.4): The candidate's experience includes proficiency in Microsoft Office and project management software, which are mentioned in the job description under tools and technologies."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various roles across different companies demonstrates transferable skills that could be beneficial in a manufacturing environment."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.624
+}

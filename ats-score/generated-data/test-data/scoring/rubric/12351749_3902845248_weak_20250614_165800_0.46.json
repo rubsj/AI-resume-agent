@@ -1,0 +1,51 @@
+{
+    "resume_id": "12351749",
+    "jd_id": "3902845248",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.557,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may be a concern given the job's emphasis on specific tools and technologies."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in Data Analytics and Finance, but the lack of GPA information might be seen as a weakness."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in sales roles, which could be transferable to business operations, but the focus is on sales rather than operations."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in managing teams, which is a key requirement for this role."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly match the responsibilities listed in the job description, particularly in terms of strategic implementation and project management."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Analyst (exact)'] | (LLM 0.4): The candidate has strong skills in data analysis, Excel modeling, and R programming, which align well with the job requirements. However, there is no mention of experience with specific tools like Rally or SharePoint."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills, which aligns with the soft skill requirement. However, there is no explicit mention of adaptability or flexibility."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Teams (fuzzy)'] | (LLM 0.4): No experience with the required tools such as Rally, MS Teams, Zoom, Agile Central, etc., is mentioned."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): While the candidate has a range of skills, none are explicitly linked to the job's requirements, such as data analytics or process improvement."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.458
+}

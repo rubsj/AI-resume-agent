@@ -1,0 +1,51 @@
+{
+    "resume_id": "22019500",
+    "jd_id": "3905394652",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.484,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which may not meet the preferred requirement of having a Bachelor's degree in a relevant field."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a technical degree and a high school diploma, but lacks a bachelor's degree as specified in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 35.9 yrs (capped to 35.9), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 30 years of experience in construction and engineering, which significantly exceeds the required experience level of 10+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand. The candidate's experience is clearly presented, enhancing the overall readability and professionalism of the resume."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various management roles indicates strong leadership capabilities, which aligns with the job description's requirement for leadership skills. However, the lack of detail about specific leadership achievements reduces the score slightly."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's focus on managing construction and facilities, but there is no clear indication of how they have improved unit economics or managed a capital plan, which are key responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in construction, engineering, and management, which aligns well with the required skills in the job description. However, there is no mention of specific tools or technologies used, which could be a point of improvement."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly stated, but given their experience in leadership roles, it can be inferred that they possess strong leadership qualities. However, the lack of detail makes it difficult to fully assess alignment with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.014,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Project management tools (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their experience, which contrasts with the job description's emphasis on proficiency with various tools and technologies."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as management, communication, and problem-solving, which are relevant to the job description. However, the absence of specific tools and technologies used limits the assessment of these skills in a practical context."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.503
+}

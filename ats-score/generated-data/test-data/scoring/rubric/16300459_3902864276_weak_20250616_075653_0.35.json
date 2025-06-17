@@ -1,0 +1,51 @@
+{
+    "resume_id": "16300459",
+    "jd_id": "3902864276",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.449,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Finance and a Bachelor's degree in International Economics and Trade, which aligns with the educational requirements of the job description."
+        },
+        "experience": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Resume: 2.4 yrs (capped to 2.4), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has relevant experience in financial analysis and customer management, but the job description requires more advanced experience in product management and leadership."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description emphasizes leadership skills, but the resume does not provide examples of leadership roles or achievements."
+        },
+        "responsibilities": {
+            "score": 0.031,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Go-to-Market (fuzzy)'] | (LLM 0.5): The job description outlines responsibilities such as product strategy, leadership, innovation, stakeholder management, data-driven decision making, product lifecycle management, strategic partnerships, and go-to-market strategies. The resume lacks details on how the candidate has fulfilled these responsibilities."
+        },
+        "skills": {
+            "score": 0.336,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Financial Analysis, Microsoft Office proficiency, and programming knowledge in VBA. However, there is no explicit mention of advanced financial skills required in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like honesty, persistence, adaptability, and quick learning, which align with some soft skills required in the job description. However, the resume does not provide evidence of leadership, analytical thinking, innovative mindset, or results-oriented attitude."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): The job description does not specify any tools or technologies required, and the resume does not mention any specific tools used."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as financial analysis, customer management, and project management. However, the job description requires more specialized skills in product management and leadership."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.347
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "23628651",
+    "jd_id": "3885830306",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.545,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not list any certifications, which are required for the job description's preferred degrees and certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two degrees, but neither matches the required Bachelor's Degree for the job description. The degrees are in 'Educational Leadership' and 'Marketing El Paso', which may not be recognized as equivalent to a Bachelor's Degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as a teacher and sales manager, which aligns with the job description's responsibilities and required experience. However, the experience is not specifically in SPED (Special Education), which is required for the job."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The summary, experience descriptions, and other sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership roles in committees and initiatives, but there is no explicit mention of leadership skills or responsibilities that align with the job description's responsibilities like 'Prepares student education plans' or 'Supports learning for students with disabilities'."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities listed in the job description, such as consulting with parents and department team members, preparing materials and classrooms, and monitoring student progress. However, there is no explicit mention of preparing student education plans or coordinating IEP implementation."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'academic', 'creative design', 'Client Relations', 'direct mail','marketing','market','materials', 'Microsoft Office', 'Word', 'Presenter', 'producing', 'Project management', 'public relations', 'Public Speaking', 'Quick Learner', 'radio','reading', 'Robotics','sales','sales manager','scripts', 'Spanish', 'Teacher', 'teaching', 'Technical Writing', 'video', 'web site'. These skills align well with the job description's required skills like 'Education', 'Training', and optional skills like 'State Teacher Certification'."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, but they seem to align with the job description's soft skills like 'Team participation', 'Communication', and 'Computer proficiency'. However, there is no evidence of patient confidentiality, HIPAA requirements, effective elicitation, or information provision."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate does not mention any tools or technologies used, which could be relevant for the job description's responsibilities."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as 'academic', 'creative design', 'Client Relations', and 'quick learner', can be transferred to the job description's responsibilities. However, these skills do not directly match the specific responsibilities like 'Prepares student education plans' or 'Supports learning for students with disabilities'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.468
+}

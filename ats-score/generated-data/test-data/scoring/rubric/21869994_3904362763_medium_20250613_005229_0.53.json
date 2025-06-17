@@ -1,0 +1,51 @@
+{
+    "resume_id": "21869994",
+    "jd_id": "3904362763",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.823,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, while the job description requires verification of culinary qualifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's Degree in Healthcare Administration and an Associate's Degree in Culinary Arts, which aligns with the required degree of 'culinary_degree' but does not specify if it meets the'verification' requirement."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in various culinary roles, including management positions, which aligns well with the job description's required experience and skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows leadership qualities through training and supervising staff, but lacks explicit leadership responsibilities or achievements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like training and supervising staff, which aligns with the job responsibilities, but lacks details on aligning culinary production with frameworks and maintaining culinary standards."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as computer literacy, problem-solving, and teamwork, but lacks specific culinary tools and technologies mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as communication and problem-solving, which are aligned with the job description's soft skills, but lacks advanced food profession principles."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The resume does not mention any specific tools or technologies used, whereas the job description does not require any specific tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include exceptional listening and communication, resourcefulness, and self-discipline, which are generally aligned with the job description's expectations, but lacks specific culinary management skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.532
+}

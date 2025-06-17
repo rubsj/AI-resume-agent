@@ -1,0 +1,51 @@
+{
+    "resume_id": "95011061",
+    "jd_id": "3905290990",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.414,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education does not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 20.1 yrs (capped to 20.1), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has experience in healthcare management, client services, healthcare systems, and compliance, which aligns with the job responsibilities. However, the job description requires law enforcement experience, particularly in financial fraud investigations, which is not mentioned in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience supervising employees, completing performance evaluations, and meeting goals, which indicates leadership skills. However, the job description does not require specific leadership qualifications."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not include the detailed responsibilities listed in the job description, such as conducting enforcement, regulatory, and licensing investigations, reviewing cases, planning investigations, interviewing witnesses, etc."
+        },
+        "skills": {
+            "score": 0.568,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'agency', 'benefits', 'hardware', 'CPT Coding', 'client', 'clients', 'customer service', 'direction', 'financial', 'ICD-10', 'information systems', 'Insurance', 'leadership', 'legal', 'Meditech', 'Excel', 'Microsoft Office Suite', 'office', 'Powerpoint', 'Word', 'Navigator', 'policies', 'quality', 'Quality Assurance', 'SSI','supervisor','supervision'. However, there is no direct match with required skills like 'Consulting' and 'Customer Service' which are listed under'required_skills'."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned in the resume, and the job description requires specific soft skills like 'Presentation', 'Organization', 'Writing', 'Telephone', 'Computer', 'Detail-oriented', 'Analytical', etc., which are not aligned with the candidate's profile."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like 'Excel', 'Microsoft Office Suite', 'Meditech', and 'Navigator', which are similar to the tool'spreadsheets' listed in the job description. However, there is no direct match with the specific tool mentioned."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills are transferable to the job role, especially considering their experience in managing operations, providing customer service, and handling compliance issues. However, they lack the specific law enforcement and financial fraud investigation experience required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.438
+}

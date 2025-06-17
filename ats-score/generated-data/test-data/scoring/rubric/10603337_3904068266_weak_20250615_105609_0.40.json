@@ -1,0 +1,51 @@
+{
+    "resume_id": "10603337",
+    "jd_id": "3904068266",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.489,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed in their resume."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has completed an Associates degree from Borough of Manhattan Community College and a High School Diploma. While these are educational achievements, they do not directly align with the required Bachelor's degree in photography or related field mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.5 yrs (capped to 12.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles such as Sales Associate, Production Intern, Fashion Intern, and Museum Intern. These experiences involve customer service, inventory management, and coordination, which align with the job responsibilities mentioned in the job description. However, the experience is not as extensive as required by the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. The summary field is empty, which could be improved upon."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or positions held that demonstrate leadership capabilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions responsibilities such as 'describing merchandise', 'inventory stock', and'maintain knowledge of sales and promotions', which align with the job responsibilities mentioned in the job description. However, the details provided are not as comprehensive as those expected for the role."
+        },
+        "skills": {
+            "score": 0.496,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Design (exact)', ', (substring)'] | (LLM 0.4): The candidate has skills like 'photo', 'credit', 'clients', 'customer service', 'digital cameras', 'editing', 'fashion', 'flash', 'instruction', 'Inventory','meetings', 'policies', 'Research','sales','set design','script', 'transmission'. These skills align well with the required skills in the job description such as 'Art/Creative', 'Design', and 'Information Technology'. However, there is no direct match for some skills listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention soft skills like 'Excellent communication skills' and 'Keen eye for detail', which are listed in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, which contrasts with the job description that requires knowledge of Digital photography, Film photography, Products inside of glass, Photo production processes, Packaging consulting, and Art direction."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills that can be transferred to the role, such as customer service, inventory management, and coordination. However, these skills are not as detailed or specific as those required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.397
+}

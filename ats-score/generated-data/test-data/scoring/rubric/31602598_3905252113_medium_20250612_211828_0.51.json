@@ -1,0 +1,51 @@
+{
+    "resume_id": "31602598",
+    "jd_id": "3905252113",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.69,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts degree in Supply Chain Management, which does not directly match the preferred degree in Accounting or Finance."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.5 yrs (capped to 13.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in various accounting roles, including detailed responsibilities that align with the job responsibilities listed."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.385,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Prepare financial reports (fuzzy)'] | (LLM 0.5): The candidate's experience includes responsibilities like preparing financial reports and managing balance sheets, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.354,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills like SAP Financial-Accounting Module, Lawson/InfoPro, and Microsoft Office tools which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include analytical mindset, effective communication, and detail orientation, which are soft skills required by the job."
+        },
+        "tools": {
+            "score": 0.39,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with tools like SAP FI/CO Module, Lawson/InfoPro, and Microsoft Office tools, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like PB Views/Six Sigma and COGNOS Upfront are not directly mentioned in the job description but could be considered transferable."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.51
+}

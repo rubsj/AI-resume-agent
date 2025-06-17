@@ -1,0 +1,51 @@
+{
+    "resume_id": "25315791",
+    "jd_id": "3902832409",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.72,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate only holds a High School Diploma, which does not match the required experience years or preferred degrees mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in sales roles, including sales associate, sale/customer service representative, and sales associate/customer representative. This experience aligns with the job responsibilities but lacks details on specific tools and technologies used."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions responsibilities related to sales, customer service, and data management, which align with the job responsibilities. However, there is no explicit mention of analyzing data sources in Excel or maintaining CRM systems."
+        },
+        "skills": {
+            "score": 0.728,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Research (substring)', 'Sales (exact)'] | (LLM 0.4): The candidate possesses skills like 'advertisements', 'calculators', 'cash registers', 'competitive', 'credit', 'clients', 'customer relations', 'customer service', 'databases', 'Email', 'Issue receipts', 'letters','market', 'pricing', 'Researching','selling','sales','scanners', 'SMS', and'structured' which align well with the required skills of 'Marketing', 'Research', and 'Sales'. However, there is no explicit mention of proficiency in Microsoft Office, CRM software, ERP system, or Excel."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes core qualifications such as sales expertise, accurate money handling, team player mentality, reliability, goal orientation, excellent communication skills, sales force training, and persuasive communication expertise. These align well with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.105,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their previous roles."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows transferable skills like customer service, sales, and communication, which are relevant to the job description. However, there is no explicit mention of strong ability to analyze sales data or detail-oriented skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.54
+}

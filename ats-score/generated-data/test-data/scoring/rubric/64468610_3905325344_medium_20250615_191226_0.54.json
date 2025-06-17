@@ -1,0 +1,51 @@
+{
+    "resume_id": "64468610",
+    "jd_id": "3905325344",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.419,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which contrasts with the job description's requirement for a Bachelor's Degree in Computer Science or a related field."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Computer Science and a Bachelor's degree in Electronics and Communication Engineering, which meets the educational requirements but does not specify the GPA, which could be a point of concern."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 20 years of experience in product development and leading development teams, which closely matches the experience level required by the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some details such as the GPA and specific tools used are missing, which could affect the clarity of the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading development teams and managing projects demonstrates leadership skills, which aligns with the job description's expectations. However, there is no explicit mention of technical leadership or laser focus."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing teams and leading projects align with the job responsibilities described in the job description. However, there is no direct mention of leading post-major incident response or maintaining mission-critical infrastructure."
+        },
+        "skills": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in software engineering and management, which aligns well with the required skills in the job description. The resume mentions expertise in C++, Windows, STL, OOP, MFC, and other technologies that are relevant to the job."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in team management and leadership skills are relevant to the soft skills required in the job description. However, there is no explicit mention of strong technical communication or sharp data mining skills."
+        },
+        "tools": {
+            "score": 0.055,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Jenkins (exact)'] | (LLM 0.4): The job description lists specific tools and technologies such as Core infrastructure, Cloud services, Platforms, Micro-services, Statistical and ML tools, Log centric tooling, Splunk, Jenkins, Maven, Nexus, Data science/machine learning, etc., which are not mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in API design, documentation, and project management are transferable to the job description's requirements. However, there is no explicit mention of experience with continuous integration/deployment processes or tools, or familiarity with data science/machine learning."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.539
+}

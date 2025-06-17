@@ -1,0 +1,51 @@
+{
+    "resume_id": "17694572",
+    "jd_id": "3901686855",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.523,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a CPR certification but does not have any certifications that match the required skills in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is listed as a Medical Assistant degree from Sanford Brown Institute, which does not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.2 yrs (capped to 17.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in administrative roles, including managing budgets, collections account reconciliation, IT and telecoms troubleshooting, and liaising with customers. However, the total experience years do not match the required experience years specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which is required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not detailed enough to compare with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Clinical/Administrative Skills, Phlebotomy, EKG's, Urinalysis, Vital Signs, Pharmacology, Clinical Asepsis, Health Insurance, Filing, Appointment Scheduling, MS Word, MS Excel, MS PowerPoint. However, there is no mention of experience with tools like Monday.com or Zendesk."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not mentioned in the resume, making it impossible to compare with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have experience with the tools mentioned in the job description, such as Monday.com and Zendesk."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as time management, prioritization, self-direction, and computer proficiency. However, these skills are not as detailed or specific as those required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.483
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "34953092",
+    "jd_id": "3904059851",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.486,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications mentioned match the required 'active Series 7 license'."
+        },
+        "education": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Master's degree in Computer Engineering and a Bachelor's degree in Finance and Banking, both from the same institution, which is relevant to the job."
+        },
+        "experience": {
+            "score": 0.516,
+            "reason": "(Rule 0.5): Resume: 2.0 yrs (capped to 2.0), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has relevant experience in corporate banking and financial analysis, but the roles were internships and the total experience is less than the required 6 years."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have experience in the specific responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in C/C++, Python, MATLAB, SQL, R, LUA, VBA, which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills that are specifically mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed that match the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as financial analysis and programming, which could be useful in the role, but they lack depth in the specific areas required by the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.471
+}

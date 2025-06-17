@@ -1,0 +1,51 @@
+{
+    "resume_id": "18334783",
+    "jd_id": "3901632078",
+    "domain": "HR",
+    "resume_jd_similarity": 0.673,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which are preferred in the job description such as SPHR or PHR."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's degree in Human Resources, Business Administration, or a related field (fuzzy)\"] | (LLM 0.5): The candidate holds a BA in Business/Finance from the University of New Mexico, which is relevant but not specifically in Human Resources or Business Administration, as preferred in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.7 yrs (capped to 17.7), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has a total of 17.7 years of experience, with significant roles in HR Director/Administrator, Executive Administrator, Senior Administrator, Site Office Administrator, and Administrative Assistant positions. This experience aligns well with the required experience level of 5+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading HR departments and managing staff demonstrates leadership skills, although the job description specifically calls for strategic human resources leadership, which might require additional qualifications or experience."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles, such as managing HR departments, supervising staff, handling payroll, reviewing invoices, facilitating company starts, and managing construction projects, align with the responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (exact)'] | (LLM 0.4): The candidate has extensive experience in administrative tasks, budgeting, contracts, customer service, documentation, expense reports, financial management, government relations, HR processes, office administration, office management, payroll, personnel management, process improvement, proposal writing, quality assurance, sales, supervision, and transmission projects. These skills align closely with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in administrative tasks, budgeting, contracts, customer service, documentation, financial management, government relations, HR processes, office administration, office management, payroll, personnel management, process improvement, proposal writing, quality assurance, sales, supervision, and transmission projects demonstrate strong soft skills such as interpersonal, communication, problem-solving, and decision-making."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with HRIS and Microsoft Office Suite, which are tools mentioned in the job description. However, there is no explicit mention of proficiency in these tools."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various administrative roles and industries provides transferable skills that can be applied to the HR Director position, such as managing processes, working with budgets, and handling sensitive information."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.548
+}

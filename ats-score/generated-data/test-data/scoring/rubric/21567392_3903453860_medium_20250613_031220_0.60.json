@@ -1,0 +1,51 @@
+{
+    "resume_id": "21567392",
+    "jd_id": "3903453860",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.674,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate has a PMP certification which is relevant but lacks details about when it was issued."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts in Petroleum Engineering and a Building Construction Trades Certificate, which aligns with the required degree in Construction Management or related field. However, the lack of specific dates and GPA makes it less clear."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 23.5 yrs (capped to 23.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in construction management roles, including responsibilities that match the job description such as managing various projects, ensuring safety, and overseeing multiple tasks."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing projects indicates leadership skills, but there is no explicit mention of leadership responsibilities like evaluating staff or managing variance."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, including managing projects, ensuring quality, and coordinating tasks. However, there is no direct mention of responsibilities like conducting bi-weekly meetings or maintaining work safety."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills such as Customer relations, Subcontractor management, Construction safety, Technical support, Project management, Project planning, Quality control, HSE management, Resource management, Safety enforcement, Risk assessment. However, there is no mention of specific tools like Homebuilding software."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as exceptional communication and problem-solving abilities, which are mentioned in the job description. However, there is no explicit mention of fast-paced environment or meeting deadlines."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): There is no mention of any specific tools used by the candidate, unlike the requirement for Homebuilding software."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like leadership, attention to detail, and decision-making, which are mentioned in the job description. However, there is no explicit mention of managing variance to budget or facilitating training."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.596
+}

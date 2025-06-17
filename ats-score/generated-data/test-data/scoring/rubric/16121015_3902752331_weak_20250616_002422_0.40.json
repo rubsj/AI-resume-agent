@@ -1,0 +1,51 @@
+{
+    "resume_id": "16121015",
+    "jd_id": "3902752331",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.478,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest education is listed as Stanhope Elmore High School, which is below the required degree level of High School Diploma or equivalent (GED), Associates Degree or continuing education classes."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.6 yrs (capped to 3.6), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant work experience in Sales and Customer Service roles, which aligns with the job description's requirements. However, the experience is not detailed enough to fully match the specific responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is generally well-written and free of grammatical errors, except for some missing details in the education and experience sections."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume, which may be important for the job description's requirements."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume provides some overlap with the job responsibilities listed in the job description, but lacks detail and specificity in matching the exact responsibilities required for the position."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has listed skills that align with the job description's required skills, such as Customer Service, Problem-solving, and Active Listening. However, there is no mention of specific tools or technologies used, which could be crucial for the role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions soft skills like Customer Service, Problem-solving, and Adaptability, which align with the job description's requirements. However, the candidate's self-described career focus does not directly correlate with the job responsibilities."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['CRM applications (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, while the job description lists several tools and technologies that are expected proficiency in."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills that can be transferred to the job, such as Customer and Personal Service, but lacks detail on how these skills are applied in specific scenarios."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.397
+}

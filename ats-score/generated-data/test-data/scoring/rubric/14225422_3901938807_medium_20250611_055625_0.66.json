@@ -1,0 +1,51 @@
+{
+    "resume_id": "14225422",
+    "jd_id": "3901938807",
+    "domain": "HR",
+    "resume_jd_similarity": 0.655,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, and there are no specific certifications required in the job description."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds Master's and Bachelor's degrees in Industrial Psychology and Psychology, respectively, which are related fields but do not directly match the educational requirements specified in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 40.2 yrs (capped to 40.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 40 years of experience in various HR roles, including HR Manager, Generalist, and Sr HR Representative, which closely matches the required experience level of 5-8 years in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, there are no specific details about the candidate's writing skills or communication abilities, which could be considered part of their leadership or soft skills."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership experience or skills in the candidate's resume, and the job description does not require any specific leadership qualifications."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing HR functions, conducting employee relations, and ensuring compliance with labor laws align with the job responsibilities outlined in the job description. However, the job description mentions end-to-end ownership of the Workday HRIS system, which is not explicitly covered in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in HRIS systems, particularly Ceridian Payroll/HRIS, which aligns with the required tools and technologies in the job description. The candidate also possesses skills in Excel, PowerPoint, and data analytics, which are mentioned as tools and technologies in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as attention to detail, strong work ethic, flexibility, and comfort interacting with employees, match the soft skills required in the job description. However, the job description also requires discretion in dealing with sensitive employee matters, which is not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.354,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['HRIS systems (fuzzy)'] | (LLM 0.4): The candidate has experience with Ceridian Payroll/HRIS, Excel, and PowerPoint, which are mentioned as tools and technologies in the job description. However, there is no mention of Workday or Tableau, which are specifically required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as proficiency in Excel, Word, and PowerPoint, and experience with various HRIS systems, align with the job description's requirements. However, the job description specifies Workday and Tableau as required tools, which are not covered in the candidate's resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.661
+}

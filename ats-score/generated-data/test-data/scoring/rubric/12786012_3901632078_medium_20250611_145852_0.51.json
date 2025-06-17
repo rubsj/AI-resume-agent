@@ -1,0 +1,51 @@
+{
+    "resume_id": "12786012",
+    "jd_id": "3901632078",
+    "domain": "HR",
+    "resume_jd_similarity": 0.737,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume that directly match the preferred certifications in the job description."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA in Human Resource Management, which is relevant to the job requirements. However, the B.A. in Communications does not directly align with the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.8 yrs (capped to 18.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate's experience includes roles that closely match the job responsibilities, such as managing employee relations, conducting recruitment, and overseeing HR processes. The detailed job description and responsibilities are well reflected in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience or achievements in the resume that would indicate the candidate has led HR initiatives or teams."
+        },
+        "responsibilities": {
+            "score": 0.469,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Ensure compliance with employment laws and regulations. (fuzzy)'] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job responsibilities listed in the job description, such as managing employee relations, overseeing recruitment, and ensuring compliance with employment laws."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in Human Resources, including roles such as HR Coordinator and HR Generalist, which aligns well with the job requirements. The skills listed match those required in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as conflict resolution and communication, align with the job requirements. However, there is no explicit mention of strong interpersonal or decision-making skills."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like HRIS and Microsoft Office Suite, which are mentioned in the job description. However, there is no explicit mention of proficiency in these tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like benchmarking, benefits administration, and performance management, which are relevant to the job description. However, there is no explicit mention of strategic human resources leadership or advanced HR certifications."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.506
+}

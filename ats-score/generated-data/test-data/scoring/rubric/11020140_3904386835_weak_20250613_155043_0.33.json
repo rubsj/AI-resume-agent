@@ -1,0 +1,51 @@
+{
+    "resume_id": "11020140",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.579,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description mentions Spark, Python, Analytical products offered as a service, Hive, SQL, Understanding of marketing metrics, Data integration, and Industry trends as optional certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Computer Science Data Communications and a Bachelor's degree in Computer Science, which are relevant to the job requirements. However, the lack of specific details about GPA and graduation year reduces the score."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 30.9 yrs (capped to 30.9), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has extensive experience in various roles, including consultant, systems programmer, and systems analyst, which aligns with the job requirements. The detailed descriptions of past roles demonstrate proficiency in areas such as SDLC, GxP, SOX compliance, and computer system validation."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in certain sections reduces the score slightly."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention any leadership roles or responsibilities, which are required according to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not explicitly state any responsibilities that match the job responsibilities mentioned in the job description, such as providing thought leadership on High-Level Architecture and Design, collaborating with the Application Development team, defining technical principles, and championing analytics data."
+        },
+        "skills": {
+            "score": 0.29,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['DBA (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'consultant', 'data communications', 'database and applications', 'document management','system administration', etc., which align with the job requirements. However, there is no mention of AWS, GCP, Azure, CDMP, MDM, DBA, SQL, SAP, TOGAF, API, CISSP, or VCP, which are preferred skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks explicit mention of soft skills like strong leadership and motivation abilities, which are required according to the job description."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['HBase (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their work, whereas the job description mentions AWS, Python, Snowflake, Hadoop, Hive, Spark, and HBase as required tools and technologies."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as analytical skills, problem-solving skills, organizational skills, and communication skills, which are beneficial for the role. However, these skills are not as directly aligned with the job responsibilities as those mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.327
+}

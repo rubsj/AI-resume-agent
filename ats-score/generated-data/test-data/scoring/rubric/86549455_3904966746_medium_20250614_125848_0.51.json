@@ -1,0 +1,51 @@
+{
+    "resume_id": "86549455",
+    "jd_id": "3904966746",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.478,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's requirement for at least some certifications."
+        },
+        "education": {
+            "score": 0.775,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds advanced degrees in fields related to psychology and leadership, which aligns well with the job description's inferred domain of business."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.0 yrs (capped to 17.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in finance, project management, and human resources, which aligns with the job description's responsibilities. However, the experience does not specifically mention mentoring or customer service."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as being a link between management and employees, which aligns with the job description's emphasis on leadership. However, there is no explicit mention of leadership workshops or formal leadership training."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not explicitly list responsibilities that match those outlined in the job description, such as mentoring, development and training, or specific customer service tasks."
+        },
+        "skills": {
+            "score": 0.456,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Project management, Customer satisfaction, and Mentoring, which align well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership development and mentoring, which aligns with the soft skills required in the job description. However, there is no explicit mention of other soft skills like delegation, problem-solving, communication, etc."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention proficiency in tools like Microsoft Office, spreadsheets, word processing, POS systems, CRM systems, PC, calculator, or other programs, which are required according to the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles in finance, project management, and human resources, but these do not fully align with the specific responsibilities listed in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.511
+}

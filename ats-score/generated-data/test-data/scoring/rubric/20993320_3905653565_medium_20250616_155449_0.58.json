@@ -1,0 +1,51 @@
+{
+    "resume_id": "20993320",
+    "jd_id": "3905653565",
+    "domain": "HR",
+    "resume_jd_similarity": 0.47,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume that directly match the job description's requirements."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Organizational Leadership and a Bachelor's degree in Apparel and Merchandising, which are relevant to the job description's requirement for a Bachelor's degree or equivalent experience."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.5 yrs (capped to 21.5), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has over 10 years of experience in HR coordination and office management, which closely matches the job description's requirement for at least 7 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading training programs and guiding clients on HR processes indicates some level of leadership, but the job description does not explicitly require leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.412,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Manage employee relations (fuzzy)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with several responsibilities listed in the job description, such as developing and integrating targeted people strategies, providing innovative solutions, and ensuring local policies align with HR strategy."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Management (exact)'] | (LLM 0.4): The candidate has extensive experience in HR coordination and office management, which aligns well with the job description's requirements for HR expertise and management skills. The resume also mentions proficiency in various tools and technologies relevant to the role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership, clear communication, and inclusive environment, are mentioned in the job description under soft skills and are aligned with the candidate's experience."
+        },
+        "tools": {
+            "score": 0.381,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 3, 'substring': 3, 'fuzzy': 2}. Matched: ['Employee relations (substring)', 'Onboarding (fuzzy)', 'Promotion (substring)', 'Experience (exact)', 'Communication (exact)', 'Clear (fuzzy)', 'Attention to detail (substring)', 'Learning (exact)'] | (LLM 0.4): The candidate's skills include proficiency in ADP and Sage payroll, which are mentioned in the job description's tools and technologies section. However, there is no explicit mention of HR analytics or JLL's HR strategy, which are also listed as required tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as attention to detail and ability to manage priorities, are mentioned in the job description under tools and technologies and are aligned with the candidate's experience."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.581
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "36425270",
+    "jd_id": "3905206443",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.7,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which is a requirement for the position."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Accounting Business Administration and an Associate of Arts in Business Management, which are relevant to the job description. However, the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.8 yrs (capped to 14.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in accounting roles that match the responsibilities outlined in the job description, including experience in accounting software, auditing, and financial reporting."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate leadership experience or skills, which may be expected for a senior-level position."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities listed in the job description, including financial reporting, auditing, and managing accounts payable."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate possesses skills in Accounting, Accounting Software, accounts payable, administrative support, banking, benefits, bi, Credit, Electronic Funds Transfer, filing, General Ledger, Human Resource, HR, MS Access, MS Excel, money, MS Power Point, MS Word, payroll, Peachtree, reconciling, researching, Sage, strategic, which align closely with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly list soft skills, which are important for teamwork and communication in an accounting role."
+        },
+        "tools": {
+            "score": 0.43,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Sage (exact)'] | (LLM 0.4): The candidate has experience with tools like Peachtree, QuickBooks, and Sage, which are mentioned in the job description. However, there is no mention of Procore or ERP, which are also required tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like project management, problem-solving, and attention to detail, which are beneficial for the role but could be more clearly highlighted."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.465
+}

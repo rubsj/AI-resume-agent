@@ -1,0 +1,51 @@
+{
+    "resume_id": "28198029",
+    "jd_id": "3905209238",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.429,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.05,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Associate’s (fuzzy)'] | (LLM 0.5): The education details provided do not match the required degree levels specified in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 19.1 yrs (capped to 19.1), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales roles, which aligns with the job responsibilities. However, the lack of specific details about sales operations and compensation management reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is grammatically clean and professionally formatted."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job responsibilities, such as providing solutions for healthcare and managing sales reports, but lacks specifics on incentive plan design and implementation."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has self-directedness, excellent communication skills, resourcefulness, time management, and advanced clerical knowledge, which align well with the required skills of sales and business development."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-directedness, excellent communication skills, resourcefulness, time management, and pleasant demeanor align well with the soft skills required."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in Microsoft products or other tools specified in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like data entry, customer service, and travel agency experience are transferable but may not directly correlate with the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.454
+}

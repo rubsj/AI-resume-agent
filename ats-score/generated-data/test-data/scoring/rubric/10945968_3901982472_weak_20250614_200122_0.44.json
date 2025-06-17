@@ -1,0 +1,51 @@
+{
+    "resume_id": "10945968",
+    "jd_id": "3901982472",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.426,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, which contrasts with the job description's requirement for a B.S. or B.A. degree."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not include any degrees that match the job description's requirement for a B.S. or B.A. degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in IT project management, which aligns with the job description's responsibilities. However, the lack of specific details about technical training or spaceflight experience reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing teams and projects aligns with the job description's requirement for leadership skills. However, the lack of detail about leading technical training or spaceflight operations reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some aspects of the job description, such as defining training curriculum and creating training modalities. However, the lack of detail about technical training or spaceflight-specific responsibilities reduces the score."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Windows, Windows Office Suites, Citrix, Active Directory, JIRA, Trello Project Management Applications, and Service Now ITSM, which align with the job description's required skills in Engineering and Information Technology."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership and communication, align with the job description's requirements. However, the lack of detail about technical expertise or problem-solving skills in a spaceflight context reduces the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, which contrasts with the job description's requirement for software, hardware-in-the-loop simulators, mockups, and flight crew vehicle simulators."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as project management and system administration, align with the job description's responsibilities. However, the lack of detail about technical training or spaceflight-specific responsibilities reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.441
+}

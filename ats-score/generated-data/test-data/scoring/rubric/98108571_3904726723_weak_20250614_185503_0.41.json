@@ -1,0 +1,51 @@
+{
+    "resume_id": "98108571",
+    "jd_id": "3904726723",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.44,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lacks specific details such as degree, field, GPA, and graduation year, making it difficult to assess relevance to the job description."
+        },
+        "experience": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Resume: 9.8 yrs (capped to 9.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has some relevant experience in sales and office work, but the descriptions lack detail and context that could demonstrate specific skills or achievements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, the summary section is incomplete, and the education section lacks specific details."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no indication of leadership experience or skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There is no information provided about the candidate's responsibilities in previous roles that could be compared to the responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has experience using Adobe Photoshop and Illustrator, which matches the required tools. However, there is no mention of proficiency or experience with Adobe InDesign, Adobe Acrobat, or macOS."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not provide evidence of soft skills such as attention to detail, organizational skills, web expertise, intrinsic design ability, typographic skills, strong communication, interpersonal skills, project management, or cross-functional collaboration."
+        },
+        "tools": {
+            "score": 0.248,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Adobe Illustrator (fuzzy)'] | (LLM 0.4): The candidate lists proficiency in using a computer and software like Photoshop and Illustrator, which aligns with the required tools. However, there is no explicit mention of proficiency in the other tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not provide any examples of transferable skills that could be applied to the role, such as problem-solving, teamwork, or adaptability."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.405
+}

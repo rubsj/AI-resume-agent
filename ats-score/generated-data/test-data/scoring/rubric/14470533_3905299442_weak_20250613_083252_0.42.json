@@ -1,0 +1,51 @@
+{
+    "resume_id": "14470533",
+    "jd_id": "3905299442",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.653,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a CPA certification, but it is not specified when it was issued, which is a requirement in the job description. The job description also mentions some college coursework in business, accounting, or finance as preferred, but the candidate only has high school education and some unspecified college coursework."
+        },
+        "education": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a high school diploma and some unspecified college coursework in business management-accounting from Treasure Valley Community College. This does not fully meet the requirement of a high school diploma or equivalent plus some college coursework in business, accounting, or finance preferred."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in various roles related to accounting, bookkeeping, and office management, which aligns with the job responsibilities. However, the exact years of experience are not specified, and the job description requires at least 1-2 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The summary, education, experience, and skills sections are clear and concise. However, there are missing dates in some sections, which could affect the completeness of the information."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume outlines responsibilities that align with the job responsibilities listed in the job description, such as managing billing processes, creating invoices, and working with financial software. However, the exact details of the responsibilities are not provided in the resume."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'Accounting/Auditing', 'Finance', 'Excel', 'General Ledger', 'Office Management', 'Outlook', 'Payroll', 'Quickbooks', and 'Bookkeeping'. However, there is no direct match for 'Microsoft Office Suite' and 'Access' tools mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like 'Communication', 'Customer Focus', 'Accountability', and 'Functional/Technical Job Skills', which are aligned with the soft skills required in the job description. However, the resume does not provide specific examples or evidence of these skills."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The job description mentions specific tools like 'Microsoft Office Suite' and 'Access', but the candidate's resume does not mention any experience or proficiency with these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists a variety of transferable skills such as 'Accounting', 'Bookkeeping', 'Office Manager', and 'Account Reconciliations'. These skills are relevant to the job description, but the resume does not provide detailed examples or evidence of how these skills have been applied in previous roles."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.424
+}

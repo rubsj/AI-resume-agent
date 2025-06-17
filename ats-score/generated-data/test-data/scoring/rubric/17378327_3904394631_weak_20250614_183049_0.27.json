@@ -1,0 +1,51 @@
+{
+    "resume_id": "17378327",
+    "jd_id": "3904394631",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.446,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a CPA certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's degree in Accounting, Finance, or a related field (fuzzy)\"] | (LLM 0.5): The candidate's education is only listed as a Bachelor's degree in Biology, which does not match the preferred degree requirement of Accounting, Finance, or a related field."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 17.7 yrs (capped to 17.7), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in sales and customer service, which aligns with the job responsibilities. However, the experience does not specifically mention financial management or bookkeeping."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they can manage day-to-day operations or drive financial excellence."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not include managing day-to-day operations related to paid marketing campaigns, overseeing financial transactions, or providing strategic financial insights for marketing initiatives, which are key responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in communication, creative problem solving, and sales, which align with the job requirements. However, there is no mention of MS Windows proficiency, which is listed as a required skill."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate soft skills such as financial analysis, budgeting, and forecasting, effective communication of financial information, or experience with marketing operations, which are required for the role."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have any tools or technologies listed, while the job description requires proficiency in QuickBooks, Xero, Google Analytics, and Facebook Ads Manager."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like communication, problem-solving, and sales, but lacks specific skills in finance, accounting, and marketing operations."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.266
+}

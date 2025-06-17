@@ -1,0 +1,51 @@
+{
+    "resume_id": "24221960",
+    "jd_id": "3904390809",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.683,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a Serv-Safe Certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an Associate of Science degree in Medical Coder and Billing, which is not directly related to the job requirements. The High School Diploma is relevant but lacks a GPA."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 10.8 yrs (capped to 10.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in food service roles, including a position as a Chef, which aligns with the job responsibilities. However, the experience is not as recent or extensive as required by the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly mention leadership experience or skills, which are important for a Sous Chef role."
+        },
+        "responsibilities": {
+            "score": 0.294,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Food preparation (substring)', 'Sanitation (exact)'] | (LLM 0.5): The candidate's experience includes some responsibilities mentioned in the job description, such as food preparation and supervision, but lacks details on specific responsibilities like inventory management and vendor communication."
+        },
+        "skills": {
+            "score": 0.337,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Communication (exact)'] | (LLM 0.4): The candidate has relevant skills such as Warehouse worker, Cashier, Line Cook, Closing, Communication Skills, Interpersonal Skills, Customer Service Skills, Leadership Skills, Organizational Skills, Fast learner, Research, and Very Friendly. However, the skills listed do not directly match the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists soft skills such as Communication, Flexibility, Independence, Proactivity, and Teamwork, which are aligned with the job description. However, these skills are not quantified or detailed in the resume."
+        },
+        "tools": {
+            "score": 0.084,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Computer (exact)', 'Bending (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used, whereas the job description mentions the need for knowledge of Online ordering platform and ServSafe certification."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not clearly defined or matched with the job requirements. The resume mentions accomplishments but does not provide specifics that could be considered transferable skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.393
+}

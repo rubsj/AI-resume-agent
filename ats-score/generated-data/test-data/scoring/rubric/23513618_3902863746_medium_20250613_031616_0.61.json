@@ -1,0 +1,51 @@
+{
+    "resume_id": "23513618",
+    "jd_id": "3902863746",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.714,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications that match the job requirements, such as CPA or other advanced accounting certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Accounting and a Bachelor's degree in Accounting, which are relevant to the job requirements. However, the lack of GPA information may be seen as less favorable."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 14.6 yrs (capped to 14.6), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, particularly in full-service accounting firms and trading assistant positions. The experience is slightly less detailed than what might be expected for a senior accounting role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership experience or responsibilities that would indicate a strong ability to lead a team effectively."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully align with the detailed job responsibilities listed in the job description. There is a lack of emphasis on leadership, team management, and strategic financial planning."
+        },
+        "skills": {
+            "score": 0.596,
+            "reason": "(Rule 0.6): Required: {'exact': 3, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)', 'Management (exact)', 'Accounting (exact)', 'Communication (substring)', 'Attention to Detail (substring)'] | (LLM 0.4): The candidate has relevant skills such as Accounting, Finance, and Bookkeeping, which align well with the job requirements. However, there is no mention of specific certifications like CPA, which could be beneficial."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as strong communication, interpersonal skills, and collaboration, which are important for the role. However, there is no explicit mention of time management, prioritization, or attention to detail in the context of the job responsibilities."
+        },
+        "tools": {
+            "score": 0.58,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['QuickBooks (exact)'] | (LLM 0.4): The candidate has experience with QuickBooks and Microsoft Office Suite, which are mentioned as required tools in the job description. However, there is no explicit mention of proficiency or usage in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a wide range of skills that can be transferred to the role, but there is no explicit mention of leadership, team management, or strategic financial planning, which are crucial for the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.607
+}

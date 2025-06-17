@@ -1,0 +1,51 @@
+{
+    "resume_id": "15564893",
+    "jd_id": "3904365277",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.438,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that match the job requirements."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists multiple degrees but does not specify their relevance to the job requirements. The candidate has a B.A. in Religions, Al Dawah and Islamic Culture, which may not be directly related to pharmaceutical construction."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in construction and carpentry, which aligns with the job requirements. However, the experience is limited to general construction and may not cover the specific pharmaceutical construction domain."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks details in certain sections, such as certifications and responsibilities, which affects the overall score."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills in the resume, which aligns with the job requirements. However, there is no explicit mention of leadership roles or achievements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No responsibilities are listed in the resume that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.247,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Communication skills (substring)'] | (LLM 0.4): The candidate has relevant skills in carpentry and English, which align with the job requirements. However, there is a lack of specific technical skills required for pharmaceutical construction."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills and presentation skills, which align with some of the soft skills required by the job description. However, other soft skills such as communication and attention to detail are not explicitly mentioned."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools or technologies used in the resume that match the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in construction and carpentry, which can be applied to pharmaceutical construction. However, the lack of specific technical skills and certifications limits the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.382
+}

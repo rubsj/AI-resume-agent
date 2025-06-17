@@ -1,0 +1,51 @@
+{
+    "resume_id": "88691367",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.424,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description mentions specific certifications such as Spark, Python, Analytical products offered as a service, Hive, SQL, etc."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only a Bachelor of Arts degree in Economics Accounting, which is not directly related to the required degrees in computer science, engineering, technical fields, mathematics, information technology, information systems, business, education, or computer engineering."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 33.1 yrs (capped to 33.1), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has over 33 years of experience in various roles that involve financial management and team leadership, which aligns well with the required experience level. However, the job description focuses on cloud solutions and IT, which is not directly reflected in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, the job description focuses on technical skills and cloud solutions, which may not be fully aligned with the candidate's resume content."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing projects, which aligns well with the leadership skills mentioned in the job description. However, the job description also emphasizes technical skills and cloud solutions, which may not be fully aligned with the candidate's leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities mentioned in the description, such as financial management and team leadership. However, the job description focuses on cloud solutions and IT, which is not directly reflected in the candidate's responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the required skills of consulting and information technology. However, there is no mention of cloud solutions or specific technologies like AWS, GCP, Azure, etc., which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include strong leadership and motivation abilities, which align with the soft skills mentioned in the job description. However, the job description also emphasizes technical skills and cloud solutions, which are not directly reflected in the candidate's soft skills."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['HBase (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their work, whereas the job description mentions tools like AWS, Python, Snowflake, Hadoop, Hive, Spark, and HBase."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not explicitly mentioned in the job description, but they may include financial management, team leadership, and problem-solving abilities. The job description focuses on technical skills and cloud solutions, which may not be fully aligned with the candidate's transferable skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.399
+}

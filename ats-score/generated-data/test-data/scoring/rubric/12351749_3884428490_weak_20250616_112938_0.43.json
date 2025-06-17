@@ -1,0 +1,51 @@
+{
+    "resume_id": "12351749",
+    "jd_id": "3884428490",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.575,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description requires a Bachelor's degree, which is not specified in the resume."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Science in Data Analytics and a BBA, which are relevant to the job requirements. However, the lack of specific GPA information may be seen as less favorable."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales and data analysis, but the job description focuses more on digital marketing and analytics-specific roles."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have responsibilities listed that match the job description's requirements."
+        },
+        "skills": {
+            "score": 0.329,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Tableau (exact)'] | (LLM 0.4): The candidate has strong skills in advanced Excel modeling, R, and Excel, which align well with the job requirements. However, there is no mention of Google Analytics 4 or related technologies."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills, which align with the job description's soft skill requirements. However, there is no explicit mention of analytical skills or proficiency in project management software."
+        },
+        "tools": {
+            "score": 0.246,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Tableau (exact)'] | (LLM 0.4): The candidate has skills in tools like RStudio and Tableau, which are mentioned in the job description, but lacks knowledge in Google Analytics 4 and other required technologies."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like algorithm development and business domain knowledge, but these do not directly align with the job description's focus on digital marketing and analytics."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.429
+}

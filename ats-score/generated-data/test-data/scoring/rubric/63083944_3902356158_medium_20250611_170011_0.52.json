@@ -1,0 +1,51 @@
+{
+    "resume_id": "63083944",
+    "jd_id": "3902356158",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.661,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed that directly match the requirements of the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two degrees listed, but neither are in engineering or a related field, which is preferred for the job description. The lack of specific engineering education is a significant mismatch."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in various managerial roles, including project management, operations, and safety management. This experience closely matches the required experience level and responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate uses clear and concise language, which enhances readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing projects indicates strong leadership skills. However, there is no explicit mention of leading in a semiconductor environment or managing projects in the water treatment industry, which are optional skills mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles, such as managing budgets, coordinating with departments, and communicating with customers, align well with the job description's responsibilities. However, there is no mention of project review meetings or advising upper management, which could indicate a slight mismatch."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in project management and operations, which aligns well with the required skills of the job description. The resume also mentions attention to detail and excellent communication skills, which are beneficial for project management roles."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions good interpersonal and communication skills, which align with the soft skills required. However, there is no explicit mention of decision-making abilities or interpreting design drawings, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.132,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Excel (substring)', 'MS Project (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their experience, which contrasts with the job description's requirement for proficiency in Word, Excel, MS Project, PowerPoint, and Syteline."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as attention to detail and employee relationship building, are relevant to the job description. However, they do not explicitly mention technical adversity or comfort with POS systems and databases, which are optional skills preferred by the employer."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.516
+}

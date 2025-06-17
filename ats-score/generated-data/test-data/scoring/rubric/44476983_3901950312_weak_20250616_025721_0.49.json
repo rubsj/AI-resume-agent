@@ -1,0 +1,51 @@
+{
+    "resume_id": "44476983",
+    "jd_id": "3901950312",
+    "domain": "HR",
+    "resume_jd_similarity": 0.46,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description prefers Six Sigma Green or Black Belt certification and State of Minnesota leadership program completion."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts degree in Organizational Management, Human Resources, but the job description requires a Bachelor's degree in any field, which could be more directly related to Human Services."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 9.5 yrs (capped to 9.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has extensive experience in various HR roles, including HR Business Partner, Sr. HR Consultant and TA Specialist, Human Resources Consultant IV, and Principal Consultant, which aligns well with the job responsibilities of leading and supervising improvement efforts."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles such as HR Business Partner and Sr. HR Consultant, but there is no explicit mention of leading DHS OCI staff or having leadership experience in the context of the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as leading and supervising improvement projects, managing project portfolios, and consulting on CI efforts, which aligns with the job responsibilities. However, there is no explicit mention of leading DHS OCI staff or liaising with management."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as Leadership development, Collaboration, Organization and efficiency, Time management, Conflict mediation, Self-starter, and HR experience in Technology Field. However, there is no mention of specific tools like SharePoint or Project management tools which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like Leadership, Communication, Analytical, Research, Problem-solving, Adaptability, and Cultural sensitivity, which are aligned with the job description. However, there is no explicit mention of leadership in the context of leading DHS OCI staff."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Lean (fuzzy)'] | (LLM 0.4): The candidate lacks experience with specific tools mentioned in the job description such as Microsoft Office, SharePoint, Project management tools, Lean, Six Sigma, and Data analysis tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include Leadership development, Collaboration, Organization and efficiency, Time management, Conflict mediation, Self-starter, and HR experience in Technology Field. These skills are generally applicable but may not be directly linked to the specific job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.49
+}

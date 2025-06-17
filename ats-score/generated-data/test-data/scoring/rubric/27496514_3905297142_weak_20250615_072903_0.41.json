@@ -1,0 +1,51 @@
+{
+    "resume_id": "27496514",
+    "jd_id": "3905297142",
+    "domain": "HR",
+    "resume_jd_similarity": 0.432,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications listed in the resume match the job description's requirement."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds Master's degrees in Business Administration and Private Business Law, which could be relevant for the job, but the lack of specific details and GPA might lower the score."
+        },
+        "experience": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has experience in HR-related roles, which aligns with the job description's responsibilities. However, the lack of detail in the job title and responsibilities might lower the score slightly."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership roles or achievements in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like 'Assist in administering various types of leave', 'Cover and monitor unit mailboxes', 'Set up Employees in Oracle', 'Onboard new Employees', 'Work in LATS', and 'Perform other special projects as needed'. These responsibilities are somewhat aligned with the job description's responsibilities, but there is no direct match."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate possesses relevant skills such as 'Accounting', 'agency', 'benefits', 'clientele', 'client', 'clients', 'database', 'delivery', 'Department of Health', 'fax', 'filing', 'HR', 'insurance','marketing plan','materials', 'Payroll', 'policies', 'presentations', 'processes', 'quality', 'quality assurance', 'quest', 'Research', 'Service Level Agreement','supervision', 'telephone'. These skills align well with the job description's required skills like 'Administrative', 'Customer Service', and 'Management'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as 'team player', 'client-oriented','results-driven', 'deadline-oriented', 'initiative', 'interpersonal', 'communication', and 'customer service', align well with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions tools like 'Oracle' and 'LATS', but the resume does not explicitly mention these tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as 'quantitative research', 'data analysis', 'Microsoft suite proficiency', and 'working knowledge of systems', are relevant to the job description's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.405
+}

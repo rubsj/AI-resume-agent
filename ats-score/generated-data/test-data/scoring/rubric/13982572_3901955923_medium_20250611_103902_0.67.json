@@ -1,0 +1,51 @@
+{
+    "resume_id": "13982572",
+    "jd_id": "3901955923",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.657,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.55,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has no certifications listed, which contrasts with the job description's requirement for 'High School Diploma or GED'."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['High School Diploma or GED (fuzzy)'] | (LLM 0.5): The candidate has a BBA in Banking and a High School Diploma, which partially meets the educational requirement but lacks detail about GPA."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.3 yrs (capped to 21.3), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in banking and customer service roles that closely match the job responsibilities and required experience years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, such as Branch Banking Coordinator and Service Manager II, demonstrates strong leadership skills, which aligns with the job description's requirement."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed, particularly in terms of leadership, customer service, and sales, but there is a lack of detail on how they specifically leverage tools and technology."
+        },
+        "skills": {
+            "score": 0.896,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (exact)', 'Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate possesses skills like 'Finance', 'Sales', 'Customer Service', 'Leadership', and 'Customer Relations', which align well with the job description's required skills of 'Finance' and 'Sales'. However, there is a lack of specific certifications mentioned."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as 'Leadership Skills', 'Customer Service', and 'Problem Solving', are aligned with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience includes using tools and technologies relevant to banking operations, though the job description specifically mentions'mobile services' and 'online banking services', which are not directly addressed."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, including 'Accounting', 'Auditing', and 'Bookkeeping', are relevant but could be more closely tied to the job description's specific tools and technologies."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.671
+}

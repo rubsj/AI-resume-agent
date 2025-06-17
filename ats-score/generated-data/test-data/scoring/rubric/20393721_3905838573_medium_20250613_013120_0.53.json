@@ -1,0 +1,51 @@
+{
+    "resume_id": "20393721",
+    "jd_id": "3905838573",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.67,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the candidate's resume that directly correspond to the required 'Certified Public Accountant designation' in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Taxation and a Bachelor's degree in Accounting, which aligns with the preferred degrees in the job description. However, the specific years of education are not provided, leading to uncertainty about the relevance to the required experience level."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in accounting roles that cover most of the job responsibilities listed in the job description, including managing accounting functions, overseeing operations, and preparing financial statements. The experience spans over 19 years, which is more than the required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand. The summary field is missing content, but this does not affect the overall quality of the resume."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they have managed teams or led projects, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that closely match the job responsibilities listed in the job description, such as managing accounting functions, overseeing operations, and preparing financial statements. However, there is no explicit mention of tax planning or auditing accounts, which are part of the responsibilities."
+        },
+        "skills": {
+            "score": 0.508,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, including roles that align with the required skills such as managing accounting functions, overseeing day-to-day operations, and preparing financial statements. The skills listed also match the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include management, communication, organization, and time management, which are soft skills required by the job description. However, these skills are not explicitly stated in the resume, leading to some uncertainty about their relevance."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No mention of proficiency in accounting or tax preparation software, nor Microsoft Office Suite or similar software, which are required tools according to the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like administrative duties, data analysis, and financial statement analysis, which can be considered transferable to the role. However, these skills are not explicitly aligned with the job responsibilities or required skills in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.531
+}

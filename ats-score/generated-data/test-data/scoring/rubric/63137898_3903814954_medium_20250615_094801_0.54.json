@@ -1,0 +1,51 @@
+{
+    "resume_id": "63137898",
+    "jd_id": "3903814954",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.6,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree in Business Administration but lacks specific certifications mentioned in the job description such as CPA."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Administration, which is relevant to the job requirements, but the GPA is not provided."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 31 years of experience in various accounting roles, including being an owner and co-owner of businesses, which exceeds the minimum requirement of three years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience as a co-owner and owner of businesses, but the job description does not explicitly mention leadership as a requirement."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles match many of the job responsibilities listed, such as preparing journal entries, account reconciliations, analysis of accounts and reports, and integration of acquisitions."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'CPA (exact)'] | (LLM 0.4): The candidate has extensive experience in various accounting roles and possesses a wide range of skills including account reconciliations, accounting, accounting manager, accounts payable, accounts receivable, and QuickBooks, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses some soft skills like strong communication skills and problem-solving abilities, but lacks specific skills like highly motivated, results-driven, self-starter, and multiple project management."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with various tools such as MS Office, financial systems, and ERP (SAP), which aligns with the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as budget analysis & preparation, business development, and strategic planning, which are relevant to the job requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.542
+}

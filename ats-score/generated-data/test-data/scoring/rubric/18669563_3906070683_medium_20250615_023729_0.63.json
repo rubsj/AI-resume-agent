@@ -1,0 +1,51 @@
+{
+    "resume_id": "18669563",
+    "jd_id": "3906070683",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.401,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's requirement for compliance courses."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Master's degree in International Business and a Bachelor's degree in Business Administration Finance, which are relevant to the job description's inferred domain of finance. However, the diploma and high school education sections do not provide specific details about their relevance to the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in accounting and finance roles, particularly in project accounting and subcontract accounting, which aligns with the job description's responsibilities. However, the lack of detail in the resume about specific skills related to the Interactive Teller Machines (ITM) is a concern."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand. However, the lack of detail in certain sections reduces its overall effectiveness."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume, which contrasts with the job description's emphasis on being able to represent the Credit Union to members in a professional manner."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as financial reporting, budget management, and administrative tasks, which align with the job description's responsibilities. However, the lack of detail about specific ITM-related responsibilities is a concern."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong background in accounting and finance, which aligns well with the job requirements. The mention of proficiency in Microsoft Office tools is also relevant."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary indicates a focus on loyalty and career advancement, which could be seen as soft skills. However, there is no explicit mention of communication, detail-oriented work, or customer service, which are key soft skills highlighted in the job description."
+        },
+        "tools": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate mentions proficiency in Microsoft Office tools, which is aligned with the job description's tool requirements. However, there is no mention of Adobe Creative Suite, which is listed as an optional skill in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes terms like 'accounting', 'administrative', and 'financial', which are transferable to the job. However, the lack of specific ITM-related skills is a concern."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.632
+}

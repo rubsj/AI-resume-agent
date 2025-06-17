@@ -1,0 +1,51 @@
+{
+    "resume_id": "24643412",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.431,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No specific certifications mentioned in the resume that match the job description's preferred certifications."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Computer Science from a reputable university, which matches the job description's preferred degrees."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 35.5 yrs (capped to 35.5), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has over 35 years of experience in various roles related to software development and management, which exceeds the minimum required experience of 12 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No explicit mention of leadership roles or achievements that indicate leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, such as leading architecture and design, collaborating with teams, and designing data solutions. However, there is no direct mention of high-level architecture or data warehouse definition."
+        },
+        "skills": {
+            "score": 0.338,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['DBA (substring)', 'SQL (exact)'] | (LLM 0.4): The candidate has a Master's degree in Computer Science and extensive experience in programming languages such as SQL, HTML, ASP, Mysql, PHP,.net, Ajax, Business Analysis, C#, Contracts, Ms Sql Server, Sql Server, Os/2, Unix, etc., which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No mention of strong leadership, motivation abilities, or any soft skills that align with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['HBase (fuzzy)'] | (LLM 0.4): No mention of specific tools like AWS, Python, Snowflake, Hadoop, Hive, Spark, HBase, etc., which are listed as preferred tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as problem-solving, communication, and adaptability, which are essential for the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.427
+}

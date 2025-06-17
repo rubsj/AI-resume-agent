@@ -1,0 +1,51 @@
+{
+    "resume_id": "36861863",
+    "jd_id": "3905292471",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.687,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may indicate a lack of formal recognition for the skills mentioned."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Arts degree in Business Management is listed, but the GPA is not provided, which could affect the relevance to the job description requiring a specific degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.4 yrs (capped to 15.4), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in call center management and customer service, which aligns well with the job description's requirements. The experience includes supervisory roles and customer service responsibilities that match the job responsibilities listed."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's language is clear and concise, which enhances the overall presentation of their qualifications."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervising teams and providing employee training, which indicates some leadership skills. However, there is no explicit mention of leadership qualities or responsibilities that align closely with the job description's requirement for leading others and managing processes."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions responsibilities such as managing service level metrics, supporting management in strategic direction, and handling escalated interactions, which align with the job responsibilities. However, there is no explicit mention of leading others or managing processes, which are key responsibilities in the job description."
+        },
+        "skills": {
+            "score": 0.752,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)', 'Management (exact)'] | (LLM 0.4): The candidate has relevant experience in call center management and customer service, which aligns well with the required skills of managing a team and providing customer service. However, there is no mention of specific tools or technologies used, which could be beneficial for a healthcare operations role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists strong problem-solving ability, conflict resolution proficiency, and CRM skills, which align with the soft skills required in the job description. However, there is no mention of specific soft skills like leading others, managing escalated calls, or having medical knowledge, which are also mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Engagement (fuzzy)'] | (LLM 0.4): No specific tools or technologies are mentioned in the resume, which contrasts with the job description's requirement for knowledge of Ulysses methodology, Tier II, Tier III level support, escalation process, engagement, and process flow."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include customer service standards, call center management experience, and proficiency in customer account software, which are relevant to the job description. However, there is no mention of specific tools or technologies used, which could be beneficial for a healthcare operations role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.517
+}

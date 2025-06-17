@@ -1,0 +1,51 @@
+{
+    "resume_id": "22925443",
+    "jd_id": "3905310343",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.701,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in Accounting, which aligns with the required degree in the job description. However, the GPA is not provided, which could impact the relevance of the education."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as an accountant helper and laboratory technician, which shows a range of skills applicable to the job. However, the experience is not as recent or detailed as what might be expected for an entry-level position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which is not explicitly required but could be beneficial for certain roles."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines specific responsibilities that the candidate does not explicitly match, such as handling accounts payable, managing vendor relations, and reconciling processed work."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills including proficiency in Microsoft Office, excellent mathematical skills, and capability to analyze trends and variances. However, there is no mention of specific certifications or advanced skills like NetSuite ERP System proficiency."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists strong interpersonal, communication, and multi-tasking skills, which align with the soft skills required in the job description. However, there is no explicit mention of attention to detail or ability to work in a team environment."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Excel (fuzzy)'] | (LLM 0.4): The candidate has experience using Microsoft Office tools, which matches one of the required tools in the job description. However, there is no mention of experience with NetSuite ERP System, which is also required."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as a laboratory technician provides transferable skills such as attention to detail and working in a team environment, which are relevant to the job description. However, the experience is not recent or detailed enough to fully align with the entry-level requirement."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.44
+}

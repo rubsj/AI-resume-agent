@@ -1,0 +1,51 @@
+{
+    "resume_id": "41910253",
+    "jd_id": "3903824520",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.45,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not list any certifications, particularly those related to nursing such as AGCNS, which are preferred for the position."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions a degree in Healthcare Management but does not specify the level of education (e.g., bachelor's, master's) nor does it align with the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 23.4 yrs (capped to 23.4), JD requires: 5.0 yrs. | (LLM 0.5): The resume indicates relevant experience in healthcare, specifically as a Healthcare Associate, which aligns with the job requirements. However, the job description prefers candidates with a minimum of 5 years of experience, and the resume does not explicitly state the total years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership roles or achievements in the resume that would indicate the candidate has leadership experience relevant to the job."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on past responsibilities that align with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Training (fuzzy)'] | (LLM 0.4): The resume lists skills such as EPIC, Microsoft Office Suite, Healthcare Systems, Insurance/Billing, etc., which align well with the job requirements for a nursing role. However, there is no mention of specific certifications like AGCNS, which are preferred."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not explicitly mention soft skills such as Evidence-based, Scholarly productivity, Mentoring, etc., which are preferred for the position."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The resume lists proficiency in tools such as Microsoft Office Suite, which matches the tools mentioned in the job description. However, it lacks detail on more specialized tools like Salesforce or Adobe Creative Suite."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume includes a section detailing transferable skills, which could be beneficial. However, these skills are not aligned with the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.338
+}

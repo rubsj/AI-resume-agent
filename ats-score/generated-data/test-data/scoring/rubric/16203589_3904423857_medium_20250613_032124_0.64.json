@@ -1,0 +1,51 @@
+{
+    "resume_id": "16203589",
+    "jd_id": "3904423857",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.711,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A Bachelor's degree in Interior Design is mentioned, but it lacks details such as GPA and graduation year, which could provide more context about the candidate's educational background."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in project management and construction, which matches the job description. However, the resume does not explicitly state experience in the specific responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership skills, but there is no explicit mention of leadership roles or achievements that align with the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job description, such as project management and coordination. However, there is no direct mention of responsibilities like developing project budgets or managing vendor selection."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has experience in project management, construction, and interior design, aligning closely with the job description's required skills. However, there is no mention of specific tools or technologies used."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists strong soft skills such as leadership, communication, and multitasking, which are important for the job. However, these skills are not directly linked to the specific soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume, which contrasts with the job description's requirement for proficiency in certain tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a range of transferable skills, including project management, leadership, and technical skills like AutoCAD. However, these skills are not specifically tied to the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.636
+}

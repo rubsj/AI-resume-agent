@@ -1,0 +1,51 @@
+{
+    "resume_id": "49937469",
+    "jd_id": "3901950312",
+    "domain": "HR",
+    "resume_jd_similarity": 0.474,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the required ones in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree in Organizational Leadership Management and Human Resource Management, which aligns with the preferred degree requirement. However, the lack of specific GPA or graduation year information reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 23.1 yrs (capped to 23.1), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR roles, including responsibilities related to employee relations, recruitment, and policy development, which matches the job responsibilities. The detailed job history provides evidence of transferable skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the use of commas instead of periods in some sections could be considered a minor formatting issue."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but the job description requires specific leadership skills and certifications that are not present in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes leading HR initiatives and managing staff, which aligns with the job responsibilities. However, the lack of direct experience in supervising improvement projects reduces the score."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'HR', 'Employee Relations', 'Event management', 'coaching', and 'employee handbook development'. However, there is no mention of specific certifications like Six Sigma or advanced SharePoint training."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include 'coaching', 'problem-solving', and 'communication', which are soft skills required by the job description. However, there is no explicit mention of public speaking or cultural sensitivity."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office and has worked with HR systems, but lacks specific knowledge of advanced tools like Lean, Six Sigma, or Project management tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various HR roles demonstrates transferable skills, but the lack of specific examples related to the job responsibilities reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.53
+}

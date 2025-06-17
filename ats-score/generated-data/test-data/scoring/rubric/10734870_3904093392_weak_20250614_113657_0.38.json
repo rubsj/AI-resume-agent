@@ -1,0 +1,51 @@
+{
+    "resume_id": "10734870",
+    "jd_id": "3904093392",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.451,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, which is a requirement for the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education history is incomplete and does not match the required degree level of a Bachelor's Degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 8.3 yrs (capped to 8.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in various roles that align with the job responsibilities, including construction, security, and electronics assembly. However, the experience is not detailed enough to fully match the required skills and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, it lacks clarity in some sections, such as the education and certification sections, which affects the overall score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not provide evidence of leadership skills or experience, which is a requirement for the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has experience in roles that could contribute to some of the responsibilities listed in the job description, but lacks specific details about managing projects, conducting technical reviews, and maintaining data in Excel and web-based software."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'basic', 'customer service','multi-tasking','schematics', and'soldering'. However, there is no mention of specific certifications or advanced skills like 'Engineering' or 'Information Technology' required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate any soft skills that are explicitly mentioned in the job description, such as 'Project/Program Management', 'Construction Administration', 'Technical Reviews', 'Data Management', 'Report Preparation', 'Communication', and 'Leadership'."
+        },
+        "tools": {
+            "score": 0.21,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate does not list any tools or technologies used, which is a requirement for the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like 'customer service','multi-tasking', and'schematics', but lacks the depth and specificity required for the job description's responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.375
+}

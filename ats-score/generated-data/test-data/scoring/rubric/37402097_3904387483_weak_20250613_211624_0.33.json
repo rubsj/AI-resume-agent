@@ -1,0 +1,51 @@
+{
+    "resume_id": "37402097",
+    "jd_id": "3904387483",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.427,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Clinical Medical Assistant degree and a High School Diploma, neither of which align closely with the job requirements."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Medical Assistant, which aligns with the job requirements, despite having unrelated experience as a teacher."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No mention of leadership skills or experiences in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No mention of responsibilities in the resume matches the job requirements."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Education (exact)'] | (LLM 0.4): The candidate has skills in Anatomy, Arts, EMR software, front office, injections, Letters, Medical Terminology, patient care, Physiology, and ultra-sound, which align with the job requirements but lacks specific education and tools."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No mention of soft skills in the resume matches the job requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No mention of tools used in the resume matches the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like communication, patient care, and organizational skills, which could be relevant to the job, but lack specific details."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.329
+}

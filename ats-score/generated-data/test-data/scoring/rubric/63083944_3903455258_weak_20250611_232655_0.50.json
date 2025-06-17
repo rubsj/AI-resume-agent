@@ -1,0 +1,51 @@
+{
+    "resume_id": "63083944",
+    "jd_id": "3903455258",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.677,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has only one certification mentioned, which is not directly related to construction management or project management, unlike the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two degrees listed, but neither is directly related to construction management or engineering, which are preferred degrees in the job description. The lack of specific degree in these fields reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in various managerial roles, including project management, operations, and safety management, which closely matches the required experience level and responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's language is clear and concise, which enhances the ATS score."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles, but there is no explicit mention of leadership potential or the desire to learn and grow, which are optional skills mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing teams, resolving conflicts, and ensuring compliance with regulations, which aligns with the job responsibilities described in the job description. However, there is no direct mention of managing large, complex projects or representing the company to clients, which are key responsibilities in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in project management and operations, which aligns well with the required skills of the position. The resume also mentions attention to detail, communication skills, and technical proficiency, which are relevant to the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights skills such as communication, leadership, and integrity, which are soft skills mentioned in the job description. However, there is no explicit mention of ethics, trust, or feedback, which are also important soft skills."
+        },
+        "tools": {
+            "score": 0.12,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['MS Project (fuzzy)', 'MS Office (fuzzy)'] | (LLM 0.4): The job description mentions specific tools like Viewpoint, Procore, MS Project, and MS Office, but the candidate's resume does not explicitly mention proficiency or usage of these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills that can be transferred to the new role, such as attention to detail, communication, and technical proficiency. However, there is no explicit mention of specific tools or technologies that are required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.497
+}

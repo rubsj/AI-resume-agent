@@ -1,0 +1,51 @@
+{
+    "resume_id": "23497307",
+    "jd_id": "3902742492",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.475,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly mention any required certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelor of Arts or Bachelor of Science Degree (fuzzy)'] | (LLM 0.5): The candidate holds a Bachelor of Arts degree, which matches the preferred degree requirement in the job description. However, the degree is in Communication, which may not be directly related to the job requirements."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in project management roles, including experience with Agile methodology and Microsoft AX, which are mentioned as optional skills in the job description. The experience also includes managing projects and clients, which aligns with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's experience is clearly presented and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, such as Sr. Project Manager, indicates their ability to lead teams and manage projects, which aligns with the leadership aspect of the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing CI within a large-scale enterprise, performing audits, and facilitating reviews, which align with the job responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in project management, which aligns well with the job requirements. They have also demonstrated proficiency in Microsoft Office Suite and Dynamic AX, which are mentioned as required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong verbal and written communication skills, which align with the soft skills required in the job description. Additionally, they demonstrate detail-oriented and multitasking abilities."
+        },
+        "tools": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office Suite and Dynamic AX, which are mentioned as required tools in the job description. They also have experience with ServiceNow CMDB modules, which is an optional skill."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in client relations, leadership, and team building can be considered transferable skills, but these are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.565
+}

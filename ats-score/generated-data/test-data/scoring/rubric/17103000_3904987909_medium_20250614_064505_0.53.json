@@ -1,0 +1,51 @@
+{
+    "resume_id": "17103000",
+    "jd_id": "3904987909",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.41,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the required skills in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Business Administration (MBA) and a Bachelor of Science in Electrical Engineering, which are relevant to the education requirements in the job description. However, the lack of specific details about the years and GPA reduces the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in engineering management and systems engineering, which aligns with the job responsibilities. However, the lack of detail about specific tools and technologies used reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing projects demonstrates strong leadership skills. The mention of technical leadership and career development initiatives further supports this score."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing teams and driving continuous improvement initiatives align with the job responsibilities. However, the lack of detail about specific tools and technologies used reduces the score."
+        },
+        "skills": {
+            "score": 0.564,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Engineering (exact)', 'Continuous Improvement (substring)'] | (LLM 0.4): The candidate has extensive experience in engineering and systems engineering, which aligns well with the required skills in software engineering. The mention of leadership roles and continuous improvement initiatives also supports the soft skill of problem-solving."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles and managing teams demonstrates strong soft skills such as teamwork and communication. However, the lack of detail about specific soft skills like problem-solving and adaptability reduces the score."
+        },
+        "tools": {
+            "score": 0.021,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['C# (substring)'] | (LLM 0.4): No specific tools or technologies are mentioned in the resume that match the required skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in project management, risk analysis, and process improvement can be transferred to software engineering roles. However, the lack of detail about specific skills like coding and testing reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.527
+}

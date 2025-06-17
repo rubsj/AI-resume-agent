@@ -1,0 +1,51 @@
+{
+    "resume_id": "28298773",
+    "jd_id": "3903839992",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.72,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's preference for degrees in specific fields."
+        },
+        "education": {
+            "score": 0.734,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['accounting (exact)', 'business (exact)'] | (LLM 0.5): The candidate holds relevant degrees in accounting, which aligns well with the job description's preferred educational background."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.3 yrs (capped to 17.3), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has significant experience in various accounting roles, including accounts payable, which matches the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not provide evidence of leadership skills, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that overlap with the job description's responsibilities, such as accounts payable processing and reconciliation."
+        },
+        "skills": {
+            "score": 0.96,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting, accounts payable, and other relevant skills, aligning closely with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include some soft skills like problem-solving and attention to detail, but there is no explicit mention of all the soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Time and Expense (fuzzy)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used, unlike the job description's requirement for proficiency in Share Point, DELTEK Costpoint, and Time and Expense."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills cover a broad range of areas relevant to the job description, but there is no explicit mention of all transferable skills listed."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.64
+}

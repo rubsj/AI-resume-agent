@@ -1,0 +1,51 @@
+{
+    "resume_id": "23734441",
+    "jd_id": "3820392998",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.716,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which may be preferred by the employer based on the job description."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Accounting from Walden University, which is directly relevant to the job requirements. Additionally, the candidate has a Bachelor's degree in Business Administration and an Associate's degree in Accounting, both of which provide foundational knowledge in business and accounting."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 19 years of experience in accounting roles, which is more than the minimum requirement of 10-15 years. However, the job description requires leadership experience, which is not explicitly mentioned in the candidate's resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The formatting is consistent and professional."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership experience or positions of authority, which is a key requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not explicitly list responsibilities that match those in the job description, such as leading the accounting team, building external relationships, or driving process improvements."
+        },
+        "skills": {
+            "score": 0.46,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the job requirements. The resume includes specific skills like 'Accounting', 'Accountant', 'accounts payable', and 'Excel', which are relevant to the position."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions some soft skills like 'instruction' and 'attention to detail', but does not explicitly state skills like 'entrepreneurial mindset', 'cross-functional collaboration', or'strong supervisory skills', which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Word and Excel, which are mentioned in the job description under tools and technologies. However, the candidate does not mention experience with ERP systems, which is also listed as a preferred tool."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists a variety of transferable skills, such as 'accounting', 'finance', and 'Excel', which could be beneficial in the role. However, there are no explicit mentions of skills related to manufacturing, CPG, protein environment, or Canopy, which are mentioned in the optional skills section of the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

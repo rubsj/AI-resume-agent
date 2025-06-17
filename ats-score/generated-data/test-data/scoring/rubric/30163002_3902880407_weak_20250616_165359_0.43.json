@@ -1,0 +1,51 @@
+{
+    "resume_id": "30163002",
+    "jd_id": "3902880407",
+    "domain": "HR",
+    "resume_jd_similarity": 0.471,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which could be beneficial for this role."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree in Psychology, which is not directly related to Human Resources but may provide some foundational knowledge."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in roles such as HR Generalist and Office Administrative Assistant, which align with the job description. However, the experience is not as recent or detailed as required."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully match the job responsibilities listed in the description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'business development', 'central point of contact', 'customer service', 'data analysis', and 'team-player attitude'. However, there is no mention of specific HR tools like HRIS or ERP systems."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong soft skills such as customer service, communication, and reading comprehension, which are essential for this role."
+        },
+        "tools": {
+            "score": 0.33,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 2}. Matched: ['Database (exact)', 'Spreadsheet programs (fuzzy)', 'ERP systems (fuzzy)'] | (LLM 0.4): The candidate has experience using general office tools like Microsoft Office, but lacks specific HR tools like HRIS or ERP systems."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from previous roles, such as attention to detail, customer service, and team leadership, which can be applied to the new position."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.433
+}

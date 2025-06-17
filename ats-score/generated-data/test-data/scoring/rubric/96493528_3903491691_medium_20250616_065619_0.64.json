@@ -1,0 +1,51 @@
+{
+    "resume_id": "96493528",
+    "jd_id": "3903491691",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.507,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume, matching the absence of certification requirements in the job description."
+        },
+        "education": {
+            "score": 0.775,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds a Bachelor's Degree in University Studies and a Master's Degree in Business/Management and Leadership, which are relevant to the finance domain but lack specific details that could enhance the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 20.6 yrs (capped to 20.6), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in various roles that involve sales, relationship management, and credit analysis, closely aligning with the job description's requirements for managing portfolios and client relationships."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in managing teams and branches, indicating leadership skills, but the resume does not provide detailed examples of leadership achievements or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles cover many aspects of the job description, including client relationship management, credit underwriting, and portfolio management, but lacks specifics on financial strategies and legal documentation preparation."
+        },
+        "skills": {
+            "score": 0.696,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ' (substring)'] | (LLM 0.4): The candidate possesses skills in Credit Analysis, Microsoft Office, Relationship Building, and Sales, which align closely with the required skills of Finance and Sales in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates soft skills such as attention to detail and a strong work ethic, which are aligned with the job description's requirements, but does not explicitly mention a sense of urgency or ability to work outside of normal business hours."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Excel (fuzzy)'] | (LLM 0.4): No tools or technologies are explicitly mentioned in the candidate's resume, unlike the job description which requires proficiency in Excel, Credit Underwriting Software, and Portfolio Management Software."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like relationship building and sales are transferable to the role, but the lack of explicit mention of financial strategies and legal expertise limits the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.635
+}

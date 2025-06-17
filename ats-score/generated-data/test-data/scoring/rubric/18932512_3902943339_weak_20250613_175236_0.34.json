@@ -1,0 +1,51 @@
+{
+    "resume_id": "18932512",
+    "jd_id": "3902943339",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.433,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned, and the required certification (AICP) is not listed."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate only holds a high school diploma, which does not meet the preferred degree requirements in urban planning or design."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.5 yrs (capped to 18.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in various customer service roles, which closely matches the job responsibilities and required experience. The experience is also relevant to the transportation domain."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership roles or achievements that would indicate the candidate's ability to lead interdisciplinary teams."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job responsibilities require leadership in project management and technical report development, which are not clearly demonstrated in the resume."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant experience in call center operations and customer service, which aligns with the required skills of managing projects, analyzing data, and providing solutions. However, the lack of formal education in urban planning or design reduces the score."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills such as solutions-focused, client-facing, and project management are not explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in Microsoft Office, ArcGIS, Adobe Creative Suite, or other tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like data entry, customer service, and call center experience are transferable to the role but lack depth in terms of specific achievements or certifications."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.337
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "78403342",
+    "jd_id": "3905323805",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in accounting and general studies, which are aligned with the job requirements. However, the lack of specific details about GPA and graduation dates reduces the score slightly."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.6 yrs (capped to 14.6), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, including experience in auditing, finance, and payroll, which matches the job description. The detailed job descriptions in the resume provide clear evidence of past responsibilities and achievements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's use of language and structure supports clear communication, which is important for the job."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles like Team Lead, which is aligned with the job description. However, there is no direct evidence of leadership skills or achievements that specifically match the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.421,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Review/reconcile general ledger accounts (fuzzy)'] | (LLM 0.5): The candidate's job responsibilities in previous roles align with the job description, particularly in areas like reconciliation, journal entries, and payroll processing. However, there is no direct match for responsibilities like investigating and resolving audit findings, which are mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has a strong background in accounting and auditing, which aligns well with the job requirements. They have experience in various accounting roles and possess skills in Excel, QuickBooks, and MS Office Suites, which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as strong communication and the ability to handle sensitive information, which are aligned with the job description. However, the lack of specific examples or quantifiable achievements reduces the score."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 1}. Matched: ['General Ledger (substring)', 'Purchase Orders (substring)', 'Finance (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like QuickBooks, Excel, and MS Office Suites, which are mentioned in the job description. However, there is no explicit mention of experience with General Ledger, Journal Entries, Accruals, Purchase Orders, Tax, and Payroll Module, which are key tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like critical thinking, attention to detail, and problem-solving, which are generally aligned with the job description. However, there is no direct evidence of experience in specific areas like cost-effective program design or reconciliation of tax, which are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.59
+}

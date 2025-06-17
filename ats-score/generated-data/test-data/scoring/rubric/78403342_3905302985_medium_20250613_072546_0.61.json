@@ -1,0 +1,51 @@
+{
+    "resume_id": "78403342",
+    "jd_id": "3905302985",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.657,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be a concern given the required experience and education levels in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in accounting and general studies, but lacks specific details about GPA and graduation dates, which could impact the assessment of their educational qualifications."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.6 yrs (capped to 14.6), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in accounting roles, including responsibilities that closely match those outlined in the job description, such as preparing financial reports, maintaining accounts, and assisting in budgetary controls."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as being a Team Lead, which is relevant to the job description. However, there is no explicit mention of leadership skills or experience in the context of the job description."
+        },
+        "responsibilities": {
+            "score": 0.423,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Other duties as assigned (substring)'] | (LLM 0.5): The candidate's job responsibilities align with the job description, particularly in areas like preparing financial reports, maintaining fiscal records, and working with the finance manager on financial standing."
+        },
+        "skills": {
+            "score": 0.62,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Analyst (exact)', 'Finance (fuzzy)', 'Excel (exact)'] | (LLM 0.4): The candidate has a strong background in accounting, auditing, and finance, aligning closely with the job description's required skills. The resume also includes experience in various accounting roles, demonstrating proficiency in key areas such as budgeting, financial statements, and internal auditing."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are somewhat aligned with the job description's expectations, including attention to detail and ethical standards. However, there is no explicit mention of customer service or compliance with laws and regulations."
+        },
+        "tools": {
+            "score": 0.43,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with tools like QuickBooks and Excel, which are mentioned in the job description's optional skills. However, there is no explicit mention of the required Sage 50 Accounting software."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as critical thinking, client relationship management, and quality assurance, which are beneficial for the role. However, there is no explicit mention of specific soft skills like unmatched customer service or dedication to helping customers."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.609
+}

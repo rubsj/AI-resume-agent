@@ -1,0 +1,51 @@
+{
+    "resume_id": "23110214",
+    "jd_id": "3903848245",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.42,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Masters of Science in Healthcare and a Bachelor of Engineering, which aligns with the required education level but lacks details about the institutions and GPAs."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.5 yrs (capped to 17.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare IT, strategic planning, business requirements gathering, budget management, and customer service, which matches the job description. However, the job description focuses more on mechanical design and development, which is not directly mentioned in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing staff, budgets, and projects demonstrates leadership skills, which align with the job description's requirement for leadership roles."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing budgets, leading teams, and implementing projects align with the job description's focus on leadership and project management. However, the job description emphasizes technical skills and mechanical design, which are not directly reflected in the responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Engineering', 'Information Technology', 'CAD modeling functions', 'Design best practices', and 'Risk management'. However, there is no mention of specific tools like Solid Works or PDM."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'instilling trust', 'decision quality', and 'optimizing work processes' align with the soft skills required in the job description. However, the job description does not explicitly mention these soft skills."
+        },
+        "tools": {
+            "score": 0.023,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['SLA (substring)', 'FDA requirements (fuzzy)'] | (LLM 0.4): No specific tools are mentioned in the resume that match the job description's requirements such as Solid Works, PDM, Oracle Agile PLM software, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'negotiation', 'project management', and 'team leadership' are transferable from the candidate's healthcare IT background to the mechanical design role. However, they may not be as directly applicable as technical skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.473
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "26456899",
+    "jd_id": "3905302212",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.401,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, while the job description mentions 'ISO 26262' as a preferred certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Electronics and Communication Engineering Technology, which aligns with the required degree of 'Engineering'. However, the Associate degree is not mentioned, and there is no information about the GPA."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in engineering roles, including working with software testing, physical checks, and beverage quality assurance, which aligns with the job responsibilities. The experience is slightly less than the required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks details in some sections, such as the lack of specific dates for education and experience."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership skills or experience in the candidate's resume, while the job description mentions 'Cross-functional Interaction' and 'Business Anchoring' as soft skills."
+        },
+        "responsibilities": {
+            "score": 0.316,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Strong communication skills (fuzzy)'] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, such as developing algorithms, implementing software components, and collaborating with hardware engineers. However, there is no mention of conducting simulation and testing, which is part of the responsibilities."
+        },
+        "skills": {
+            "score": 0.317,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Communication Skills (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Construct, test and troubleshoot AC/DC circuits', 'Utilize oscilloscopes to measure AC frequency', 'Very proficient in soldering', and 'Skilled in the use of hand tools for repairing and installing electronics'. However, there is no mention of 'Model-based Design' or 'AUTOSAR', which are preferred skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists strong oral and written communication skills, which aligns with the soft skills required in the job description. However, there is no mention of 'Cross-functional Teamwork' or 'Business Development', which are optional skills."
+        },
+        "tools": {
+            "score": 0.217,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Software Development Tools (fuzzy)', 'Disability (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Test Manager, Tera Term, and GShell, which are mentioned in the job description under 'Software Tools'. However, there is no mention of Hardware-in-the-loop (HIL) setups or Simulation Tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'Adapt to new technology at an accelerated rate', which aligns with the job responsibilities. However, there is no mention of 'Model-based Design Tools' or 'Automotive Communication Protocols', which are preferred skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.477
+}

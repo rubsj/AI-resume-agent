@@ -1,0 +1,51 @@
+{
+    "resume_id": "15906625",
+    "jd_id": "3903832053",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.553,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['CPA (substring)'] | (LLM 0.5): The candidate does not list any certifications, specifically CPA, which is required for the job description."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor's degree in Accounting, which is relevant to the job description. However, the lack of GPA information and additional details about the education section may impact the score."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has a total of 19.5 years of experience in accounting, which is more than the required minimum of 3 years. The detailed job descriptions provide evidence of relevant experience in accounting and auditing tasks."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The formatting is clean and organized."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not indicate any leadership roles or responsibilities, which contrasts with the job description's expectation of mid-senior level experience."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's expectations for performing diversified accounting and auditing tasks under supervision. However, the lack of detail about specific responsibilities may lower the score."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and bookkeeping, which aligns well with the required skills of the job description. The resume also lists advanced bookkeeping skills, financial statement analysis, and tax return filing, which are all relevant to the position."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong organizational abilities and effective communication, match the job description's requirements. The resume mentions being a flexible team player, which is also beneficial."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their work, which contrasts with the job description's requirement for proficiency in tools like QuickBooks and other accounting software."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like proficiency in Microsoft Office applications, which are generally useful but do not directly align with the job description's specific tool requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.628
+}

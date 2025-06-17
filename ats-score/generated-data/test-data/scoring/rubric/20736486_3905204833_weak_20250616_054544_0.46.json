@@ -1,0 +1,51 @@
+{
+    "resume_id": "20736486",
+    "jd_id": "3905204833",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.401,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Certified Nursing Assistant certification, which is relevant but does not cover the specific certifications required for the job."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a GED and a Certified Nursing Assistant certificate, which are relevant but do not match the preferred degree of Bachelor's Degree mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has experience in healthcare administration and patient care, which aligns with the job's responsibilities. However, the job description requires specific skills in research, document review, and analysis that are not explicitly mentioned in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly demonstrate leadership skills, which are mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job responsibilities, particularly in reviewing hearing requests and ensuring accurate documentation. However, there is no explicit mention of obtaining additional information or analyzing documents for case reevaluation."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Analysis (exact)'] | (LLM 0.4): The candidate has strong interpersonal skills, which aligns well with the job's requirement for verbal and written communication. However, there is no mention of specific skills in research, document review, and analysis, which are also required."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as attention to detail and problem-solving, align with the job's requirements. However, there is no explicit mention of adaptability, collaboration, or leadership."
+        },
+        "tools": {
+            "score": 0.465,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience using Microsoft Office, which is one of the tools listed in the job description. However, they lack experience with Adobe Creative Suite, Facebook, Salesforce, AGPA (9PB04), and SSA (3PBAU) certifications."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as recordkeeping and bookkeeping, are relevant but do not cover all the specific skills required for the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.457
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "31536294",
+    "jd_id": "3903830250",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.439,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No required certifications listed in the job description"
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): Bachelor of Arts in Business Administration from Pennsylvania State University does not match the required degree level or field"
+        },
+        "experience": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 5.0 yrs. | (LLM 0.5): Total experience years of 0.0 do not meet the required 5 to 7 years"
+        },
+        "grammar_cleanliness": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Resume lacks details in sections that should have specific information"
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership in the resume"
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No match found for the candidate's responsibilities against the job description"
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): No required skills listed in the job description"
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills mentioned in the resume"
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No required tools listed in the job description"
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No transferable skills mentioned in the resume"
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.25
+}

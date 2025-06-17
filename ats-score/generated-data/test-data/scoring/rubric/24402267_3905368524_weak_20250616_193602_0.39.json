@@ -1,0 +1,51 @@
+{
+    "resume_id": "24402267",
+    "jd_id": "3905368524",
+    "domain": "HR",
+    "resume_jd_similarity": 0.476,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's lack of certification requirement."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The MBA degree in Human Resource is relevant, but the B.COM degree does not directly align with the job description's educational requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.2 yrs (capped to 3.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in HR roles that match the job description's responsibilities, particularly in areas like Recruitment, Performance Management, and HR Administration."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership roles or achievements in the resume, which contrasts with the job description's potential need for mentoring program eligibility assistants."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks details on responsibilities that specifically match the job description's responsibilities, such as researching policies, drafting new policies, and interpreting eligibility requirements."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as HRIS, ISO, Recruitment, Performance Appraisal, Training & Development, Leave & Attendance, and Entry & Exit, which align well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not highlight soft skills that are crucial for the job, such as strong writing skills, interpretation of policy, effective communication, problem-solving, gathering information, and assessing client needs."
+        },
+        "tools": {
+            "score": 0.048,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ARIES (fuzzy)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used, unlike the job description's requirement for knowledge of ARIES, SNAP, Medicaid, TEA, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like HRIS, ISO, Recruitment, Performance Appraisal, Training & Development, Leave & Attendance, and Entry & Exit can be transferred to the role, but the lack of detail on specific responsibilities reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.391
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "23513618",
+    "jd_id": "3904379850",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.552,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree but lacks specific certifications like CPA, which are preferred in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Accounting, which aligns well with the job requirements, but lacks a Bachelor's degree from a recognized institution."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 14.6 yrs (capped to 14.6), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting and finance, but the job requires more senior-level experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience in previous roles, but the job description specifically mentions leadership experience as a requirement."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, but there is no direct match."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as Accounting, Accountant, and Financial Analysis, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like Attention to Detail and Customer Satisfaction, which are relevant to the job requirements."
+        },
+        "tools": {
+            "score": 0.176,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Financial Statement Audits (fuzzy)', 'Dental (fuzzy)'] | (LLM 0.4): The candidate lacks experience with tools mentioned in the job description such as SOX, COBIT, COSO, US GAAP, PCAOB, etc."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as Budgeting, Financial Analysis, and Leadership that could be beneficial in the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.494
+}

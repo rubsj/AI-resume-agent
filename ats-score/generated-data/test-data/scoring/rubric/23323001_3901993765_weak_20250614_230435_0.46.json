@@ -1,0 +1,51 @@
+{
+    "resume_id": "23323001",
+    "jd_id": "3901993765",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.469,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has only one certification mentioned, which is relevant to frontline management. There is no evidence of certifications in statistical software packages or Python, which are preferred skills."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has multiple certificates but lacks formal degrees, particularly in finance or business management, which are preferred degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 10.6 yrs (capped to 10.6), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in various roles that involve project management, coordination, and customer service, which aligns with the job responsibilities. However, there is no explicit mention of leading data analytics initiatives or having experience with specific tools like Python or SQL."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary provides a clear overview of their skills and experience."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly demonstrate leadership skills or experience in leading data analytics initiatives, which are key aspects of the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as project management, coordination, and stakeholder engagement, which align with the job responsibilities. However, there is no explicit mention of leading data analytics initiatives or constructing models/data applications."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a wide range of skills including customer service, payroll, receptionist, retail sales, statistics, cash handling, induction, and project management, which aligns with the job requirements. However, there is no explicit mention of advanced statistical methods, predictive modeling, or Python, which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include time management, communication, detail-oriented, goal-oriented, and team player, which align with the soft skills required. However, there is no explicit mention of technical and communication skills, problem-solving, business acumen, or data enthusiasm."
+        },
+        "tools": {
+            "score": 0.16,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Project and Ms Office, which are tools mentioned in the job description. However, there is no evidence of experience with Python, SQL, Tableau, or MDLC best practices."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in customer service, project management, and communication are transferable to the role. However, there is no explicit mention of leadership skills or specific technical skills like Python or SQL."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.464
+}

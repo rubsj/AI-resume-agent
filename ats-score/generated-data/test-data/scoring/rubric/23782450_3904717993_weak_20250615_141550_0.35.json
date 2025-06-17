@@ -1,0 +1,51 @@
+{
+    "resume_id": "23782450",
+    "jd_id": "3904717993",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.471,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest education is a High School Diploma, which does not meet the preferred requirement of a four-year degree program."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Resume: 4.8 yrs (capped to 4.8), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in sales management roles, but the job requires experience in lean operations and manufacturing, which is not mentioned in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume that matches the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has skills in 'Management' and 'Team management', which align with the job requirements. However, there is no evidence of proficiency in 'Manufacturing' or 'Lean operations'."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists skills like 'Focused on customer satisfaction' and 'Efficient', which align with some soft skills required in the job description. However, there is no evidence of skills like 'Energy creation' or 'Integrity'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are listed in the resume, and the job description mentions specific tools like WMS and Operations technology that are not aligned with the candidate's experience."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Client relations specialist', 'Conflict resolution techniques', and 'Team management', which could be relevant to the job. However, these skills are not as directly aligned with the job requirements as those listed under'skills'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.352
+}

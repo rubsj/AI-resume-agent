@@ -1,0 +1,51 @@
+{
+    "resume_id": "14449423",
+    "jd_id": "3902319512",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.672,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned match the job requirements."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Computer Science and a Diploma in Accounting, which are relevant degrees but not specifically required."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.0 yrs (capped to 18.0), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Staff Accountant and in other finance-related roles, which closely matches the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.413,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bank reconciliations (fuzzy)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.552,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Word (exact)'] | (LLM 0.4): The candidate has relevant skills such as Accounting, billing, C programming, closing, consulting, credit, etc., which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as being detail-oriented and analytical, are mentioned in the job description, indicating alignment."
+        },
+        "tools": {
+            "score": 0.47,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Word (exact)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Excel, Outlook, Word, and Epicor Prophet 21, which are listed as required skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like customer care, data entry, and management are transferable and align with the job requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.582
+}

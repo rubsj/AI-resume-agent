@@ -1,0 +1,51 @@
+{
+    "resume_id": "23139819",
+    "jd_id": "3905828803",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.455,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.494,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Business Administration (substring)'] | (LLM 0.5): The candidate holds advanced degrees in business administration and accounting, which aligns well with the preferred degree requirements. However, there is no mention of any specialized certifications or advanced degrees in finance."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.1 yrs (capped to 14.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting, financial analysis, and management roles, which closely matches the job responsibilities and required experience years. The experience spans over 14 years, demonstrating a strong track record in the field."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership roles or responsibilities in the candidate's resume, and the job description does not require any specific leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities listed in the job description, such as conducting financial analysis, participating in due diligence, and managing portfolio companies. However, there is no mention of specific responsibilities related to financial modeling or LBO models."
+        },
+        "skills": {
+            "score": 0.696,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting, financial analysis, and management, which aligns well with the required skills in finance and accounting. The education background in business administration and accounting provides a strong foundation."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong analytical abilities, communication skills, and the ability to manage multiple projects, match the soft skills required in the job description. There is no mention of specific soft skills related to leadership or teamwork."
+        },
+        "tools": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Financial modeling (fuzzy)', 'LBO models (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like ADP Payroll, QuickBooks, and Microsoft Office, which are aligned with the tools and technologies listed in the job description. However, there is no mention of specific financial modeling software or advanced financial analysis tools."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as accounting, financial analysis, and management, are relevant to the job description. However, there is no mention of specific transferable skills related to financial modeling or industry-specific knowledge."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.613
+}

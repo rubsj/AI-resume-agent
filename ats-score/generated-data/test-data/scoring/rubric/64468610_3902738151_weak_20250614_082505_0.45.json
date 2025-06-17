@@ -1,0 +1,51 @@
+{
+    "resume_id": "64468610",
+    "jd_id": "3902738151",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.447,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which are required for the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Master's degree in Computer Science and a Bachelor's degree in Electronics and Communication Engineering, which are related fields but do not directly match the job description requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 30.9 yrs (capped to 30.9), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has significant experience in software engineering and management roles, particularly in the field of broadcast media and video editing, which aligns with the job description's requirements for experience in manufacturing and assembly processes."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading development teams, hiring, HR personnel procedures, performance reviews, and project transitions, which indicates leadership skills. However, these skills are not directly related to the manufacturing sector."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that align with assembling PCBA's, modules, and subassemblies, top-level system integration, de-soldering and rework of failed components, surface mount, fine pitch, and through hole soldering, or processing of parts using ovens."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in software engineering and management, which aligns well with the required skills of 'Management' and 'Manufacturing'. The skills listed in the resume cover areas such as C++, Windows, STL, OOP, MFC, and more, which are relevant to the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks information on soft skills such as good dexterity, hand-eye coordination, computer skills, ESD and FOD awareness, teamwork, and communication, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their work, which contrasts with the job description's requirement for knowledge of tools like microscopes, hand tools, process ovens, UV curing epoxies, masking, and conformal coating."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in team management, project transitions, and leadership skills can be considered transferable to the manufacturing environment, although they lack direct experience in the specific manufacturing tasks mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.452
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "34962725",
+    "jd_id": "3902917900",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.439,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which could be beneficial for roles requiring specific qualifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Health Care Management/Health Administration and a High School Diploma, which are relevant to the healthcare domain but lack depth compared to the required Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.391,
+            "reason": "(Rule 0.5): Resume: 1.0 yrs (capped to 1.0), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare settings, including internships in preventative healthcare, undergraduate research, and healthcare management, which aligns with the job responsibilities. However, the total experience is only 1 year, which is less than the required 12+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in healthcare management and preventative healthcare shows leadership potential, but the total experience is limited, affecting the score."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not explicitly list responsibilities that match those required in the job description, such as leading project teams, managing quality and regulatory business systems, or ensuring alignment with IT processes."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has strong leadership skills, enthusiasm for interacting with people, ability to work in a fast-paced environment, understanding of HIPAA regulations, and strong computer skills, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong leadership skills and enthusiasm for interacting with people, which are soft skills aligned with the job requirements. However, the resume lacks explicit mention of other soft skills like stakeholder management and conflict resolution."
+        },
+        "tools": {
+            "score": 0.048,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Project (fuzzy)'] | (LLM 0.4): The candidate does not mention proficiency in any tools listed in the job description, such as Smartsheet, MS Project, or Project Management Software."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in strong computer skills and understanding of HIPAA regulations are transferable to the job, but the lack of specific technical skills and certifications reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.309
+}

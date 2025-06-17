@@ -1,0 +1,51 @@
+{
+    "resume_id": "17407184",
+    "jd_id": "3885825712",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.653,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a CPA certification, which is relevant but not explicitly mentioned in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in Accounting and Business Administration, which are relevant to the job requirements. However, the Education degree might not be directly applicable."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 32.5 yrs (capped to 32.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in accounting and training, which matches the job requirements. The experience in project management and instructional design is also beneficial."
+        },
+        "grammar_cleanliness": {
+            "score": 0.95,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading projects and training programs, but the job description does not emphasize leadership as a key requirement."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with most responsibilities listed in the job description, except for specific tasks like working with NetSuite ARM."
+        },
+        "skills": {
+            "score": 0.368,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills such as Accounting, Finance, and Instructional Design, which align well with the job requirements. However, there is a lack of specific technical skills like NetSuite ARM user experience."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like detail-oriented, analytical, organized, self-motivated, and confidence in a visible role, which are essential for the job."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate lacks experience with tools mentioned in the job description, such as NetSuite and Excel at an advanced level."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles, such as project management and leadership, which could be useful in the new position."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.543
+}

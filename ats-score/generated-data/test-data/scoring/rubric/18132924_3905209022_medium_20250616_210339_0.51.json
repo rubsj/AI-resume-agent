@@ -1,0 +1,51 @@
+{
+    "resume_id": "18132924",
+    "jd_id": "3905209022",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.53,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a 'Certified Public Accountant (CPA)' certification, which is relevant but not specifically mentioned in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a degree in 'Accounting' and 'Informatics Engineering', which are related fields but not explicitly required by the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.1 yrs (capped to 15.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has significant experience in accounting and auditing roles, including responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly mention leadership experience or skills, which are important for the senior-level position described in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that closely match the job responsibilities listed in the job description, such as conducting audits and reconciliations."
+        },
+        "skills": {
+            "score": 0.344,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['CIA (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Accounting/Auditing' and 'Information Technology', which match the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Effective time management' and 'Strong organizational skills', which are beneficial for the role but not explicitly mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ACL software (fuzzy)'] | (LLM 0.4): The candidate mentions proficiency in various accounting software, which matches the tools and technologies required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's technical summary provides transferable skills that could be useful in the role, such as proficiency in various software and systems."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.506
+}

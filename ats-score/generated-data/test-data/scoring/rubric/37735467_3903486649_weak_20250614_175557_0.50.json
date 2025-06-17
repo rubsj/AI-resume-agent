@@ -1,0 +1,51 @@
+{
+    "resume_id": "37735467",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.462,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications mentioned in the resume match the required skills in the job description."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume mentions only two degrees: Associate of Science in Computer Engineering Technology and Automotive Mechanics. Neither degree matches the required field of Information Technology."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 6.2 yrs (capped to 6.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in Sales, Deli, and Security roles. The Sales experience aligns well with the job responsibilities but lacks specific details related to the required skills like Information Technology, Purchasing, and Supply Chain."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks specific details in some sections, which could affect its effectiveness in matching the job description."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience in managing teams and achieving sales targets. However, the resume lacks details on leading cross-functional initiatives and collaborating with suppliers."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes leading teams and managing operations, which aligns with the job responsibilities. However, the resume lacks specifics on leading cross-functional initiatives, improving customer experience, and developing tools and automation."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Inventory control procedures, Cash handling accuracy, Dispute mediation, Relationship selling, Merchandising knowledge, Sales expertise, Cash register operation, Client account management, Excellent communication skills, Market research and analysis, Product Sales, Retail merchandising expertise. However, there is no mention of Information Technology, Purchasing, Supply Chain which are required skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as self-starter, organized, data extraction and analytical capabilities, and customer-centric philosophy. However, the resume lacks details on tactical and strategic activities and high energy environment."
+        },
+        "tools": {
+            "score": 0.14,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The resume does not mention any tools or technologies used, while the job description requires proficiency in Excel, SQL, and Process Improvement Techniques."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like communication, problem-solving, and teamwork from their previous roles. However, these skills are not directly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.496
+}

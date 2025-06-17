@@ -1,0 +1,51 @@
+{
+    "resume_id": "62809577",
+    "jd_id": "3885104612",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.784,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement or preferred skill in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Associate’s degree in Accounting (fuzzy)'] | (LLM 0.5): The resume mentions an Accounting degree but does not specify the level of education, which is an Associate's degree preferred in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in various accounting roles that match the job responsibilities, particularly in Accounts Payable, Accounts Receivable, and Project Accounting."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume, which could be important for the role."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, such as managing accounts, processing invoices, and project financial communication."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills in Accounting, Auditing, Finance, and specific tools like Sage 100, CMiC, and AIA Documents, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like self-starter, multitasking, and strong communication, which are beneficial for the role, but may lack experience in fast-paced environments or small business organization."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Sage 100, CMiC, and AIA Documents, which are mentioned in the job description, but lacks experience with other tools like Government Reports, Tax Returns, Construction Draws, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like accounting software usage, administrative tasks, and financial reporting, but lacks specific skills like Construction Accounting or Internal and External Partner support."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.533
+}

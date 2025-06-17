@@ -1,0 +1,51 @@
+{
+    "resume_id": "42487883",
+    "jd_id": "3903472063",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.737,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Accounting and Information Management and a Bachelor of Arts in Psychology, which are relevant to the field of finance."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 20.1 yrs (capped to 20.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience as an Accountant, Staff Accountant, and Accounting Assistant, which aligns with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.421,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Reconciling bank accounts (fuzzy)'] | (LLM 0.5): The candidate's responsibilities align with most of the job responsibilities listed in the job description, except for specific tasks like sales & use tax filings and financial statements audits and reviews."
+        },
+        "skills": {
+            "score": 0.394,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as account reconciliation, financial modeling, variance analysis, corporate G&A and COGS accounting, cash forecasting, capitalization and fixed assets, analytical reasoning, effective time management, superior research skills, intermediate Excel skills, inventory accounting, and computer skills in various accounting software."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions self-motivation, teamwork, and excellent communication skills, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.62,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Sage (exact)'] | (LLM 0.4): The candidate has experience with various accounting software and tools, but does not explicitly mention Sage or MAS 500, which are required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not explicitly mentioned in the resume, making it difficult to assess their relevance to the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.539
+}

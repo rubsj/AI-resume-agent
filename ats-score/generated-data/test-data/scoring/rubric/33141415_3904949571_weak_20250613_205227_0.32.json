@@ -1,0 +1,51 @@
+{
+    "resume_id": "33141415",
+    "jd_id": "3904949571",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.405,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in IT - Web Multimedia and Animation, which does not align with the required degree in engineering or a related field."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Resume: 25.3 yrs (capped to 25.3), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in construction, which may transfer some skills to process engineering, but it is not directly related to manufacturing processes."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No information on leadership skills is provided in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not provided in the resume, making it impossible to compare with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills in web development, which aligns with the required skills in manufacturing process engineering. However, the skills are not directly related to process engineering."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists strong problem-solving skills, attention to detail, and a continuous improvement mindset, which aligns with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies are listed in the candidate's resume, making it difficult to assess alignment with the required computer software and applications related to process engineering."
+        },
+        "transferable_skills": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not clearly defined in the resume, making it hard to determine how well they match the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.316
+}

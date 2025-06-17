@@ -1,0 +1,51 @@
+{
+    "resume_id": "16804396",
+    "jd_id": "3885101607",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.569,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds an Associate of Applied Science degree in EMT/Paramedic from Malcolm X College, which is relevant to the healthcare domain but not directly aligned with the food services industry required by the job description."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in various roles within the food services industry, including Assistant General Manager, Main Chef, and Main Prep Cook, which aligns well with the job requirements. The detailed responsibilities match the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's language is clear and professional."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as Assistant General Manager and Main Chef, indicating strong leadership abilities. This aligns well with the job description's requirement for leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles cover some aspects of the job description, such as maintaining a safe environment and providing excellent customer service. However, there is no explicit mention of responsibilities related to receiving deliveries or adhering to health and safety regulations."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills like conflict resolution, cost control, and excellent customer service, which align with the job requirements. However, there is a lack of specific technical skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like a positive attitude, excellent communication, and organizational skills, which are highly valued in the job description."
+        },
+        "tools": {
+            "score": 0.022,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['processors (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, whereas the job description lists several tools and technologies required for the position."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as leadership, teamwork, and fast learning, which can be applied across different industries. However, these skills are not as directly applicable to the specific job requirements as those in other sections."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.481
+}

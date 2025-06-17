@@ -1,0 +1,51 @@
+{
+    "resume_id": "34198885",
+    "jd_id": "3902934540",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.733,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Professional Accountancy and a Bachelor of Business Administration, which aligns with the preferred degree in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including positions that require knowledge of accounting software and processes, which matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or achievements are mentioned in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as reviewing contracts, collaborating with teams, and interpreting accounting standards, which aligns with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.326,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Office (exact)'] | (LLM 0.4): The candidate has relevant skills in Microsoft Office Accounting Software, which matches the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions soft skills like communication and teamwork, but does not provide specific examples or quantifiable achievements."
+        },
+        "tools": {
+            "score": 0.412,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'Salesforce (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Windows, Microsoft Office, Workday, Salesforce, and Zuora RevPro, which matches the tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists transferable skills such as accounting analysis and grant accounting, which are relevant to the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.48
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "20345168",
+    "jd_id": "3904994216",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.659,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Science degree in Business Management is mentioned, but the GPA is not provided, which is a requirement in the job description."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has relevant experience in accounting roles, including experience with financial statement preparation, payroll, and tax-related tasks, which aligns with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or responsibilities are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities listed in the job description, such as preparing tax returns and financial statements, but there is no direct mention of sales tax returns or quarterly tax filings."
+        },
+        "skills": {
+            "score": 0.461,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 2, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Time management (substring)', 'Organizational skills (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting software and processes, which aligns well with the required skills in MS Office proficiency and previous accounting/bookkeeping experience."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions strong organizational skills and effective time management, which aligns with the soft skills required."
+        },
+        "tools": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which matches the required skill of MS Office proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing multiple projects and meeting deadlines under pressure is transferable to the role, but there is no explicit mention of leadership or management responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.478
+}

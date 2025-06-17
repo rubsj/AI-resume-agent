@@ -1,0 +1,51 @@
+{
+    "resume_id": "62809577",
+    "jd_id": "3903454712",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.525,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not specify a degree that matches the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.875,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in administrative roles, project management, and accounting functions, which aligns with the job description. However, the experience is not recent or directly related to the hybrid role described."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, but not all. There is no direct mention of experience with startup timing coordination or knowledge capture processes."
+        },
+        "skills": {
+            "score": 0.402,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['administrative (exact)', 'project management (substring)'] | (LLM 0.4): The candidate has relevant skills in 'administrative', 'project management', 'Microsoft Office applications', and 'accounting software'. However, there is no mention of specific experience with SharePoint or PowerPoint."
+        },
+        "soft_skills": {
+            "score": 0.75,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills align with some of the soft skills listed in the job description, such as professionalism and organization. However, there is no evidence of experience with company confidentiality or service-oriented attitude."
+        },
+        "tools": {
+            "score": 0.37,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office applications, which is required. However, there is no mention of proficiency with SharePoint or other tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like accounting, project management, and administrative tasks. However, there is no evidence of experience with specific tools or technologies mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

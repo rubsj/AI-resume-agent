@@ -1,0 +1,51 @@
+{
+    "resume_id": "11480899",
+    "jd_id": "3901632078",
+    "domain": "HR",
+    "resume_jd_similarity": 0.753,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which may be a requirement for the position as indicated by the preferred degrees and certifications sections in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds Master's and Bachelor's degrees in relevant fields, which aligns with the preferred degrees section in the job description. However, the lack of specific years and GPA values reduces the score."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 21.8 yrs (capped to 21.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 21 years of experience in HR roles, which is more than the required 5 years. The detailed job descriptions show alignment with the job responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, which enhances readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as an HR Manager and HR & Admin Manager indicates some level of leadership, but there is no explicit mention of leadership responsibilities or certifications in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with most of the job responsibilities listed in the job description, but there is no direct mention of strategic human resources leadership or financial sustainability collaboration."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (exact)', 'Human Resources (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in various HR roles, including HR Manager and HR & Admin Manager, which aligns well with the required skills of Administrative, Human Resources, and Other. The skills section also includes proficiency in English, which is beneficial for communication."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as good communication and interpersonal skills, are mentioned in the resume, which aligns with the soft skills section in the job description."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with HRIS and Microsoft Office Suite, which matches the tools and technologies section in the job description. However, there is no explicit mention of proficiency in these tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as continuous improvement and decision-making, are mentioned in the resume, but they are not as explicitly detailed as those in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.535
+}

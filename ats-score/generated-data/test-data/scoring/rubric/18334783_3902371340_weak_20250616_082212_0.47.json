@@ -1,0 +1,51 @@
+{
+    "resume_id": "18334783",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.543,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, which do not match the preferred certification 'PMP Certification' listed in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelor’s degree in IT, Computer Science, or related discipline (fuzzy)'] | (LLM 0.5): A Bachelor's degree in Business/Finance is mentioned, but it lacks details such as the institution name and graduation year, making it less relevant compared to the job description's preference for a Bachelor's degree in IT, Computer Science, or related discipline."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 17.7 yrs (capped to 17.7), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR Director/Administrator roles, which aligns with the job responsibilities. However, the lack of specific details about the job title and responsibilities in earlier positions may reduce the score slightly."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand. The use of bullet points enhances clarity and organization."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing projects, which aligns with the leadership requirement. However, the lack of detail about specific leadership roles or achievements reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, particularly in managing projects and teams. However, the lack of detail about specific responsibilities in earlier positions reduces the score."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in administrative roles, which aligns well with the required skills in Human Resources, Information Technology, and Project Management. The skills listed match the required skills closely."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like leadership, problem-solving, and communication, which are aligned with the soft skills required. However, the lack of specific examples or quantifiable achievements in the resume reduces the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of any tools or technologies used in the resume, which contrasts with the job description's requirement for familiarity with Deltek, Procore, HRIS systems, and ERP systems."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as budgeting, documentation, and process management, are relevant to the job responsibilities. However, the lack of detail about specific achievements or experiences in these areas reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

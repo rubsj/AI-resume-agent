@@ -1,0 +1,51 @@
+{
+    "resume_id": "38314236",
+    "jd_id": "3905391833",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.56,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a Professional Engineer (PE) License."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BS in Mechanical Engineering, which is not directly aligned with the required Bachelor Degree in Chemical Engineering or related degree from an ABET accredited program."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 18.9 yrs (capped to 18.9), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has experience in mechanical engineering, particularly in oil field-related equipment and HVAC, which aligns with the job responsibilities. However, the job description specifically requires chemical engineering experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience as an Engineering Supervisor and Project Engineer, indicating leadership skills. However, the job description requires more specific leadership responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes leading design projects and managing change orders, which aligns with some of the job responsibilities. However, the job description requires specific skills in process design and project management."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Manufacturing (exact)'] | (LLM 0.4): The candidate has relevant skills in Ansys, AutoCAD, and Solidworks, which are mentioned in the job description. However, there is no mention of expertise in process design codes or process simulation software."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include critical thinking, attention to detail, facilitation, team building, collaboration, organization, and problem-solving, which align with the soft skills required by the job description. However, there is no explicit mention of these skills in the resume."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Microsoft Office Suite (fuzzy)', 'Aspen (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office Suite, which is mentioned in the job description. However, there is no mention of proficiency in Hysys, Aspen, or HTRI."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in mechanical engineering provides transferable skills to the role, but the job description requires specific chemical engineering skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.489
+}

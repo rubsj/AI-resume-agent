@@ -1,0 +1,51 @@
+{
+    "resume_id": "18825446",
+    "jd_id": "3905861038",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.723,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the resume that specifically match the job description requirements."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds an Associate of Arts degree in Culinary Arts Hospitality and Restaurant Management, which is relevant to the job description but does not specify the level of education required."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 25 years of experience as an Executive Chef, which exceeds the minimum requirement of mid-senior level experience stated in the job description. The detailed experience in managing kitchen operations, staff, and catering events closely matches the responsibilities listed."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading kitchen staff, managing operations, and overseeing catering events demonstrates strong leadership skills, which are crucial for the role."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in supervising kitchen operations, training staff, and managing food costs aligns well with the responsibilities outlined in the job description. However, there is no mention of specific responsibilities related to emergency procedures or inventory management."
+        },
+        "skills": {
+            "score": 0.744,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)', 'Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience as an Executive Chef, which aligns well with the required skills of supervision, training, and management. The resume also includes specific skills like 'Operations Management', 'Leadership Skills', and 'Customer Service' that match the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in customer service, leadership, and communication are aligned with the soft skills required in the job description. However, there is no mention of specific soft skills related to emergency response or team building."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.4): No specific tools or technologies are mentioned in the resume that would be relevant to the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in food preparation, sanitation, and customer service are transferable to the role, but there is no mention of specific transferable skills related to financial management or marketing."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.676
+}

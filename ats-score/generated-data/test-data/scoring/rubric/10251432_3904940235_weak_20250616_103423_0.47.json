@@ -1,0 +1,51 @@
+{
+    "resume_id": "10251432",
+    "jd_id": "3904940235",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.412,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lacks details about the degree, field, year, and GPA, which makes it difficult to assess its relevance to the job description."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate's experience includes relevant roles such as Corporate Administrator and Administrative Assistant, which align with the job responsibilities listed in the job description. However, the lack of specific details about the job title and responsibilities reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clear communication of the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no information in the resume indicating leadership experience, and the job description does not require any specific leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that match some of the job responsibilities listed in the job description, such as managing staff, overseeing processes, and providing administrative support. However, there is no direct match for all responsibilities."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in administrative tasks such as accounting, bookkeeping, and document processing, which aligns well with the job description's required skills in administrative work and customer service."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include soft skills like attention to detail, focus, and organization, which are relevant to the job description's requirements for management and customer service."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The resume does not mention any tools or technologies used, whereas the job description does not require any specific tools either."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like accounting, bookkeeping, and document processing are transferable to the job responsibilities listed in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

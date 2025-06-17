@@ -1,0 +1,51 @@
+{
+    "resume_id": "21794875",
+    "jd_id": "3904955115",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.422,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a CPA certification, which is highly relevant to the financial domain required by the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Masters in Accounting and Bachelor's in Business Administration, which are relevant degrees but do not match the preferred degree in technology or engineering."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 31.5 yrs (capped to 31.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in accounting roles, particularly in reconciliations and financial reporting, which closely matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and assess."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are important for the senior business analyst position."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like reconciliations and financial reporting, which align with the job responsibilities, but lacks details on collaboration and project management."
+        },
+        "skills": {
+            "score": 0.408,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Analyst (fuzzy)', 'Excel (exact)'] | (LLM 0.4): The candidate has strong skills in accounting, Microsoft Office, and interpersonal skills, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong soft skills such as communication and problem-solving, which are essential for the role."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with QuickBooks and other accounting tools, but lacks specific knowledge of the tools mentioned in the job description like ServiceNow or Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting and finance are transferable, but there is no evidence of skills in software development or web applications, which are mentioned as optional skills in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.588
+}

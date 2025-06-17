@@ -1,0 +1,51 @@
+{
+    "resume_id": "39674178",
+    "jd_id": "3905306627",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.693,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are listed in the resume, which may be a concern given the job description's requirement for a Bachelor's degree in Accounting or Finance."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions only a Bachelor of Science degree in Management, which does not directly match the job description's preferred degree of a Bachelor's degree in Accounting or Finance."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.2 yrs (capped to 28.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including federal accounting, resource officer positions, and financial management resource analyst roles, which closely matches the job description's required experience and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the inclusion of additional sections like 'Service Country', 'Branch', and 'Rank' might not be relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume indicates leadership experience through roles such as supervisor and resource officer, but does not provide details on leadership skills or achievements that would specifically match the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as financial planning, financial reporting, and cost management, which align with the job description's responsibilities. However, there is no explicit mention of the job title 'Senior Finance Analyst Manufacturing' or the specific responsibilities associated with it."
+        },
+        "skills": {
+            "score": 0.496,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting and financial management, which aligns well with the job description's required skills. The resume also lists specific skills like 'accounting systems', 'accounts payable and receivable', and 'auditing' that match the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks explicit soft skills, which are important for the job description's emphasis on teamwork, communication, and leadership."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used in the candidate's experience, which contrasts with the job description's requirement for familiarity with ERP manufacturing systems and Business Intelligence reporting software."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as attention to detail, problem-solving, and adaptability, are generally aligned with the job description's expectations. However, the lack of specific soft skills and tools knowledge reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.484
+}

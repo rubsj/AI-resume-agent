@@ -1,0 +1,51 @@
+{
+    "resume_id": "49127329",
+    "jd_id": "3905285608",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.675,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume that directly match the job description requirements."
+        },
+        "education": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Bachelors (exact)'] | (LLM 0.5): The candidate holds an MBA and a Bachelor's degree in Industrial Engineering, which are relevant to the job description's preferred degrees."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.6 yrs (capped to 19.6), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has significant experience in industrial engineering management, project management, and process improvement, which closely matches the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading and managing teams, which is a key requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to leading and managing engineering teams, developing manufacturing processes, and driving continuous improvement, which aligns with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.456,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has extensive experience in engineering roles, including industrial engineering management, project management, and process improvement, which aligns well with the required skills of the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.168,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Manufacturing (exact)', 'Manufacturing Six Sigma (fuzzy)'] | (LLM 0.4): No specific tools or technologies used are mentioned in the resume that directly match the job description's requirements."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like leadership, project management, and process improvement are transferable and align with the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.59
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "10138632",
+    "jd_id": "3887101216",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.681,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the candidate's resume, and the job description mentions that certification may be required in some areas."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['high school diploma or GED (fuzzy)'] | (LLM 0.5): The candidate only has a High School Diploma, which does not match the required education level of a high school diploma or GED, or an associate degree with three years of experience, or a bachelor's degree with one year of experience as stated in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.3 yrs (capped to 20.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in Sales and Service, which aligns with the job description's responsibilities of managing departmental objectives and conducting benchmarking. However, the experience is not directly related to purchasing or manufacturing."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is grammatically clean and free of errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are required by the job description."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like customer service and sales management, but lacks specific responsibilities related to technical areas of cost analysis, program management, power negotiations, supply chain management, problem resolution, and commodity expertise as required by the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Administration and Management, Critical Thinking, Negotiation, Persuasion, and Sales and Marketing, which align well with the job description's required skills of Manufacturing and Purchasing."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as effective communication and coordination, which align with the job description's requirement of effective communication and coordination with other areas of management."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in Microsoft Excel, Microsoft PowerPoint, Integrated computer programs/applications, or Enterprise Resource Planning (ERP) software, which are required tools as per the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include experience in administration, management, critical thinking, negotiation, persuasion, and sales, which can be transferred to the role of a buyer."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.378
+}

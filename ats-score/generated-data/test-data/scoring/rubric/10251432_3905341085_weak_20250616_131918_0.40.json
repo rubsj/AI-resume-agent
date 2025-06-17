@@ -1,0 +1,51 @@
+{
+    "resume_id": "10251432",
+    "jd_id": "3905341085",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.43,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lacks specific details about degree, field, GPA, or graduation year, making it difficult to assess relevance to the job."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 8.1 yrs (capped to 8.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in administrative roles that involve accounting, bookkeeping, and document processing, which aligns with some of the job responsibilities. However, the lack of direct underwriting experience reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no obvious grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing portfolios, handling multiple tasks, and providing customer service, which align with some of the job responsibilities. However, the lack of detailed underwriting-specific responsibilities reduces the score."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as accounting, bookkeeping, and editing, which align with the job's required skills in underwriting expertise, analyzing applications, and using predictive modeling tools."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include attention to detail, focus, and proficiency in Microsoft Office tools, which align with the soft skills required for the job."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of specific tools or technologies used in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like accounting, bookkeeping, and document processing are transferable to underwriting roles but lack depth in terms of specific underwriting knowledge or experience."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.395
+}

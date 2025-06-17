@@ -1,0 +1,51 @@
+{
+    "resume_id": "21853199",
+    "jd_id": "3904958338",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.694,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which contrasts with the requirement for 'GAAP' certification in the job description."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Business Administration in Accounting from Kent State University, which matches the preferred degree in the job description. However, the GPA is not provided, which could be a point of concern."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in various accounting roles that match the job responsibilities outlined in the job description. However, there is no mention of specific experience with GAAP or ERP systems, which are mentioned in the tools and technologies section."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, there is no explicit mention of specific tools or certifications that are required by the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which contrasts with the requirement for 'Ability to take action on items beyond formal job responsibilities' in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with many of the job responsibilities listed in the job description, but there is no explicit mention of month-end close activities or ERP system experience."
+        },
+        "skills": {
+            "score": 0.62,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the required skills in the job description. The resume also includes specific skills like 'GAAP', 'ERP system', and 'Spreadsheet' which are mentioned in the tools and technologies section of the job description."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary highlights strong organizational, communication, and computer skills, which align with the soft skills required by the job description. However, there is no explicit mention of adaptability or thriving in a dynamic environment."
+        },
+        "tools": {
+            "score": 0.38,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP system (fuzzy)'] | (LLM 0.4): The candidate's experience includes some tools like 'ERP system', 'Spreadsheet', and 'Database', but there is no explicit mention of 'GAAP' as required by the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section lists several skills that are transferable to the job description, such as 'Financial', 'Preparation of financial reports', and 'Financial statements'. However, there is no explicit mention of 'GAAP' or 'ERP system' skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.601
+}

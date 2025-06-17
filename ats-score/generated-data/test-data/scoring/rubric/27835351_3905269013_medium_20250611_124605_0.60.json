@@ -1,0 +1,51 @@
+{
+    "resume_id": "27835351",
+    "jd_id": "3905269013",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.667,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the preferred certifications in the job description, which include Mechanized, Electronic, and Automated technology."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's highest degree is a High School Diploma, which does not meet the minimum requirement of Technical maintenance skill training in mechanized, electronic, and/or automated technology specified in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 10.4 yrs (capped to 10.4), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 10 years of experience in various maintenance roles, which closely matches the required experience of 10 years in the job description. The detailed job descriptions provide evidence of relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they can fulfill the role of a Maintenance Supervisor, who requires at least 10 years of supervisory experience."
+        },
+        "responsibilities": {
+            "score": 0.361,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Trains on equipment (fuzzy)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed in the description, such as performing maintenance and troubleshooting. However, there is no direct evidence of supervisory experience or CMMS experience."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a wide range of skills relevant to the job description, including mechanical repair, troubleshooting, and basic welding, which align well with the required skills of the Maintenance Supervisor position."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are mentioned but do not fully align with the job description's requirements for professional communication and timely problem-solving."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, which contrasts with the job description's requirement for experience with pneumatics, electrical, and hydraulics."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as mechanical aptitude, system installations, and equipment maintenance, which are relevant to the job description. However, these skills are not as explicitly detailed as those required by the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.597
+}

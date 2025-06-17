@@ -1,0 +1,51 @@
+{
+    "resume_id": "23408537",
+    "jd_id": "3905291352",
+    "domain": "HR",
+    "resume_jd_similarity": 0.673,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds certifications in SHRM and ADP, which are relevant but not as many as expected for a mid-senior level position."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in Biology, which does not directly align with the job requirements in Human Resources."
+        },
+        "experience": {
+            "score": 0.91,
+            "reason": "(Rule 0.5): Resume: 4.6 yrs (capped to 4.6), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in Human Resources roles that match the job responsibilities, including experience in payroll, benefits, and compliance."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership experience or skills, which are important for a mid-senior level Human Resources Manager."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job responsibilities, such as performance management, talent initiatives, and conflict resolution."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Human Resources, Administrative tasks, Business Development, and specific software like ADP, JD Edwards, and Excel, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include some soft skills like accountability, ethics, and communication, which are relevant to the job requirements."
+        },
+        "tools": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)', 'PowerPoint (exact)'] | (LLM 0.4): The candidate has experience with tools like ADP, JD Edwards, and Excel, which are mentioned in the job description, but lacks experience with Workday."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like budgeting, regulatory compliance, and technical support, which could be useful in a Human Resources role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.586
+}

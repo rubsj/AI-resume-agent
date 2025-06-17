@@ -1,0 +1,51 @@
+{
+    "resume_id": "35554162",
+    "jd_id": "3885825712",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.681,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an MBA and BBA degrees but lacks explicit CPA certification or equivalent practical experience, which is preferred in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has relevant degrees in Business Administration and Accounting, but the lack of specific GPA details may be seen as less favorable."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 28.6 yrs (capped to 28.6), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in accounting roles, including leadership positions, which aligns well with the job description. However, the job description requires at least 3 years of experience specifically in senior revenue accounting, which the candidate does not explicitly state."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The resume provides clear and concise descriptions of education, experience, and skills, which enhances readability and comprehension."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams and implementing changes, which aligns well with the job description's requirement for leadership skills. The resume includes examples of leading projects and teams, which are beneficial for a senior revenue accountant role."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, particularly in areas like financial close, revenue recognition, and system automation. However, the job description also mentions specific tools and technologies (NetSuite, Excel) and responsibilities related to them, which the candidate lacks experience with."
+        },
+        "skills": {
+            "score": 0.334,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills including Accounting/Auditing, Finance, US GAAP, Revenue recognition (ASC 606), Commission recognition/cost of obtaining contracts with customers (ASC 340-40), Enterprise software, SaaS industry experience, and intermediate to advanced Excel skills. However, there is no explicit mention of NetSuite ARM user experience."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as detail-oriented, analytical, organized, and self-motivated, which are aligned with the job description. However, the job description emphasizes confidence in a highly visible role and interpersonal skills, which are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Excel (fuzzy)'] | (LLM 0.4): The candidate has experience with Oracle Accounting, Microsoft Office, and Bank Of America CashPro, which are not mentioned in the job description. The job description mentions NetSuite ARM user experience, which the candidate lacks."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat aligned with the job description, particularly in areas like accounting, auditing, and finance. However, the job description also requires specific technical skills and experience with certain tools and technologies, which the candidate lacks."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.492
+}

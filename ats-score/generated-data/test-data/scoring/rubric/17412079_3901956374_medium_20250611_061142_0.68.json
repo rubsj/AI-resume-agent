@@ -1,0 +1,51 @@
+{
+    "resume_id": "17412079",
+    "jd_id": "3901956374",
+    "domain": "HR",
+    "resume_jd_similarity": 0.674,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume."
+        },
+        "education": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The MBA in Human Resource Management provides relevant education background, but the lack of specific GPA details reduces the score slightly."
+        },
+        "experience": {
+            "score": 0.928,
+            "reason": "(Rule 0.5): Resume: 6.7 yrs (capped to 6.7), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has over 6 years of experience in HR roles, with detailed responsibilities that closely match the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in managing teams and leading initiatives, but the job description requires more explicit leadership responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience covers most of the responsibilities listed in the job description, but there is no direct mention of overseeing the employee lifecycle or leading compensation and benefits administration."
+        },
+        "skills": {
+            "score": 0.96,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in various HR functions such as employee appraisal, performance management, and reward recognition, aligning well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills like leadership, people management, and communication are evident from the resume, but they could be more explicitly stated to fully align with the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of specific tools or technologies used in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Excel proficiency and MS Office suite usage are transferable, but the lack of detail on specific achievements using these skills reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.675
+}

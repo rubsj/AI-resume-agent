@@ -1,0 +1,51 @@
+{
+    "resume_id": "43378989",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.569,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires 'PMP'."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a Bachelor of Science in Computer Science/Information Technology and Business Administration, which aligns with the education requirements. However, there is no mention of a degree in Computer Science Software/Programming as stated in the resume."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.0 yrs (capped to 16.0), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in 'Consultant' and 'Database Administrator', which matches some of the job responsibilities. However, the experience does not directly correlate with the senior project manager role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in 'Consultant' and 'Database Administrator' roles may indicate leadership qualities, but there is no explicit mention of leadership skills or achievements in the resume."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly correlate with the responsibilities listed in the job description, such as working closely with sales and clients, identifying stakeholders, preparing budgets, and managing multiple projects simultaneously."
+        },
+        "skills": {
+            "score": 0.448,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)'] | (LLM 0.4): The candidate has skills in 'Consulting', 'Information Technology', and 'Project Management', which match the required skills in the job description. However, there is no direct match for 'ERP implementation', 'Systems integrations', and 'Infrastructure implementations'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Problem solving', 'Team building', and 'Communication' align with the soft skills required. However, there is no explicit mention of skills like 'Negotiation', 'Adaptability', and 'Documentation' in the resume."
+        },
+        "tools": {
+            "score": 0.313,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['ERP (substring)', 'Network (exact)'] | (LLM 0.4): The candidate has experience with tools like 'ERP', 'Network', 'Cloud applications', 'Security', 'Microsoft Office', and 'Adobe Creative Suite', but lacks specific experience with 'Cloud/compute', 'Facebook', and 'Salesforce' mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Database', 'Network', and 'Project Management' can be transferred to the role, but there is no direct match for skills like 'ERP implementation', 'Systems integrations', and 'Client success' mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.501
+}

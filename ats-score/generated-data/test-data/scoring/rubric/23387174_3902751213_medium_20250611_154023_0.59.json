@@ -1,0 +1,51 @@
+{
+    "resume_id": "23387174",
+    "jd_id": "3902751213",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.653,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a concern given the required experience level and industry standards."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelor’s degree in accounting, finance, business administration, or related field (fuzzy)'] | (LLM 0.5): The resume lists only a Bachelor's degree in Accounting, which meets the minimum educational requirement but lacks details about the institution and GPA, potentially reducing its relevance to the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.1 yrs (capped to 19.1), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that match the job description requirements, including experience in financial reporting, budgeting, and managing accounts receivable and payable. The detailed job descriptions provide clear alignment with the responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in some sections could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not highlight any direct leadership experience or responsibilities, which is a key requirement for a Director-level position. The mention of 'Managing' in one role title might imply some level of supervision, but it is not clearly defined."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job responsibilities listed in the job description, particularly in areas like financial reporting, budgeting, and M&A integration. However, there is no mention of leading technical accounting functions or working with specific systems like Carta."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the required skills in the job description. The resume mentions proficiency in various accounting software and tools, which is beneficial for the role."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the resume, which might be a disadvantage as these skills are often crucial for leadership and collaboration roles."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the resume, which could limit the candidate's appeal to the employer looking for proficiency in certain software or systems."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as attention to detail and problem-solving abilities, which are generally applicable across various accounting roles. However, the lack of specific soft skills and leadership experience may limit their appeal for a director-level position."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.59
+}

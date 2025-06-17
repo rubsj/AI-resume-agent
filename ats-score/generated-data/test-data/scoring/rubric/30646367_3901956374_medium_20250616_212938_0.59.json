@@ -1,0 +1,51 @@
+{
+    "resume_id": "30646367",
+    "jd_id": "3901956374",
+    "domain": "HR",
+    "resume_jd_similarity": 0.527,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a single certification, MIOSHA Level One, which is relevant but not as specific as the preferred certification in the job description."
+        },
+        "education": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is listed in a non-standard format and lacks detail about the field of study, which is not aligned with the job description's requirement for specific degrees."
+        },
+        "experience": {
+            "score": 0.772,
+            "reason": "(Rule 0.5): Resume: 4.5 yrs (capped to 4.5), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has a long history of relevant experience in HR and payroll, closely matching the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not specifically highlight leadership roles or responsibilities, which is a key aspect of the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with most of the job responsibilities listed, except for the specific mention of leading compensation and benefits administration."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in HR and payroll, aligning well with the job requirements. However, there is no mention of Workday proficiency, which is preferred."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly stated, but their experience in conflict resolution and other areas suggests they possess these skills."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in Workday, which is a key tool mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses a variety of skills that could transfer to the role, such as Excel proficiency and understanding of HRIS systems, but lacks specific skills like QuickBooks proficiency."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.59
+}

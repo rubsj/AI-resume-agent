@@ -1,0 +1,51 @@
+{
+    "resume_id": "55097118",
+    "jd_id": "3903827127",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.453,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate has a Bachelor of Arts degree in Sociology and a general arts degree, but no degree directly related to business operations or finance, which are typically required for this position."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 17.8 yrs (capped to 17.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in legal support and sales, but lacks direct experience in business operations or finance, which are key areas for this role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating a high level of professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume, which might be expected for a managerial position."
+        },
+        "responsibilities": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions some responsibilities that align with the job description, such as managing accounts and assisting with financial tasks, but there is a lack of detail and depth compared to the extensive list provided in the job description."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills such as time management, attention to detail, and strong problem-solving abilities, which align with the job requirements. However, there is a lack of specific technical skills like management or manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights strong interpersonal skills, professionalism, and resourcefulness, which are important soft skills for the role. However, there is no explicit mention of leadership skills."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any specific tools or technologies used in their previous roles, which could be crucial for the job responsibilities listed."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like time management and attention to detail, which can be applied across various industries. However, there is a lack of specific skills that directly match the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.451
+}

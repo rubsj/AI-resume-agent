@@ -1,0 +1,51 @@
+{
+    "resume_id": "86828820",
+    "jd_id": "3905285608",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.666,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, which contrasts with the requirement for a Bachelors degree in the job description."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelors (fuzzy)'] | (LLM 0.5): The candidate holds a Master's and Bachelor's degree in Mechanical Engineering, which aligns with the preferred degree requirement. However, the specific institutions and GPAs are not provided, which could impact the level of education."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 23.8 yrs (capped to 23.8), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 10 years of experience in engineering management roles, which matches the required experience. The detailed job descriptions show a strong background in manufacturing and engineering management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading engineering teams and managing projects indicates strong leadership skills. However, there is no explicit mention of leadership in the context of maintenance engineering."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match those outlined in the job description, such as leading engineering teams, implementing manufacturing processes, and driving continuous improvement. However, there is no direct mention of responsibilities related to maintenance engineering."
+        },
+        "skills": {
+            "score": 0.456,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has extensive experience in engineering roles, which aligns well with the required skills in the job description. The resume mentions proficiency in CAD software, which is a key tool mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not explicitly mention soft skills, which are important for leadership and team management roles."
+        },
+        "tools": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Manufacturing (exact)'] | (LLM 0.4): The candidate's experience includes proficiency in tools like AutoCAD, which is aligned with the tools mentioned in the job description. However, there is no explicit mention of other tools like Manufacturing Six Sigma or Maintenance."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as mentoring, project engineering, and lean manufacturing, which are relevant to the job description. However, there is no explicit mention of skills related to information technology or continuous improvement."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.56
+}

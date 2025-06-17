@@ -1,0 +1,51 @@
+{
+    "resume_id": "17412079",
+    "jd_id": "3902914328",
+    "domain": "HR",
+    "resume_jd_similarity": 0.403,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement of a Master's degree in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA in Human Resource Management, which aligns with the preferred degree in the job description. However, the Bachelors of Commerce degree does not directly match the educational requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 6.7 yrs (capped to 6.7), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, particularly in areas such as employee appraisal, performance management, and employee engagement, which matches the job responsibilities. The total experience is slightly less than the required minimum of 2 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing teams and programs suggests leadership capabilities, but there is no explicit mention of leadership roles or achievements that would directly align with the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job responsibilities, such as managing employee programs and fostering culture. However, there is no direct evidence of experience in running programming supporting DEI strategy, scaling and enhancing existing programs, or working closely with the Chief Diversity Officer and Deputy Commissioner."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills relevant to the job description, including HRIS, performance management, and leadership, which align with the required skills of the job."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary indicates strong soft skills, such as excellent communication and problem-solving abilities, which align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate possesses skills in Microsoft Office Suite, which is listed among the tools and technologies required in the job description. However, there is no explicit mention of proficiency in Google Suite, Event Planning Software, Budgeting Tools, Project Management Tools, Communication Platforms, Feedback Collection Tools, Survey Tools, Internal Communication Tools, Marketing and Communication Tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like mentoring, managing, and strategic planning are transferable to the job responsibilities but lack specific details that would demonstrate direct application to the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.503
+}

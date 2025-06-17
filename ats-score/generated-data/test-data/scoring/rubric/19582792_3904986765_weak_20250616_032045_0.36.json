@@ -1,0 +1,51 @@
+{
+    "resume_id": "19582792",
+    "jd_id": "3904986765",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.444,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education provided is incomplete and does not match the required degree level or field."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in management and sales, but lacks specific experience in digital marketing or front-end web layout design."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience in managing teams, but the job description does not specify leadership as a requirement."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not align with the job description's requirements for research, design, and collaboration with developers and digital teams."
+        },
+        "skills": {
+            "score": 0.296,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Organizational Skills (substring)', 'Communication (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'design', 'information technology', and 'web development'. However, there is no mention of specific tools like HTML, CSS, or WordPress which are required."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like 'organization' and 'communication', which are aligned with the soft skills required. However, they lack creativity and understanding of graphic and web design."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools are mentioned in the candidate's resume, while the job description requires knowledge of HTML, CSS, WordPress, and Adobe Creative Suite."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'project management', 'customer service', and 'general management' can be transferred from previous roles, but they may not directly match the job's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.359
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "97449528",
+    "jd_id": "3905391754",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.41,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, while the job description prefers 'ASE Certification Preferred'."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has multiple degrees, but the job description does not specify required education level."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 7.2 yrs (capped to 7.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in office management and customer service, aligning with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership experience in the resume, while the job description suggests 'Day-to-day supervisory support for Team Members'."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some alignment with the job responsibilities, particularly in customer service and management roles."
+        },
+        "skills": {
+            "score": 0.632,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Case Management' and 'Excellent Customer Service', which match the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Customer Service' and 'Effective Communication', which are listed in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of specific tools or technologies used in the resume, while the job description mentions 'Microsoft software (Word, Excel)', 'POS and Parts lookup systems'."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills are somewhat transferable, but there is no explicit mention of 'Advanced solution, project and product quality recommendation ability', which is listed in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.482
+}

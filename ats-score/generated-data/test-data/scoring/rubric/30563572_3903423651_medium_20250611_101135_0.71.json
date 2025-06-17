@@ -1,0 +1,51 @@
+{
+    "resume_id": "30563572",
+    "jd_id": "3903423651",
+    "domain": "HR",
+    "resume_jd_similarity": 0.667,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a SPHR certification, which is relevant to the job description's requirement for certifications, although it is not explicitly mentioned that the certification must be current or specific to the field."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a B.S. in Business Administration from California State University, which is relevant to the job description's requirement for education, but the lack of a specific major may not fully align with the job's expectations."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.1 yrs (capped to 17.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 17 years of experience in HR roles, including strategic business partnering, talent management, and employee relations, which closely matches the job description's requirement for 5+ years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in strategic business partnering and talent management indicates a level of leadership that aligns with the job description's requirement for people-focused leadership standards and behaviors."
+        },
+        "responsibilities": {
+            "score": 0.535,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Business Partnering (fuzzy)', 'Talent Management (substring)'] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job description's requirements for business partnering, talent management, employee coaching, culture/engagement, and employee lifecycle support."
+        },
+        "skills": {
+            "score": 0.616,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has extensive experience in HR roles, including strategic business partnering, talent management, employee relations, and change management, which aligns well with the job description's requirements for a People Partner role."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as high empathy, strong interpersonal skills, and situational leadership, closely align with the job description's requirements for these qualities."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Microsoft Office Suite, which is aligned with the job description's requirement for proficiency with Microsoft Office Suite, but there is no mention of specific tools beyond this general statement."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as attention to detail, problem-solving, and project management, are relevant to the job description's requirements for these competencies."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.709
+}

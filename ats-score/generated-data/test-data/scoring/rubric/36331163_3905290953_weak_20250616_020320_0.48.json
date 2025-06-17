@@ -1,0 +1,51 @@
+{
+    "resume_id": "36331163",
+    "jd_id": "3905290953",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.522,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, which contrasts with the job description's lack of certification requirement."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education section lacks specific details such as degree, field, year, and GPA, making it difficult to assess alignment with the job description's educational requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in construction management, project management, and warehouse management, which aligns with the job description's responsibilities. However, the detailed descriptions of tasks do not directly match the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The use of bullet points and clear sections enhances readability."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leading a crew of three general construction laborers under the 'Accomplishments' section, which indicates some level of leadership. However, this is not explicitly stated in the experience section, and there is no further detail provided."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like leading crews and managing projects, which somewhat align with the job description's responsibilities. However, the specific responsibilities listed in the job description are not fully matched by the candidate's experience."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Microsoft Word', 'Microsoft Excel', 'Group Leader', and 'Able to read BluePrints'. These skills align well with the job description's required skills of Business Development and Sales."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills section mentions leadership qualities, which align with the job description's requirement for a 'Passionate about training and adult learning'. However, there is no explicit mention of understanding the civil construction industry or strong systems mindset."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions 'elearning sites' and 'video conferencing' tools, but the candidate's resume does not provide information on proficiency or usage of these tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Microsoft Word and Excel are transferable to the job description's required skills in Business Development and Sales. The ability to read blueprints could also be relevant in a civil construction context."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.481
+}

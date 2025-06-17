@@ -1,0 +1,51 @@
+{
+    "resume_id": "49325370",
+    "jd_id": "3903848245",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.405,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a Certified Medical Office Assistant certification, which is relevant to the medical domain but does not directly match any specific requirement in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The provided education details do not specify the field of study, making it unclear if it aligns with the required degree in Engineering or Information Technology."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.7 yrs (capped to 20.7), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in administrative and customer service roles, which aligns well with the job's responsibilities of providing engineering support and leading design work streams. The experience also includes skills in communication and problem-solving, which are beneficial for the role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail, which could affect the ATS's ability to fully evaluate the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they have led teams or projects, which is a requirement for the mid-senior level position."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows involvement in design reviews and project team meetings, which aligns with the job responsibilities. However, there is no explicit mention of creating 3D CAD designs or participating in design reviews at critical stages of new product development."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Medical Administration, Accounts Receivable, and Administrative Assistant roles, which align with the job's requirement for Engineering and Information Technology skills. However, there is no direct match for CAD modeling functions or ASME Y14.5-2018 Dimensioning and Tolerancing."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in interpersonal communication and decision-making align with the soft skills required for the position. However, there is no direct mention of leadership qualities or specific soft skills like instilling trust or optimizing work processes."
+        },
+        "tools": {
+            "score": 0.017,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Milling (fuzzy)', 'FDA requirements (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, which contrasts with the job description's requirement for proficiency in Solid Works, PDM, Oracle Agile PLM software, and other CAD/CAM tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in loss prevention and security roles demonstrates attention to detail and problem-solving skills, which can be transferred to the mechanical design field. However, there is no direct alignment with the job's specific requirements for risk management or FDA requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.41
+}

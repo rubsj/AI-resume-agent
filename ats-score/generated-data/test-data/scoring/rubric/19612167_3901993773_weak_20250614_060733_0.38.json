@@ -1,0 +1,51 @@
+{
+    "resume_id": "19612167",
+    "jd_id": "3901993773",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.467,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate only lists a High School Diploma, which does not meet the minimum requirement of a Computer Science or Data Science degree."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 23.4 yrs (capped to 23.4), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has relevant experience in engineering roles, but the job description requires at least 6 years of experience in a Data Scientist/ML Engineer role, which is not explicitly mentioned in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-organized and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, which is a positive aspect. However, the job description specifically requires experience as a Data Scientist/ML Engineer, which is not mentioned in the candidate's experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not detailed enough to match the job responsibilities listed in the job description, which require building and training production-grade ML models, working with large-scale data processing frameworks, and applying deep learning models."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Engineering (exact)'] | (LLM 0.4): The candidate has relevant skills in Engineering and Information Technology, which align with the job requirements. However, there is no mention of advanced degrees or specific tools and technologies required."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any soft skills that align with the job description's requirements, such as strong curiosity for data, proven track record, rigorous scientific methods, ML engineering, DevOps capabilities, and strong software engineering skills."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any specific tools or technologies used, while the job description mentions Spark, AWS EMR, and other technologies that are essential for the role."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles, such as leadership development and hands-on training, which could be beneficial in an ML/DS role. However, these skills are not as directly aligned with the job responsibilities as those required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.384
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "20082776",
+    "jd_id": "3902751213",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.65,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree in Accounting, which is relevant to the job. However, there is no mention of any advanced degrees or specialized certifications that could enhance the match."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 23.5 yrs (capped to 23.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has significant experience in various accounting roles, including senior positions, which closely matches the job description's required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The information is presented clearly and professionally."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leading accounting teams and managing multiple accounts, which indicates some level of leadership. However, there is no explicit mention of leadership responsibilities at a director level."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, such as leading technical accounting functions and managing complex accounting areas. However, there is no direct match with specific responsibilities like working with Carta system or leading M&A due diligence."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the job requirements. The skills listed are relevant to the position."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions soft skills like attention to detail and problem-solving, which are generally aligned with the job requirements. However, there is no explicit mention of leadership skills, which might be expected for a director-level position."
+        },
+        "tools": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate has experience with several accounting software tools, but the job description does not specify any preferred tools, so the relevance cannot be fully assessed."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as journal entry preparation and financial statement analysis, are relevant to the job. However, there is no explicit mention of skills related to M&A or equity/debt events."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.614
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "21856577",
+    "jd_id": "3901993765",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.47,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description prefers candidates with an MSc degree."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest education is listed as Eastgate Christian Academy without a degree or field, which does not match the job requirement of an MSc degree."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 22.1 yrs (capped to 22.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in banking and financial services, particularly in roles that involve client relationship management and sales, which aligns well with the job description. However, the experience lacks depth in data science and analytics."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they can lead data analytics initiatives or manage comprehensive analytics strategies."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that align with leading data analytics initiatives or managing comprehensive analytics strategies, as required by the job description."
+        },
+        "skills": {
+            "score": 0.284,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Professionalism (fuzzy)'] | (LLM 0.4): The candidate has relevant skills in banking, client service, and financial services, which align with the job requirements. However, there is a lack of specific technical skills like Python, SQL, and advanced statistical methods."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions some soft skills like client service and teamwork, but lacks specific skills related to technical communication, problem-solving, and stakeholder engagement."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention proficiency in tools like Python, SQL, Tableau, or MDLC best practices, which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills in banking, client service, and financial services, which can be applied to the role. However, these skills are not as specialized as those required for data science and analytics."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.378
+}

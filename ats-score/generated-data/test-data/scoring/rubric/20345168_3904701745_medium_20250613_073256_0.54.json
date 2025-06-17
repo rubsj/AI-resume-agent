@@ -1,0 +1,51 @@
+{
+    "resume_id": "20345168",
+    "jd_id": "3904701745",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.667,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree in Business Management but lacks a CPA certification, which is preferred in the JD."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Management from Arizona State University, which is relevant to the JD's requirement for a four-year degree in Accounting."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 23.2 yrs (capped to 23.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has a history of working in various accounting roles, including staff accountant, independent accounting consultant, accounting manager, and human resources manager, which closely matches the job responsibilities listed in the JD."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing teams and departments indicates leadership skills, but the JD does not explicitly require leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in reconciling accounts, preparing journal entries, assisting with month-end close, monitoring revenue, maintaining accounting policies, and identifying discrepancies aligns with the JD's responsibilities. However, they lack experience in performing SOX controls."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting software and processes, which aligns well with the required skills in finance and accounting. The mention of advanced Excel skills also matches the JD requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in financial statement analysis, account reconciliation, general ledger accounting, effective time management, and strong organizational skills match the soft skills required by the JD."
+        },
+        "tools": {
+            "score": 0.47,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate's proficiency in Microsoft Office tools like Word, Excel, PowerPoint, and Outlook matches the JD's requirement for Excel skills. However, they lack specific knowledge about Pivot tables, Xlookups, and keyboard shortcuts."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in payroll, employee management, hiring, training, and benefits shows transferable skills that could be beneficial in the role, but it does not specifically match the JD's requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.535
+}

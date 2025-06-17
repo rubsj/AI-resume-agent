@@ -1,0 +1,51 @@
+{
+    "resume_id": "18155310",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.476,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has some certifications relevant to Human Resources, but lacks specific certifications in Information Technology or Project Management."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an Associates degree in Business Management, which is not directly aligned with the job description's requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 22.3 yrs (capped to 22.3), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in Human Resources, particularly in areas like recruitment, training, and performance management. However, the lack of direct experience in Information Technology or Project Management reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in managing teams, which is a key leadership skill. However, there is no mention of leading diverse, cross-functional teams or managing projects in classic agile models."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed in the job description, such as managing teams and achieving milestones. However, there is no mention of project planning or tracking."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Human Resources (substring)', 'Procore (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, which aligns well with the job description's required skills. However, there is no mention of Information Technology or Project Management, which are also required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like leadership and communication, which are important for the role. However, there is no mention of critical thinking or analytical skills."
+        },
+        "tools": {
+            "score": 0.204,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Procore (fuzzy)', 'Procore (fuzzy)'] | (LLM 0.4): The candidate has experience with Deltek and Procore, which are mentioned in the job description's tools and technologies section. However, there is no mention of HRIS systems or ERP systems."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like customer service and retail sales, which could be useful in the role. However, these skills are not directly aligned with the job description's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.475
+}

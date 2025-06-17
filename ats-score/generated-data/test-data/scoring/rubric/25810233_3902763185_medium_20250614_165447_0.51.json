@@ -1,0 +1,51 @@
+{
+    "resume_id": "25810233",
+    "jd_id": "3902763185",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.562,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['MBA (exact)'] | (LLM 0.5): The candidate has multiple degrees in Business Administration/Marketing, but the years and GPAs are missing, making it hard to assess the relevance and quality of education."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 26.9 yrs (capped to 26.9), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in sales management and marketing roles, which align with the job responsibilities. However, the lack of specific details about the achievements and impact reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, indicating good presentation and attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to sales, marketing, and account management, which align with the job responsibilities. However, the lack of detail about specific responsibilities reduces the score."
+        },
+        "skills": {
+            "score": 0.33,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Innovation (exact)'] | (LLM 0.4): The candidate has relevant skills like Advertising, Computer Knowledge, Selling, Sales Management, Strategic, and Innovation, which match the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like Excellent Communication, Creativity, Innovation, and Problem Solving, which are soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.168,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched: ['Excel (substring)', 'Salesforce (substring)'] | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like Team Building and Strategic, which can be transferred to the role, but the lack of detail about specific experiences reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.511
+}

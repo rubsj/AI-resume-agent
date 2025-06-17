@@ -1,0 +1,51 @@
+{
+    "resume_id": "37540732",
+    "jd_id": "3902834509",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.701,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job's requirement for a high school education."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree from The Citadel, which is relevant but does not specify the field of study, unlike the job's requirement for a high school education."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.5 yrs (capped to 28.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 28 years of experience in sales, which significantly exceeds the job's requirement for at least 2 years of experience. The detailed job history shows a progression in sales roles, aligning closely with the job's responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail, which could affect the ATS's ability to extract information."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership skills are evident in their ability to manage sales teams and achieve sales targets. However, there is no explicit mention of leading district meetings or facilitating district SC meetings, which are part of the job's responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles, such as managing sales performance and coaching, align well with the job's responsibilities. However, there is no explicit mention of leading district meetings or leveraging Sales Support resources, which are part of the job's responsibilities."
+        },
+        "skills": {
+            "score": 0.607,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)', 'Training (exact)'] | (LLM 0.4): The candidate has extensive experience in sales, which aligns well with the job's requirement for sales expertise. The resume also lists skills that match the job's preferred skills, such as production and sales."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as interpersonal skills and motivation, align with the job's requirements. However, there is no explicit mention of supervisory skills or project management, which are part of the job's responsibilities."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, which contrasts with the job's requirement for proficiency in a CRM tool and Sysco's proprietary CRM tool."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as customer service and troubleshooting, align well with the job's requirements. However, there is no explicit mention of product innovation or competitor analysis, which are part of the job's responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.566
+}

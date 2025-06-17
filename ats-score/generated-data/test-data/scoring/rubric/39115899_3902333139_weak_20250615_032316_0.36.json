@@ -1,0 +1,51 @@
+{
+    "resume_id": "39115899",
+    "jd_id": "3902333139",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.483,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a CNAP certification, which is relevant but not as directly aligned as the job description's preferred certifications like CPA."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a strong educational background in accounting and business economics, which aligns with the job description's inferred domain of finance and accounting."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 18.9 yrs (capped to 18.9), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has experience in accounting roles that involve auditing, bank reconciliations, and procurement, which aligns with the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, free of grammatical errors, and clearly structured."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight any leadership roles or responsibilities that would indicate leadership capabilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide specific details about responsibilities that match the job description's listed responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as auditing, bank reconciliations, and French proficiency, which align with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks explicit soft skills that are mentioned in the job description such as strong analytical skills, effective communication, and leadership capabilities."
+        },
+        "tools": {
+            "score": 0.15,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SAP (exact)'] | (LLM 0.4): The candidate does not have direct experience with tools mentioned in the job description such as WDesk, HFM, SAP, and OneSource."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like data analysis, inventory management, and French proficiency, which could be applicable in the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.363
+}

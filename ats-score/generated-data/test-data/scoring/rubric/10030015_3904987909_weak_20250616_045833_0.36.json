@@ -1,0 +1,51 @@
+{
+    "resume_id": "10030015",
+    "jd_id": "3904987909",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.486,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, which could be beneficial for a Junior Software Engineer role."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is not aligned with the preferred degrees in the job description, which are Computer Science and Information Technology."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in engineering roles, but the job description specifically requires software engineering experience, which is lacking in the provided resume."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are important for a Junior Software Engineer role."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that align with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.524,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Engineering (exact)', 'Testing (exact)'] | (LLM 0.4): The candidate has relevant skills such as Mechanical, Electrical, and Hydraulic Testing, which align with the required skills in the job description. However, there is no mention of proficiency in programming languages or tools like WPF, C#, Angular, React, etc., which are essential for a Junior Software Engineer role."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention soft skills such as Problem Solving, Analytical Skills, Teamwork, Communication, Learning Agility, and Adaptability, which are crucial for a Junior Software Engineer role."
+        },
+        "tools": {
+            "score": 0.045,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 2}. Matched: ['C# (substring)', 'React (fuzzy)', 'Unit Testing (fuzzy)'] | (LLM 0.4): The candidate does not have any experience with the tools mentioned in the job description such as WPF, C#, Angular, React, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as Lean/5S, Test Stand Fabrication, and experience in managing teams, which can be applied in a software engineering context. However, these skills are not directly related to software development."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.358
+}

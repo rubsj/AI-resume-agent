@@ -1,0 +1,51 @@
+{
+    "resume_id": "48533663",
+    "jd_id": "3904931300",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.42,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and there are no specific certifications listed in the job description that match the candidate's qualifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds advanced degrees in healthcare administration, which is relevant to the job description's requirement for environmental science or civil/environmental engineering degrees. However, the lack of direct environmental science education reduces the score."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate's experience is in healthcare administration rather than environmental consulting, which may not directly align with the job description's requirements. However, the breadth of experience in managing facilities could be considered transferable."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating high professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing multiple facilities and staff demonstrates leadership qualities, but the job description does not specifically mention leadership roles or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing facilities and overseeing operations are somewhat aligned with the job description's responsibilities of supporting clients and managing tasks. However, the focus on healthcare administration does not fully match the environmental consulting context."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in multiple facility management, which aligns well with the required skill of supporting various clients and projects. The skills also include mentoring and development, which can be seen as leadership qualities."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes professional affiliations and awards, which can be indicative of strong soft skills such as motivation, teamwork, and versatility. The lack of explicit soft skills in the resume reduces the score slightly."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Excel (fuzzy)'] | (LLM 0.4): The job description mentions Excel tools, but the resume does not explicitly state proficiency or usage of Excel."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like management, mentoring, and process improvement are transferable to the environmental consulting field, but the lack of direct experience in environmental science reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.531
+}

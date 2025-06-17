@@ -1,0 +1,51 @@
+{
+    "resume_id": "17252448",
+    "jd_id": "3905312198",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.7,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which are required skills according to the job description."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Master's degree in Civil Engineering, which is relevant to the job description's inferred domain of construction. However, there is no mention of GPA, which could be a factor in assessing educational qualifications."
+        },
+        "experience": {
+            "score": 0.63,
+            "reason": "(Rule 0.5): Resume: 2.3 yrs (capped to 2.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience as a Construction Project Manager and Site Supervisor, which aligns with the job description's required experience and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as a Construction Project Manager indicates leadership skills, but there is no explicit mention of leadership in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing submittals, coordinating plans, analyzing proposals, and monitoring operations, which align with the job description's responsibilities. However, there is no direct match for all responsibilities listed."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Project scheduling, Estimating, Budget planning, Value engineering, Contract coordination, and OSHA safety requirements, which align with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership and project management skills, which align with the soft skills required in the job description. However, there is no explicit mention of strong decision-making skills, effective communication, resourcefulness, problem-solving, attention to detail, teamwork, or leadership."
+        },
+        "tools": {
+            "score": 0.03,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Project (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used, which are mentioned in the job description's optional skills."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in project management, budget planning, and OSHA safety requirements can be considered transferable. However, there is no explicit mention of manufacturing skills, which are mentioned in the job description's required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.468
+}

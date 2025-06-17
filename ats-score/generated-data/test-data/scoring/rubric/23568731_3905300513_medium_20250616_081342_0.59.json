@@ -1,0 +1,51 @@
+{
+    "resume_id": "23568731",
+    "jd_id": "3905300513",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.58,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a ServSafe certification, which is relevant to food safety but lacks details on its issue date, potentially reducing the score."
+        },
+        "education": {
+            "score": 0.525,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has an Associate of Applied Science degree in Culinary Arts, which is foundational but does not specify recentness or relevance to current industry standards."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in various kitchen roles, demonstrating a deep understanding of culinary operations and food preparation, which aligns closely with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading kitchen teams is mentioned, but it lacks specifics on leadership style or achievements, which could enhance the score."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles match several key responsibilities listed in the job description, particularly in food preparation and kitchen management."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate possesses strong culinary skills relevant to the job, including experience as a Chef and multiple roles as a Cook, indicating proficiency in kitchen operations and food preparation."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate highlights excellent communication and teamwork skills, which are essential for the role, though these are not quantitatively detailed."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No specific tools or technologies are mentioned in the resume that directly correspond to the job description's tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in managing kitchen staff and improving efficiency are transferable to the job description's emphasis on teamwork and operational improvements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.589
+}

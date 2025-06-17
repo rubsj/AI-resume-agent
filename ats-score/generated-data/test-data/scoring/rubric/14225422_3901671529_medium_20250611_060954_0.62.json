@@ -1,0 +1,51 @@
+{
+    "resume_id": "14225422",
+    "jd_id": "3901671529",
+    "domain": "HR",
+    "resume_jd_similarity": 0.695,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be a concern given the job description's requirement for knowledge of government employment laws and regulations."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Industrial Psychology and a Bachelor's degree in Psychology, which are related fields but do not directly match the job description's preferred degree of a Bachelor's Degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has significant experience in various HR roles within manufacturing companies, demonstrating expertise in areas such as payroll, benefits administration, employee relations, and compliance with labor laws. This experience closely matches the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise, effectively communicating their qualifications."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership roles or responsibilities, although they have managed teams and projects in previous HR positions. Leadership skills are important in HR, especially in managing change and leading initiatives."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with many of the job responsibilities listed, such as supporting safety processes, managing compliance, and facilitating training. However, there is no direct mention of the specific responsibilities like serving as a liaison for local organizations or reviewing agreements with vendors."
+        },
+        "skills": {
+            "score": 0.371,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Safety (exact)'] | (LLM 0.4): The candidate has extensive experience in human resources, particularly in manufacturing environments, which aligns well with the job description's requirements. The resume mentions proficiency in Excel, Word, PowerPoint, and specific HRIS systems like Ceridian, Paychex, and ADP, which are relevant tools for the role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication, compliance, and continuous improvement, are generally aligned with the job description's expectations. However, there is no explicit mention of skills like respect, honesty, integrity, diversity, inclusion, or safety of others."
+        },
+        "tools": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate has experience with several HR tools and technologies, including Ceridian HRIS, Paychex, and ADP payroll systems, which are mentioned in the job description. However, there is no explicit mention of any specific tools beyond these."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as problem-solving, adaptability, and attention to detail, are not explicitly mentioned in the resume but can be inferred from their experience in various HR roles. These skills are generally expected in an HR position."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.618
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "72807293",
+    "jd_id": "3901677052",
+    "domain": "APPAREL",
+    "resume_jd_similarity": 0.437,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume that directly match the required skills or responsibilities listed in the job description."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume lists only a B.S degree in Business Administration, which does not directly align with the required education or degrees specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in management roles, particularly in operations and customer support, which aligns with the job responsibilities. However, the total experience years exceed the inferred domain's typical requirement."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various management roles demonstrates leadership skills, particularly in managing teams and processes. However, there is no explicit mention of leadership in the context of the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing teams, ensuring quality assurance, and customer support, which align with the job responsibilities. However, there is no explicit mention of inventory control or receiving area preparation."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has extensive experience in management, which aligns well with the required skills of managing operational processes and leading teams. The mention of senior management and executive assistant roles indicates strong leadership capabilities."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions strong communication and management skills, which are soft skills relevant to the job. However, there is no explicit mention of teamwork or problem-solving abilities."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions Excel as a tool, but no specific tools or technologies used by the candidate are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like documentation, coaching, and process improvement, which can be transferred to the new role. However, there is no explicit mention of manufacturing skills or specific technical knowledge."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.531
+}

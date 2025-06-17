@@ -1,0 +1,51 @@
+{
+    "resume_id": "18365791",
+    "jd_id": "3905209022",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.423,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description mentions several IT-related certifications that are preferred."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Accounting from Kaplan University, which is aligned with the preferred degree in the job description. However, the lack of GPA information may indicate a lower level of academic achievement."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.1 yrs (capped to 20.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in various roles that demonstrate a range of skills relevant to the job, including accounts receivable management and customer service. However, the lack of direct IT experience may limit their fit for a senior internal auditor position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in managing teams and training staff, which could be seen as leadership skills. However, the job description does not require specific leadership experience, and the candidate's experience is not detailed enough to fully assess their leadership capabilities."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as accounts receivable reporting and customer service, which align with some of the job responsibilities. However, they lack experience in conducting risk-based compliance audits and utilizing IT frameworks."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Accounts receivable professional, which aligns with the job's requirement for Accounting/Auditing expertise. However, there is no mention of specific IT skills like ACL software or SAP, which are preferred."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, but their self-motivation and attention to detail could be considered as soft skills. The job description emphasizes excellent communication and analytical skills, which are not fully reflected in the resume."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ACL software (fuzzy)'] | (LLM 0.4): The candidate does not list any tools or technologies used, while the job description specifically mentions ACL software, PeopleSoft Financials, and SAP as preferred."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as teamwork and problem-solving, are relevant to the job. However, the lack of specific IT skills and certifications limits the alignment with the job's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.416
+}

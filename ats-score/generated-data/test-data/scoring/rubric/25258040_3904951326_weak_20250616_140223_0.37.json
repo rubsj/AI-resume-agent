@@ -1,0 +1,51 @@
+{
+    "resume_id": "25258040",
+    "jd_id": "3904951326",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.408,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description mentions AWS, Google Cloud Platform, Azure, CDMP, MDM, DBA, SQL, SAP, TOGAF, API, CISSP, and VCP as preferred certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education section only lists a High School Diploma without specifying the field of study, which does not match the required degree level of Bachelor's or College Degree in Computer Science, Engineering, Technical, Mathematics, Information Technology, Information Systems, Business, Education, or Computer Engineering."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 16.2 yrs (capped to 16.2), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in administrative roles and customer service, which aligns well with the job responsibilities mentioned in the job description. The experience also includes leadership skills through managing teams and projects, which is beneficial for a senior-level position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. This contributes positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows experience in leading teams and managing projects, which indicates strong leadership skills. This aligns well with the job description's requirement for mid-senior level experience."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume provides some details about responsibilities in previous roles, but it lacks specifics on high-level architecture, data modeling, and big data strategy, which are key responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'administrative', 'Customer service', 'CVS', and 'bi', which align with the job requirements for 'Business Development' and 'Sales'. However, the resume lacks specific technical skills like 'Spark', 'Python', and 'SQL' that are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention soft skills, which are important for influencing and presenting strategies effectively, as required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, whereas the job description requires proficiency in AWS, Google Cloud Platform, Azure, CDMP, MDM, DBA, SQL, SAP, TOGAF, API, CISSP, and VCP."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as'multi-tasking', 'project management', and 'leadership', which can be beneficial in a consulting role. However, these skills are not as detailed or specific as those required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.372
+}

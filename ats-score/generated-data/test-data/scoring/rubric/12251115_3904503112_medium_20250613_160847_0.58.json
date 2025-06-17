@@ -1,0 +1,51 @@
+{
+    "resume_id": "12251115",
+    "jd_id": "3904503112",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.506,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a CO State industry certification, but it does not directly match the required clearance level of Active Top Secret (TS)."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education includes a Bachelor of Science in Nursing and an Associate of Science in Paramedicine, neither of which directly align with the required degree of Bachelor's degree in Management Consulting."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 24.5 yrs (capped to 24.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has significant experience in managing operations, including roles as General Manager and Manager, which align well with the job responsibilities. However, the industry is not specified to match the required experience in Management Consulting."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The formatting is clean and professional."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is not explicitly mentioned in the job description, which requires leadership at a mid-senior level. The resume provides evidence of leadership through various management roles, but the industry context is missing."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities show alignment with the job responsibilities, particularly in terms of collaboration, research, and providing guidance. However, the lack of specific details about industry knowledge and problem-solving skills in the context of Management Consulting reduces the score."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Marketing (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Advertising', 'consultant', 'training employees', and 'operations management'. However, there is no direct match for 'Marketing', 'Public Relations', and 'Writing/Editing' which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as excellent communication, project management, and teamwork, which are aligned with the job description. However, the lack of explicit mention of client engagement and industry-specific expertise reduces the score."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): There are no tools or technologies listed that directly match the job description requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like staff management, inventory management, and Excel proficiency, which could be applicable across industries. However, the lack of specific skills related to Management Consulting reduces the overall score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.584
+}

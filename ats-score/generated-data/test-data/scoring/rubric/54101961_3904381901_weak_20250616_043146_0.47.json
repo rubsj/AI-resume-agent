@@ -1,0 +1,51 @@
+{
+    "resume_id": "54101961",
+    "jd_id": "3904381901",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.538,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required 'ASE P2 certified or ASE ready equivalent'."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): Only AS degrees are listed, lacking the required bachelor's degree or higher."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 15.8 yrs (capped to 15.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and customer service, but lacks experience with specific tools and technologies mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with some responsibilities, but lacks experience with DIY services and specific tasks like managing services and ensuring store cleanliness."
+        },
+        "skills": {
+            "score": 0.832,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)', 'Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'customer service' and'sales', but lacks specific tools and technologies mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists skills like 'friendly communication' and'safety knowledge', but lacks specific soft skills like 'operating inventory systems' and 'expert at testing and diagnostic equipment'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in Microsoft software, POS, parts lookup systems, testing and diagnostic equipment."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'hardware' and 'inventory', but lacks specific skills like 'parts and automotive system knowledge' and 'operating POS and parts lookup systems'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

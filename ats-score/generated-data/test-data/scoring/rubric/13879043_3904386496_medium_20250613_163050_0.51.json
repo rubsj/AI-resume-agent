@@ -1,0 +1,51 @@
+{
+    "resume_id": "13879043",
+    "jd_id": "3904386496",
+    "domain": "HR",
+    "resume_jd_similarity": 0.603,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned that match the preferred certifications in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA in Human Resource Management, which is relevant to the job. However, the Bachelors of Commerce degree does not directly relate to the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 6.7 yrs (capped to 6.7), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 6 years of experience in HR roles, including experience in areas such as performance management, recruitment, and employee relations, which closely matches the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as managing teams and conducting seminars, which indicates some leadership capability. However, the job description requires more specific leadership skills like change management and diversity management."
+        },
+        "responsibilities": {
+            "score": 0.466,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Selection (exact)', 'Performance Management (substring)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with many of the responsibilities listed in the job description, particularly in areas like HR advocacy, recruiting, training, and performance management."
+        },
+        "skills": {
+            "score": 0.571,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Human Resources (fuzzy)', 'Management (exact)', 'Recruiting (exact)', 'Performance Management (substring)'] | (LLM 0.4): The candidate has extensive experience in Human Resource Management, which aligns well with the job requirements. The skills listed are relevant to the position."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership and decision making, are generally aligned with the soft skills required in the job description. However, there is no explicit mention of skills like business acumen or communication."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of specific tools or technologies used in the candidate's experience matches those required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like benefits, budgeting, and organization development are transferable to the role, but they do not cover all the specific skills listed in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.511
+}

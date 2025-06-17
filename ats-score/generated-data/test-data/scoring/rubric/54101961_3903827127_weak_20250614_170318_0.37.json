@@ -1,0 +1,51 @@
+{
+    "resume_id": "54101961",
+    "jd_id": "3903827127",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.432,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate has two AS degrees but no bachelor's degree or higher, which may not meet the minimum educational requirement implied by the job description."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Resume: 15.8 yrs (capped to 15.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles, but the total experience years do not match the required experience years of 5+ years specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, indicating a high level of professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they have managed teams or projects."
+        },
+        "responsibilities": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not explicitly list responsibilities that match the detailed job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.336,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has skills in hardware, software, and basic office tasks which align with some of the required skills in the job description such as management and manufacturing. However, there is no explicit mention of advanced management or manufacturing skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are typically required for a Business Operations Manager role, such as communication, leadership, and strategic thinking."
+        },
+        "tools": {
+            "score": 0.16,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume mentions knowledge of Windows operating systems and basic hardware setup, which aligns with some tools mentioned in the job description like Wide Area Workflow (WAWF), Procurement Integrated Enterprise Environment (PIEE), Deltek Costpoint® Time and Expense, and NAVEX Global. However, there is no explicit mention of proficiency in these tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like customer service, data entry, and technical support, which could be useful in a Business Operations Manager role. However, these skills are not directly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.374
+}

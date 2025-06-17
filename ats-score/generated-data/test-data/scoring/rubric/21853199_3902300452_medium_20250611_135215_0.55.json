@@ -1,0 +1,51 @@
+{
+    "resume_id": "21853199",
+    "jd_id": "3902300452",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.663,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Business Administration in Accounting, which matches the preferred degree of an Associate degree in accounting. However, the degree is from Kent State University, which may not be recognized by the employer."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.7 yrs (capped to 17.7), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including staff accountant, senior accountant, and tax analyst, which closely matches the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience in the candidate's resume, and the job description does not require any leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in managing collections, overseeing customer accounts, preparing financial reports, and assisting with month-end closing aligns with the job responsibilities. However, there is no mention of Trust Fund accounting or specific software used."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the job's requirement for accounting functions. The skills section also includes proficiency in Microsoft Excel, which is mentioned in the tools section of the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions strong analytical, organizational, and communication skills, which align with the soft skills section of the job description. However, there is no mention of time management or teamwork."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Excel and other accounting systems, which aligns with the tools section of the job description. However, there is no mention of specific tools like NCAS, NCFS, or E-procurement system."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various accounting roles demonstrates transferable skills, but there is no mention of specific skills related to the job responsibilities such as research or maintenance of records."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.55
+}

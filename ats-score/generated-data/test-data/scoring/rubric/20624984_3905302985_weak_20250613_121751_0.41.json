@@ -1,0 +1,51 @@
+{
+    "resume_id": "20624984",
+    "jd_id": "3905302985",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.693,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description prefers candidates with a BS/BA in Accounting, Finance, or related majors."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA in Finance and IT, which is relevant but lacks details about GPA and field of study. The technical qualifications in SAP FI Module are also missing details."
+        },
+        "experience": {
+            "score": 0.69,
+            "reason": "(Rule 0.5): Resume: 3.9 yrs (capped to 3.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in various accounting roles, including accounts payable and consultant positions, which align with the job responsibilities. However, the experience is brief and lacks detail."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume, whereas the job description may require leadership qualities."
+        },
+        "responsibilities": {
+            "score": 0.298,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 2}. Matched: ['Prepare balance sheets and profit and loss statements (fuzzy)', 'Prepare financial reports (fuzzy)', 'Prepare journal entries (substring)'] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully match the detailed job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills such as accounting, financial reporting, and reconciliation, which align with the job requirements. However, there is a lack of depth in specific tools like Sage 50 Accounting software."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are explicitly mentioned in the resume, while the job description emphasizes the importance of attention to detail, customer service, and ethical standards."
+        },
+        "tools": {
+            "score": 0.16,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like SAP FI, but lacks detail on proficiency and usage. The job description mentions specific tools like Sage 50 Accounting software, which are not covered in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as attention to detail, which are important for the role. However, there is a lack of detail on how these skills have been applied in previous roles."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.41
+}

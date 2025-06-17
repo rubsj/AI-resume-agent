@@ -1,0 +1,51 @@
+{
+    "resume_id": "34594746",
+    "jd_id": "3902747682",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.424,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, specifically CPCU which is preferred in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Business Management, which is preferred in the job description. However, the degree is not recent and the GPA is not provided."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in customer service, collections, and sales, which aligns well with the job description. The experience is recent and includes responsibilities that match those listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks detail in some sections, such as the summary and experience descriptions."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience or skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the responsibilities listed in the job description, but not all. There is no mention of developing underwriting protocols or managing multi-phase projects."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has a wide range of skills that align with the job description, including call center operations, customer service, and computer proficiency. However, there is no mention of finance or sales skills, which are required."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication and problem-solving, align with the job description. However, there is no mention of strong analytical skills or self-motivation."
+        },
+        "tools": {
+            "score": 0.46,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 1}. Matched: ['Data (exact)', 'Microsoft Office (substring)', 'IT systems (fuzzy)'] | (LLM 0.4): The candidate has experience with many of the tools mentioned in the job description, such as Microsoft Office, but lacks experience with some specific tools like workflow tools and vendor solutions."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as customer service, sales, and computer proficiency that could be applied to the role. However, there is no mention of financial acumen or sales expertise."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.51
+}

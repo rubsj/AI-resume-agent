@@ -1,0 +1,51 @@
+{
+    "resume_id": "29821051",
+    "jd_id": "3905821012",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.685,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires a Certified Public Accountant (CPA) certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Accounting, but the degree is not from a recognized institution or lacks a GPA, which may not meet the job description's preference for a Bachelor's degree in Accounting or Finance."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 27.7 yrs (capped to 27.7), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in various accounting roles, including financial accounting, business analysis, treasury analysis, and derivatives middle office analysis, which closely matches the job responsibilities. However, the total experience years exceed the required experience years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The summary is concise and highlights relevant experience and skills."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leading teams and projects, which indicates leadership skills. However, there is no explicit mention of leadership responsibilities or achievements."
+        },
+        "responsibilities": {
+            "score": 0.36,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Oversees balance sheet reconciliation (fuzzy)'] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job responsibilities, such as overseeing accounting activities, managing budgets, and ensuring compliance. However, there is no direct mention of overseeing the account receivables and payables processes."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills in Accounting/Auditing and Finance, which align with the job requirements. However, there is a lack of specific mention of budgetary management and policies and procedures."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include strong analytical and communication skills, which are aligned with the soft skills required. However, there is no explicit mention of customer-centric approach or innovative thinking."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office Suite and Hyperion, which are mentioned in the job description. However, there is no explicit mention of Google Teams."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in account reconciliation, budget analysis, and financial management are transferable to the role. However, there is no explicit mention of supervisory skills or detailed knowledge of regulatory requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.52
+}

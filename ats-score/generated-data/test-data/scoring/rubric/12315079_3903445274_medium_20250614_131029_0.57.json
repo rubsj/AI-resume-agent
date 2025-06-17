@@ -1,0 +1,51 @@
+{
+    "resume_id": "12315079",
+    "jd_id": "3903445274",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.462,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume that directly match the job description's requirements."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): A Bachelor's degree in Marketing is listed, but it lacks specific details such as GPA or graduation year, making it less relevant compared to the job description's requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.0 yrs (capped to 19.0), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 19 years of experience in national sales, business development, and account management, which closely matches the job description's required experience level and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading national sales teams, managing budgets, and directing business operations demonstrates strong leadership skills, which are crucial for the role."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job description's responsibilities, particularly in customer service, sales, and account management, but there is no direct match with the detailed responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has extensive experience in leadership, communication, business operations, client account management, budgeting, negotiations, employee relations, market research, customer-oriented skills, and sales management, which aligns well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as relationship building, communication, detail-oriented, and a go-getter mindset, which are aligned with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.26,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Salesforce (fuzzy)'] | (LLM 0.4): The candidate's skills include Microsoft Office, which is one of the tools mentioned in the job description, but they lack specific details about proficiency or usage in the context of the job."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like leadership, communication, and sales management are transferable across industries and can be applied effectively in the insurance sector, as indicated by the job description's inferred domain."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.573
+}

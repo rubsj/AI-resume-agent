@@ -1,0 +1,51 @@
+{
+    "resume_id": "55477468",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.47,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume, which contrasts with the job description's requirement for Information Technology, Purchasing, and Supply Chain skills."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a Bachelor of Arts degree in Psychology from The University of New Mexico, which is relevant to the job description's inferred domain of Retail and Operations. However, the lack of specific degrees in Information Technology, Purchasing, and Supply Chain reduces the score."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 13.5 yrs (capped to 13.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in Sales, Health Information, and Yoga Instruction, which partially aligns with the job responsibilities but lacks direct experience in the Instock function."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, which enhances its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills that are required by the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills like Microsoft Word, Office, Excel, Power Point, MindBody software, and excellent telephone etiquette, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions self-starter, organized, and works well under pressure, which aligns with the soft skills required by the job description. However, the lack of data extraction and analytical capabilities reduces the score."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Word, Office, Excel, and MindBody software, which matches some of the tools required by the job description. However, there is no mention of SQL or Process Improvement Techniques."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like customer service, communication, and multitasking, which could be beneficial in the Instock function. However, the lack of specific skills related to demand planning, ordering, and capacity management reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.454
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "18268860",
+    "jd_id": "3902804568",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.419,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's lack of certification requirement."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['B.S. degree in Engineering or related technical field (fuzzy)'] | (LLM 0.5): The resume mentions only a B.S. degree in Professional Aeronautics without specifying the field of study, which does not directly match the job description's preferred degree of 'B.S. degree in Engineering or related technical field'."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 25.4 yrs (capped to 25.4), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in quality control and aviation structural mechanics, which aligns with the job description's responsibilities of leading development and operational constraints for vehicle operations."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not explicitly mention leadership roles or experiences, which contrasts with the job description's responsibilities of leading development and operational constraints."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks details about specific responsibilities, which contrasts with the job description's responsibilities of leading development of CONOPS and operating requirements, defining operational constraints, collaborating with customer teams, and providing real-time engineering anomaly resolution."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'blueprints', 'Catia V', 'inspecting', 'inspection', 'Inspector', 'risk management', and 'technical manuals'. These align well with the job description's required skill of 'Education, Training'."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not mention any soft skills, which contrasts with the job description's emphasis on diligence, future-thinking, ability to handle diverse data, and passion for the company's mission."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any tools or technologies used, which contrasts with the job description's mention of specific tools like Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as attention to detail, problem-solving, and teamwork, which could be relevant to the job description's responsibilities and soft skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.373
+}

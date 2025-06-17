@@ -1,0 +1,51 @@
+{
+    "resume_id": "91189201",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.483,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications mentioned match the job requirements."
+        },
+        "education": {
+            "score": 0.461,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Engineering (exact)', 'Business (exact)'] | (LLM 0.5): The candidate holds a Master's degree in Business Technology and a Bachelor's degree in Computer Science, which are relevant to the job requirements."
+        },
+        "experience": {
+            "score": 0.587,
+            "reason": "(Rule 0.5): Resume: 6.9 yrs (capped to 6.9), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in consulting roles, but the specific experience does not directly match the job responsibilities listed."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No specific examples of leadership in the candidate's experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not cover the detailed responsibilities required by the job description."
+        },
+        "skills": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched skills: ['AWS (exact)', 'SQL (exact)'] | (LLM 0.4): The candidate has relevant skills such as Web Services, Testing, and IT Infrastructure, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of soft skills such as leadership or motivation abilities in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.12,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['AWS (exact)', 'HBase (fuzzy)'] | (LLM 0.4): No mention of tools or technologies used in the candidate's experience matches the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Web Based, Maintenance, and Testing, which could be applicable in the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.297
+}

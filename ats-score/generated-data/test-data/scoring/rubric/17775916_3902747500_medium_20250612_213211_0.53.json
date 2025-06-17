@@ -1,0 +1,51 @@
+{
+    "resume_id": "17775916",
+    "jd_id": "3902747500",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.654,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job description requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Commerce degree is mentioned, but it lacks details such as GPA or major field, which could be more relevant for the job."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 7.1 yrs (capped to 7.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in finance roles, including budgeting, forecasting, and financial analysis, which aligns with the job description. However, the job description requires at least 5 years of experience, and the resume does not explicitly state the total experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are some sections that lack detail or clarity, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions supervisory experience, which aligns with the job description. However, the level of leadership experience is not specified, and there is no mention of leading cross-functional teams or managing multiple projects."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, such as budgeting, forecasting, and financial analysis. However, the job description includes more detailed responsibilities that are not fully covered in the resume."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 3, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Budgeting (exact)', 'Forecasting (exact)', 'Communication (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Budgeting', 'Forecasting', 'Financial Management', and 'Excel' which align with the job requirements. However, there is a lack of specific software tools knowledge."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong soft skills like 'communication' and 'presentation skills', which are aligned with the job description. However, there is no explicit mention of skills like 'influencing' and 'working in a matrix environment' that are required."
+        },
+        "tools": {
+            "score": 0.055,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SAP (exact)'] | (LLM 0.4): The resume does not mention any specific software tools used, while the job description lists several tools such as Hyperion Financial Management (HFM), Hyperion Planning, Anaplan, etc., that the candidate should have experience with."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like 'budgeting', 'forecasting', and 'financial management' can be transferred to the new role. However, there is a lack of detail on specific tools and technologies used."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.526
+}

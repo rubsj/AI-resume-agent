@@ -1,0 +1,51 @@
+{
+    "resume_id": "26671167",
+    "jd_id": "3904386496",
+    "domain": "HR",
+    "resume_jd_similarity": 0.62,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required PHR or SPHR certification."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a High School Diploma and a Pre-Nursing Major, which may not be directly related to the HR field."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 11.8 yrs (capped to 11.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, including experience in recruitment, administration, and management. The experience is recent and shows progression in responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills in their resume, but there is no clear evidence of leadership experience in an HR context."
+        },
+        "responsibilities": {
+            "score": 0.285,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Communication (exact)'] | (LLM 0.5): The candidate has experience in some responsibilities like HR advocacy, recruiting, and performance management, but lacks experience in other areas such as organizational design or change management."
+        },
+        "skills": {
+            "score": 0.568,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Professional and friendly', 'Exceptional multi-tasker', and 'Delivers exceptional customer service'. However, there is a lack of specific HR-related skills like 'Human Resource Policies' or 'Recruiting'."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Business/Financial Acumen', 'Verbal and Written Communication', and 'Leadership', which are beneficial for an HR role. However, there is a lack of specific skills like 'Conflict Management' or 'Championing Change'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in Microsoft Office or Advance and WP systems, which are required tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from previous roles, such as customer service and multitasking, but these are not specifically highlighted as HR-related skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.428
+}

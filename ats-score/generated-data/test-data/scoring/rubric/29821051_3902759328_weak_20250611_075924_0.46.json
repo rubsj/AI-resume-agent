@@ -1,0 +1,51 @@
+{
+    "resume_id": "29821051",
+    "jd_id": "3902759328",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.659,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed, whereas the job description requires either CPA or Series 99 certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Accounting, but the degree is not from a recognized institution or field-specific."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 27.7 yrs (capped to 27.7), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in financial accounting and reporting, but lacks specific experience in capital markets and LIHTC (Low-Income Housing Tax Credits), which are key areas mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities that align with the job description's requirement for directing and coordinating accounting efforts."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some aspects of the job description, such as financial reporting and analysis, but lacks experience in managing technical accounting and overseeing business units' treatment of accounting issues."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong background in accounting and finance, with relevant experience in financial analysis, reporting, and reconciliation. However, there is no mention of advanced accounting concepts, SEC reporting, or GAAP compliance, which are crucial for this role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills in planning, leading, and communicating effectively, which are aligned with the soft skills required. However, there is no explicit mention of developing subordinates or implementing changes to standard procedures."
+        },
+        "tools": {
+            "score": 0.444,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['GAAP (substring)', 'SEC (exact)'] | (LLM 0.4): The candidate has experience with Oracle and Hyperion, which are tools mentioned in the job description, but lacks experience with GAAP, SEC, and Sarbanes Oxley, which are critical for the role."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in budget analysis, financial management, and operations analysis, which are relevant to the job description. However, there is no explicit mention of financial services and products, which is a requirement."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.455
+}

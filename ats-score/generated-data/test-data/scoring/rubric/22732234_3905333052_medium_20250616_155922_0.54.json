@@ -1,0 +1,51 @@
+{
+    "resume_id": "22732234",
+    "jd_id": "3905333052",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.456,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, and the job description requires fleet safety certification, which is not provided."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds relevant degrees in criminal justice and public safety, but the lack of GPA information might suggest less academic achievement."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in customer service and leadership roles, which aligns with the job requirements. However, the lack of detail in job descriptions reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, which aligns with the job's requirement. However, the lack of specific details about leadership skills reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not mention responsibilities that match the job's responsibilities section."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has exceptional communication skills, which aligns well with the job's requirement for customer service and sales. However, the lack of specific tools and technologies used is a minor point."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong leadership skills, which aligns with the job's soft skill requirement. However, there is no mention of effective communication skills."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume, and the job description requires fleet safety certification, which is not provided."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes criminal justice, public safety, sales, and scheduling, which are transferable skills. However, the lack of detail in the skills section reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.537
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "87118391",
+    "jd_id": "3901981100",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, which may be required or preferred by the employer."
+        },
+        "education": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Communications degree from West Virginia State University, but the field of study does not match the job requirements. The other degrees are not specified."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 13.2 yrs (capped to 13.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales, account management, and customer service roles, which aligns well with the job responsibilities. The experience spans over 13 years, meeting the minimum requirement."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are some unclear sections like the education details and the lack of specific dates."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has some leadership experience, such as managing employees and training new hires. However, there is no detailed description of leadership responsibilities or achievements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles overlap with the job responsibilities, such as managing accounts and providing customer service. However, there is no direct mention of sales management or working with retailers."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as sales, account management, and customer service, which align with the job requirements. However, there is no mention of specific tools like Excel or retailer portals."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like communication, problem-solving, and teamwork, which are essential for the role. However, there is no explicit mention of presentation skills or multitasking abilities."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, which could be important for the job."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like attention to detail and leadership, which can be applied to the job. However, there is no clear indication of how these skills have been utilized in previous roles."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.518
+}

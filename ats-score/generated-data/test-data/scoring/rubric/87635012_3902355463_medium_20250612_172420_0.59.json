@@ -1,0 +1,51 @@
+{
+    "resume_id": "87635012",
+    "jd_id": "3902355463",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.733,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the job description's requirements."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Finance and a Bachelor's degree in Accounting, which are relevant to the job description's preferred degrees. However, the specific institutions attended are not detailed."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.5 yrs (capped to 21.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in various accounting roles, which exceeds the job description's required experience of 5 years. The experience includes roles that involve financial reporting, auditing, and management, which align well with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and assess."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervising staff and leading teams in various roles, which indicates leadership skills. However, there is no explicit mention of leadership responsibilities or achievements in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as financial reporting, budget preparation, and financial analysis, which align with the job responsibilities. However, there is no explicit mention of experience in managing finance and accounting functions for clients, which is a key responsibility in the job description."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting and auditing, which aligns well with the job description's required skills. The resume also lists proficiency in tools like Microsoft Excel, Peachtree, PeopleSoft, SAP, and SQL, which are relevant to the job."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong written and verbal communication skills, which align with the soft skills section of the job description. However, there is no explicit mention of professional interaction with stakeholders, which is another soft skill mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft Office (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Excel, Peachtree, PeopleSoft, SAP, and SQL, which are listed in the job description's tools and technologies section. However, there is no mention of proficiency in Microsoft Office, which is specifically called out in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various accounting roles demonstrates transferable skills such as attention to detail, prioritization, and time management. However, there is no explicit mention of experience in research, policy implementation, or training, which are other transferable skills mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.593
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "22465498",
+    "jd_id": "3905364625",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.428,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned match the job requirements."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Business (exact)'] | (LLM 0.5): The candidate has a Diploma in Accountancy and another qualification, but neither directly matches the job requirements."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 23.6 yrs (capped to 23.6), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, including experience in auditing, reconciling bank statements, and financial reporting, which aligns well with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No direct match of responsibilities listed in the candidate's experience to those required in the job description."
+        },
+        "skills": {
+            "score": 0.307,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Communication (substring)'] | (LLM 0.4): The candidate has relevant skills such as Accounting, Auditing, and Financial Management, which align well with the job requirements. However, there is a lack of specific technical skills like Information Technology and Project Management."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills mentioned in the candidate's resume match the job requirements."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Systems (fuzzy)', 'CRM Systems (fuzzy)'] | (LLM 0.4): No mention of tools or technologies used in the candidate's experience matches the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like Communication, Organizational Skills, and Teamwork, which can be transferred to the job, but there is a lack of specific skills like Business Acumen and Technical Expertise."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.409
+}

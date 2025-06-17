@@ -1,0 +1,51 @@
+{
+    "resume_id": "31025785",
+    "jd_id": "3904384957",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.658,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the resume, whereas the job description requires Series 7/79 and Series 63."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Real Estate, Finance, and Investments from New York University and a Bachelor's degree in Economics from Hawaii Pacific University. However, the years and GPA are missing, which could impact the relevance to the job."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in Investment Banking, particularly in roles related to finance and real estate. However, the lack of specific dates and details about responsibilities may reduce the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, the use of commas instead of periods in some sections could be considered a minor issue."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully match the job description's expectations for responsibilities in Investment Banking, particularly in areas like financial analysis and corporate finance advisory."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)', 'Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as Finance, Sales, and Microsoft Excel, PowerPoint, and Word. However, there are gaps in the details provided for specific skills like Financial Modeling and Market Analysis."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as being a self-starter and having strong interpersonal skills, which are aligned with the job description. However, there is no explicit mention of collaborative attitude or excellent written and verbal communication skills."
+        },
+        "tools": {
+            "score": 0.9,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Excel (substring)', 'PowerPoint (exact)', 'Word (exact)'] | (LLM 0.4): The candidate lists proficiency in Microsoft Excel, PowerPoint, and Word, which aligns with the job requirements. There are no discrepancies noted."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Financial Modeling, Market Analysis, and Sales, which are relevant to the job. However, the lack of detail in the resume reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.457
+}

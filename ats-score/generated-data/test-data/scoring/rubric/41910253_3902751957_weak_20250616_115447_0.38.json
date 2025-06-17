@@ -1,0 +1,51 @@
+{
+    "resume_id": "41910253",
+    "jd_id": "3902751957",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.479,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, matching the absence of certification requirements in the job description."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume lacks details about the degree obtained, which is a requirement in the job description."
+        },
+        "experience": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The resume does not mention any experience related to military exercises or intelligence operations, which are required for the job."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume that would match the expectations of a military or intelligence role."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide any information on the candidate's responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has skills in Microsoft Office Suite which matches the required tools in the job description. However, there is no mention of specific military or intelligence skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks soft skills that are typically required for military or intelligence roles, such as strategic planning or risk management."
+        },
+        "tools": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)', 'PowerPoint (exact)'] | (LLM 0.4): The candidate has skills in Microsoft Office Suite, which matches the required tools in the job description. However, there is no mention of specific military tools or technologies."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like data analysis and research, but these may not directly apply to the military or intelligence sector."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.379
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "20317319",
+    "jd_id": "3904393340",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.461,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The education section lacks detail and does not provide information about the degree or field of study, which is required by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 19.8 yrs (capped to 19.8), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and business development, which aligns with the job description. However, the resume does not explicitly mention experience with SCRUM or working in a team environment, which are preferred skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, and the job description does not require any specific leadership qualifications."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in sales and business development align with the job description. However, the resume does not provide details on experience with SCRUM or working in a team environment, which are preferred skills."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Engineering and Information Technology, which aligns with the job description. However, there is no mention of TypeScript, React, GraphQL, or Amazon AWS, which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable soft skills such as autonomy, agility, and innovation, but the resume does not provide evidence of collaboration, ownership, or other soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['React (fuzzy)'] | (LLM 0.4): The resume does not list any tools or technologies used, whereas the job description requires proficiency in TypeScript, React, GraphQL, and Amazon AWS."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in sales, business development, and customer engagement, which align with the job description. However, the resume does not provide evidence of experience with SCRUM or working in a team environment, which are preferred skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.449
+}

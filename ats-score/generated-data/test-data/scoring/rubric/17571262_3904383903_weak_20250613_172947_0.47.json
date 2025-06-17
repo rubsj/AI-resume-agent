@@ -1,0 +1,51 @@
+{
+    "resume_id": "17571262",
+    "jd_id": "3904383903",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.465,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, and the job description prefers an ASE Certification, which is not provided."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): An Associate of Arts degree in Business Management is listed, but it does not specify if it meets the educational requirements for the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.9 yrs (capped to 17.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that demonstrate skills aligned with the job description, including management, accounting, and customer service."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in managing teams and overseeing operations, which indicates some leadership skills, but the resume does not emphasize leadership as a key skill."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like maintaining customer relationships and managing teams, which are relevant to the job responsibilities listed."
+        },
+        "skills": {
+            "score": 0.632,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)'] | (LLM 0.4): The candidate has relevant skills such as Customer Service, Accounts Payable/Receivable, and Inventory Management, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Customer Service, Meeting Planning, and Communication are mentioned in the resume, indicating proficiency in soft skills required for the job."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of specific tools or technologies used in the resume matches those required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as Account Management and Office Management are listed, suggesting transferable skills that could be applicable to the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "44147689",
+    "jd_id": "3905283719",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.406,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has certifications like 'Asbestos Supervisor Certificate' and 'Lead Inspector Certificate', but these do not directly match the job description's certification requirement."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelors (fuzzy)'] | (LLM 0.5): The candidate holds a Master's degree in Historic Preservation and a Bachelor's degree in Architecture, which are relevant to the job description's preferred degree of 'Bachelors'. However, the degrees are not in manufacturing."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in construction management and project coordination, which aligns with the job description's responsibilities. However, there is no direct mention of manufacturing experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not require leadership skills specifically, and the candidate's experience is in construction management rather than leadership roles."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines specific responsibilities related to maintenance supervision, whereas the candidate's experience is in construction management, not maintenance."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Management', 'Blueprints', 'Contracts', and 'Project Management', which align well with the job description's required skills of 'Management' and 'Manufacturing'. However, there is no direct mention of 'Manufacturing' skill."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists 'Excellent customer service' and 'Team player' as soft skills, but the job description does not specify any soft skill requirements."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used, which contrasts with the job description's lack of tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as 'Communication', 'Problem-solving', and 'Leadership', which could be applicable to the job description's responsibilities. However, these skills are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.505
+}

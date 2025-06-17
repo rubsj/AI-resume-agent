@@ -1,0 +1,51 @@
+{
+    "resume_id": "16861758",
+    "jd_id": "3901953529",
+    "domain": "HR",
+    "resume_jd_similarity": 0.408,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds certifications as a Certified Nursing Assistant, but does not have a Bachelor's Degree as preferred in the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's educational background is limited to a few certificates and no formal degree, which may not meet the minimum requirement of a Bachelor's Degree."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 25.4 yrs (capped to 25.4), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has extensive experience in various roles that demonstrate strong skills in Human Resources, Administration, and Customer Service, aligning well with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.1,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight leadership experience, which is a key requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like screening applicants, administering tests, completing reference checks, and using interview techniques, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills including Administrative, Human Resources, and Sales, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as customer service, networking, and communication, which are essential for the role."
+        },
+        "tools": {
+            "score": 0.12,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate lacks specific knowledge of tools mentioned in the job description such as Candidate applicant tracking system, Vendor management systems, Interview techniques, etc."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in multi-tasking and being a careful listener are transferable to the role, but there is room for improvement in terms of technical writing proficiency and extensive knowledge of modern technology."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

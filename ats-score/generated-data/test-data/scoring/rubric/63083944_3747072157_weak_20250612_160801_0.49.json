@@ -1,0 +1,51 @@
+{
+    "resume_id": "63083944",
+    "jd_id": "3747072157",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.74,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed that directly match the requirements in the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two degrees listed, but neither are in the fields specified in the job description requirements (Construction Management or Civil Engineering)."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 19 years of experience in various managerial roles, including project management, which closely matches the required experience level in the job description. The detailed descriptions of their responsibilities and achievements indicate a high level of expertise in the field."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's use of language effectively communicates their qualifications and experiences."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership skills through their role as Area Manager and Director of Projects, but there is no explicit mention of leadership responsibilities or achievements that align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.371,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Scheduling (exact)'] | (LLM 0.5): The candidate's experience includes responsibilities like managing projects, overseeing teams, and ensuring safety, which aligns with the job responsibilities outlined in the job description. However, there is no mention of specific responsibilities related to estimating, cost tracking, reporting, and control."
+        },
+        "skills": {
+            "score": 0.324,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Excel (substring)'] | (LLM 0.4): The candidate has extensive experience in project management, which aligns well with the required skills in the job description. The resume also mentions attention to detail and excellent communication skills, which are beneficial for project management roles."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights skills such as attention to detail, communication, and relationship building, which are soft skills relevant to the job description. However, there is no explicit mention of leadership, mentoring, or strategic thinking."
+        },
+        "tools": {
+            "score": 0.284,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate has experience with some tools mentioned in the job description such as Excel and Word, but lacks specific experience with InEight (HardDollar) Estimating and Project Management Software, which is a requirement."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists transferable skills like attention to detail, communication, and technical proficiency, which could be applicable in various roles. However, these skills are not explicitly aligned with the job responsibilities or required skills in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.493
+}

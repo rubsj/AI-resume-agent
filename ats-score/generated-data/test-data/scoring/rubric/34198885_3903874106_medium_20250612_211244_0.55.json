@@ -1,0 +1,51 @@
+{
+    "resume_id": "34198885",
+    "jd_id": "3903874106",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.685,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Professional Accountancy and a Bachelor of Business Administration, both in Accounting, which aligns well with the job description's requirement for an Associate degree in accounting or business-related field."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.9 yrs (capped to 18.9), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has over 18 years of experience in various accounting roles, which exceeds the minimum requirement of 1-3 years of professional experience in a billing/accounts receivable/customer-facing role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the candidate's resume, and the job description does not require any specific leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as processing accounts payable transactions, auditing invoices, and maintaining accounts payable aging reports, which aligns with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Microsoft Office Accounting Software, which matches the job description's requirement for intermediate-level skill in the use of Microsoft Office Suite and accounting software databases."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as being detail-oriented and able to meet deadlines, match the job description's requirements for a can-do attitude, detail-oriented approach, and ability to multi-task."
+        },
+        "tools": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft Office Suite (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office Accounting Software, which matches the job description's requirement for intermediate-level skill in the use of Microsoft Office Suite and accounting software databases. However, there is no mention of specific tools like Oracle or Concur T&E Portal."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include accounting analysis, grant accounting, budget monitoring, equipment inventory management, and travel arrangement coordination, which are relevant but not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.549
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "25127518",
+    "jd_id": "3903816226",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.408,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which might be a requirement for the job."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an Associate of Applied Science degree in Accounting, which is a basic requirement for the job, but the lack of a Bachelor's degree could be seen as a limitation."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 26.4 yrs (capped to 26.4), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in various accounting roles, which is more than the minimum required experience of 1 year. The detailed job descriptions show proficiency in a wide range of accounting tasks that match the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership skills or experiences, which could be a concern given the job's emphasis on leadership."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as financial accounting, internal controls, and financial statement audits, which align with the job responsibilities. However, there is no mention of specific responsibilities related to audit remediation."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and accounting software, which aligns well with the job requirements. However, there is no mention of specific auditing tools or technologies, which could be a slight mismatch."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are generally aligned with the job requirements, including accounting, auditing, and finance skills. However, there is no explicit mention of business management or data management skills."
+        },
+        "tools": {
+            "score": 0.26,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Accounting software (substring)'] | (LLM 0.4): The candidate has experience with accounting software and some other tools, but there is no explicit mention of auditing tools or technologies, which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as communication and organization, are generally aligned with the job requirements. However, there is no explicit mention of leadership skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.47
+}

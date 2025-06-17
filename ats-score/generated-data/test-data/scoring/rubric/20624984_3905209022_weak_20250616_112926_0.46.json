@@ -1,0 +1,51 @@
+{
+    "resume_id": "20624984",
+    "jd_id": "3905209022",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.551,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate lacks specific certifications that are preferred in the job description, such as CISA or CPA."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA in Finance and IT, which is relevant to the job requirements. However, the details provided are incomplete."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 3.9 yrs (capped to 3.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in accounting roles that align with the job responsibilities. However, the experience is brief and lacks detail."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership roles or achievements, which could be important for senior-level positions."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities listed in the job description, but there is a lack of detail on how they have performed these tasks."
+        },
+        "skills": {
+            "score": 0.304,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['CIA (substring)'] | (LLM 0.4): The candidate has relevant skills such as accounting, auditing, and SAP, which align with the job requirements. However, there is a lack of specific technical certifications like CISA or CPA."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, making it difficult to assess their alignment with the job requirements."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SAP (exact)'] | (LLM 0.4): The candidate has experience with SAP, which is a requirement, but lacks experience with other tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as accounting, auditing, and SAP experience, but lacks specific technical skills like CISA or PCI DSS."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.456
+}

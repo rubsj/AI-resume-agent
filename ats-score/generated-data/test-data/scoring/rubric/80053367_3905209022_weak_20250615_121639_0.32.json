@@ -1,0 +1,51 @@
+{
+    "resume_id": "80053367",
+    "jd_id": "3905209022",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.428,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Basic Life Support (BLS) Certification, which is not directly related to the job requirements. The job requires certifications like SOX compliance, CIS Controls Framework, PCI DSS, SSAE-16, COBIT, and COSO frameworks."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree in Nursing, which is not directly related to the job requirements. However, they also have an Associate of Science degree in Nursing and a Registered Nursing degree, which could be seen as relevant."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Resume: 10.8 yrs (capped to 10.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in administrative roles, but lacks experience in IT audits or internal auditing specifically. They do not have any experience listed that directly matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. It is clear and easy to read."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not indicate any leadership experience or responsibilities that would be relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any experience or responsibilities listed that match the job responsibilities provided in the job description."
+        },
+        "skills": {
+            "score": 0.304,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['CIA (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Accounting/Auditing', 'Information Technology', and 'Balance'. However, there is no mention of specific tools like ACL software or PeopleSoft Financials."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any soft skills that align with the job requirements such as excellent communication skills, strong analytical and quantitative skills, or the ability to rapidly assimilate knowledge of processes and systems."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SAP (exact)'] | (LLM 0.4): The candidate does not list any experience with the tools mentioned in the job description such as ACL software, PeopleSoft Financials, or SAP."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'administrative support', 'closing', and 'customer service', which could be useful in an internal audit role. However, these skills are not directly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.321
+}

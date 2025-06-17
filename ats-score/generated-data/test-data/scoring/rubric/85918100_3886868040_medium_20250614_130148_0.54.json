@@ -1,0 +1,51 @@
+{
+    "resume_id": "85918100",
+    "jd_id": "3886868040",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.429,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions a B.S. degree in Management/Psychology but lacks details such as institution name and graduation year, which reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 23.3 yrs (capped to 23.3), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales, acquisitions, and contracting, which aligns well with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for the summary field being empty."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are important for this position."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to sales, acquisitions, and contracting, which are aligned with the job description. However, there is no direct mention of responsibilities related to pricing and pack-price architecture."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in acquisitions, business writing, closing, hardware, conferences, consulting, contracts, clients, delivery, documentation, email, finance, financing, financial reporting, government, government regulations, inspection, interpretation, leadership, legal, materials, Microsoft Office software, Outlook, negotiation, internet research, Oracle, organizational skills, PeopleSoft, pricing, procurement, progress, proposals, purchase requisitions, purchasing, SAP, simulation, time management, training programs, and shows proficiency in these areas through their job history and skills listed."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions self-motivation and ability to manage multiple priorities, which are soft skills mentioned in the job description. However, there is no explicit mention of excelling in a fast-paced environment."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Excel (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office software, Outlook, and Lotus Notes, which are mentioned in the resume. However, the resume does not explicitly mention proficiency in tools like Circana/POS, Panel/Shopper, Financial data, MS Excel, PowerBI, which are required by the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in sales, acquisitions, and contracting can be transferred to the role of a Senior Analyst in Pricing & Pack-Price Architecture, given the alignment with the job description's requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.537
+}

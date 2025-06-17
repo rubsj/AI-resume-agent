@@ -1,0 +1,51 @@
+{
+    "resume_id": "32980197",
+    "jd_id": "3903467883",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.755,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Bachelor (exact)'] | (LLM 0.5): A Bachelor's degree is mentioned, but it lacks a specific field of study, which is required by the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in banking operations and management, which matches the job responsibilities. The detailed job history provides evidence of leadership, problem-solving, and customer service skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as Assistant Operations Manager and Item Fraud Coordinator, which indicates strong leadership skills. However, there is no explicit mention of leadership responsibilities in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows proficiency in managing operations, leading teams, and handling customer issues, which aligns with the job responsibilities. However, there is no explicit mention of submitting data files or working with external partners."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Sales (exact)'] | (LLM 0.4): The candidate possesses skills in banking, business plans, and customer service, which align with the job requirements. However, there is no mention of specific finance skills like financial analysis or investment management."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as teamwork, communication, and attention to detail, are aligned with the job requirements. The resume mentions these skills in the context of previous roles."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed, and the job description does not require knowledge of specific tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like account reconciliation, automation, and balance are transferable to the job, but they are not directly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.698
+}

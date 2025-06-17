@@ -1,0 +1,51 @@
+{
+    "resume_id": "14224370",
+    "jd_id": "3902863746",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.709,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's degree in Business Administration, Accounting, or related field (fuzzy)\"] | (LLM 0.5): The candidate holds a Bachelor's degree in accounting, which is relevant to the job requirements. However, the GPA is not provided, which could be a factor in some organizations."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 8.5 yrs (capped to 8.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that align with the job responsibilities, such as tax accounting, accounting management, and bookkeeping. The experience spans over 8 years, which is more than the required minimum of 3 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly mention leadership or team management experience, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing accounts payable and receivable, reconciling bank statements, and generating financial reports, which align with the job responsibilities. However, there is no direct mention of experience in managing multiple tasks or leading a team."
+        },
+        "skills": {
+            "score": 0.626,
+            "reason": "(Rule 0.6): Required: {'exact': 4, 'substring': 1, 'fuzzy': 2}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Management (exact)', 'Accounting (exact)', 'Reconciliation (substring)', 'Bookkeeping (exact)', 'Communication (exact)', 'Microsoft Office Suite (fuzzy)'] | (LLM 0.4): The candidate has relevant skills like 'accounting', 'bookkeeping', 'financial statements', 'general ledger', and 'accountant'. The skills section also includes technical skills like 'QuickBooks', 'Microsoft Office', and 'Adobe Acrobat', which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills and attention to detail, which are aligned with the soft skills required. However, there is no explicit mention of interpersonal skills, collaboration, or time management."
+        },
+        "tools": {
+            "score": 0.74,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['QuickBooks (exact)', 'Microsoft Office Suite (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like 'QuickBooks', 'Microsoft Office', and 'Adobe Acrobat', which are mentioned in the job description. However, there is no mention of specific proficiency levels or usage examples."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like 'analytical skills', 'detail-oriented', and 'excel skills' can be considered transferable. However, there is no explicit mention of leadership or team management skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.67
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "25656981",
+    "jd_id": "3885827475",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.656,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications like 'OSHA Certified 10 Hours' and '*Lead Abatement Certified', but lacks the required 'OSHA 10 certification' and preferred 'OSHA 30 certification'."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lacks specific details such as degree, field, GPA, and graduation year, making it difficult to assess the relevance to the job."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.9 yrs (capped to 17.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in construction management, including roles as a construction manager and general contractor, which aligns well with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for missing commas and incomplete sentences in some sections."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing personnel and overseeing field operations indicates leadership capabilities, though specific leadership skills are not detailed."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles match many of the responsibilities listed in the job description, such as managing personnel, overseeing field operations, and ensuring safety compliance."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as'management', 'budgets','scheduling', and 'construction'. However, there is no mention of'manufacturing' which is listed as a preferred skill."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly stated, but their experience in management and leadership suggests they possess strong organizational and problem-solving abilities."
+        },
+        "tools": {
+            "score": 0.76,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate mentions proficiency in 'Microsoft Project' and 'Builder Trend', which are tools mentioned in the job description, but does not explicitly state they have 'industry-standard software for project management' as preferred."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not clearly outlined, but their experience in construction management and general contracting could be considered transferable to the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.59
+}

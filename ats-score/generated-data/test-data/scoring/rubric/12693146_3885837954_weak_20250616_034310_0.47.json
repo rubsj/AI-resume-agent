@@ -1,0 +1,51 @@
+{
+    "resume_id": "12693146",
+    "jd_id": "3885837954",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.5,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications mentioned match the required 'LEED AP certification' or any other specified certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Science in Construction Management is relevant but lacks details and GPA, which could indicate a lower level of education fit."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.4 yrs (capped to 15.4), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has extensive experience in construction management, including roles that involve project coordination, scheduling, and documentation, which closely matches the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for unclear dates and missing details in some sections."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership skills are mentioned in the resume but are not quantified or detailed, making it difficult to assess their relevance to the job."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, including managing projects, coordinating with teams, and ensuring compliance with sustainability goals."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills like 'Qualified competitive subcontractor bids', 'Carefully coordinated plans and specs', 'Stayed consistent with project schedules', which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills like 'Communication', 'Presentation', and 'Project Management' are mentioned, but there's no explicit mention of 'Adaptability', 'Problem Solving', or 'Attention to Detail'."
+        },
+        "tools": {
+            "score": 0.073,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['IES (substring)', 'Lumion (fuzzy)'] | (LLM 0.4): No mention of proficiency in specific tools like EnergyPlus, eQuest, EnergyPro, IES, AutoCAD, Revit MEP, Rhino, SketchUp, or Lumion."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Efficiently recorded and rejected incorrect deliveries', 'Monitored the safety of all construction activities', and 'Proficiently used the Incident and Issues Tracking (IIT) system' are transferable but may not be directly applicable to the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.465
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "24103168",
+    "jd_id": "3903833114",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.666,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications, whereas the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in Accounting and Controlling from ENS Cachan and a Certificate in Business Accounting from the Chartered Institution of Management Accountant, which aligns with the minimum educational requirement of a Bachelor's degree. However, the GPA is not provided, which could be a point of concern."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 16.1 yrs (capped to 16.1), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in financial accounting roles, which closely matches the job responsibilities listed in the job description. The experience spans over 16 years, which exceeds the required experience range of 5-10 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate uses appropriate language and formatting conventions."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which is not explicitly mentioned in the job description but could be inferred from their experience in managing projects and teams."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as performing monthly and quarterly compilations, verifying general ledgers, and ensuring compliance with laws and regulations, which align with the job responsibilities. However, the job description also mentions specific tasks like initial setup of accounts and preparing after-the-fact payroll summaries, which are not explicitly covered in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.47,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Excel (exact)'] | (LLM 0.4): The candidate possesses skills in Accounting/Auditing and Finance, which align well with the job requirements. However, there is no explicit mention of QuickBooks or Xero Software, which are optional skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions being an open and clear communicator, which aligns with the soft skill of being a team player. However, there is no explicit mention of positive attitude, which is another soft skill mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.39,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with ERP systems like SAP, Hyperion, Essbase, and Cognos, as well as accounting software like Sage Banking system: Abacus, Avaloq, and Temenos. While these tools are not explicitly mentioned in the job description, they are commonly used in finance and accounting roles. However, the job description mentions Microsoft Word and Excel, which are not explicitly listed in the candidate's experience."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes proficiency in IT tools like Excel and Access, which are mentioned in the job description under tools and technologies. Additionally, the candidate's experience in project management and process improvement aligns with the job responsibilities. However, there is no explicit mention of critical thinking or analytical skills, which are mentioned in the job description under soft skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.542
+}

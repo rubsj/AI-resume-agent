@@ -1,0 +1,51 @@
+{
+    "resume_id": "23814777",
+    "jd_id": "3906086380",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.43,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a BLS Medical Assistant HHA certification, which is relevant but not as specific as required for the position."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education includes an Associate of Science degree in Business Management and a Diploma in Medical Assistant, which do not directly align with the required degrees in Electrical Engineering, Computer Science, Physics, or Mathematics."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 12.5 yrs (capped to 12.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in Administrative roles and Medical Assistant positions, which align with the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on managing teams or leading projects, which are key responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills in Customer Service, Receptionist, Medical Assistant, and Administrative Assistant, which align with the required experience in Information Technology, Management, and Research."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions self-starter and cross-functional team collaboration, which align with some soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.14,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['C# (substring)'] | (LLM 0.4): The candidate does not have any experience with Python, C#, or Java, which are listed as required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows transferable skills in areas like Customer Service, Receptionist, and Medical Assistant, which can be applied to the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.468
+}

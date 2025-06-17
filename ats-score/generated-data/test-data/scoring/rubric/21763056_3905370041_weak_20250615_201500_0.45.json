@@ -1,0 +1,51 @@
+{
+    "resume_id": "21763056",
+    "jd_id": "3905370041",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.493,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not list any certifications, whereas the job description prefers PMP and Scrum Master certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Accounting, which is relevant to the job, but the lack of a Bachelor's degree might be seen as a gap compared to the preferred degree requirement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 40.2 yrs (capped to 40.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in various accounting roles, which closely matches the job responsibilities of managing projects and acting as a Scrum Master."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leading teams and contributing to framework enhancements, which could be considered as leadership skills. However, there is no explicit mention of leadership facilitation or example leading."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing projects and acting as a Scrum Master, which align with the job responsibilities. However, the detailed job responsibilities are more focused on IT and project management skills."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in accounting, accounts payable, and financial reporting, which align with the job requirements. However, there is no mention of IT skills or specific tools like JIRA, which are preferred."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include communication and teamwork, which are aligned with the soft skills mentioned in the job description. However, there is no explicit mention of leadership facilitation or pressure handling."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in tools like JIRA, which are preferred by the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, financial reporting, and project management are transferable to the job responsibilities. However, there is no explicit mention of full lifecycle program management or agile/Scrum implementation."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.446
+}

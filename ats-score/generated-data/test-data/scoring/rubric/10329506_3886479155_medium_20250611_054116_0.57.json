@@ -1,0 +1,51 @@
+{
+    "resume_id": "10329506",
+    "jd_id": "3886479155",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.653,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate possesses one certification relevant to the job description, but lacks others mentioned in the required and optional skills sections."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in Computer Information Systems, which aligns with the job description's preferred degree requirements, but lacks specific details about GPA and graduation dates."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.2 yrs (capped to 24.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has extensive experience in client service and relationship management roles, which closely matches the job description's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership skills or experiences, which are important for the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's job responsibilities align with the job description's responsibilities, particularly in areas like financial analysis, reporting, and process improvement."
+        },
+        "skills": {
+            "score": 0.38,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has a strong set of technical skills including Microsoft Office suite proficiency, web development skills, and knowledge of various programming languages and tools relevant to the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates soft skills through achievements and responsibilities, but lacks explicit mention of skills like clear communication and time management."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Excel (fuzzy)'] | (LLM 0.4): The candidate's skills include some tools mentioned in the job description such as MS Excel and Unix, but lacks advanced Excel skills and other tools like automation and reporting tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as customer service and sales skills, but lacks specific skills like collaboration and problem-solving mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.574
+}

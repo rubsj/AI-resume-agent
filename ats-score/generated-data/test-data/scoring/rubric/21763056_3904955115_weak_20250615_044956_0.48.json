@@ -1,0 +1,51 @@
+{
+    "resume_id": "21763056",
+    "jd_id": "3904955115",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.422,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not mention any certifications, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Accounting and another unspecified degree in Computer Programming, which might be relevant but lacks detail and specificity compared to the job description's requirement for a BS degree in technology or engineering."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 40.2 yrs (capped to 40.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in accounting roles, which closely matches the job description's requirement for experience in the financial sector. The detailed job responsibilities and duties listed in the resume are aligned with the job description's responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in some sections reduces the overall score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or achievements, whereas the job description suggests a need for leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's job responsibilities in their past roles closely match the job description's responsibilities, such as collaborating with internal groups, translating business requirements, and overseeing projects."
+        },
+        "skills": {
+            "score": 0.327,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Excel (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'account reconciliation', 'accounting', 'accounts payable', etc., which align well with the job description requiring skills like 'Analyst', 'Information Technology', 'Research'. However, there is a lack of specific technical skills mentioned in the job description such as 'ServiceNow', 'Salesforce', 'SharePoint', etc."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong communication and problem-solving, are generally aligned with the job description's soft skill requirements. However, the lack of specific examples or quantifiable achievements may lower the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any specific tools or technologies used in their experience, whereas the job description requires knowledge of tools like 'ServiceNow', 'Salesforce', 'SharePoint', etc."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like 'account reconciliation', 'accounting', etc., which can be applied across different industries. However, the job description specifically mentions 'Financial industry' as a required tool or technology, indicating a need for more industry-specific skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.484
+}

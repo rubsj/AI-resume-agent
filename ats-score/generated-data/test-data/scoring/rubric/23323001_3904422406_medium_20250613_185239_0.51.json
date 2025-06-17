@@ -1,0 +1,51 @@
+{
+    "resume_id": "23323001",
+    "jd_id": "3904422406",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.414,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only one certification mentioned ('First Aid Course'), which does not align with the job description's requirement for 'CFA' or 'CPA'."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education appears to be incomplete and lacks detail, making it difficult to assess how closely it aligns with the job description's requirements."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 10.6 yrs (capped to 10.6), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that demonstrate proficiency in areas such as project management, business management, and finance. The detailed descriptions of responsibilities align well with the job description's expectations."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. This contributes positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide clear evidence of leadership skills or experience, which is important in a finance role. There is no mention of leading teams or managing projects."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with several key responsibilities outlined in the job description, such as developing budgets, analyzing financial scenarios, and preparing reports. However, there is no direct mention of creating financial tools or dashboards."
+        },
+        "skills": {
+            "score": 0.76,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)', 'Sales (exact)'] | (LLM 0.4): The candidate has a wide range of skills listed, including many that align with the job description such as 'Finance', 'Project Management', 'Business Management', and 'Problem Solving'. However, there is no mention of specific certifications like CFA or CPA, which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as 'Time Management', 'Team Player', and 'Problem Solving', match the job description's requirements. However, there is no explicit mention of skills like 'Detail-oriented' or 'Collaboration', which are listed in the job description."
+        },
+        "tools": {
+            "score": 0.255,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Communication (exact)'] | (LLM 0.4): The candidate lists some tools they are proficient in, such as 'MS Project', 'Excel', and 'Visio', but does not explicitly state familiarity with the specific tools mentioned in the job description like 'Financial models', 'Dashboards', or 'Sponsored-billing regulations'."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like 'Customer Service', 'Training', and 'Project Management', which could be beneficial in a finance role. However, these skills are not directly aligned with the job description's specific requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.505
+}

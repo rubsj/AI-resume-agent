@@ -1,0 +1,51 @@
+{
+    "resume_id": "14267489",
+    "jd_id": "3904726723",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.498,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lists multiple degrees but does not specify the field of study, making it unclear if they match the job requirements."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Resume: 9.0 yrs (capped to 9.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has some relevant experience in sales and customer service, but the job description requires more specific skills and experience in web retail design."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information about responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a wide range of skills listed, including Adobe Photoshop and Illustrator, which aligns with the job requirements. However, there is no mention of experience using these tools."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention soft skills that align with the job requirements, such as attention to detail, organizational skills, and web expertise."
+        },
+        "tools": {
+            "score": 0.284,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Adobe Photoshop (substring)'] | (LLM 0.4): The candidate has experience with some tools mentioned in the job description, such as Salesforce.com and TapScan, but lacks experience with Adobe InDesign, Adobe Acrobat, macOS, and other tools required."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like communication, customer service, and multitasking, which could be useful in a web retail design role, but lack specific technical skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.454
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "20001721",
+    "jd_id": "3905855005",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.407,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the resume, whereas the job description requires a CTS certification."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume does not mention any degree in technology or related field, which is preferred by the job description."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 15.0 yrs (capped to 15.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in information technology, but lacks experience specifically in audio visual systems as required by the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not indicate any leadership experience or skills that would make the candidate suitable for a senior position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not align with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a broad range of technical skills listed, but lacks specific tools and technologies mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills that are essential for the role, such as strong communication and troubleshooting abilities."
+        },
+        "tools": {
+            "score": 0.03,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Epson (fuzzy)'] | (LLM 0.4): The resume does not list any familiarity with the tools and technologies specified in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has some transferable skills like customer service and data preparation, but these are not as detailed or specific as those required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.384
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "27030979",
+    "jd_id": "3904425786",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.447,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, which may be a requirement for the position."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The education section lacks detail and does not provide any information that would be relevant to the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in healthcare documentation services, customer care, and workflow coordination, which matches the job requirements. The detailed job descriptions show proficiency in various aspects of the role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, some sections lack detail, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no indication of leadership experience or skills in the resume, which might be important for the role."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job responsibilities outlined in the job description are not reflected in the resume, indicating a lack of alignment."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)', ', (substring)'] | (LLM 0.4): The candidate has relevant experience in managing workflows, customer care, and documentation services, which aligns with the job requirements. However, there is no mention of specific tools or technologies used, which could be crucial for the role."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists several soft skills such as communication, organization, and professionalism, which are relevant to the job. However, there is no explicit mention of how these skills have been applied in previous roles."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No specific tools or technologies are mentioned in the resume, which could be a critical aspect of the job."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like training, problem resolution, and time management, which are applicable across different industries. However, there is no evidence of how these skills have been utilized specifically in a healthcare setting."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.555
+}

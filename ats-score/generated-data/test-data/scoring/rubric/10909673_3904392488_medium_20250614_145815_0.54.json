@@ -1,0 +1,51 @@
+{
+    "resume_id": "10909673",
+    "jd_id": "3904392488",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.465,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds two BCIS degrees, but the job description does not specify any required educational qualifications beyond a bachelor's degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 25.5 yrs (capped to 25.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in project management, risk management, and business analysis, which matches the job responsibilities and required experience years. The detailed descriptions of past roles provide evidence of proficiency in areas such as project planning, strategic reporting, and risk management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, there are some unclear sections like 'Total Experience Years' and 'Interests' that could be improved."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles is not explicitly stated, although their experience in managing projects and teams suggests they may have leadership qualities. The job description does not require any specific leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles cover most of the job responsibilities listed in the job description, such as creating reports, analyzing data, and collaborating with stakeholders. However, there is no direct mention of creating Business Objects reports or working with specific BI tools."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in project management, budgeting, and business solutions, which aligns well with the required skills in the job description. However, there is no direct mention of Business Objects or specific tools like PowerBI, Tableau, or Alteryx."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in collaboration, clear communication, and autonomy aligns well with the soft skills required in the job description. However, there is no explicit mention of teamwork or leadership."
+        },
+        "tools": {
+            "score": 0.287,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['R (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools and some programming languages, which aligns with the tools mentioned in the job description. However, there is no explicit mention of Business Objects or advanced data analysis tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in streamlining processes, managing budgets, and working with diverse teams are transferable to the role, but there is no direct mention of specific technical skills like SQL or R."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.539
+}

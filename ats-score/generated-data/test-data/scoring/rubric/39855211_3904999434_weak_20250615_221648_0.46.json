@@ -1,0 +1,51 @@
+{
+    "resume_id": "39855211",
+    "jd_id": "3904999434",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.495,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, whereas the job description requires them."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a GED, which is less formal than a bachelor's degree required by the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 6.6 yrs (capped to 6.6), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in Engineering and Warehouse roles, which align with the job responsibilities. The experience is slightly more than the minimum requirement."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume, which is a requirement for the job."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like troubleshooting and creating test programs, but lacks details on reviewing requirements and working with cables, which are key responsibilities."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Engineering (exact)'] | (LLM 0.4): The candidate has relevant skills such as Engineering and Information Technology, which match the job requirements. However, there is no mention of specific military-related skills like Military Specifications or Connectors."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like Communication and Attention to detail, but does not explicitly mention Teamwork or Problem-solving, which are important for the role."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No specific tools or technologies used are mentioned in the resume, unlike the job description that mentions National Instruments Test Stand and LabWindows/CVI."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a range of transferable skills, but they do not specifically align with the job's requirements for military-specific knowledge or advanced engineering tools."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.458
+}

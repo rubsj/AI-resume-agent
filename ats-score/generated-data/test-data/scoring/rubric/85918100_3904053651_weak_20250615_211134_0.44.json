@@ -1,0 +1,51 @@
+{
+    "resume_id": "85918100",
+    "jd_id": "3904053651",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.484,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's lack of certification requirement."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks specific details about the candidate's education, including graduation year and GPA, making it difficult to assess alignment with the job description's preferred Bachelor's degree requirement."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales and acquisitions, which aligns with the job description's focus on sales development. However, the resume does not explicitly mention experience in SaaS sales or sales development, which are optional skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for the missing summary and incomplete dates."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not mention any leadership roles or achievements, which contrasts with the job description's lack of leadership requirement."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like prospecting, qualifying leads, and maintaining records, which align with the job description's responsibilities. However, the resume does not explicitly mention experience with product demonstrations or collaboration with the sales team."
+        },
+        "skills": {
+            "score": 0.33,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Research (exact)'] | (LLM 0.4): The candidate has extensive experience in acquisitions, business writing, closing, hardware, and other relevant skills, which align well with the job description's required skills of Business Development and Sales."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's core qualifications section mentions skills like compliance policies and procedures, which could be seen as soft skills related to professionalism and adherence to company policies. However, the resume does not explicitly mention communication, rapport building, or other soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Deltek Costpoint, PeopleSoft, Oracle, and SAP, which aligns with the job description's requirement for experience with a CRM system. However, the resume does not detail experience with the specific CRM system mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing contracts, negotiations, and procurement processes can be considered transferable skills relevant to sales development. However, the resume does not explicitly mention experience in reaching targets or staying updated with industry trends, which are optional skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.444
+}

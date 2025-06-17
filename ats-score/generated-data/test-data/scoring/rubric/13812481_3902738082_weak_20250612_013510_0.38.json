@@ -1,0 +1,51 @@
+{
+    "resume_id": "13812481",
+    "jd_id": "3902738082",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.661,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): Education details are incomplete and lack specific fields and institutions."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 8.8 yrs (capped to 8.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant work history that aligns with the job description, particularly in retail and customer service roles."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written, with no obvious grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned."
+        },
+        "responsibilities": {
+            "score": 0.167,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Customer (exact)', 'Product (exact)'] | (LLM 0.5): Responsibilities section is duplicated from experience section."
+        },
+        "skills": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has some skills listed, but lacks depth in Product Management and Strategy/Planning."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists soft skills that align with the job description, such as customer assistance and interpersonal communication."
+        },
+        "tools": {
+            "score": 0.284,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate has experience with tools like MS Office, which is mentioned in the job description, but lacks detail on proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like self-motivation and dependability, but lacks specifics on how they apply to the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.383
+}

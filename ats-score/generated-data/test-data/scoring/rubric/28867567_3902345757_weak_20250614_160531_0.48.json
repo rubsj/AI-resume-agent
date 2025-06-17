@@ -1,0 +1,51 @@
+{
+    "resume_id": "28867567",
+    "jd_id": "3902345757",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.511,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a BS degree in Hospitality & Business Management from Morgan State University, which is relevant to the job description but lacks specific details about GPA or major courses."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.5 yrs (capped to 15.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales, management, and customer service roles, which aligns with the job description. However, the job description requires at least 5+ years of experience, while the candidate has 15.5 years of total experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experiences that align with the job description's requirement for leading teams and managing client relationships."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that match the detailed responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Relationship selling, Territory sales, Sales closing, Product management and pricing, Product and service knowledge, Post-sales support, Territory growth, Product merchandising, Sales Forecasting, Client account management, Promotional planning, Revenue growth, Team building and leadership, and Brand management. However, there is no direct match with Business Development and Sales as specified in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions soft skills such as Relationship-building, Communication, Presentation, Analytical, Creativity, Interpersonal, and Integrity, which align with the soft skills required in the job description. However, it lacks details on how these skills were applied in previous roles."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, whereas the job description lists specific tools like Facebook, Twitter, LinkedIn, and Snapchat."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes transferable skills like Relationship selling, Territory sales, Sales closing, Product management and pricing, Product and service knowledge, Post-sales support, Territory growth, Product merchandising, Sales Forecasting, Client account management, Promotional planning, Revenue growth, Team building and leadership, and Brand management, which are relevant to the job description. However, there is no explicit mention of these skills in the context of the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.476
+}

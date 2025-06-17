@@ -1,0 +1,51 @@
+{
+    "resume_id": "16237710",
+    "jd_id": "3904709148",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.658,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds an Associate Member of the Association of Business Executives certification, which is relevant but not as directly applicable as required degrees or specific certifications listed in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts in Business Studies and an unspecified certification, which are less directly aligned with the job requirements that prefer a Bachelor's degree in Finance or Accounting."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.3 yrs (capped to 3.3), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience as an Accountant, which is relevant to the job responsibilities. However, the lack of specific details about the job title and responsibilities may reduce the score slightly."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, contributing positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership roles such as being a Most Disciplined Girl and Class Monitor, but these are not directly relevant to the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities listed in the job description, such as general ledger reconciliations and journal entries, but there is no direct match for all responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Organization, Time Management, Budgeting, Adaptability, and Communication, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions soft skills like Organization, Time Management, and Communication, which are aligned with the job requirements. However, the lack of specific examples or quantifiable achievements may lower the score."
+        },
+        "tools": {
+            "score": 0.66,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Office Suite and Excel, which matches the tools and technologies required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume contains sections like Interests, Personal Information, and Additional Information that do not contribute to the job qualifications."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.559
+}

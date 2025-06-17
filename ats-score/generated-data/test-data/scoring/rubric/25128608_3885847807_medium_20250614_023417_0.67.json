@@ -1,0 +1,51 @@
+{
+    "resume_id": "25128608",
+    "jd_id": "3885847807",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.502,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, and the job description requires an Alcohol Awareness Certification."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has an Associate of Arts degree in Culinary Arts, which is relevant to the job description. However, the degree is from 1983, which may not be recent enough for the position."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 30 years of experience in various culinary roles, including executive chef positions, which directly matches the required experience years in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as an executive chef indicates leadership skills, which are aligned with the job description. However, there is no explicit mention of leadership responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.372,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Prepares food items (fuzzy)'] | (LLM 0.5): The candidate's experience includes responsibilities such as managing kitchen staff, developing menus, and ensuring cleanliness, which align with the job responsibilities. However, there is no mention of specific responsibilities related to the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in culinary arts, which aligns with the required skills of preparing food and drink orders. However, there is no direct mention of specific tools or technologies used in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership skills and teamwork, which are aligned with the soft skills required in the job description. However, there is no explicit mention of problem-solving or time management skills."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not specify any required tools or technologies, and the candidate's resume does not mention any."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills such as accounting, banking, and budgeting, which could be transferable to the role. However, these skills are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.669
+}

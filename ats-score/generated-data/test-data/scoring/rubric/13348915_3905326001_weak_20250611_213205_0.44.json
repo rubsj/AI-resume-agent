@@ -1,0 +1,51 @@
+{
+    "resume_id": "13348915",
+    "jd_id": "3905326001",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.659,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the required ones in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not meet the required degrees of an 'Associate's degree', 'Bachelor's degree in Business Management and Leadership', or 'Certificate of Completion in People and Business Leadership'."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 2.9 yrs (capped to 2.9), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in retail sales and management roles, but lacks experience in specific areas like 'Business Development', 'Financial Management', and 'Process Improvement' mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles like Store Manager, but lacks specific experience in 'Training', 'Mentoring', and 'Performance Management' as mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, but lacks experience in areas like 'Business Development', 'Financial Management', and 'Process Improvement'."
+        },
+        "skills": {
+            "score": 0.578,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', 'Customer Service (substring)', 'Merchandising (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'cash register', 'customer relations', 'customer service','merchandising', and 'inventory'. However, there is no mention of specific tools like 'One Best Way (OBW) service model' or 'P&L statements' which are required."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills align well with the job requirements, especially 'Exceptional Customer Service Standards', 'Active Listening', and 'Teaching'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have experience with the tools mentioned in the job description such as 'One Best Way (OBW) service model', 'P&L statements', etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Leadership', 'Customer Service', and 'Inventory Management', but lacks specific skills like 'Training', 'Mentoring', and 'Performance Management' mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.442
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "26975573",
+    "jd_id": "3886897525",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.669,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Accounting from Strayer University, which is relevant to the job requirements. However, the lack of a Bachelor's degree in a specific field reduces the score slightly."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has over 11 years of experience as a Staff Accountant, which is more than the required 1 to 2 years. The detailed job responsibilities and duties match the job description closely."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, and the job description does not require any specific leadership qualifications."
+        },
+        "responsibilities": {
+            "score": 0.423,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Maintain internal controls (fuzzy)'] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, but there is no direct mention of specific tools like NetSuite or manufacturing industry experience."
+        },
+        "skills": {
+            "score": 0.559,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)', 'Attention to detail (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting, financial analysis, and program evaluation, which aligns well with the job requirements. The skills listed are relevant and closely match the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as attention to detail, strong communication, and multitasking abilities, match the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Excel spreadsheets and QuickBooks, which are mentioned in the job description. However, there is no mention of NetSuite or other large ERP systems, reducing the score."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as financial management and accounting system knowledge, are relevant to the job requirements. However, the lack of specific technical skills like NetSuite experience reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.585
+}

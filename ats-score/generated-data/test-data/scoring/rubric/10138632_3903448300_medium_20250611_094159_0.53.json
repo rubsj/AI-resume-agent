@@ -1,0 +1,51 @@
+{
+    "resume_id": "10138632",
+    "jd_id": "3903448300",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.653,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A high school diploma is insufficient for the required degree level of Bachelor's in Business, Marketing, or related fields."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.3 yrs (capped to 20.3), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in Sales Management, which aligns with the job responsibilities. However, the lack of specific experience in the required industry or state may impact the score."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through their role as a Sales Manager, but there is no evidence of leadership in the context of the job description."
+        },
+        "responsibilities": {
+            "score": 0.325,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Resolve customer complaints (substring)'] | (LLM 0.5): The candidate's experience includes some responsibilities listed in the job description, but there is no evidence of experience in using Microsoft Power BI or coordinating product field trials."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Sales (exact)'] | (LLM 0.4): The candidate has relevant skills in Administration and Management, Critical Thinking, Negotiation, Persuasion, and Sales and Marketing, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like being a self-starter, requiring minimal supervision, and having strategic business relationships, which are beneficial for the role."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Teams (fuzzy)'] | (LLM 0.4): No mention of proficiency in Microsoft Power BI, Teams, or Webinar, which are required tools for the job."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like problem-solving and customer service are transferable, but the candidate lacks specific technical skills or experience in the communications industry."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.532
+}

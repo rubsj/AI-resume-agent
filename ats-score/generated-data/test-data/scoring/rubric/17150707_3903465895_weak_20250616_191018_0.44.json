@@ -1,0 +1,51 @@
+{
+    "resume_id": "17150707",
+    "jd_id": "3903465895",
+    "domain": "HR",
+    "resume_jd_similarity": 0.586,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match those required or preferred in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): Only a Bachelor's degree is mentioned, but it lacks specific details such as field of study or GPA, which are not aligned with the job description's requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.3 yrs (capped to 17.3), JD requires: 15.0 yrs. | (LLM 0.5): The candidate's experience spans multiple roles within HR, including HRIS, benefits management, and compensation, closely matching the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience is provided in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not detailed enough to compare against the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.525,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'SAP (exact)', 'ADP (exact)'] | (LLM 0.4): The candidate has extensive experience in HRIS, benefits administration, and HR processes, aligning well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like customer support, documentation, and multitasking, which align with some soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Excel (substring)'] | (LLM 0.4): The candidate has experience with ADP, SAP, and Microsoft Office, which are tools mentioned in the job description, but lacks specific detail on proficiency or usage."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include administrative tasks, which are relevant to the job description, but lack specifics on advanced leadership or strategic planning."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.439
+}

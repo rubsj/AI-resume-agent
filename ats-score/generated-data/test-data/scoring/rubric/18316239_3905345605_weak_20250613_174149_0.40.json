@@ -1,0 +1,51 @@
+{
+    "resume_id": "18316239",
+    "jd_id": "3905345605",
+    "domain": "HR",
+    "resume_jd_similarity": 0.438,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a Certified Professional in Human Resources (PHR) certification, which is relevant but not as prominent as required skills."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): An Associate of Applied Science degree in Business Administration is less relevant than the job's preferred degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 7.2 yrs (capped to 7.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience as an HR Generalist, which aligns with the job title, though the details are not as specific as required skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership experience is not provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have responsibilities listed that match the job responsibilities outlined."
+        },
+        "skills": {
+            "score": 0.488,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'Excel (exact)'] | (LLM 0.4): The candidate has skills in ADP, ADR, benefits administration, budgeting, coaching, HRIS, human resources, and more, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills such as engagement, energy, understanding, judgment, self-starter attitude, organization, and attention to detail are not explicitly mentioned."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned, which contrasts with the requirement for ATS software proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like training employees, managing processes, and project management are transferable but lack specifics compared to the job's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.398
+}

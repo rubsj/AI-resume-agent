@@ -1,0 +1,51 @@
+{
+    "resume_id": "22718826",
+    "jd_id": "3901662560",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education section lacks detail and does not provide information about degrees or fields of study that match the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 29.2 yrs (capped to 29.2), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction management, including roles as a License Contractor, Foreman, and Carpenter Foreman, which directly align with the job responsibilities and required experience in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume appears to be well-written and free of grammatical errors, making it easy to read and understand. However, there are some sections that lack detail, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as a License Contractor and Foreman indicates leadership capabilities, which are essential for the role. However, the resume could benefit from more detailed examples of leadership in action."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing projects, budgets, and teams, which are closely aligned with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in construction, which aligns well with the required skills in the job description. The summary mentions 30 years of expertise in the construction industry, and the experience section details roles that involve managing projects, teams, and budgets, which are key responsibilities in the position."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions being a fast learner, committed team player, and having good management skills, which are soft skills that align with the job description. However, the resume does not provide detailed examples of these skills in action."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Excel (fuzzy)'] | (LLM 0.4): The job description mentions proficiency in Excel as a required tool, but the candidate's resume does not indicate any specific skills or experience with Excel."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills like being a fast learner, committed team player, and having good management skills, which can be considered transferable skills. However, these are not quantified or detailed enough to fully assess their relevance to the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.517
+}

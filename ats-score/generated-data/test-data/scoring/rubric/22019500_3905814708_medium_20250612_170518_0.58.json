@@ -1,0 +1,51 @@
+{
+    "resume_id": "22019500",
+    "jd_id": "3905814708",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.685,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, whereas the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a technical degree in telecommunications and a high school diploma, which is relevant to the construction domain but lacks depth compared to the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 35.9 yrs (capped to 35.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 33 years of experience in OSP/Construction/Engineering management, which is significantly more than the required 5 to 7 years mentioned in the job description. The detailed job descriptions also match well with the responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections could benefit from more detail or specific examples."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing teams and overseeing operations indicates strong leadership skills, which align with the job description's expectations. However, there is no explicit mention of leading a team or developing departmental peers."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing projects, coordinating operations, and ensuring timely completion align well with the job description's responsibilities. However, there is no explicit mention of cost management or client outreach."
+        },
+        "skills": {
+            "score": 0.632,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Project Management (substring)'] | (LLM 0.4): The candidate has extensive experience in construction and engineering, which aligns well with the required skills of project management, information technology, and project management. However, there is no mention of specific IT tools or technologies used."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills such as negotiation, leadership, and delegation, which are aligned with the soft skills required in the job description. However, there is no mention of accountability or personal development."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No specific tools or technologies are mentioned in the resume, while the job description requires knowledge of scheduling software."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like documentation, drafting, and project management are transferable and align well with the job description. However, there is no mention of specific IT tools or technologies used."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.58
+}

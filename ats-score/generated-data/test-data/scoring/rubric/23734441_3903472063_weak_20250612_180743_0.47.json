@@ -1,0 +1,51 @@
+{
+    "resume_id": "23734441",
+    "jd_id": "3903472063",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.679,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description mentions 'CPA (or working towards certification)' as an optional skill."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Accounting from Walden University, which is relevant to the job requirements. Additionally, they have a Bachelor's degree in Business Administration and an Associate's degree in Accounting, both from University of Maryland University College."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 19 years of experience in accounting roles, which matches the required experience of 3+ years. Their job descriptions closely align with the responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate uses clear and concise language, making it easy to understand their qualifications."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which is not explicitly required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's job responsibilities closely match the responsibilities listed in the job description, such as reconciling bank accounts, posting journal entries, and preparing financial statements. However, there is no direct mention of experience with sales & use tax filings or financial statements audits and reviews."
+        },
+        "skills": {
+            "score": 0.374,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the job requirements. The resume includes specific skills like 'Accounting', 'Accountant', 'accounts payable', 'accounts receivable', and 'Excel', which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes skills like 'attention to detail' and'strong computer skills', which are aligned with the soft skills mentioned in the job description. However, there is no explicit mention of flexibility or independence."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like Sage and MAS 500, but the candidate's resume does not mention any familiarity with these tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills that can be transferred to the role, such as 'accounting principles', 'training', and 'compliance with GAAP'. However, there is no explicit mention of experience with specific accounting software or advanced accounting topics like 'cost accounting' or'statistics'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.466
+}

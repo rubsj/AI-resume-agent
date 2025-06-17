@@ -1,0 +1,51 @@
+{
+    "resume_id": "13491889",
+    "jd_id": "3902758607",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.512,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two certifications mentioned: IVU and SURI Software, and HR Block. However, the JD requires CPA, ACA, CFA, CIA, and CISA certifications which are missing from the resume."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA and BBA in Accounting and Finance, which aligns with the required Bachelor's degree. However, the JD mentions specific fields of study that are not covered in the resume."
+        },
+        "experience": {
+            "score": 0.776,
+            "reason": "(Rule 0.5): Resume: 9.8 yrs (capped to 9.8), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has extensive experience in various accounting roles, including Assistant Controller, Accountant, and Accounting and Finance Supervisor, which matches the required experience level of 15+ years. The detailed descriptions of responsibilities closely align with the job responsibilities listed in the JD."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are some unclear sections, such as the lack of dates and details in the education section."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions some leadership roles, but there is no explicit mention of leadership skills or achievements that align with the JD requirements."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the responsibilities listed in the JD, such as managing accounting departments, conducting audits, and ensuring compliance with regulations. However, there is no mention of direct involvement in US Recovery & Resolution Planning, Regulatory Capital, Business and Capital Planning, or leading the IA Transformation Program."
+        },
+        "skills": {
+            "score": 0.452,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'CIA (substring)'] | (LLM 0.4): The candidate has relevant skills such as Full Accounting cycle, Account reconciliation, General ledger accounting, Financial statement analysis, Budget Planning, Cash Management, Accounts Receivable, Accounts Payable, Inventory & Purchases, Fixed Assets, Auditing, Payroll Taxes, Benefit and compensation, Team work oriented, Employee training and development, Supervising, Effective time management, and Deadline-oriented. However, there is no mention of US Recovery & Resolution Planning, Regulatory Capital, Business and Capital Planning, CPA, ACA, CFA, CIA, and CISA which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like Clear and concise communication, Bias-free decision making, Diversity awareness, and Negotiation skills, which are aligned with the JD. However, there is no explicit mention of these skills in the resume."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The resume does not mention any specific tools or technologies used, whereas the JD does not require any specific tools or technologies."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as time management and leadership, are relevant to the JD. However, there is no explicit mention of leadership skills or specific examples of leadership in the resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.533
+}

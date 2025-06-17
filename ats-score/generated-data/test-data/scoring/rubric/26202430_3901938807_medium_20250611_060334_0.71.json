@@ -1,0 +1,51 @@
+{
+    "resume_id": "26202430",
+    "jd_id": "3901938807",
+    "domain": "HR",
+    "resume_jd_similarity": 0.666,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be a requirement for the position."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A Bachelor's degree in Business Administration is relevant but lacks specific details such as GPA or major focus, which could be beneficial for the role."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 8.6 yrs (capped to 8.6), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 8 years of experience in HRIS and business analysis, closely matching the required experience level. The detailed job descriptions show a strong track record of project leadership and stakeholder management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail, which could affect the clarity of the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading HR projects and teams indicates leadership potential. However, there is no explicit mention of leadership responsibilities or achievements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities outlined, particularly in managing HRIS systems, providing consultation, and supporting business needs. However, there is no explicit mention of end-to-end ownership of the HRIS system or the ability to drive tactical execution of firm-wide initiatives."
+        },
+        "skills": {
+            "score": 0.96,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in HRIS and business analysis, aligning closely with the required skills in HRIS systems, Workday, data analytics/reporting, and Tableau. The detailed experience in various HR projects demonstrates proficiency in the tools mentioned."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as attention to detail, strong work ethic, flexibility, and comfort interacting with employees, match the job requirements. However, the lack of discretion in handling sensitive information is noted."
+        },
+        "tools": {
+            "score": 0.474,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 2}. Matched: ['Excel (exact)', 'PowerPoint (fuzzy)', 'HRIS systems (fuzzy)'] | (LLM 0.4): The candidate possesses skills in Microsoft Office products, Excel, PowerPoint, and HRIS systems, which are essential for the role. However, there is no mention of Tableau, a tool specifically mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are evident in their ability to manage projects, communicate effectively, and adapt to different systems. However, the lack of specific experience in financial services or fintech is noted."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.709
+}

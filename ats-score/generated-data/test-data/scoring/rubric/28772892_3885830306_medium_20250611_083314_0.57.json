@@ -1,0 +1,51 @@
+{
+    "resume_id": "28772892",
+    "jd_id": "3885830306",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.715,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the resume, which do not match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists relevant degrees in Administration and Supervision and Human Resource Management, but lacks specific details about GPA and graduation years, which could be crucial for the role."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The resume provides detailed experience in various roles related to special education, including positions that require knowledge of special education laws and practices, which aligns well with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume indicates leadership through roles like 'Special Education Coordinator' and 'Educational Strategist', but lacks quantifiable achievements or leadership responsibilities that would enhance the score."
+        },
+        "responsibilities": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume outlines responsibilities that closely match the job description's expectations, such as working with IEP teams, managing student behavior, and coordinating special education resources."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The resume includes skills like 'academic', 'avenue', 'coaching', 'documentation', etc., which align well with the job description's required skills of 'Education' and 'Training'."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions skills like 'communication' and 'team participation', which are aligned with the soft skills required in the job description. However, it lacks specifics on how these skills have been applied in previous roles."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume, which contrasts with the job description's requirement for 'State Teacher Certification'."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume includes transferable skills such as'mentoring' and 'instruction', which are relevant to the job description. However, there is no explicit mention of how these skills have been utilized in a professional context."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.567
+}

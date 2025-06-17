@@ -1,0 +1,51 @@
+{
+    "resume_id": "22925443",
+    "jd_id": "3904988743",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.671,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in Accounting, which is aligned with the preferred degree in the job description. However, the GPA is not provided, which could be a factor in some organizations' hiring decisions."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 18.0 yrs (capped to 18.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting and finance roles, including positions as an Accountant Helper and Laboratory Technician III/II. The experience is detailed and shows progression in responsibilities, which aligns well with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, it lacks details in certain sections, such as specific tools used and detailed responsibilities, which could affect the ATS score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience, whereas the job description mentions leadership as a requirement."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume provides a summary of responsibilities in previous roles, but it does not directly match the detailed responsibilities listed in the job description, such as supporting the Controller in preparing financial reports and assisting with audits."
+        },
+        "skills": {
+            "score": 0.248,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Communication (exact)'] | (LLM 0.4): The candidate has relevant skills in accounting, auditing, finance, and general office duties, which align with the job requirements. However, there is a lack of specific technical skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes soft skills like communication, organization, and problem-solving, which are aligned with the soft skills required by the job description. However, the candidate does not explicitly mention all the soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, while the job description lists several tools related to accounting and finance, such as General Ledger System, Accounts Payable, Fixed Assets, Prepaids, and Customer service and operations practices."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights transferable skills such as proficiency in Microsoft Office, excellent communication, and organizational skills, which are relevant to the job description. However, there is no explicit mention of skills related to financial planning, reports, and budgeting, which are mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.43
+}

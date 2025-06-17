@@ -1,0 +1,51 @@
+{
+    "resume_id": "30529547",
+    "jd_id": "3905391795",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.416,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned, which are preferred for the position."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): Only an Associate of Arts degree is mentioned, lacking the required bachelor's degree."
+        },
+        "experience": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Resume: 1.8 yrs (capped to 1.8), JD requires: 2.0 yrs. | (LLM 0.5): Experience is relevant but lacks depth and specific technical skills required for the role."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No responsibilities match the required job responsibilities."
+        },
+        "skills": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has some skills listed, but lacks specific technical skills required for the role."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not aligned with the required skills for the position."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of Microsoft Office proficiency, which is required."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Transferable skills are not mentioned and do not align with the required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.26
+}

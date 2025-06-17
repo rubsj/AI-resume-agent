@@ -1,0 +1,51 @@
+{
+    "resume_id": "25839123",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.453,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed match the required skills in the job description."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a Bachelor's degree in Sociology and Justice Studies, which is not directly related to the job requirements. The High School Diploma is not considered relevant."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Resume: 2.1 yrs (capped to 2.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in sales and food preparation, which aligns with some aspects of the job description. However, the lack of specific details about supply chain or inventory management reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership roles or responsibilities in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No evidence of past responsibilities that align with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.536,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Purchasing (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'excellent customer service', 'customer service experience', and 'inventory control'. However, there is no mention of specific IT skills like Excel or SQL."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions 'great communication skills' and 'customer service experience', which are aligned with soft skills required in the job description. However, there is no explicit mention of self-starting, data analytical capabilities, or tactical/strategic activities."
+        },
+        "tools": {
+            "score": 0.14,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): No mention of proficiency in tools like Excel or SQL, which are required skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like'multi-tasking' and 'customer service' are transferable but do not fully align with the specific skills required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.427
+}

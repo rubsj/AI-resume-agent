@@ -1,0 +1,51 @@
+{
+    "resume_id": "37540732",
+    "jd_id": "3902754968",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.66,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may indicate a lack of formal recognition for relevant skills."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Science degree in Business Administration is relevant, but the GPA is not provided, which could affect the assessment of academic achievement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.5 yrs (capped to 28.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in sales, which significantly exceeds the minimum requirement of 2 years. This extensive experience is highly relevant to the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections could benefit from more detail or clarification."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as Branch Manager, which aligns with the job requirements. However, there is no mention of experience in recruitment, interviewing, or training, which are part of the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, particularly in terms of sales and leadership roles. However, there is no mention of specific experience in customer experience simplification or enhancement, which is part of the job responsibilities."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has extensive experience in sales, which aligns well with the job requirements. However, there is no mention of specific business development skills, which could be a slight mismatch."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary indicates strong communication and organizational skills, which are aligned with the job requirements. However, there is no mention of technical and computer skills, which could be important for the role."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which is aligned with the job requirements. However, there is no mention of proficiency in Salesforce or Adobe Creative Suite, which are also mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in sales, sales management, and customer service are transferable to the job requirements. However, there is no mention of direct sales practices or consumer education of products and services, which could be beneficial for the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.577
+}

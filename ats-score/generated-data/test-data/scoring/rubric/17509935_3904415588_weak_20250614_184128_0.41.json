@@ -1,0 +1,51 @@
+{
+    "resume_id": "17509935",
+    "jd_id": "3904415588",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.538,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which might be a requirement for the job."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only a High School Diploma and a Cosmotology degree, neither of which directly match the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 21.5 yrs (capped to 21.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in management and operations, but the details provided do not fully align with the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but the details provided do not fully match the job responsibilities listed in the job description."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job description, such as managing a team and customer service, but lacks specifics on strategic leadership and operational excellence."
+        },
+        "skills": {
+            "score": 0.308,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as Business management, Team player, and Quick learner, which align with the job requirements. However, the lack of specific technical skills may lower the score."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong organizational skills and active listening, which are soft skills required by the job description. However, the lack of other critical soft skills like executive presence and customer focus reduces the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools used or proficiency in any software, which is required according to the job description."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like communication and teamwork, but these are not as detailed or specific as those required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.406
+}

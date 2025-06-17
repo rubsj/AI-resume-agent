@@ -1,0 +1,51 @@
+{
+    "resume_id": "34953092",
+    "jd_id": "3905206443",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.459,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed, and the job description requires CPA certification."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Computer Engineering and a Bachelor's degree in Finance and Banking, which are relevant to the field of accounting and finance. However, the lack of specific GPA details may affect the assessment."
+        },
+        "experience": {
+            "score": 0.633,
+            "reason": "(Rule 0.5): Resume: 2.0 yrs (capped to 2.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in corporate banking and financial analysis, but the experience is limited to internships and does not include full-time roles or senior-level positions."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership roles or responsibilities in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There are no responsibilities listed that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.536,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', ', (substring)'] | (LLM 0.4): The candidate possesses skills in C/C++, Python, MATLAB, SQL, R, LUA, VBA, which align well with the required skills of accounting and finance. However, there is no explicit mention of proficiency in tools like Sage, Procore, ERP, or Project Management software."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools used are mentioned, whereas the job description requires proficiency in tools such as Sage, Procore, ERP, and Project Management software."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in programming languages and financial analysis, which could be beneficial in an accounting role. However, the lack of specific experience in accounting-related tasks reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.317
+}

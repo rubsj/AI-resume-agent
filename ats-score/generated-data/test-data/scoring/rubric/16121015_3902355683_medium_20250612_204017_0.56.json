@@ -1,0 +1,51 @@
+{
+    "resume_id": "16121015",
+    "jd_id": "3902355683",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.656,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description prefers a Bachelor's degree."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest education is a high school diploma, which does not meet the preferred degree requirement of a Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in Sales and Customer Service roles, which align with the job responsibilities. However, the lack of higher education and specific certifications may limit the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating strong attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the candidate's resume, which contrasts with the job description's preference for leadership qualities."
+        },
+        "responsibilities": {
+            "score": 0.391,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Answer customer queries (fuzzy)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, such as engaging with customers and generating sales. However, the lack of specific certifications and advanced degrees may limit the score."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills in Sales and Customer Service, which align with the job requirements. However, the lack of specific certifications and advanced degrees may limit the score."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-described soft skills, such as being dedicated, hardworking, and good with people, align with the job description's soft skill requirements. However, the lack of specific certifications and advanced degrees may limit the score."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume, which contrasts with the job description's requirement for proficiency in Business Development and Sales."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses a range of transferable skills, but the lack of specific certifications and advanced degrees may limit the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.56
+}

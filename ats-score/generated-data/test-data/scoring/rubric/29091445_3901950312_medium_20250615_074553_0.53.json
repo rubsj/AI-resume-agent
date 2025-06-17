@@ -1,0 +1,51 @@
+{
+    "resume_id": "29091445",
+    "jd_id": "3901950312",
+    "domain": "HR",
+    "resume_jd_similarity": 0.512,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications like SHRM, but lacks specific certifications like Six Sigma Green or Black Belt, which are required for the job."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Business Management, which aligns with the preferred degree requirement. However, the lack of GPA information and the presence of non-standard degree titles may slightly reduce the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 22.5 yrs (capped to 22.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR roles that closely match the job responsibilities, including experience in managing projects, leading teams, and implementing policies. The detailed descriptions provide evidence of transferable skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand. The use of bullet points enhances clarity and organization."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including HR management positions. However, the lack of specific examples of leading improvement projects or innovation efforts reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes supervisory roles and project management, which align with the job responsibilities. However, the lack of specific details about leading improvement projects directly reduces the score."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as administrative support, benefits administration, business operations, employee relations, process invoices, policy development, SAP, and structured processes. However, there is no direct match for 'Manufacturing' skill mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include leadership, communication, analytical skills, research, problem-solving, adaptability, and cultural sensitivity, which are aligned with the soft skills required. However, the lack of explicit examples or quantifiable achievements in these areas reduces the score slightly."
+        },
+        "tools": {
+            "score": 0.27,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Lean (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office and SAP, which are mentioned in the tools list. However, there is no explicit mention of SharePoint or other tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various HR roles provides evidence of transferable skills such as project management, team leadership, and policy development. However, the lack of specific examples related to the job responsibilities reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.532
+}

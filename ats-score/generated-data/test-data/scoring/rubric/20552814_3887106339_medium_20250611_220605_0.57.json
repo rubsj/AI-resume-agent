@@ -1,0 +1,51 @@
+{
+    "resume_id": "20552814",
+    "jd_id": "3887106339",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.697,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume mentions a High School Diploma but lacks details such as graduation year, GPA, and any honors or additional information which could provide more context."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in retail, customer service, and sales roles which align with the job description. The experience includes positions like Sales, Laborer/Housekeeping, Cashier, etc., that demonstrate the required skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership roles or responsibilities in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as setting and achieving sales goals, building customer relationships, and providing excellent service, which align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.672,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)'] | (LLM 0.4): The candidate has relevant skills listed in the job description such as 'cash management', 'communication skills', 'computer literate', and 'customer service'. The skills are also supported by the candidate's experience."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights soft skills such as communication, self-motivation, and teamwork, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No specific tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like problem-solving, time management, and adaptability, which are not explicitly mentioned in the job description but can be inferred from the candidate's experience."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.573
+}

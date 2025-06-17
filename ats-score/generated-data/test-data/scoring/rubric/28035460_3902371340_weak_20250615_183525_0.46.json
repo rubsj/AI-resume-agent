@@ -1,0 +1,51 @@
+{
+    "resume_id": "28035460",
+    "jd_id": "3902371340",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.428,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a COREN license, but lacks a PMP Certification, which is preferred in the job description."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds advanced degrees in Chemical Engineering and Computer Science, which are relevant to the job description. The lack of a Bachelor's degree in IT is noted."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.1 yrs (capped to 16.1), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in IT and Chemical Engineering, but the job description requires more than 7 years of experience specifically in HRIS and Construction software implementation."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks details in certain sections, such as specific job responsibilities and leadership roles."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, but not all. There is no mention of leading projects in classic agile models or managing contracts with vendors."
+        },
+        "skills": {
+            "score": 0.448,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)'] | (LLM 0.4): The candidate has relevant skills in Human Resources, Information Technology, and Project Management, which align with the job description. However, there is no mention of PMP Certification or specific IT tools like Deltek or Procore."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong interpersonal and communication skills, which are required. However, leadership skills are not explicitly mentioned."
+        },
+        "tools": {
+            "score": 0.022,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP System (fuzzy)'] | (LLM 0.4): The candidate does not have any experience with the tools mentioned in the job description such as Deltek, Procore, HRIS systems, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in problem-solving, research, and data analysis, but lacks specific skills in human resources and project management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.459
+}

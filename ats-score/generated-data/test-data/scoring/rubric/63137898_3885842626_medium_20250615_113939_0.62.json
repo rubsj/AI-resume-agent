@@ -1,0 +1,51 @@
+{
+    "resume_id": "63137898",
+    "jd_id": "3885842626",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.49,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is listed but does not provide any specific degree related to the field of accountancy, which is required in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 31.5 yrs (capped to 31.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including accounting manager and cost accounting manager, which aligns with the job description requirements. However, the lack of direct tax-related experience may slightly reduce the score."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions some responsibilities that align with the job description, such as providing strategic tax advice and understanding tax policy. However, the lack of detailed responsibilities specifically related to tax management reduces the score."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in various accounting roles, including accounting manager, cost accounting manager, and bookkeeper, which aligns well with the required skills in the job description such as accounting, budget analysis, and cost accounting."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong communication skills, which aligns with the soft skills required in the job description. However, the lack of specific soft skills related to tax management reduces the score."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes transferable skills such as problem-solving, process improvement, and project management, which can be applied to tax management roles. However, the lack of specific tax-related transferable skills reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.621
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "21125113",
+    "jd_id": "3903832723",
+    "domain": "DIGITAL-MEDIA",
+    "resume_jd_similarity": 0.443,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate's degree in Political Science does not directly align with the job's domain of Information Technology."
+        },
+        "experience": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Resume: 1.7 yrs (capped to 1.7), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in Media Support and Technical Support, which shows some alignment with the job's responsibilities but lacks specific details about IT services."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on job responsibilities, making it impossible to compare with the job description's detailed responsibilities."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ' (substring)'] | (LLM 0.4): The candidate possesses skills like Active Directory, Computer hardware, and Network support, which align well with the job's required skills of Consulting and Sales."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills such as Communication and Detail-oriented are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.047,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'Servers (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, unlike the job description which requires knowledge of Nvidia DGX, InfiniBand networking, and VMware."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Client interaction and Network support show some transferability to the job, but the lack of detail makes it hard to assess fully."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.401
+}

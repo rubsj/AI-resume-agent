@@ -1,0 +1,51 @@
+{
+    "resume_id": "12202337",
+    "jd_id": "3904361771",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.669,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Business Administration in Finance and a Bachelor of Science in Medical Technology, which provides some foundational knowledge but lacks specific finance-related degrees preferred by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD required years = 0. | (LLM 0.5): The candidate has relevant experience in accounting and finance roles, including experience with MS Excel, Business Objects, and Eagle Accounting System, which matches the job requirements. However, the total experience years do not fully align with the required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume, which may be a requirement for the job."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as account reconciliations, variance analysis, and working with financial systems, which align with the job responsibilities. However, there is no direct mention of experience in preparing financial statements or tracking capital calls."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 2, 'substring': 1, 'fuzzy': 1}. Matched skills: ['Accounting (exact)', 'Finance (fuzzy)', 'MS Excel (substring)', 'Communication (exact)'] | (LLM 0.4): The candidate has relevant skills in MS Excel, Business Objects, Lombardi, Eagle Accounting System, PEGA, DRAS, Workbench, and has experience in account reconciliations and variance analysis, which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as attention to detail, communication, and learning ability, which are aligned with the job requirements. However, there is no explicit mention of problem-solving skills or adaptability."
+        },
+        "tools": {
+            "score": 0.74,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['MS Excel (substring)'] | (LLM 0.4): The candidate has experience with tools like MS Excel, Business Objects, Lombardi, Eagle Accounting System, PEGA, DRAS, Workbench, which are listed as required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat limited based on the provided information. While they have experience in various roles, there is no clear indication of how these skills specifically translate to the job responsibilities mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.53
+}

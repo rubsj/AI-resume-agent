@@ -1,0 +1,51 @@
+{
+    "resume_id": "27726066",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.447,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a PHR certification, which is relevant but not as directly aligned with the job's required certifications in AWS, GCP, Azure, etc."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Arts and Economics, which is not directly related to the job's preferred degrees in computer science, engineering, etc., but also has an MBA in Human Resource, which is more relevant."
+        },
+        "experience": {
+            "score": 0.575,
+            "reason": "(Rule 0.5): Resume: 5.4 yrs (capped to 5.4), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR operations, benefits, and payroll management, which aligns with the job's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any specific leadership roles or achievements that align with the job's requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job's responsibilities listed."
+        },
+        "skills": {
+            "score": 0.33,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['SAP (exact)'] | (LLM 0.4): The candidate has strong skills in HR operations, benefits, employee relations, HRIS, payroll, HR metrics, and employee database management, which align well with the job's required skills in consulting and information technology."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks specific soft skills that are mentioned in the job description such as strong leadership and motivation abilities."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['HBase (fuzzy)'] | (LLM 0.4): The candidate does not have experience with the tools mentioned in the job description such as AWS, Python, Snowflake, Hadoop, Hive, Spark, HBase."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in budgeting, BI, Cognos, and other areas that could be applicable to the job, but they are not specifically mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.298
+}

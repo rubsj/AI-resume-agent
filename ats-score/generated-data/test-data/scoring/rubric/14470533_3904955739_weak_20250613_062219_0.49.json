@@ -1,0 +1,51 @@
+{
+    "resume_id": "14470533",
+    "jd_id": "3904955739",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.701,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a CPA certification, which is relevant to the job description, but it is missing the issue date, which could impact its value."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a degree in Business Management-Accounting and a diploma in Bookkeeping and Office Administration, which are aligned with the job requirements, but the lack of specific details such as graduation dates and GPAs may reduce the score."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in various accounting positions, including roles that involve A/P, A/R, general ledger management, and payroll processing, which matches the job responsibilities. However, the lack of specific dates reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, which enhances readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly mention leadership roles or achievements, which are important for this job description."
+        },
+        "responsibilities": {
+            "score": 0.331,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Maintaining general ledgers (fuzzy)'] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed, including managing general ledgers, preparing accounting entries, and handling A/P and A/R. However, the lack of detail about specific tasks and achievements reduces the score."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has a wide range of skills relevant to the job description, including accounting, auditing, finance, Excel, Outlook, and bookkeeping, which aligns well with the required skills."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly stated in the resume, making it difficult to assess how they match the job requirements."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like QuickBooks, Peachtree, and Timberline, which are mentioned in the job description, but there is no explicit mention of Microsoft Excel, Microsoft Work, and Microsoft Outlook, which are also required."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a variety of transferable skills such as office management, training, and accounting, which are relevant to the job description. However, the lack of specific examples or achievements reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.487
+}

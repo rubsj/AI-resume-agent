@@ -1,0 +1,51 @@
+{
+    "resume_id": "10030015",
+    "jd_id": "3905330095",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.44,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, including the required EIT certification."
+        },
+        "education": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has multiple Associates degrees in related fields but lacks a Bachelor's degree in Mechanical Engineering or Architectural Engineering, which is preferred by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in engineering roles that involve testing and maintenance, aligning with the job's responsibilities. However, the lack of a Bachelor's degree may affect the fit."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams, which is a key leadership skill. However, the lack of specific details about leadership roles or achievements may lower the score."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes leading teams and performing analyses, which aligns with the job's responsibilities. However, the lack of specific details about project management skills may impact the score."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Engineering (exact)'] | (LLM 0.4): The candidate has relevant skills such as Mechanical, Electrical, and Hydraulic Testing, which align with the job's required skills of Consulting, Engineering, and Management."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include Lean/5S, which could be seen as a soft skill in terms of process improvement. However, there is no explicit mention of the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in MS Office or Revit MEP, which are tools required by the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in DasyLab, Labview, and Test Stand Fabrication are transferable to the job, but they do not directly match the required skills or tools."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.427
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "62809577",
+    "jd_id": "3902733754",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.464,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the job requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a degree in Accounting, but the JD requires a 4-year degree specifically in Finance or a related field."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.6 yrs (capped to 17.6), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has significant experience in accounting roles, including experience in Accounts Payable, Accounts Receivable, and general ledger management, which matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like conducting audits, working with financial reports, and managing accounts payable, which aligns with the job responsibilities. However, they lack experience in technology audit."
+        },
+        "skills": {
+            "score": 0.361,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'CIA (substring)'] | (LLM 0.4): The candidate has relevant experience in Accounting/Auditing, Finance, and Excel, which aligns with the job requirements. However, they lack specific skills like PowerBI, PowerShell, AI technology, CISA, CISSP, CIA, and CPA."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows strong technical skills and attention to detail, but lacks soft skills like Curiosity, Passion, Creativity, Improved mentality, Technical knowledge, Proactive communication, Alignment, Mitigation, Adaptability, and Flexibility."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Excel and General Ledger, but lacks experience with PowerBI, PowerShell, and AI technology."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like attention to detail, problem-solving, and financial management, which are relevant to the job responsibilities. However, they lack specific skills like technology audit and industry-specific certifications."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.451
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "42487883",
+    "jd_id": "3904709148",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.665,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Accounting and Information Management and a Bachelor of Arts in Psychology, which are relevant fields of study. However, the specific GPA is not provided, which could impact the relevance."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 20.1 yrs (capped to 20.1), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has over 10 years of experience in accounting roles, including detailed responsibilities that match the job description such as general ledger reconciliations, journal entries, and providing accounting support. The experience is highly relevant and detailed."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The formatting is clean and professional."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly mention leadership roles or responsibilities, which could be important for the job. The mention of being a team player is somewhat indicative of leadership qualities but not as strong as direct leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job responsibilities listed in the description, indicating a strong fit. However, there is no mention of specific responsibilities related to the job title 'Accountant I' which could slightly reduce the score."
+        },
+        "skills": {
+            "score": 0.387,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as account reconciliation, financial modeling, variance analysis, corporate G&A and COGS accounting, cash forecasting, capitalization and fixed assets management, analytical reasoning, effective time management, superior research skills, intermediate Excel skills, inventory accounting, and proficiency in various accounting software tools. These skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills, attention to detail, and ethical judgment, which are soft skills aligned with the job description. However, the resume lacks explicit examples of leadership or respect, which are also mentioned in the soft skills section."
+        },
+        "tools": {
+            "score": 0.66,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate possesses advanced skills in Microsoft Office Suite and Excel, which are required tools for the job. They also have experience with other accounting software tools, enhancing their qualifications."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like analytical reasoning, time management, and research can be transferred to the new role. However, the lack of specific leadership or teamwork examples reduces the score slightly."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.609
+}

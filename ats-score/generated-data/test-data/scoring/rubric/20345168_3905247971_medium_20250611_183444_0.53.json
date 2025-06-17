@@ -1,0 +1,51 @@
+{
+    "resume_id": "20345168",
+    "jd_id": "3905247971",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.779,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which does not match the requirement of a Bachelor's degree in Accounting or Finance in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions a Bachelor of Science degree in Business Management, but it lacks details such as the institution name and graduation year, which makes it unclear if it matches the required degree."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 23.2 yrs (capped to 23.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including staff accountant, independent accounting consultant, accounting manager, and human resources manager. This aligns with the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which is not explicitly required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's job responsibilities in previous roles do not exactly match the detailed responsibilities listed in the job description, but they are similar enough to indicate relevant experience."
+        },
+        "skills": {
+            "score": 0.549,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Strong organizational skills (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting software and processes, which matches the required skills in the job description. The resume also lists proficiency in Microsoft Office, QuickBooks, and other tools mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as detail-oriented, strong organizational skills, and ability to work independently and as part of a team, align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's skills include proficiency in Microsoft Office, QuickBooks, and other tools like ADP, Paychex, and Payroll Experts, which are mentioned in the job description. However, there is no mention of NetSuite or Department of State web portals."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as financial statement analysis, account reconciliation, and general ledger accounting, are relevant to the job description, but there is no explicit mention of them."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.53
+}

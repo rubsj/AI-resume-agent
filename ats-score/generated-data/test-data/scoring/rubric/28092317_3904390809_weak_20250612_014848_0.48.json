@@ -1,0 +1,51 @@
+{
+    "resume_id": "28092317",
+    "jd_id": "3904390809",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.656,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts degree but lacks a Serv-Safe Certification which is required according to the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts degree, which is less than the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 7.2 yrs (capped to 7.2), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Chef and General Manager, but the job description requires at least four years of experience, and the candidate has more than seven years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles such as Executive Chef and Chef/General Manager, which aligns with the job description's requirement for leadership skills. However, there is no explicit mention of leadership responsibilities related to purchasing or receiving."
+        },
+        "responsibilities": {
+            "score": 0.294,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Sanitation (exact)', 'Organization (substring)'] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed in the job description, such as supervising staff and providing culinary expertise. However, there is no explicit mention of responsibilities related to purchasing or receiving."
+        },
+        "skills": {
+            "score": 0.337,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Communication (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Commitment to Quality', 'Well-tuned Palate', 'Communication', 'Food Science', and 'Software: Shopkeep, Excel, Caterease'. However, there is no mention of specific purchasing or supply chain skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Communication', 'Flexibility', and 'Independence', which are aligned with the job description. However, there is no explicit mention of 'Proactivity' or 'Teamwork'."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with software tools like Shopkeep, Excel, and Caterease, which aligns with the job description requirements. However, there is no explicit mention of online ordering platforms or other tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include 'Food Safety and Sanitation', 'Sous vide technique', 'Staff Training and Development', 'Menu Development', 'Batch Cooking', 'Ordering & Receiving', 'Labor & Food Cost Control'. These skills are relevant but do not fully match the job description's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.484
+}

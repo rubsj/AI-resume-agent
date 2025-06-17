@@ -1,0 +1,51 @@
+{
+    "resume_id": "12717345",
+    "jd_id": "3886461749",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.458,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a ServSafe certification, which is relevant but not as directly aligned as the job description's preferred degrees or certifications."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in Culinary Arts, which is not directly related to the job description's required degree in Food Science or Microbiology."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 10.2 yrs (capped to 10.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in restaurant management and operations, including roles as Executive Chef, Line Chef, and Line Cook, which closely matches the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in hiring, training, and supervising staff aligns with the job description's requirement for leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job description's responsibilities, particularly in managing quality and food safety programs, ensuring compliance, and facilitating quality practices."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as strong communication, multi-tasking, pricing, purchasing, quality, and devotion to sustainability, which align with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as management, supervision, facilitation, communication, training, problem-solving, and statistical analysis, which are relevant to the job description's soft skills."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the candidate's resume, and there is no information on proficiency with any software or systems that would be relevant to the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include strong communication, multi-tasking, and attention to detail, which are applicable across various industries and roles."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.554
+}

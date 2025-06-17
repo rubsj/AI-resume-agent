@@ -1,0 +1,51 @@
+{
+    "resume_id": "20879311",
+    "jd_id": "3885866979",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.439,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate does not list any certifications, which may be preferred or required by the employer based on the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's educational background does not match the required degree level or field of study specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 27.5 yrs (capped to 27.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has significant experience in IT management and leadership, which aligns well with the job responsibilities. However, there is no direct mention of ServiceNow experience, which is a key tool mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is professionally formatted and free of grammatical errors, making it easy to read and understand. This contributes positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights leadership roles and responsibilities, such as directing IT strategy, managing teams, and leading cybersecurity initiatives, which aligns well with the leadership expectations of the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not detail specific responsibilities related to the job responsibilities listed in the job description, such as overseeing demand management, requirements gathering, and facilitating meetings with clients and internal teams."
+        },
+        "skills": {
+            "score": 0.33,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 3, 'substring': 0, 'fuzzy': 0}. Matched skills: ['troubleshooting (exact)', 'consulting (exact)', 'education (exact)'] | (LLM 0.4): The candidate has extensive experience in IT leadership roles, which aligns well with the required skills of a Senior ServiceNow Analyst. The resume includes detailed descriptions of managing IT infrastructure, project management, and strategic planning, which are key skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong analytical skills, commitment to driving excellence, and continuous improvement, which aligns with the soft skills mentioned in the job description. However, there is no explicit mention of oral and written communication skills or conceptual understanding of software development cycles."
+        },
+        "tools": {
+            "score": 0.052,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['.Net (substring)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their past roles, which contrasts with the job description's emphasis on proficiency with tools like ServiceNow Platform."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes a variety of transferable skills such as project management, system technologies, and business process mapping, which could be beneficial for the role. However, there is no direct alignment with the specific tools and technologies mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.41
+}

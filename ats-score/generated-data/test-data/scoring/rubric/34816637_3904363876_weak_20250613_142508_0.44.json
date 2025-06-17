@@ -1,0 +1,51 @@
+{
+    "resume_id": "34816637",
+    "jd_id": "3904363876",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.66,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, specifically missing the required 'CPA' certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a degree in Business Accounting from Fulton-Montgomery Community College, but the degree is not specified as a Bachelor's degree, which is preferred."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 8.5 yrs (capped to 8.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, including responsibilities like managing financial statements, payroll, and budget analysis, which aligns well with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they can manage a team or lead the annual budgeting process."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the responsibilities listed in the job description, such as managing accounting operations and preparing financial statements. However, there is no explicit mention of leading the annual budgeting process or ensuring compliance with tax requirements."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'Accounting/Auditing', 'Finance', 'Book Keeping', 'Budget Analysis', and 'Excel'. However, there is no mention of 'CPA' or 'GAAP' which are required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include 'Book Keeping', 'Budget Analysis', and 'Excel', which indicate strong analytical and organizational skills. However, there is no explicit mention of leadership qualities or integrity and ethical standards."
+        },
+        "tools": {
+            "score": 0.35,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['QuickBooks (exact)'] | (LLM 0.4): The candidate has experience with tools like QuickBooks and Excel, which are mentioned in the job description, but lacks experience with SAP or Oracle."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills are mostly specific to accounting and finance, lacking broader transferable skills that might be required for a managerial position."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.439
+}

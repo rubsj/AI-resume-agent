@@ -1,0 +1,51 @@
+{
+    "resume_id": "47549345",
+    "jd_id": "3901959681",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.403,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications match the job requirements."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Electrical Engineering and a Bachelor's degree in Instrumentation & Control Engineering, both relevant to the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.4 yrs (capped to 12.4), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience as an Engineering Instructor and Graduate Teaching Assistant, but lacks experience in FPGA design."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have leadership skills listed that match the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have responsibilities listed that match the job description."
+        },
+        "skills": {
+            "score": 0.352,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['C programming (substring)'] | (LLM 0.4): The candidate has skills in MATLAB, Simulink, and C++, which align with the job requirements. However, they lack specific FPGA design skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have soft skills listed that match the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have experience with Xilinx, Altera, Microchip devices, VHDL, Verilog, Linux, or FPGA-based systems, which are required tools for the job."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like attention to detail and problem-solving, but lacks specific skills like teamwork and communication."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.393
+}

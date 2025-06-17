@@ -1,0 +1,51 @@
+{
+    "resume_id": "87118391",
+    "jd_id": "3885864386",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.415,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications, which are required according to the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Communications degree from West Virginia State University, but the job description requires an Associate's Degree, which is missing from the resume."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales, customer service, and management roles, which aligns with the job responsibilities. However, the job description specifies a focus on mobile customer service, which is not explicitly mentioned in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not explicitly mention leadership skills, and the candidate's resume does not highlight any leadership experiences."
+        },
+        "responsibilities": {
+            "score": 0.325,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Answering customer questions (fuzzy)'] | (LLM 0.5): The candidate's resume includes responsibilities that match some of the job responsibilities listed in the job description, such as answering customer questions and providing support on mobile products and services. However, the job description focuses on mobile customer service, which is not fully covered in the resume."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Problem Solving (substring)', 'Attention to Detail (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Customer Relations', 'customer service', 'communications skills', and 'Problem Solving'. However, there is no mention of specific certifications or advanced degrees required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights soft skills such as 'Patience', 'Effective Communication', and 'Problem Solving', which are aligned with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like 'Advanced Diagnostic Tools', 'Customer-Facing Systems', and 'Spectrum Products and Services', but these are not listed in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists transferable skills like 'Accounting/Auditing', 'Finance', and 'Technical Knowledge', but these do not directly match the job description's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.466
+}

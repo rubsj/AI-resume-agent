@@ -1,0 +1,51 @@
+{
+    "resume_id": "29087505",
+    "jd_id": "3905840362",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.726,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not list any certifications, while the job description requires OSHA 30hr certification and PMP certification."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only listed an AA degree from Highline Community College, which may not meet the preferred degree requirement of a Bachelor's degree in engineering or construction management."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.7 yrs (capped to 13.7), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction and management roles, including leadership and project management skills. However, the total experience years exceed the required 10 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions serving as a leader and instructor of new sub-contractors, which aligns well with the job description's leadership requirement. However, there is no explicit mention of mentoring or coaching team members."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, such as leading project teams and managing projects. However, there is no explicit mention of overseeing construction projects or conducting constructability reviews."
+        },
+        "skills": {
+            "score": 0.355,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 2, 'fuzzy': 0}. Matched skills: ['Leadership (exact)', 'Time management (substring)', 'Problem-solving (substring)'] | (LLM 0.4): The candidate has experience in framing, machinery operation, and computer skills, which align well with the job requirements. However, there is no mention of specific certifications like OSHA 30hr or PMP."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills and teaching abilities, which align with some soft skills required by the job description. However, there is no explicit mention of effective communication or stakeholder management."
+        },
+        "tools": {
+            "score": 0.284,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Word (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are mentioned in the job description. However, there is no explicit mention of Excel or Word usage."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as time management, problem-solving, and computer skills, which are mentioned in the job description. However, there is no explicit mention of project management or detail-oriented skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.457
+}

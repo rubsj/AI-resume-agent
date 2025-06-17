@@ -1,0 +1,51 @@
+{
+    "resume_id": "86828820",
+    "jd_id": "3905849410",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.672,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the resume, whereas the job description requires a 'Registered Professional in field of expertise' certification."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds two degrees in Mechanical Engineering, which is relevant to the Civil Engineering domain. The lack of specific Civil Engineering degrees is noted."
+        },
+        "experience": {
+            "score": 0.925,
+            "reason": "(Rule 0.5): Resume: 23.8 yrs (capped to 23.8), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has extensive experience in engineering roles, particularly in management and design, which matches the job responsibilities. However, the experience is in Mechanical Engineering rather than Civil Engineering."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing projects, which is a key skill for the role. However, the context is in Mechanical Engineering rather than Civil Engineering."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing teams and projects align with the job responsibilities. However, the focus on Mechanical Engineering rather than Civil Engineering is noted."
+        },
+        "skills": {
+            "score": 0.311,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 2, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Project management (fuzzy)', 'Marketing (exact)', 'Quality (exact)'] | (LLM 0.4): The candidate has a strong background in Mechanical Engineering, which aligns well with the Civil Engineering domain required by the job description. However, there is no direct mention of Civil Engineering skills, which could be a concern."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like leadership, communication, and problem-solving, which are essential for the role. However, the lack of specific Civil Engineering-related soft skills is mentioned."
+        },
+        "tools": {
+            "score": 0.028,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['AES (substring)', 'Microsoft Office Suite (fuzzy)'] | (LLM 0.4): The resume does not list any tools or technologies used, while the job description mentions several specific tools like AutoCAD Civil 3D, which are crucial for Civil Engineering."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as project management, technical proficiency, and attention to detail are transferable from Mechanical Engineering to Civil Engineering. However, the absence of Civil Engineering-specific skills is noted."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

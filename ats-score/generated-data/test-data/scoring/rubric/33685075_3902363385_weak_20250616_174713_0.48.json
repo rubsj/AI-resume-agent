@@ -1,0 +1,51 @@
+{
+    "resume_id": "33685075",
+    "jd_id": "3902363385",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.448,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['PE (substring)'] | (LLM 0.5): No certifications are mentioned in the resume that directly match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in Mechanical Engineering and Physics/Biology, which are relevant to the environmental engineering domain but lack specific environmental/chemical/geological engineering degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD required years = 0. | (LLM 0.5): The candidate has relevant experience in managing teams, improving processes, and implementing automation, which aligns with the job responsibilities. However, the experience is in medical device manufacturing rather than environmental engineering."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams, setting priorities, and providing direction indicates strong leadership skills, which are aligned with the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing teams and improving processes align with some of the job responsibilities listed in the job description, but the focus is on medical device manufacturing rather than environmental investigations and remediation."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Engineering (exact)'] | (LLM 0.4): The candidate has extensive experience in manufacturing, assembly, automation, budgeting, calibration, CNC, coaching, and MS Office Suite, which aligns well with the required skills in engineering, project management, and science."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong leadership and communication skills through their experience in managing teams and providing technical support. However, there is no explicit mention of self-motivation, strong work ethic, or teamwork, which are mentioned in the optional skills section of the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with MS Office Suite and other tools like MiniTab and Stat Graphics, which are similar to the required tools in the job description but lacks specific mention of GIS or CADD training."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in manufacturing process development and improvement, manufacturing yield improvement, and proficiency in Pro Engineer/CREO are transferable to the environmental engineering domain, particularly in the context of field support and project management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.482
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "35492909",
+    "jd_id": "3904364465",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.668,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed on the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Professional Accountancy and a Bachelor of Science in Accounting and Economics, which aligns with the education requirements. However, the specific institutions and GPAs are not provided."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as a Tax Accountant, which matches the job responsibilities. The experience includes tax preparation, consulting, and compliance, which are key aspects of the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, the summary field is empty, which might affect the overall impression."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership roles or responsibilities in the candidate's resume, which is mentioned as a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the description, such as managing income tax compliance, coordinating with service providers, and ensuring compliance with corporate policies. However, there is no explicit mention of tax accounting pursuant to ASC 740 and IFRS."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as Accounting/Auditing and Finance, which match the job requirements. However, there are some missing skills like US GAAP accounting and Corporate Finance that are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills, which are crucial for the role, such as strong business writing, oral communication, and interpersonal skills."
+        },
+        "tools": {
+            "score": 0.024,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Firm departments (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, while the job description requires knowledge of US GAAP accounting, Income taxes, Business writing, Oral communication, Interpersonal skills, Corporate Finance, Firm departments, Outside advisors, Preparers, and Auditors."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like QuickBooks, CCH ATX, Microsoft Office Suite, and bookkeeping, which could be beneficial in the role. However, there are gaps in skills that are specifically mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.473
+}

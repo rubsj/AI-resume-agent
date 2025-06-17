@@ -1,0 +1,51 @@
+{
+    "resume_id": "21038022",
+    "jd_id": "3902784442",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.499,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate does not mention any certifications, which are listed under the 'certifications' section of the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a B.S., M.S., and B.S.I.T. degrees from reputable institutions, which aligns with the preferred degree requirement in the job description. However, the specific field of study does not match the required domain of Software Engineering."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 33.4 yrs (capped to 33.4), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in various roles that involve engineering and management, but the job description specifically requires 4 years of experience in Software Engineering, which is not explicitly mentioned in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but the job description emphasizes leadership in the context of full-stack development and cloud solutions, which is not explicitly mentioned in the candidate's experience."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully align with the job responsibilities outlined in the job description, particularly in terms of full-stack development and cloud-based solutions."
+        },
+        "skills": {
+            "score": 0.676,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Engineering (exact)', ' (substring)'] | (LLM 0.4): The candidate has a strong set of skills relevant to the job description, including VB.NET, ASP.NET, Java, and SQL, which are mentioned in the required and optional skills sections of the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions interpersonal skills and leadership skills, which are relevant to the soft skills section of the job description. However, they lack specific skills such as Agile team collaboration and cloud solution delivery."
+        },
+        "tools": {
+            "score": 0.449,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 1, 'fuzzy': 1}. Matched: ['JavaScript (fuzzy)', 'Java (exact)', 'SQL (exact)', 'Go (substring)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office, Visual Studio, and SQL Server, which are mentioned in the tools and technologies section of the job description. However, they lack experience with JavaScript, Python, and AWS tools and services."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as project management, problem-solving, and quality maintenance, which are mentioned in the job description. However, they lack specific skills related to full-stack development and cloud technologies."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.564
+}

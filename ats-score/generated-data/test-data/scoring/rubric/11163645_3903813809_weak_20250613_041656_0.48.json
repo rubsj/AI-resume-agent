@@ -1,0 +1,51 @@
+{
+    "resume_id": "11163645",
+    "jd_id": "3903813809",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.655,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications mentioned in the resume match the job description's requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks specific details about the degree and field, making it unclear if the candidate meets the education requirement."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 32.0 yrs (capped to 32.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in accounting roles that align with the job responsibilities, though the exact years of experience do not match the required minimum."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.331,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Payments (exact)'] | (LLM 0.5): The candidate's experience includes responsibilities like accounts reconciliation and fixed assets management, which align with the job responsibilities, but lacks experience in using Netsuite ERP system."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as accounts payable, accounts receivable, and Excel proficiency, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's core qualifications demonstrate skills like attention to detail, efficiency, and customer service, which align with the soft skills required."
+        },
+        "tools": {
+            "score": 0.5,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Excel, which matches one of the tools required, but lacks experience with Netsuite ERP system."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in administrative functions and data entry are transferable, but they lack specific skills in project management and general business."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.477
+}

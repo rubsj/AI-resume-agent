@@ -1,0 +1,51 @@
+{
+    "resume_id": "23387174",
+    "jd_id": "3854137450",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.678,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may not meet the preferred degrees in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks detailed educational background that matches the required degree in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 19.1 yrs (capped to 19.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, but the job description requires at least 3-5 years of experience, which is slightly less than what the candidate has."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume, which is a key requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.396,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 2, 'fuzzy': 2}. Matched: ['prepare journal entries (substring)', 'analyze general ledger accounts (fuzzy)', 'prepare journal entries (substring)', 'assist in monthly reconciliations (fuzzy)'] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned in the description, but there is no direct match, indicating a lack of detailed alignment."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the required skills in the job description. However, there is no mention of specific tools or technologies used, which could be a point of improvement."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as attention to detail and mathematical proficiency, which are aligned with the job description. However, the resume lacks specific examples or quantifiable achievements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, which contrasts with the job description's requirement for advanced Excel skills and familiarity with GP Dynamics."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like budgeting and financial analysis, but the job description does not explicitly mention these skills, leading to a lower score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.486
+}

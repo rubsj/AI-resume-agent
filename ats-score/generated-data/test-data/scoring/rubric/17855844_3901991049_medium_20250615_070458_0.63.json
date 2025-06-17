@@ -1,0 +1,51 @@
+{
+    "resume_id": "17855844",
+    "jd_id": "3901991049",
+    "domain": "HR",
+    "resume_jd_similarity": 0.507,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['PHR (exact)'] | (LLM 0.5): The candidate holds a PHR certification, which is required for the position, but lacks the SPHR certification mentioned as optional."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a B.S. degree in Communications, which is relevant to the field of HR, but lacks a formal degree in HR or related fields."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.0 yrs (capped to 24.0), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has extensive experience in various HR roles, including management positions, which closely matches the job description's requirement for senior-level experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading HR departments and managing staff demonstrates leadership skills, which are essential for the role."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles cover many of the responsibilities listed in the job description, particularly in areas like talent strategy, organizational assessment, and change management."
+        },
+        "skills": {
+            "score": 0.552,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate possesses a wide range of skills including HR, training, and specific tools like MS Office, which aligns well with the job description requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as intuition for business and strong interpersonal skills, match the job description's requirements for comfort with ambiguity and strong action orientation."
+        },
+        "tools": {
+            "score": 0.458,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 4}. Matched: ['Recruiting COE (fuzzy)', 'Compensation COE (fuzzy)', 'MS Word (substring)', 'MS Excel (fuzzy)', 'MS PowerPoint (fuzzy)'] | (LLM 0.4): The candidate's experience with tools like Ceridian, KRONOS, and MS Office aligns with the job description's tool requirements, though some specific tools mentioned may not be directly mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as managing employee relations and developing training programs, are relevant to the job description's requirements for guiding business leaders and coaching managers."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.631
+}

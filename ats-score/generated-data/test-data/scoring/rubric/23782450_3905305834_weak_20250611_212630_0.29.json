@@ -1,0 +1,51 @@
+{
+    "resume_id": "23782450",
+    "jd_id": "3905305834",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.658,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications mentioned match the job requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['High school diploma or the equivalent (fuzzy)'] | (LLM 0.5): The candidate's highest education is a High School Diploma, which does not meet the preferred degree requirement of a High school diploma or equivalent."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in Sales Management roles, but the specific details do not fully align with the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience that aligns with the job description's leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not fully align with the detailed job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.248,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Farm management (fuzzy)'] | (LLM 0.4): The candidate has relevant skills like Client relations specialist, Conflict resolution techniques, Team management, etc., which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions interpersonal skills and conflict resolution, which are part of the soft skills required, but lacks specifics on how these skills are applied in a retail context."
+        },
+        "tools": {
+            "score": 0.035,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Computer (substring)'] | (LLM 0.4): No mention of tools or technologies used that match those required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No mention of transferable skills that could be applied in the new role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.291
+}

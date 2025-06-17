@@ -1,0 +1,51 @@
+{
+    "resume_id": "14455622",
+    "jd_id": "3886448453",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.438,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description requires a Bachelor's Degree in Business or related field."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have a Bachelor's Degree in Business or related field, as required by the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD required years = 0. | (LLM 0.5): The candidate has experience in sales and account management, which aligns with the job responsibilities. However, the experience is in aviation rather than automotive, which may not be directly transferable."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership skills or experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with some of the responsibilities listed, but not all. The experience is in aviation rather than automotive, which may limit the transferability."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'account management', 'accounting','sales', and 'customer service'. However, there is no mention of specific tools like Salesforce.com, which is required."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like 'customer service', 'analytical', and'self-motivated', which match the soft skills required by the job description. However, there is no mention of leadership or motivational skills."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have experience with Salesforce.com, which is required by the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like 'account management' and'sales' that can be transferred to the automotive industry, but the experience is in aviation, which limits the transferability."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.435
+}

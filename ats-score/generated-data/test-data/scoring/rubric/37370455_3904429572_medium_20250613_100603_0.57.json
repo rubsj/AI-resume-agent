@@ -1,0 +1,51 @@
+{
+    "resume_id": "37370455",
+    "jd_id": "3904429572",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.718,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which contrasts with the requirement for a BS/BA in accounting or related field in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Finance from Oklahoma State University and a Diploma in Banking from Mara Institute of Technology (UITM), which partially meets the educational requirements but lacks the specific degree mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 15.7 yrs (capped to 15.7), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that involve financial reporting, budgeting, and management, which aligns with the job responsibilities. However, the total experience years exceed the preferred experience years specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and other sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention any leadership roles or responsibilities, which contrasts with the soft skills requirement for being collaborative and having leadership qualities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles match several job responsibilities listed in the job description, such as preparing financial statements, reconciling accounts, and assisting with monthly financial statements. However, there is no mention of using AI or systems automation, which is mentioned as a responsibility in the job description."
+        },
+        "skills": {
+            "score": 0.58,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting, financial reporting, and management, aligning well with the required skills in accounting and finance. The resume also mentions proficiency in various accounting software and systems, which matches the optional skills section."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-assessment of being independent, a fast learner, and having good communication skills aligns with the soft skills required in the job description. The resume also mentions leadership qualities, which is another soft skill mentioned."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience includes working with accounting software and systems like AS 400, SAP, Hyperion, and Excel, which aligns with the tools and technologies required in the job description. However, there is no mention of specific ERPs such as Oracle, Netsuite, or Great Plains."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like Excel, Microsoft Office, and written communication are transferable and align with the job description. However, there is no mention of advanced Excel/Google Sheets or GAAP, which are optional skills mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.568
+}

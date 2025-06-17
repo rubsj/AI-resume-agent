@@ -1,0 +1,51 @@
+{
+    "resume_id": "23513618",
+    "jd_id": "3904985578",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.666,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, which contrasts with the requirement for a Bachelor's degree in the job description."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Accounting and a Bachelor's degree in Accounting, which aligns well with the preferred degree requirements in the job description. However, the GPA is not provided, which could be a factor in assessing the quality of education."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 14.6 yrs (capped to 14.6), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant work experience in accounting and finance, which matches the required experience level. However, the job description specifies a preference for 1-3 years of experience, and the candidate has more than 10 years of experience, which might not be ideal for the role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, ensuring clarity and professionalism. However, the lack of specific details in certain sections may affect the overall ATS score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which contrasts with the job description's requirement for mid-senior level experience."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed in the job description, such as financial operations, invoicing, accounts receivable, and payroll processing. However, there is no direct match for responsibilities like leveraging software and automation tools, leading strategic initiatives, or assisting with ad hoc accounting tasks."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the required skills in the job description. The skills listed are relevant and closely match the required skills such as 'Accounting/Auditing', 'Finance', and 'Tech-savvy'."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong understanding of accounting principles, customer-centric mindset, growth mindset, collaboration, and learning from others, align well with the soft skills required in the job description. However, there is no explicit mention of these skills in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, which contrasts with the job description's emphasis on proficiency with tailored technology platforms, automation tools, standard processes, operating models, software, and workflow management tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like attention to detail, which is mentioned in the job description. However, there is no explicit mention of other transferable skills such as tech-savviness, comfort with multiple software tools, or high organization, which are also mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.516
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "26234972",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.509,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned that match the required 'PMP' certification."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds an MA in Film & Media Production, which is relevant but does not specify if it aligns with the required degree in information technology or business."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.2 yrs (capped to 17.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in project management and leadership roles, but the job description requires at least 10 years of experience, and the resume indicates less than 10 years of total experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but the job description emphasizes leadership in a different context, focusing more on managing consultants and client success."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully align with the job responsibilities listed in the description."
+        },
+        "skills": {
+            "score": 0.327,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched skills: ['Negotiation (substring)', 'Time management (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Editing', 'Project Management', 'Consulting', and 'Project organization'. However, there is no mention of specific tools like 'ERP' or 'Cloud applications' which are required."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Leadership', 'Influencing', and 'Negotiation', but they lack specific skills like 'Documentation', 'Dissemination', and 'Adaptability' mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.047,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['ERP (substring)'] | (LLM 0.4): The candidate does not list any tools or technologies that match the required ones such as 'ERP', 'Cloud applications', etc."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Project planning', 'Cost estimation', and 'Project control', but lacks specific skills like 'ERP implementation' and 'Systems integrations' mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.469
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "87635012",
+    "jd_id": "3905334786",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.685,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Business Administration in Finance and a Bachelor of Business Administration in Accounting, which aligns well with the preferred degree requirements of the job description. However, the exact years of graduation are not provided."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.5 yrs (capped to 21.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 21 years of experience in various accounting roles, which exceeds the required experience level of 5 years. The experience includes roles that involve project accounting, revenue recognition, and leadership, which aligns well with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The information is presented clearly and logically."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervisory roles, which aligns well with the requirement for leadership skills. However, the candidate does not explicitly mention previous experience in leading or supervising teams, which is mentioned as an optional skill in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes roles that involve project setup and close-out, revenue recognition, and training, which aligns well with the job responsibilities. However, the candidate's experience does not cover all the responsibilities listed in the job description, such as leading process alignment and establishing best practices globally."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting and auditing, which aligns well with the required skills of the Project Accounting Manager position. The candidate also possesses knowledge of SAP and Excel, which are mentioned as tools and technologies in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong leadership and teamwork skills, which aligns well with the soft skills required for the position. However, the candidate does not explicitly mention problem-solving and adaptability, which are also mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['SAP (exact)', 'Excel (exact)'] | (LLM 0.4): The candidate has experience with SAP, PeopleSoft, and Excel, which aligns well with the tools and technologies mentioned in the job description. However, the job description specifically mentions SAP (PS and SD), and the candidate's experience is not detailed enough to confirm proficiency in these specific modules."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various accounting roles demonstrates transferable skills such as attention to detail and ability to handle complex tasks. However, the candidate does not explicitly mention skills like flexibility and adaptability, which are mentioned in the optional skills section of the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.634
+}

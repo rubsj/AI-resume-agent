@@ -1,0 +1,51 @@
+{
+    "resume_id": "59962788",
+    "jd_id": "3901956374",
+    "domain": "HR",
+    "resume_jd_similarity": 0.732,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a CAPM certification, which is relevant to the job requirements. However, there is no mention of other certifications that might be preferred or required by the employer."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has an MBA in Human Resource and a B.E in Computer Science Engineering, which aligns well with the educational background expected for the role. However, the lack of specific details about the institutions and grades may slightly reduce the score."
+        },
+        "experience": {
+            "score": 0.586,
+            "reason": "(Rule 0.5): Resume: 1.9 yrs (capped to 1.9), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has experience in various HR functions, including recruitment, onboarding, performance management, offboarding, employee relations, compensation, benefits, training, and compliance. This closely matches the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail or clarity, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly mention leadership experience or skills, which are important for a Human Resources Manager role."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with most of the job responsibilities listed in the job description, but there is no direct mention of leading compensation and benefits administration or collaborating with corporate HR team."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate possesses relevant skills such as new employee orientations, compensation and benefits, termination procedures, HR compliance, project management, MS Office proficiency, and knowledge of HR systems. However, there is a lack of specific technical skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions interpersonal skills, good communication skills, flexibility, and fast learning, which are generally aligned with soft skills expected in HR roles. However, there is no explicit mention of leadership skills or specific soft skills like strategic thinking or change management."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): There is no mention of proficiency in Workday, which is a tool specifically mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as project management, system analysis, and training coordination, which could be beneficial in an HR role. However, these skills are not directly related to HR-specific tasks."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.605
+}

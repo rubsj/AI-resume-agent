@@ -1,0 +1,51 @@
+{
+    "resume_id": "17252448",
+    "jd_id": "3904574369",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.665,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be required or preferred by the employer."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Master's degree in Civil Engineering, which is relevant to the job, but the Bachelor's degree is not specified, potentially missing some details about the field of study."
+        },
+        "experience": {
+            "score": 0.68,
+            "reason": "(Rule 0.5): Resume: 2.3 yrs (capped to 2.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience as a Construction Project Manager and Site Supervisor, which directly matches the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leading a team of 25 employees, which indicates strong leadership skills, but there is no further detail provided."
+        },
+        "responsibilities": {
+            "score": 0.427,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Contracts (exact)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with most of the responsibilities listed in the job description, such as managing projects, overseeing budgets, and ensuring compliance with regulations."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as project scheduling, estimating, budget planning, value engineering, contract coordination, and OSHA safety requirements, which align well with the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills like leadership and communication are implied through the candidate's experience, but they are not explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the resume, which might be expected for a Construction Project Manager role."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like project management, team supervision, and risk mitigation are transferable and match the job description, though they could be more clearly highlighted."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.678
+}

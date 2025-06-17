@@ -1,0 +1,51 @@
+{
+    "resume_id": "68781345",
+    "jd_id": "3901685082",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.454,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds certifications such as Six Sigma Green Belt and Advanced Project Management, which are relevant but not as directly aligned as required degrees like CPA."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lacks specific details such as degree, field, and GPA, making it less informative compared to the job description's requirement for a CPA degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.3 yrs (capped to 24.3), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has extensive experience in project management and communications, closely matching the job description's requirements for over 12 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, contributing positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership is mentioned in the candidate's resume, but there are no specific examples or achievements that demonstrate leadership capabilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not explicitly detailed, making it difficult to assess how closely they align with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.331,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Communication (substring)'] | (LLM 0.4): The candidate has a wide range of skills listed, including proficiency in Microsoft Office, project management, and communication, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills such as leadership and communication are mentioned in the candidate's resume, but the lack of specific examples or achievements reduces the alignment score."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience includes tools like Microsoft Office, which are mentioned in the job description, but the lack of specific tool-related responsibilities reduces the score."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as project management and communication, are relevant to the job description, but the lack of specific details reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.455
+}

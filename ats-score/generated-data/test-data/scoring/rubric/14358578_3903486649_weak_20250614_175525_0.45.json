@@ -1,0 +1,51 @@
+{
+    "resume_id": "14358578",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.45,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed, which might be a concern given the required experience in Information Technology."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate is expected to complete their Bachelor of Science degree in May 2024, which is relevant but not yet completed."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 5.9 yrs (capped to 5.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in Sales and Customer Service, but the job description requires more advanced skills and responsibilities that are not fully covered in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in managing teams or projects, which is crucial for the Instock Manager position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide evidence of leading and overseeing the Instock function or driving cross-functional strategic initiatives, which are key responsibilities of the position."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills in Sales, Exceptional Customer Service, and Social Perceptiveness, which align well with the job requirements. However, there is a lack of specific IT skills mentioned."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like Exceptional Customer Service and Social Perceptiveness, which are aligned with the job description. However, there is no mention of self-starting, data extraction capabilities, or tactical and strategic activities."
+        },
+        "tools": {
+            "score": 0.14,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): No mention of any tools or technologies used in the resume, which contrasts with the job description's requirement for proficiency in Excel, SQL, and Process Improvement Techniques."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in Sales and Customer Service, but there is a lack of detail on how these skills can be applied to the specific responsibilities of the Instock Manager role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.449
+}

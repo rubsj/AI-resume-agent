@@ -1,0 +1,51 @@
+{
+    "resume_id": "27607632",
+    "jd_id": "3905841653",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.483,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A BBA in Accounting is relevant but lacks details like GPA and graduation year, reducing the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.1 yrs (capped to 17.1), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in sales and clerical roles, which align with the job requirements. However, the lack of detail in some job descriptions reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, but the lack of detail in some responsibilities reduces the score."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills like Excel, ADP, and QuickBooks, which match the job requirements. However, the lack of specific technical skills mentioned in the job description reduces the score."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills like customer relations, time management, and proactive attitude match the job requirements."
+        },
+        "tools": {
+            "score": 0.45,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (exact)', 'Microsoft Word (substring)'] | (LLM 0.4): The candidate has experience with tools like Excel, Outlook, and Word, which are mentioned in the job description. However, the lack of detail on proficiency reduces the score."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like sales, customer relations, and Excel proficiency, which are relevant. However, the lack of detail in some skills reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.498
+}

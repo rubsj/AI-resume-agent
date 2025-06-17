@@ -1,0 +1,51 @@
+{
+    "resume_id": "19545827",
+    "jd_id": "3903454712",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.423,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a CPA certification, which is relevant but not directly aligned with the job description requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Christian Education, which is not directly relevant to the job description. However, the Bachelor's degree in Economics and the Associates degree in Accounting provide some alignment."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has significant experience in various accounting roles, which aligns well with the required experience in administration and project management. The experience in operations and logistics also provides transferable skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles is limited to a Business Manager position, which does not directly align with the leadership requirements in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not exactly match the responsibilities listed in the job description, particularly in terms of startup timing coordination and knowledge capture processes."
+        },
+        "skills": {
+            "score": 0.342,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['administrative (exact)', 'project management (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting and operations, which aligns well with the required skills in administration and project management. However, there is a lack of direct administrative experience."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership and teamwork aligns with the soft skills required, but there is no explicit mention of company confidentiality or service-oriented attitude."
+        },
+        "tools": {
+            "score": 0.49,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Excel (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is listed as a required tool in the job description. However, there is no mention of SharePoint or internal databases, which are also required tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in accounting, operations, and logistics provides strong transferable skills that can be applied in an administrative role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.57
+}

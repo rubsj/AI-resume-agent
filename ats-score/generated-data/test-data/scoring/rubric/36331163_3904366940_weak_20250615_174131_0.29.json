@@ -1,0 +1,51 @@
+{
+    "resume_id": "36331163",
+    "jd_id": "3904366940",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.418,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas ISO19650 is mentioned as a required certification in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Diploma (exact)'] | (LLM 0.5): The candidate's education is only listed as a Diploma from North Rockland High School, which is not mentioned as a preferred degree in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 20.5 yrs (capped to 20.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in construction and masonry, which aligns with the job description's inferred domain of Built environment. The experience includes roles that involve heavy equipment operation, which is relevant to the job responsibilities. However, the job description requires 5+ years of experience, and the candidate has 20.5 years of total experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is grammatically clean and free of errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership experience or skills that could be relevant to the job responsibilities listed in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details about responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in Microsoft Word and Excel, which are mentioned in the job description under required skills. However, there is no mention of Art/Creative, Design, or Information Technology skills, which are also required."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention soft skills such as excellent communication skills, ability to work independently, and teamwork, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have any tools or technologies listed, whereas the job description mentions Autodesk Revit, Civil3D, and other specific tools that are required."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight any transferable skills that could be relevant to the job responsibilities listed in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.292
+}

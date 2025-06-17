@@ -1,0 +1,51 @@
+{
+    "resume_id": "17189156",
+    "jd_id": "3902844749",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.65,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The education section lacks specific details about degree, field, institution, year, and GPA."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in banking and finance, particularly in roles that align with the job responsibilities such as Business Banking Specialist, Personal Banker, and Lead Teller. However, the resume lacks specific dates and details about the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job responsibilities such as managing customer relationships, resolving operational issues, and assisting with business development. However, there is a lack of detail about specific responsibilities and achievements."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate possesses relevant skills such as Customer engagement, clerical support, interacting effectively with diverse individuals, proactive approach to building relationships, excellent interpersonal, analytical, and organizational skills, managing, training, and motivating a diverse team, working knowledge of IBM and MAC systems, Microsoft Excel, Microsoft Word, and Microsoft Outlook, and fluency in English and Spanish."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates soft skills such as effective communication, teamwork, problem-solving, and adaptability through their experience and responsibilities."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like customer service, communication, and teamwork, but these are not explicitly highlighted or quantified in the resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.512
+}

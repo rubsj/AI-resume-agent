@@ -1,0 +1,51 @@
+{
+    "resume_id": "19336728",
+    "jd_id": "3903485863",
+    "domain": "HR",
+    "resume_jd_similarity": 0.459,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the required or preferred qualifications in the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Bachelors of Art in Organizational Leadership from Cleveland State University, which aligns with the education requirements. However, the lack of a specific degree in the job description reduces the score."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in various roles that demonstrate administrative, leadership, and technical skills, which align with the job responsibilities. However, the lack of direct experience in strategic preparedness and external affairs reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, adhering to professional standards."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not indicate leadership roles or responsibilities that align with the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have experience or responsibilities that directly match the job responsibilities listed, particularly those related to scenario planning, stakeholder coordination, and executive communications."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as administrative support, repairs, and spreadsheet management, which align with the job responsibilities requiring strong organizational and analytical skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills mentioned in the job description such as skilled writer and politically astute."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No mention of tools or technologies used by the candidate matches the job description's requirement for skills like complex idea synthesis and detailed research summarization."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like administrative support and spreadsheet management, which could be beneficial in the role. However, the lack of specific skills like complex idea synthesis and detailed research summarization reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.552
+}

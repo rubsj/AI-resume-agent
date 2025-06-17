@@ -1,0 +1,51 @@
+{
+    "resume_id": "13348915",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.436,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education does not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.833,
+            "reason": "(Rule 0.5): Resume: 2.9 yrs (capped to 2.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in retail sales and management, which aligns with the job responsibilities. However, the experience is slightly less than the required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it could benefit from more detailed descriptions and quantifiable achievements."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates leadership through roles like Store Manager and training new associates. However, it lacks detail on leading cross-functional initiatives and strategic planning."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions some responsibilities that align with the job responsibilities, such as managing staff and improving customer service. However, it lacks details on strategic initiatives and complex business analysis."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'cash register', 'customer relations', 'inventory', and'merchandising' which align with the job requirements. However, there is a lack of specific technical skills like Excel or SQL mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights skills like teamwork and customer service, which are aligned with soft skills required. However, it lacks explicit mention of self-starting, data analytical capabilities, and tactical activities."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, unlike the job description which requires proficiency in Excel, SQL, and process improvement techniques."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows skills that can be transferred to the role, such as problem-solving and communication. However, it lacks specific skills like process improvement techniques and data extraction."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.469
+}

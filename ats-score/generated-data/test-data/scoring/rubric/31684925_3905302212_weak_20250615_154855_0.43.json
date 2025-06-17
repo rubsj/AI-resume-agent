@@ -1,0 +1,51 @@
+{
+    "resume_id": "31684925",
+    "jd_id": "3905302212",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.403,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description mentions certifications as optional skills."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Civil Engineering from George Mason University, which matches the preferred degree requirement. However, the GPA is not specified, which could be important for the employer."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in Civil Engineering and related fields, but the job description focuses more on software development and ADAS functionalities, which might not be fully covered in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details about the job responsibilities and skills required by the job description reduces the overall score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight any leadership roles or achievements, which could be beneficial for the job description's requirements."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some aspects of the job description, particularly in terms of collaboration and documentation. However, there is no direct mention of ADAS functionalities or real-time systems development."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as AutoCAD, MicroStation, and Civil Engineering, which align with the job requirements. However, there is a lack of specific software tools and technologies mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong problem-solving skills and teamwork through their experience. However, there is no explicit mention of communication skills or cross-functional interaction, which are crucial soft skills for the job."
+        },
+        "tools": {
+            "score": 0.03,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Disability (fuzzy)', 'Training (exact)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies that match the job description's requirements."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as attention to detail and adaptability, but there is a lack of emphasis on specific technical skills required for the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.428
+}

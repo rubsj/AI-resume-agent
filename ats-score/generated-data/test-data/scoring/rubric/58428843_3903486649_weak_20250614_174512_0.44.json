@@ -1,0 +1,51 @@
+{
+    "resume_id": "58428843",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.529,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed in the candidate's resume match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education is not detailed enough to assess if it meets the requirements of the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 20.4 yrs (capped to 20.4), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in'sales', 'customer service', and 'office operations' which aligns with the job description's requirement for 'Instock Manager, Amazon Fresh Grocery'. The experience includes roles in sales associate, group sales associate, and office assistant, demonstrating proficiency in areas like customer service, sales, and office management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, indicating a high level of professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that directly correlate with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.536,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Purchasing (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills in 'advertising', 'benefits', 'brochures', 'communication skills', 'contracts', 'customer service', 'delivery', 'documentation', 'email', 'inventory','manage inventory levels','mark','market sales','materials','merchandising', 'Office', 'MS Windows', 'Office Automation', 'Payment processing', 'policies', 'POS', 'promotion', 'Proofreading', 'purchasing', 'quick learner','record keeping','relationship building','reporting','selling', 'phone', 'transportation', 'typing speed', '50 WPM', 'workshops', 'articles'. However, there is no direct match for 'Information Technology' and 'Process Improvement Techniques' as mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like 'organizational', 'communication', and 'attention to detail', which align with the soft skills required in the job description. However, there is no explicit mention of self-starter, data extraction capabilities, or other soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, which contrasts with the job description's requirement for skills in 'Excel', 'SQL', and 'Process Improvement Techniques'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows skills that can be transferred to the role, such as 'customer service', 'office operations', and'sales'. However, there is a lack of detail on how these skills specifically relate to the job responsibilities and required skills in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.443
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "11763983",
+    "jd_id": "3901632078",
+    "domain": "HR",
+    "resume_jd_similarity": 0.695,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned that match the preferred certifications in the job description."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA in HR, which is relevant to the job requirements. However, the lack of GPA information reduces the score slightly."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 23.1 yrs (capped to 23.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in HR roles, which exceeds the minimum requirement of 5 years. The detailed experience aligns closely with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles, but the job description specifically requires a Director-level experience, which is not explicitly mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes many responsibilities listed in the job description, such as managing employee relations, overseeing recruitment, and ensuring compliance with employment laws. However, some responsibilities like strategic HR leadership are not explicitly mentioned."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 2}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (fuzzy)', 'Human Resources (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in HR roles, which aligns well with the job requirements. The skills listed match those needed for the position."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary indicates strong communication and interpersonal skills, which are essential soft skills for the position. The lack of specific examples reduces the score slightly."
+        },
+        "tools": {
+            "score": 0.62,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['HRIS (exact)'] | (LLM 0.4): The candidate has experience with ADP Payroll, AS400, Kronos, and PeopleSoft, which are tools mentioned in the job description. However, there is no mention of proficiency in HRIS or Microsoft Office Suite."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include administrative, strategic human resources leadership, and other skills that could be transferable to the position. However, the lack of specific details reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.59
+}

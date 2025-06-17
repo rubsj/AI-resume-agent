@@ -1,0 +1,51 @@
+{
+    "resume_id": "36621169",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.475,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job requirement for Information Technology proficiency."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Science in Fashion Merchandising Management, which is relevant to the retail domain but not specifically aligned with the job description's requirements."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 14.4 yrs (capped to 14.4), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and product development, particularly in a retail setting, which aligns well with the job responsibilities. The experience in technical design also adds value."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume that directly align with the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly match the job responsibilities listed, such as leading and overseeing the Instock function or driving cross-functional strategic initiatives."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has skills in Microsoft Office Suite, Adobe Creative Suite, and Ronlynn Apparel Software, which aligns with the job requirements. However, the lack of IT proficiency is a minor mismatch."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like being organized and having data extraction capabilities, which align with the job requirements. However, the lack of self-starter attitude is a minor mismatch."
+        },
+        "tools": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Ronlynn Apparel Software, which matches the tool requirement. However, there is no mention of proficiency in Excel or SQL, which are also required tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Mac and PC platforms, internet research, and social media proficiency are transferable and align with the job requirements, but the lack of specific IT skills is a minor mismatch."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.535
+}

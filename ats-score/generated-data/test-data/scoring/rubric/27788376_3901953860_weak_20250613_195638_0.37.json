@@ -1,0 +1,51 @@
+{
+    "resume_id": "27788376",
+    "jd_id": "3901953860",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.411,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate does not have any certifications listed that match the required skills in the job description."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds degrees in Arts in History and Health Administration, which are relevant to the job description. However, the GPA for the Master of Science degree is not provided, which could be important for assessing academic achievement."
+        },
+        "experience": {
+            "score": 0.59,
+            "reason": "(Rule 0.5): Resume: 2.4 yrs (capped to 2.4), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in consulting, management, and healthcare administration, which aligns with the job description. However, the job description requires at least 5 years of experience, while the candidate has less than 2 years of total experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills that are essential for the job description's responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job description's requirements for achieving sales goals, influencing strategy, managing relationships, and collaborating with various teams."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has relevant skills such as Financial aptitude, sourcing vendors for medical supplies, critical thinking proficiency, sound decision making abilities, cultural awareness, and Microsoft Office proficiency. However, there is no mention of specific certifications related to consulting, management, or manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks specific soft skills that are mentioned in the job description, such as exceptional client management, financial acumen, high emotional intelligence, and navigating complex interpersonal dynamics."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any tools or technologies used in their experience, which contrasts with the job description requiring knowledge of Google mail, calendaring, and shared drives."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section mentions transferable skills like relationship and team building, but these are not aligned with the job description's specific requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.373
+}

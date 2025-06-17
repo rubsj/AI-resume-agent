@@ -1,0 +1,51 @@
+{
+    "resume_id": "16804396",
+    "jd_id": "3902751724",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.472,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires Alcohol Awareness Certification."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is in EMT/Paramedic, which does not align with the job requirements for a Bartender position."
+        },
+        "experience": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate's experience is in culinary roles such as Main Chef, Assistant General Manager, and Main prep, Cook, which do not align with the job requirements for a Bartender position."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is not mentioned in the resume, and there are no clear matches with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not aligned with the job responsibilities listed in the job description for a Bartender position."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills like conflict resolution, cost control, and excellent customer service, which align with the job requirements. However, there is no direct match with specific skills listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not mentioned in the resume, whereas the job description requires specific soft skills such as managing difficult customer situations and maintaining professionalism."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate lists proficiency in Microsoft Office, but the job description does not specify any tools or technologies required."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not mentioned in the resume, and there are no clear matches with the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.38
+}

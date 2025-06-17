@@ -1,0 +1,51 @@
+{
+    "resume_id": "17103000",
+    "jd_id": "3906220939",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.468,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the job description requirements."
+        },
+        "education": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Business Administration and a Bachelor's degree in Electrical Engineering, which are not directly aligned with the job description requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 15 years of experience in engineering management and systems engineering, which matches the required experience years. However, the job description focuses more on purchasing and procurement skills, which are not extensively covered in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights leadership roles in engineering management and systems engineering, which aligns with the leadership aspect of the job description. However, the job description does not emphasize leadership skills specifically."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines specific responsibilities related to purchasing, sourcing, and procurement, which are not detailed in the candidate's resume."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in engineering management, systems engineering, and hardware engineering, aligning closely with the required skills of the job description. The resume also mentions proficiency in tools like Microsoft Office, which is listed as optional but relevant skill."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership and team leadership skills, which align with the soft skills required in the job description. However, the resume does not provide specific examples or details about how these skills have been applied in previous roles."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP system (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office and Siemens, which are listed as optional skills in the job description. However, there is no mention of experience with ERP systems, which is another tool mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes skills such as conflict management, continuous improvement, and risk analysis, which could be transferable to the role. However, these skills are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.435
+}

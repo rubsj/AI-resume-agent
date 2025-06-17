@@ -1,0 +1,51 @@
+{
+    "resume_id": "26341645",
+    "jd_id": "3904388033",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.409,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume that directly match the preferred certification in the job description."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds degrees in Management Information Systems and Computer Science, which are relevant to the job, but the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 27.5 yrs (capped to 27.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in systems analysis and support, which matches the required experience in the job description. The detailed job descriptions provide clear evidence of relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are some inconsistencies in the formatting and missing details that slightly reduce the score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership roles or achievements in the resume that would indicate the candidate's leadership capabilities."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely align with the job responsibilities listed in the job description, indicating a strong fit."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in systems analysis, project management, and technical skills relevant to the job description. The resume includes detailed descriptions of responsibilities and achievements that align well with the required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as customer service, problem-solving, and communication, which are mentioned in the job description. However, the lack of specific examples or quantifiable achievements reduces the score."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's technical skills section lists tools and technologies that are similar to those mentioned in the job description, but there are some discrepancies in the exact tool names."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes transferable skills like project management and collaboration, which are relevant to the job description. However, the lack of specific examples or quantifiable achievements reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.554
+}

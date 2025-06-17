@@ -1,0 +1,51 @@
+{
+    "resume_id": "15906625",
+    "jd_id": "3904078215",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.66,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['CPA (substring)'] | (LLM 0.5): The candidate does not have a CPA certification, which is listed as a preferred skill in the job description."
+        },
+        "education": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's Degree (fuzzy)\"] | (LLM 0.5): The candidate holds a Bachelor's degree in Accounting from Northwestern State University of Louisiana, which meets the minimum educational requirement. However, there is no mention of any honors or additional achievements that could differentiate them from other candidates."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in accounting, which exceeds the minimum requirement of 6 years. Their detailed job descriptions show proficiency in various accounting tasks relevant to the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's use of bullet points and clear sections enhances readability."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership skills are not explicitly mentioned in their resume, making it difficult to assess how well they align with the job description's leadership expectations."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's expectations, but they do not explicitly mention leading projects for harmonization, efficiencies, and improvements, which is a key responsibility in the job description."
+        },
+        "skills": {
+            "score": 0.402,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'CPA (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting and bookkeeping, which aligns well with the required expertise in accounting and external reporting. The mention of specific software tools like QuickBooks and Microsoft Office also matches the job description's tool requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are generally aligned with the job description's expectations, but they do not explicitly mention business partnering or strategic opportunities, which are important soft skills for this role."
+        },
+        "tools": {
+            "score": 0.344,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate's experience with various accounting software tools aligns with the job description's tool requirements. However, they lack experience with some specific tools mentioned in the job description such as Hyperion and SAP."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat aligned with the job description's expectations, but they lack experience with specific tools like Hyperion and SAP, which are mentioned as optional skills in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.587
+}

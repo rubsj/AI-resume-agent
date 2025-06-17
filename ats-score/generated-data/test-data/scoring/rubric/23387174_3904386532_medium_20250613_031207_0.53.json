@@ -1,0 +1,51 @@
+{
+    "resume_id": "23387174",
+    "jd_id": "3904386532",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.704,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's requirement for a Bachelor's degree or diploma in accounting, finance, or business administration."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelor’s degree or diploma in accounting, finance, or business administration (fuzzy)'] | (LLM 0.5): The resume lacks specific details about the degree obtained, which is a requirement in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 19.1 yrs (capped to 19.1), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that match the job description's responsibilities. The detailed job history shows proficiency in various accounting tasks and software usage."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which contrasts with the job description's requirement for talent and self-motivation."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job description's responsibilities, particularly in areas like financial close processes, reporting, and account reconciliations."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the job requirements. The resume mentions proficiency in various accounting software and tools, which matches the job description's tool requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are somewhat aligned with the job description's requirements, such as attention to detail and teamwork. However, there is no explicit mention of self-motivation or quick learning."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Excel (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Excel and other accounting software, which aligns with the job description's tool requirements. However, there is no mention of specific tools like Blackline reconciliations or account reconciliation software."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, finance, and various software tools are transferable to the job description's requirements. However, there is no explicit mention of intermediate Excel skills or specific accounting software experience."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.528
+}

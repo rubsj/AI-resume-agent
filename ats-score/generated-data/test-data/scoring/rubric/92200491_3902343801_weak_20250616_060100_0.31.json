@@ -1,0 +1,51 @@
+{
+    "resume_id": "92200491",
+    "jd_id": "3902343801",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.422,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A high school diploma is listed, but there is no bachelor's degree or higher education as required by the job description."
+        },
+        "experience": {
+            "score": 0.483,
+            "reason": "(Rule 0.5): Resume: 3.2 yrs (capped to 3.2), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in sales and food service, which aligns with the job responsibilities and required skills. However, the total experience years do not meet the minimum requirement of 12+ years specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in managing teams, which is a critical aspect of the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There is no evidence of managing teams, fostering client relationships, leading account plans, or effectively motivating teams, which are key responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has experience in sales and food service, which aligns with the required skills of business development and sales. However, there is no direct mention of experience in media planning or data-driven marketing, which are specific to the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight strong communication, interpersonal, analytical, or creative skills, which are essential soft skills for the role."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention proficiency in Microsoft Office, Adobe Creative Suite, Facebook, or Salesforce, which are tools required by the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like cash handling, fast, and customer service align with the job description, but the lack of specific experience in media planning and data-driven marketing limits the transferable skills score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.308
+}

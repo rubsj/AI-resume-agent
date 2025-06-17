@@ -1,0 +1,51 @@
+{
+    "resume_id": "31552617",
+    "jd_id": "3902843667",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.506,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, and the job description requires insurance-related certifications, which are not provided."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Instructional Leadership and a Bachelor's degree in Social Studies, both from Robert Morris University, which matches the educational background required by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience as a teacher, which is relevant to the job description, but the job description also requires experience in designing, developing, implementing, and evaluating training programs, which is not explicitly mentioned in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading a team of 8 teachers, which aligns with the leadership requirement in the job description. However, the job description also requires specific leadership skills such as collaboration with the Director of Learning and leadership to identify training needs, which are not explicitly mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description lists responsibilities such as designing, developing, implementing, and evaluating training programs, but these are not reflected in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Training (exact)'] | (LLM 0.4): The candidate has experience working with special needs students, knowledge of distance learning techniques, strong communication skills, and proficiency in Microsoft Office, which aligns with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills, which aligns with the soft skills required by the job description. However, the job description also requires empathy, planning and organizing, time management, and understanding of effective teaching methodologies, which are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate is proficient in Microsoft Office, which is one of the tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as goal setting, deadline-oriented work, and employee training and development, which could be relevant to the job description. However, the job description also requires specific skills like insurance industry experience, which is not mentioned in the resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.466
+}

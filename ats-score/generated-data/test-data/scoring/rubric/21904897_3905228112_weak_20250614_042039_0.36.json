@@ -1,0 +1,51 @@
+{
+    "resume_id": "21904897",
+    "jd_id": "3905228112",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.452,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the preferred certifications in the job description."
+        },
+        "education": {
+            "score": 0.125,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['High School Diploma or GED (fuzzy)'] | (LLM 0.5): The resume lacks formal education details, which is a requirement in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 30.2 yrs (capped to 30.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in culinary roles, but the lack of specific details about the job responsibilities reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing kitchen staff indicates leadership skills, but the lack of specific leadership achievements reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job description, such as managing kitchen staff and ensuring quality control, but there is no direct match with the detailed responsibilities listed."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in various kitchen roles, which aligns well with the required skills in food manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly stated, but their experience in managing staff and maintaining quality control suggests they possess these skills."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in tools like Microsoft Office or Adobe Creative Suite, which are listed as required skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills are mostly related to culinary arts, lacking the breadth required for a Quality Assurance role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.361
+}

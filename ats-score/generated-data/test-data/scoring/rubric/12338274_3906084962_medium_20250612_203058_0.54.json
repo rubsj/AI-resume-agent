@@ -1,0 +1,51 @@
+{
+    "resume_id": "12338274",
+    "jd_id": "3906084962",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.7,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which does not match the requirement for 'USGAAP', 'IFRS', 'Sarbanes-Oxley', 'ERP systems', 'SAP', and 'Advanced Microsoft office skills' listed in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA in Finance, which matches one of the preferred degrees in the job description. However, there is no information about the completion year or GPA, which could have provided more context."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 12.8 yrs (capped to 12.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience as an Accountant, which closely matches the required experience level of 5 to 7 years. The detailed job descriptions provide clear alignment with the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand. However, there are some sections that lack detail or clarity, which slightly affects the overall cleanliness."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which does not match the requirement for 'Works independently' and 'Receives minimal guidance' listed in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's job responsibilities closely match the job responsibilities listed in the job description, such as performing month close activities, maintaining internal controls, preparing financial reports, and conducting audits."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant experience as an Accountant, which aligns with the required skills in the job description. The resume also lists skills such as 'auditing', 'banking', and 'finance', which match the required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong analytical abilities and attention to detail, align with the soft skills required in the job description. However, there is no explicit mention of the ability to work independently or receive minimal guidance."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience includes use of ERP systems, SAP, and Microsoft office tools, which aligns with the tools and technologies required in the job description. However, there is no explicit mention of proficiency in these tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as accounting, auditing, finance, and financial management, align with the requirements in the job description. However, there is no explicit mention of specific skills like USGAAP, IFRS, Sarbanes-Oxley, or advanced Microsoft office skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.539
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "63137898",
+    "jd_id": "3904579486",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.708,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which includes the preferred certification of Certified Public Accountant (CPA)."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is only listed as a Bachelor of Science degree in Business Administration without a specific GPA or graduation year, which does not match the required Bachelor's Degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 31.5 yrs (capped to 31.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including as an accounting manager, cost accounting manager, and owner, which aligns with the required experience of 5 years. However, the job description requires a minimum of 5 years of experience specifically with ERP systems, which is not explicitly mentioned in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The grammar cleanliness contributes positively to the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience, which is mentioned as a preferred qualification in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that align with the job description's requirement for designing and implementing solutions enabling process re-imagination."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Sales (exact)'] | (LLM 0.4): The candidate has a wide range of accounting-related skills, including account reconciliations, accounting, accounting manager, accounts payable, accounts receivable, and budget analysis & preparation. These align well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks explicit mention of soft skills such as strong problem-solving, strategic thinking, customer focus, team player, excellent communication skills, results-oriented, and positive attitude, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SAP (exact)'] | (LLM 0.4): The candidate has experience with QuickBooks, but the job description requires proficiency with Oracle, Workday, and SAP. The candidate's experience with these tools is not specified."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as strong communication skills, creative problem-solving, and time management, which are beneficial for the role. However, these skills are not as directly aligned with the job description's requirements as those in other sections."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.387
+}

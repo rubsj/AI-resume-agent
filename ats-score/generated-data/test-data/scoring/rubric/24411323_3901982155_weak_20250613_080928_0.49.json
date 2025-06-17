@@ -1,0 +1,51 @@
+{
+    "resume_id": "24411323",
+    "jd_id": "3901982155",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.719,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, while the job description mentions that certifications are optional but preferred."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education details are not clear, lacking specific degree, field, institution name, year, and GPA. The job description requires a Bachelor's Degree in a related field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 5.7 yrs (capped to 5.7), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in finance management roles, including responsibilities like negotiating business contracts, securing loans, and managing sales teams, which aligns with the job responsibilities. However, the experience lacks detail on specific tools used or financial forecasting."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading sales teams and achieving stretch goals, which aligns with the leadership requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not explicitly stated, but the job description outlines responsibilities such as participating in a leadership development program, understanding business operations, collaborating with teams, and forecasting sessions. The candidate's responsibilities are inferred from their experience."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (exact)', ', (substring)'] | (LLM 0.4): The candidate possesses skills such as 'automobiles', 'competitive', 'contracts', 'financing', 'financial', 'Leadership', 'Marketing', 'negotiating', 'Negotiation', 'Sales' which align well with the required skills of 'Accounting/Auditing', 'Finance', and 'Management'. However, there is no explicit mention of 'Accounting/Auditing' or 'Financial Forecasting Tools' which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, but they possess skills like 'Leadership', 'Collaboration', 'Adaptability', 'Time Management', and 'Communication', which align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any tools or technologies used, whereas the job description mentions proficiency in Microsoft Office, Financial Forecasting Tools, and Travel Management Systems."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are evident from their experience in sales, finance management, and leadership, which can be transferred to the role. However, the lack of specific details on tools and technologies used reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.489
+}

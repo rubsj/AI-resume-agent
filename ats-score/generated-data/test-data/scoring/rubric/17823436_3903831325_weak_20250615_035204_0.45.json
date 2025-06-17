@@ -1,0 +1,51 @@
+{
+    "resume_id": "17823436",
+    "jd_id": "3903831325",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.421,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Engineering degree in Information Technology from a recognized university, which is relevant to the job. However, the GPA is not provided, which could be a factor in assessing the candidate's academic performance."
+        },
+        "experience": {
+            "score": 0.719,
+            "reason": "(Rule 0.5): Resume: 5.1 yrs (capped to 5.1), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has relevant experience in software implementation and business analysis, including experience with project management, documentation, and working with clients. The experience is detailed and aligns well with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are sections where the content is sparse or lacks detail, which could affect the clarity and completeness of the information presented."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume, which is a requirement for the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume provides some overlap with the job responsibilities, such as financial analysis and project management. However, there is no direct mention of long-term financial planning or management reporting, which are key responsibilities in the job description."
+        },
+        "skills": {
+            "score": 0.407,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Problem-solving abilities (substring)'] | (LLM 0.4): The candidate has relevant technical skills such as C++, Core Java, and database knowledge which aligns with the job requirements. However, there is a lack of specific skills mentioned in the job description like Microsoft Excel proficiency and understanding of various contract types."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks specific soft skills mentioned in the job description, such as high-level interpersonal skills, ability to interact with senior leadership, and customer service orientation. There are also no examples of problem-solving or adaptability."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Rational Rose, MS Visio, and Oracle SQL Developer, which are relevant to the job. However, the job description mentions specific tools like Microsoft Excel and Deltek Costpoint that are not covered in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows transferable skills like teamwork, communication, and problem-solving, which are generally aligned with the job requirements. However, there is no explicit mention of prior people management experience or adherence to GAAP and Sarbanes-Oxley."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.451
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "16332293",
+    "jd_id": "3904967559",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.681,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds a Bachelor's Degree in Automotive Technology and an Associate's Degree in Business Management, which are relevant to the automotive industry and the job role."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has extensive experience as an Automobile Service Manager, which directly matches the job responsibilities and required experience in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are important for the job description."
+        },
+        "responsibilities": {
+            "score": 0.431,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Create service appointments (fuzzy)'] | (LLM 0.5): The candidate's job responsibilities align closely with the job description, including guiding customers through the car buying/selling process, conducting vehicle condition assessments, and performing administrative tasks."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as vehicle repairs, database management, inventory control, marketing strategies, and sales, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as attention to detail and integrity, which are beneficial for the job role. However, the resume lacks explicit mention of skills like communication and teamwork, which are crucial for the position."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions proficiency in Microsoft Office Suite, but no specific tools or technologies are listed in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include customer service, general business knowledge, and sales abilities, which are relevant to the job description. However, there is no explicit mention of skills like decision making or understanding customer needs."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.529
+}

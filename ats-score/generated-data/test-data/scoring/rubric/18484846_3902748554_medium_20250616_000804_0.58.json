@@ -1,0 +1,51 @@
+{
+    "resume_id": "18484846",
+    "jd_id": "3902748554",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.43,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists degrees but lacks details about the fields of study, which are not specified in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 41.0 yrs (capped to 40.0), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and management roles, which aligns well with the job responsibilities. The experience is detailed and shows progression in responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates experience in leadership roles, but there is no explicit mention of leadership skills or experience in product management."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that match those listed in the job description, such as managing sales teams and driving profitability. However, there is no explicit mention of product management or strategic planning."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has experience in sales, which aligns with the required skill of 'Sales'. However, there is no mention of finance skills, which are also required."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions some soft skills like teamwork and customer service, but does not explicitly state strong strategic thinking, leadership, or public speaking skills as required."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like communication, organization, and customer service, which are relevant to the job description. However, there is no explicit mention of financial accounting skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.581
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "13294301",
+    "jd_id": "3903874106",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.667,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement of having an Associate degree in accounting or business-related field."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two degrees, but only one is in a relevant field (Accounting and Finance), which is less than the required Associate degree in accounting or business-related field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.5 yrs (capped to 12.5), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, particularly in accounts payable, which aligns with the job responsibilities. However, the total experience is more than the preferred years (1-3), which might be seen as overqualified."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which contrasts with the requirement of having basic understanding of principles of accounting."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities listed in the job description, such as processing invoices and payments. However, there is no mention of experience with specific tools like Oracle or Concur T &E Portal."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as Accounting/Auditing and Finance, which match the job requirements. They also have proficiency in Microsoft Office, which is listed as an optional skill."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like detail-oriented and ability to meet deadlines, which are aligned with the job requirements. However, they lack specific skills like being able to multi-task and work effectively with other teams, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft Office Suite (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which matches the tools required for the job. However, they lack experience with specific tools like Oracle, Concur T &E Portal, and Outlook, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like customer service and data entry, which are relevant to the job. However, they lack specific skills like proficiency in MS Office and Outlook, which are mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.489
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "77156708",
+    "jd_id": "3904392488",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.465,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Management and a Bachelor of Arts, which are relevant degrees for the job description's preferred degrees. However, the lack of specific GPA information may be seen as a minor drawback."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 8.9 yrs (capped to 8.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in banking, finance, and marketing, which matches the job description's responsibilities. The experience includes roles that involve financial analysis, strategic planning, and leadership, which are key areas of focus in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, which is important for ATS scoring. The use of bullet points and clear sections enhances readability and organization."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in supervising teams and leading initiatives aligns with the leadership aspect of the job description. However, the lack of direct experience with specific tools and technologies reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with the job description's responsibilities, particularly in creating and maintaining Business Objects reports, gathering business requirements, and collaborating with stakeholders. However, the lack of direct experience with specific tools mentioned in the job description reduces the score."
+        },
+        "skills": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant experience in financial analysis, strategic planning, and project management, which aligns well with the job description's required skills. The resume also mentions proficiency in tools like Confluence, Jira, Salesforce, SQL, and Microsoft Office, which are beneficial but not explicitly mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in collaboration, clear communication, and teamwork aligns well with the soft skills required in the job description. The resume also mentions community leadership and involvement, which could be seen as a positive aspect."
+        },
+        "tools": {
+            "score": 0.353,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['SQL (exact)', 'R (substring)'] | (LLM 0.4): The candidate has experience with tools like Confluence, Jira, Salesforce, SQL, and Microsoft Office, which are beneficial but not explicitly mentioned in the job description. The lack of direct mention of tools like Business Objects, PowerBI, Tableau, Alteryx, R, and Python reduces the score."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in project management, financial analysis, and strategic planning are transferable to the job description's responsibilities. However, the lack of direct experience with specific tools and technologies reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.559
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "23110214",
+    "jd_id": "3906081256",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.689,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a concern given the required experience in healthcare."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Masters of Science in Healthcare and a Bachelor of Engineering, which provides a good educational background but lacks specific details that could further enhance alignment with the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate's experience in various roles within healthcare IT aligns closely with the responsibilities of overseeing operations and managing teams, demonstrating relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing staff and budgets demonstrates leadership skills, though there is no explicit mention of leadership in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing budgets, implementing projects, and leading teams align with the job responsibilities, though there is no direct mention of overseeing clinical locations."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in healthcare IT, strategic planning, business requirements gathering, budget management, and customer service, which aligns well with the required skills of managing operations and overseeing site directors and managers."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in leadership, collaboration, communication, and adaptability align with the soft skills required, though there is no explicit mention of these skills in the resume."
+        },
+        "tools": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Word (exact)', 'Excel (exact)'] | (LLM 0.4): The candidate has experience with tools like Word, Excel, and Visio, which are mentioned in the job description, but lacks specific mention of the preferred tool 'Vision'."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills in management, budgeting, and project management align with the job requirements, but there is no explicit mention of manufacturing skills, which are required."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.658
+}

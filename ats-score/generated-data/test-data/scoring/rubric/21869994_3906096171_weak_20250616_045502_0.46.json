@@ -1,0 +1,51 @@
+{
+    "resume_id": "21869994",
+    "jd_id": "3906096171",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.454,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Bachelor’s degree (substring)'] | (LLM 0.5): The candidate has two degrees, one in Healthcare Administration and one in Culinary Arts. While the degree in Culinary Arts might be relevant, the degree in Healthcare Administration does not align with the job description's domain of food production."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in various roles related to food production, such as Assistant Chef, SBA-Kitchen, Restaurant Cook, and Cook. This experience aligns well with the job description's domain of food production."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience or skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions skills that could be applied to the responsibilities listed in the job description, such as'self-starter', 'cross-functional team building skills', and 'customer service oriented'. However, there is no direct match to responsibilities like'managing the integration of vendor tasks' or 'driving implementation of Procurement Knowledge management SharePoint'."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Exceptional listener and communicator', 'Computer-literate', 'Resourceful team player', and 'Problem-solver'. However, there is no mention of specific skills like 'Purchasing' or 'Supply Chain' which are required."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes soft skills like'self-starter', 'proven track record','strong verbal and written communication', and 'influence management'. These skills are relevant to the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in tools like SharePoint, ERP implementation, or Project Transformation is found in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'attention to detail', 'highly motivated', and 'ability to work independently or as part of a team' are transferable but do not directly match the job description's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.463
+}

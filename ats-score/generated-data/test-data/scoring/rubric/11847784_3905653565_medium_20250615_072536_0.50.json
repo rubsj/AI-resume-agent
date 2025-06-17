@@ -1,0 +1,51 @@
+{
+    "resume_id": "11847784",
+    "jd_id": "3905653565",
+    "domain": "HR",
+    "resume_jd_similarity": 0.441,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): Only a Bachelor of Arts degree is listed, which does not match the preferred degree of a Bachelor's or equivalent experience."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR, including roles in compensation, classification, and recruitment, which closely matches the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing projects, which is part of the leadership skills required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing full-cycle recruitment, conducting analyses, and ensuring compliance, which aligns with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Management (exact)'] | (LLM 0.4): The candidate has extensive experience in HR, including roles in compensation, classification, and recruitment, which aligns well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include management consultation, negotiation, and problem-solving, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.06,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 1, 'fuzzy': 2}. Matched: ['Performance management (substring)', 'Onboarding (fuzzy)', 'Experience (exact)', 'Communication (exact)', 'Clear (fuzzy)'] | (LLM 0.4): No specific tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Microsoft applications are transferable but may not be as detailed as those required in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.504
+}

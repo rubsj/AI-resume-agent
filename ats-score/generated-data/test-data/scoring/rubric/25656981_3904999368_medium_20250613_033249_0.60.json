@@ -1,0 +1,51 @@
+{
+    "resume_id": "25656981",
+    "jd_id": "3904999368",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.717,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications like 'OSHA Certified 10 Hours' and '*ICC Residential Class C Certification IRC', but lacks the 'Safety Trained Supervisor (STS) certification' required by the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lacks detail and does not match the required degree level ('Bachelor's Degree') specified in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.9 yrs (capped to 17.9), JD requires: 17.0 yrs. | (LLM 0.5): The candidate has significant experience in construction management, aligning well with the required years of experience and responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for missing details in some sections."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing multiple projects and teams indicates leadership skills, but there is no explicit mention of leadership qualifications or achievements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing budgets, overseeing field operations, and ensuring compliance with building codes, which align with the job description. However, there is no mention of specific responsibilities related to project management software."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'budgets', 'negotiating contracts','safety', and 'personnel training'. However, there are no specific tools or technologies mentioned."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like'relationship building' and 'teamwork', which could be considered soft skills, but lacks explicit soft skills aligned with the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'project management' and 'customer service', but these are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.601
+}

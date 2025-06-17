@@ -1,0 +1,51 @@
+{
+    "resume_id": "21363048",
+    "jd_id": "3904503847",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.696,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications like 'California Professional Engineering License', but lacks the 'California Professional Engineering License' specifically mentioned in the job description."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Engineering (exact)'] | (LLM 0.5): The candidate holds an MBA and a Mechanical Engineering degree, which aligns with the preferred degrees of 'Engineering'. However, the job description requires an Engineering degree specifically."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 26.3 yrs (capped to 26.3), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in facilities management, construction, and project management, which matches the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, some sections lack details or clarity, which could affect readability."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading facilities and construction teams, which aligns with the leadership requirement. However, there is no mention of leading project teams specifically."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes managing budgets, deadlines, and client expectations, which aligns with the job responsibilities. However, there is no mention of leading projects or managing work in a fiscal success manner."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Academically Educated Residential Builds Residential Renovations Commercial Builds', 'Commercial Renovations Building Additions Experienced Cost Estimator Direct Communicator'. However, there is no direct match for 'Design', 'Engineering', and 'Science' which are required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include 'Leadership', 'Teamwork', and 'Problem Solving', which aligns with the soft skills required. However, there is no mention of 'Attention to Detail', 'Stakeholder Communication', or 'Risk Analysis' specifically."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have direct experience with tools like 'Microsoft Office', 'Adobe Creative Suite', 'Facebook', and 'Salesforce' mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Direct Communicator' and 'Academically Educated', which could be beneficial in a civil engineering role. However, there is no direct match for skills like 'Project Management' or 'Budget Management'."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.578
+}

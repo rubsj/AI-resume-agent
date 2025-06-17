@@ -1,0 +1,51 @@
+{
+    "resume_id": "25656981",
+    "jd_id": "3904516305",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.718,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications like 'OSHA Certified 10 Hours' and '*Lead Abatement Certified', but lacks the required CPA or CMA certification mentioned in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section does not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 17.9 yrs (capped to 17.9), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has significant experience in construction management, which aligns well with the job description. However, the job description requires more than 15 years of experience, while the candidate has only 17.9 years of total experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate leadership skills or experiences that align with the job description's requirement for leadership."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not detail responsibilities that specifically match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'budgets', 'negotiating contracts', and'scheduling'. However, there is no mention of specific construction-related skills like 'accounting' or 'finance'."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like'relationship building' and 'personnel training', which are soft skills mentioned in the job description. However, the job description also requires leadership and interpersonal skills, which are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like 'GAAP', 'Financial reporting requirements', and 'Construction accounting software', but the candidate's resume does not indicate proficiency or use of these tools."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight any transferable skills that directly correspond to the job responsibilities or required skills in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.322
+}

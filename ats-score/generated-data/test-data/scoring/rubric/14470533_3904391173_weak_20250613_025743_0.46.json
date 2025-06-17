@@ -1,0 +1,51 @@
+{
+    "resume_id": "14470533",
+    "jd_id": "3904391173",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.672,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a CPA certification, which is beneficial but not explicitly required in the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a degree in Business Management and Accounting, which is aligned with the job requirements, but the lack of specific details about the institution and GPA may lower the score."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including positions that involve A/P, A/R, and general ledger management, which matches the job responsibilities. However, the lack of specific dates and details about the companies makes the score slightly lower."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not require leadership skills, and the candidate's resume does not mention any leadership roles or achievements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as compiling financial data, meeting deadlines, and supporting inventory processes, which aligns with the job responsibilities. However, the lack of detail about specific tasks and achievements reduces the score."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a wide range of skills relevant to the job description, including A/P, A/R, accounting, bookkeeping, and office management, which align with the required experience and responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not explicitly mention soft skills, and the candidate's resume does not highlight any soft skills related to teamwork, communication, or leadership."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like Microsoft Office, SAP, and inventory warehouse management systems, but the candidate's resume does not mention any of these tools."
+        },
+        "transferable_skills": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists a variety of skills that could be transferable to the role, such as Excel, PowerPoint, and Outlook, but these are not emphasized in relation to the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.463
+}

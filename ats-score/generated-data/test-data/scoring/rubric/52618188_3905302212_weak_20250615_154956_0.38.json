@@ -1,0 +1,51 @@
+{
+    "resume_id": "52618188",
+    "jd_id": "3905302212",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.406,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, which could be beneficial for a role requiring specific knowledge or compliance standards."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is only listed as a BBA in Business Administration, which may not align with the preferred degree of Engineering as mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in IT roles, but the job description requires specific skills related to ADAS functionalities and real-time systems, which are not explicitly mentioned in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which could be important for a role that requires leading cross-functional teams or securing business anchoring."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned in the description, such as developing algorithms and collaborating with hardware engineers. However, there is no explicit mention of ADAS functionalities or real-time systems."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)', 'Documentation (exact)', 'Problem-solving (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Information Technology', 'Algorithm Development', 'Real-time Systems', and 'Problem-solving'. However, there is no mention of specific tools or technologies required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Strong Problem-solving Skills' and 'Clear Communication Skills', which are aligned with the job description. However, there is no mention of 'Cross-functional Interaction' or 'Business Anchoring', which are also mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.008,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Disability (fuzzy)'] | (LLM 0.4): The candidate's resume does not list any tools or technologies used, which contrasts with the job description's emphasis on specific tools and technologies like Software Tools, Hardware-in-the-loop (HIL) setups, Simulation Tools, Data Analysis Tools, Model-based Design Tools, Automotive Communication Protocols, etc."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat aligned with the job description, particularly in areas like 'Attention to Detail', 'Decision Making', and 'Documentation'. However, there is no explicit mention of specific technical skills or tools required by the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.382
+}

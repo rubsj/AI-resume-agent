@@ -1,0 +1,51 @@
+{
+    "resume_id": "36331163",
+    "jd_id": "3905312198",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.671,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lacks details about degree, field, GPA, and graduation year."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 20.5 yrs (capped to 20.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction management, heavy equipment operation, and construction projects. The detailed job descriptions align with the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate's summary is concise and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions leading a crew of three general construction laborers, indicating leadership experience. However, there is no explicit mention of leading field teams or managing projects."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like managing field teams and organizing sub-contractors' quotations, but does not cover all the responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Construction Manager experience, heavy equipment operation, and knowledge of blueprints. However, there is no mention of specific certifications or advanced degrees."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions being dependable and hard-working, which aligns with soft skills. However, there is no explicit mention of strong decision-making, effective communication, or leadership."
+        },
+        "tools": {
+            "score": 0.41,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 2}. Matched: ['MS Project (fuzzy)', 'Microsoft Windows (fuzzy)', 'Word (exact)', 'Excel (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Word and Excel, which are mentioned in the job description's tool requirements. However, there is no explicit mention of proficiency in MS Project, Gantt schedule creation, or PowerPoint."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section lists basic office software proficiency and group leadership, which are transferable skills. However, there is no mention of advanced skills that could be directly applied to the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.476
+}

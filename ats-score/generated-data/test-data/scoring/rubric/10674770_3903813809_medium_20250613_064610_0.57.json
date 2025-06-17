@@ -1,0 +1,51 @@
+{
+    "resume_id": "10674770",
+    "jd_id": "3903813809",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.656,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not specify any required certifications."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds two Bachelor's degrees in Accounting and Business Administration Finance from the same institution, which is relevant to the job description requiring degrees in accounting or finance."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 3.8 yrs (capped to 3.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant work experience as a Staff Accountant, which includes tasks like financial statement preparation, reconciliation, and auditing, matching the job responsibilities. The experience also shows progression in responsibilities over time."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not mention any leadership roles or responsibilities, which contrasts with the job description's requirement for mid-senior level experience."
+        },
+        "responsibilities": {
+            "score": 0.442,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Fixed assets (substring)', 'Bank reconciliation (fuzzy)'] | (LLM 0.5): The candidate's experience includes responsibilities like financial statement preparation, reconciliation, and auditing, which are aligned with the job responsibilities. However, there is no explicit mention of using Netsuite ERP system or tracking bank account balances."
+        },
+        "skills": {
+            "score": 0.476,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has a strong background in accounting, which matches the required skills of the job description. The resume lists experience in various accounting tasks such as financial statement preparation, reconciliation, and auditing, which aligns well with the job responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like attention to detail, proactive approach, resourceful problem-solving, self-starter, collaborative teamwork, efficiency, adaptability, great communication, curiosity, and desire to learn, which are aligned with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.3,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used, while the job description requires proficiency in Netsuite ERP system and Excel."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like accounting, auditing, general business, project management, and software tools like Excel are transferable to the job responsibilities. However, there is no explicit mention of proficiency in Netsuite ERP system."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.568
+}

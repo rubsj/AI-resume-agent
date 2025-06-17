@@ -1,0 +1,51 @@
+{
+    "resume_id": "38314236",
+    "jd_id": "3904384407",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.425,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a PES certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BS in Mechanical Engineering, but the job description prefers a Bachelor's degree specifically in Mechanical Engineering."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.9 yrs (capped to 18.9), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in mechanical engineering roles, particularly in oil field-related equipment and HVAC, which aligns well with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that match the job description's requirements for coordinating work, establishing client relations, and assuming the mechanical lead on projects."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Engineering (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills including Ansys, AutoCAD, and Solidworks, which are mentioned in the job description. However, there is no mention of consulting or management skills, which are required."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are mentioned in the job description, such as consulting, management, and participating in meetings."
+        },
+        "tools": {
+            "score": 0.74,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'MS Project (fuzzy)', 'AutoCAD (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Office, AutoCAD, and Solidworks, which are mentioned in the job description. However, there is no mention of MS Project, which is also listed as a preferred tool."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like quality assurance, project lead, and process engineering, which are relevant to the job description. However, there is no mention of specific soft skills like consulting or management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.455
+}

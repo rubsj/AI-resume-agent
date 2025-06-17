@@ -1,0 +1,51 @@
+{
+    "resume_id": "34783330",
+    "jd_id": "3903472063",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.658,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description prefers candidates with CPA certification."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a relevant AAS degree in Finance from DeKalb College, but lacks details on the Bachelor's degree and the Associate of Applied Science degree from Georgia Piedmont Technical College does not match the required field of study."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.3 yrs (capped to 17.3), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that involve accounting and finance tasks, such as managing accounts payable and receivable, performing reconciliations, and preparing financial statements. However, the job description requires more specific experience with certain tools and technologies like Sage and MAS 500."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide information on leadership experience, which is not explicitly mentioned in the job description but could be considered valuable."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned, but there is no clear indication of experience with month-end processes, financial statements audits and reviews, and cash flow forecasting and management."
+        },
+        "skills": {
+            "score": 0.354,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills in Accounting, Finance, and E-commerce, which align with the job requirements. However, there is no mention of specific accounting software experience or advanced Excel proficiency."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as flexibility and independence, are aligned with the job description's requirements. However, there is no explicit mention of multi-tasking ability."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any experience with the tools specified in the job description, such as Sage and MAS 500."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like attention to detail and excellent communication, which are important for the role. However, there is no evidence of experience with specific accounting software or advanced Excel proficiency."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.401
+}

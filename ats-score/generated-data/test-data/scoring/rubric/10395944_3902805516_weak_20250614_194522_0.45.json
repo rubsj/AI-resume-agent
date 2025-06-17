@@ -1,0 +1,51 @@
+{
+    "resume_id": "10395944",
+    "jd_id": "3902805516",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.469,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has an Associate of Applied Science degree in Aviation Pilot Training, which aligns with the required education level. However, the degree is not from a recognized institution in the job description's preferred degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 10.2 yrs (capped to 10.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in aviation-related roles, including line service technician and ramp agent positions. The experience shows a range of responsibilities that align with the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are some unclear sections, such as the summary and personal information, which could affect readability."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in leading teams, which is required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that align with the job description, such as managing a team and ensuring product quality. However, there is no evidence of experience in building and managing the Tank Production team specifically."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as fueling aircrafts, airport ramp knowledge, and private pilot knowledge. However, there is no mention of marketing, public relations, writing/editing, or experience with specific tools like Primavera (P6), Open Plan, or MS Project."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions having great people skills and being organized, which aligns with some soft skills mentioned in the job description. However, there is no evidence of customer-focused attitude, verbal and written communication skills, cooperative teamwork, or a continuous improvement mindset."
+        },
+        "tools": {
+            "score": 0.06,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The resume does not mention any experience with the tools listed in the job description, such as Windows, Microsoft Office, Primavera (P6), Open Plan, MS Project, Facebook, or Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in fueling aircrafts, airport ramp knowledge, and private pilot knowledge are transferable to the job description's requirements. However, there is no evidence of experience in marketing, public relations, writing/editing, or handling large aerospace components."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.447
+}

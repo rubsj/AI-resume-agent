@@ -1,0 +1,51 @@
+{
+    "resume_id": "23139819",
+    "jd_id": "3905323805",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.69,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in finance and accounting, which match the preferred degrees listed in the job description. However, there is no mention of any advanced certifications or specialized training."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.1 yrs (capped to 14.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 14 years of experience in various accounting roles, which closely matches the required experience level of 3-5 years specified in the job description. The detailed job descriptions provided in the resume also show alignment with the responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise, effectively communicating their qualifications."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams in some of their roles, such as being a General Manager. However, the job description does not emphasize leadership skills, and there is no explicit mention of leadership responsibilities in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.435,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Account discrepancies (substring)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with many of the responsibilities listed in the job description, such as managing accounts, preparing budgets, and processing payroll. However, there is no direct mention of specific responsibilities like submitting journal entries or creating new purchase orders for payroll and benefits."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the required skills in the job description. The education background also supports the skill set needed for the position."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary highlights strong communication skills, which aligns with one of the soft skills required in the job description. The ability to deal with sensitive and confidential information is also mentioned, but the other soft skills listed in the job description are not explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.393,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['General Ledger (substring)', 'Finance (exact)'] | (LLM 0.4): The candidate has experience with tools like ADP Payroll, QuickBooks, and Peachtree, which are mentioned in the job description. However, there is no explicit mention of proficiency with General Ledger, Journal Entries, Accruals, Purchase Orders, Tax, and other tools specifically called out in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses a wide range of skills that can be transferred to the role, including accounting, finance, and various software tools. However, there is no explicit mention of skills like shared services or tax-specific skills that are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.625
+}

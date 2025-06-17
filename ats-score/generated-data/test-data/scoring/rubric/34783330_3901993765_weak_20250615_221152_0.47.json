@@ -1,0 +1,51 @@
+{
+    "resume_id": "34783330",
+    "jd_id": "3901993765",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.51,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, which contrasts with the job's preference for an MSc degree."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a relevant AAS degree in Finance from DeKalb College and an Associate of Applied Science degree from Georgia Piedmont Technical College, but lacks a Bachelor's degree, which is preferred by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.3 yrs (capped to 17.3), JD requires: 3.0 yrs. | (LLM 0.5): The candidate's experience includes roles that involve financial management, accounting operations, and customer service, which aligns with the job's responsibilities. However, the lack of specific financial data science or analytical experience may limit the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the candidate's resume, which is a key requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job's responsibilities, particularly in data analysis and customer service. However, the lack of direct leadership or strategic planning responsibilities reduces the score."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Accounting, E-Commerce, financial statements, and has experience with various accounting software like MAS 90, Peachtree, and MS Office, aligning well with the job's requirement for financial expertise and software proficiency."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication, problem-solving, and teamwork, are generally aligned with the job's requirements. However, the absence of specific technical communication or presentation skills might lower the score."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Python, SQL, and Tableau, which are mentioned in the job description. However, the depth of experience and alignment with the job's specific tool requirements are not fully evident."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as attention to detail and adaptability, are not explicitly mentioned in the resume, which contrasts with the job's emphasis on technical and communication skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.468
+}

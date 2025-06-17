@@ -1,0 +1,51 @@
+{
+    "resume_id": "11480899",
+    "jd_id": "3904707714",
+    "domain": "HR",
+    "resume_jd_similarity": 0.792,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's requirement for specific HR management experience."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in education and public administration, but lacks specific HR-related certifications or advanced degrees in HR management."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.8 yrs (capped to 21.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in various HR roles, including strategic business partnership, talent management, and operational excellence, which closely matches the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience in HR management, but the job description requires more specific leadership roles and experience in managing HR economics."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles cover most of the job description's responsibilities, such as strategic planning, talent management, and organizational development."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (fuzzy)', 'Training (exact)'] | (LLM 0.4): The candidate has extensive experience in human resources management, including strategic planning, policy development, and employee relations, which aligns well with the job description's requirements for business partnership and talent management."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong soft skills like communication, interpersonal relationships, and decision-making, which are crucial for the role. However, there is no explicit mention of skills like advising executives and managing internal communication."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention proficiency in any specific HR tools like SuccessFactors, which is a requirement in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include administrative management, purchasing, and general administration, which are relevant to the job description's requirements for managing HR operations and processes."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.577
+}

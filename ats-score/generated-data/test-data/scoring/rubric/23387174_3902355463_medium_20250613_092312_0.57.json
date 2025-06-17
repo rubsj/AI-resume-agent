@@ -1,0 +1,51 @@
+{
+    "resume_id": "23387174",
+    "jd_id": "3902355463",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.672,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not mention any certifications, while the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's degree in Accounting, Finance or equivalent (fuzzy)\"] | (LLM 0.5): The candidate holds a Bachelor's degree in Accounting, which is one of the preferred degrees mentioned in the job description. However, the degree is not from a recognized institution, which may affect its credibility."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 19.1 yrs (capped to 19.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that match the job responsibilities described in the job description. The detailed job history shows experience in various aspects of accounting, such as financial reporting, budgeting, and reconciliation, which are key responsibilities for the position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and assess the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership experience or responsibilities, which is not explicitly required in the job description but could be beneficial for certain roles."
+        },
+        "responsibilities": {
+            "score": 0.366,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Assist with annual financial audits (fuzzy)'] | (LLM 0.5): The candidate's experience aligns with most of the responsibilities listed in the job description, such as managing finance and accounting functions, assisting with financial audits, and maintaining financial systems. However, there is no mention of experience in school fund accounting, which is one of the optional skills mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the required skills in the job description. The resume mentions proficiency in various accounting software and tools, which matches the 'Accounting Software' and 'ERP' skills listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong written and verbal communication skills, which align with the soft skills required in the job description. However, there is no explicit mention of professional interaction with stakeholders, which is another soft skill mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience includes proficiency in Microsoft Office, which is one of the tools mentioned in the job description. However, there is no explicit mention of proficiency in other tools like QuickBooks or SAP, which are also mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights skills such as attention to detail, prioritization, and time management, which are transferable skills relevant to the job description. However, there is no explicit mention of experience in training and coaching, which is another skill mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.567
+}

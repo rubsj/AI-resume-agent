@@ -1,0 +1,51 @@
+{
+    "resume_id": "18172739",
+    "jd_id": "3903812672",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.671,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description mentions several certifications that are preferred but not required."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Project Management and a Bachelor's degree in Business Information System, which aligns with the job description's preferred degree of 'Bachelor's degree'. However, the GPA is not provided."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 25.5 yrs (capped to 25.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in project management, business analysis, and financial operations, which aligns with the job description's responsibilities. However, the job description specifies more detailed responsibilities that are not fully covered in the candidate's resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams and projects, which aligns with the job description's responsibilities. However, there are some discrepancies in detail and specific terms used."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job description's responsibilities, but there are some discrepancies in detail and specific terms used."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'administrative', 'budget', 'Capital Markets', 'Cash Management', etc., which align with the job description's required skills like 'Finance' and 'Sales'. However, there are some discrepancies in skill listing."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has soft skills such as 'Leadership', 'Team Lead', and 'Client Relationship Management', which align with the job description's soft skills. However, there are some discrepancies in skill listing."
+        },
+        "tools": {
+            "score": 0.3,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office, Lotus Notes, and Excel, which align with the job description's tools and technologies. However, there are some discrepancies in tool listing."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'Problem Resolution', 'Forecasting and Planning', and 'User Acceptance Testing', which align with the job description's required skills. However, there are some discrepancies in skill listing."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.45
+}

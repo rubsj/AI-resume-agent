@@ -1,0 +1,51 @@
+{
+    "resume_id": "20624984",
+    "jd_id": "3905231467",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.667,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which are required ('Associate degree', 'High School graduate') in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an MBA in Finance and IT, which is relevant to the job description. However, there are no other degrees listed that specifically match the required degrees ('Associate degree', 'High School graduate')."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.9 yrs (capped to 3.9), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in various roles related to accounting, such as Accountant, Consultant, and Accounts Payable. This experience aligns well with the job responsibilities mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The formatting is clean and easy to read."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume. Leadership is not explicitly mentioned in the resume or job description."
+        },
+        "responsibilities": {
+            "score": 0.32,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['journal entries (substring)'] | (LLM 0.5): The candidate's experience includes responsibilities such as processing daily accounting tasks, maintaining organized records, contributing to efficient accounting processes, and working closely with cross-functional teams. These responsibilities are aligned with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'account reconciliations', 'accounting', 'accounts payable', 'Accounts Receivable', 'AP', 'Balance sheet', 'Bank Reconciliation', 'Banking', 'Billing', 'Com', 'Client', 'edit', 'Finance', 'Financials', 'financial reports', 'focus', 'functional', 'General Ledger', 'GL', 'Inventory control', 'process invoices', 'Invoice Processing', 'invoicing', 'MBA','mail', 'office', 'Developer', 'profit and loss statement', 'coding','reporting','researching', 'SAP FI', 'SAP'. These skills align well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include being conscientious, detail-oriented, a team player, having strong computer and data entry skills, multi-tasking, excellent communication skills, and working with minimal supervision. These soft skills are relevant to the job description."
+        },
+        "tools": {
+            "score": 0.38,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['teams (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like MS Outlook, MS Word, MS Excel, and teams, which are mentioned in the job description. The skills and experience with these tools are relevant."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, finance, and IT are transferable to the role. However, there are no specific examples of transferring skills from one role to another in the resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.439
+}

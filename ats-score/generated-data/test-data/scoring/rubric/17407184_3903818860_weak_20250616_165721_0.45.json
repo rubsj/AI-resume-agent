@@ -1,0 +1,51 @@
+{
+    "resume_id": "17407184",
+    "jd_id": "3903818860",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.448,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not mention any certifications, whereas the job description mentions none either."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a Master's degree in Education and Bachelor's degrees in Accounting and Business Administration, which are relevant to the job requirements. However, the lack of specific details about the degrees and the absence of any certifications may lower the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 32.5 yrs (capped to 32.5), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in accounting, instructional design, and training management, which aligns with the job responsibilities. However, the lack of specific details about the technologies used or the depth of experience in IT and software development may lower the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, which enhances its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership roles or achievements, which contrasts with the job description's emphasis on leading projects and teams."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job responsibilities, such as managing projects and designing training programs. However, the lack of detail about specific responsibilities related to data analysis, automation, and architecture may lower the score."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills in Accounting, Finance, and Business Administration, which align with the required skills in Information Technology and Engineering. However, there is no direct match with Azure Databricks, ADF, ADLS, Synapse, Python, Spark, T-SQL, Azure data factory, PySpark, GIT, Jenkins, Terraform, which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any soft skills, whereas the job description emphasizes Customer Focus, Curiosity, Teamwork, Ownership, Integrity, and Inclusivity."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any tools or technologies used in their experience, which contrasts with the job description's emphasis on Azure Databricks, ADF, ADLS, Synapse, Python, Spark, T-SQL, Azure data factory, PySpark, GIT, Jenkins, Terraform."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Change Management, Leadership training, and Program Management, which could be beneficial in the role. However, the lack of specific details about how these skills were applied in previous roles may lower the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.452
+}

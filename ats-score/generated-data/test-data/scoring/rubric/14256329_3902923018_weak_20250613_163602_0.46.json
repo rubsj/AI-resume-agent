@@ -1,0 +1,51 @@
+{
+    "resume_id": "14256329",
+    "jd_id": "3902923018",
+    "domain": "HR",
+    "resume_jd_similarity": 0.625,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the job's preferred certifications, such as Research Compliance or Certified IRB Professional."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a BSc in Human Resource Management, which is relevant to the job, but the second degree field is pending and GPA is not provided, reducing the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.0 yrs (capped to 14.0), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR roles, including recruitment, benefits management, and compliance, which closely matches the job's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, enhancing readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading HRPP matters suggests some leadership skills, but there is no explicit mention of leadership or consultancy roles."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in leading, managing, and advising on various HRPP matters aligns well with the job's responsibilities, though there is no direct mention of leading regulatory, compliance, quality, operational matters, or external relationships."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong background in Human Resource Management, which aligns well with the job's requirements for expertise in human research-related standards and ethical principles. The candidate's experience in recruitment, benefits, and compliance shows transferable skills relevant to the position."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as ethics, integrity, and customer service focus, are aligned with the job's soft skill requirements, but the level of expertise in proactive flexibility is not explicitly stated."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned in the resume, and the job description requires proficiency in Office productivity software, IRB management software, and Clinical trial management platforms."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like recruitment, benefits management, and compliance show transferability to the job, but specific skills like advanced degree, project management certification, and knowledge of FDA regulations are missing."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.463
+}

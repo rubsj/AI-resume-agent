@@ -1,0 +1,51 @@
+{
+    "resume_id": "11415967",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.491,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description prefers candidates with specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in 'Oil and Gas Enterprise Management' and 'Environmental Management', which are not directly aligned with the job description's preferred degrees in Computer Science, Engineering, etc."
+        },
+        "experience": {
+            "score": 0.817,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in consulting and managing projects, but the job description requires more years of experience and specifically mentions 'Cloud Solutions Lead' experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading projects and managing teams indicates strong leadership skills, which are in line with the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned, such as leading projects and providing strategic direction. However, the job description requires more specific responsibilities related to cloud solutions and data warehousing."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Consulting', 'Information Technology', 'Database', and 'Project Management'. However, there is no mention of specific certifications or tools like AWS, GCP, Azure, etc., which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong leadership and motivation abilities, which are aligned with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['HBase (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used, while the job description prefers candidates familiar with AWS, GCP, Azure, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Interpersonal', 'community relations', and 'cost control', but lacks specific technical skills required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.435
+}

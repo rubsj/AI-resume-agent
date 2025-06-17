@@ -1,0 +1,51 @@
+{
+    "resume_id": "46258701",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.477,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description prefers candidates with a PMP certification."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelor’s degree in IT, Computer Science, or related discipline (fuzzy)'] | (LLM 0.5): The candidate holds a BA in Human Resources, which is aligned with the job description. However, the lack of GPA information may indicate less emphasis on academic achievement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.4 yrs (capped to 21.4), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR roles, including responsibilities that match those outlined in the job description such as managing projects, leading teams, and implementing HRIS systems. The experience is directly relevant and includes skills like project management and IT proficiency."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. It provides clear and concise information about the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing projects, which indicates leadership skills. However, there is no explicit mention of leading diverse, cross-functional teams or leading projects from requirements definition through deployment."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's expectations for managing projects, leading teams, and implementing HRIS systems. There is some overlap but also some differences in the specific details provided."
+        },
+        "skills": {
+            "score": 0.448,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has relevant skills in Human Resources, Information Technology, and Project Management, which align with the job description. However, there is no mention of specific certifications like PMP or experience with Deltek, Procore, or HRIS systems."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are generally aligned with the job description's requirements, including leadership, problem-solving, communication, and critical thinking. However, there is no explicit mention of resource planning, task scheduling, creativity, analytical skills, organization, or time management."
+        },
+        "tools": {
+            "score": 0.262,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP System (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like SAP, Microsoft Sharepoint, and Excel, which are mentioned in the job description. However, there is no explicit mention of Deltek, Procore, or HRIS systems."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as project management, IT proficiency, and experience in HR roles, which are relevant to the job description. However, there is no explicit mention of Agile methodology, classic agile models, SDLC, or industry best practices."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.538
+}

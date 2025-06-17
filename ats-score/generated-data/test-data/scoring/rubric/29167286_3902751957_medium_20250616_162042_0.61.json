@@ -1,0 +1,51 @@
+{
+    "resume_id": "29167286",
+    "jd_id": "3902751957",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.433,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has certifications related to aviation and military training, but lacks specific certifications like 'Marketing' or 'Public Relations' that are required."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The education section lacks detail and does not provide a clear degree or field of study, unlike the job description which requires a specific degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in military training and supervision, which aligns well with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for some missing details in sections like education and tools."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through their role as a supervisor, but the job description does not explicitly require leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not explicitly mentioned, but the job description requires participation in scenario development and analysis, which the candidate's experience suggests they have."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as'streamline', 'documentation', 'instruction', 'logistics', 'quality assurance', and 'risk management'. However, there is no mention of'marketing' or 'public relations' which are required skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The soft skills section is missing specific skills like 'teamwork', 'communication', or 'adaptability' which are typically required in job descriptions."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's tools section is missing specific tools like 'Microsoft Word', 'Excel', and 'PowerPoint' which are listed as required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'instruction', 'logistics', and 'quality assurance' which can be applied across different industries."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.611
+}

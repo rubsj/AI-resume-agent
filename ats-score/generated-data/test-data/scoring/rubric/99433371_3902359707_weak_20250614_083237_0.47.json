@@ -1,0 +1,51 @@
+{
+    "resume_id": "99433371",
+    "jd_id": "3902359707",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.541,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which does not match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BFA in Product Design and a Bachelor of Interior Architecture, which partially matches the preferred degrees in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD required years = 0. | (LLM 0.5): The candidate has relevant experience in administrative duties and project-related tasks, which aligns with the job responsibilities. However, the lack of specific construction or engineering experience may lower the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes administrative duties and project support, which aligns with some of the responsibilities listed in the job description. However, there is no explicit mention of using Primavera P6 software or contributing to project closeout processes."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (exact)'] | (LLM 0.4): The candidate has relevant skills such as Administrative duties, Adobe Photoshop, AutoCAD, and Excel, which match the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include strong attention to detail and self-motivation, which are among the soft skills required in the job description. However, the lack of explicit communication skills might lower the score slightly."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any tools or technologies used, which does not match the required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Digital Illustration, Interior Construction Elements, Furniture Theory and Analysis, and Color Theory and Application are transferable to the construction and engineering sector, but they do not directly match the required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.471
+}

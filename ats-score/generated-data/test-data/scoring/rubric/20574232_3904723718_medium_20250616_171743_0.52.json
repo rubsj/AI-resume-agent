@@ -1,0 +1,51 @@
+{
+    "resume_id": "20574232",
+    "jd_id": "3904723718",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.403,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has an Associate degree in Computer Science Technology, which is a foundational education in IT but does not match the required experience level or specific field of study mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.724,
+            "reason": "(Rule 0.5): Resume: 9.7 yrs (capped to 9.7), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has extensive experience in network administration and technical analysis, which aligns well with the job responsibilities. The experience is detailed and relevant to the role."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written, with clear sections and grammatically correct sentences, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume, which is a critical requirement for the job position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on leadership or consultative selling experience, which are key responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Active Directory, Networking, and Citrix, which align with the job requirements. However, there is no mention of strategic thinking or complex problem-solving skills, which are mentioned in the soft skills section."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks evidence of strategic thinking, resilience, engaging with people, being a self-starter, or passion for complex problem-solving, which are soft skills highlighted in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description mentions tools like Citrix and Microsoft products, but the candidate's resume does not list any specific tool proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as managing AD, working with Citrix, and supporting various technologies, which could be beneficial in the role. However, the lack of specific details about leadership or consultative selling limits the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.522
+}

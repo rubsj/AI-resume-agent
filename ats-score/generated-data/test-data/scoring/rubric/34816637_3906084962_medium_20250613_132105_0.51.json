@@ -1,0 +1,51 @@
+{
+    "resume_id": "34816637",
+    "jd_id": "3906084962",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.672,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be required or preferred by the employer."
+        },
+        "education": {
+            "score": 0.334,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Associate's Degree (fuzzy)\"] | (LLM 0.5): The candidate holds an Associate's Degree from Fulton-Montgomery Community College, which matches one of the preferred degrees in the job description. However, the degree is in Business Accounting, which might not be directly related to the job requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 8.5 yrs (capped to 8.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, including staff accountant and executive administrative assistant, which aligns with the job responsibilities. However, the detailed job responsibilities in the job description are more specific than those in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, which may be required for the position."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with some of the job responsibilities listed, such as performing month close activities and maintaining internal controls. However, the job responsibilities are more detailed and specific."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as Accounting/Auditing and Finance, which match the job requirements. However, there is no mention of USGAAP, IFRS, Sarbanes-Oxley, ERP systems, SAP, or advanced Microsoft office skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates strong analytical abilities and attention to detail, which are aligned with the soft skills required. However, there is no explicit mention of receiving minimal guidance or working independently."
+        },
+        "tools": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are mentioned in the job description under 'tools and technologies'. However, there is no explicit mention of ERP systems or SAP."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows skills that can be transferred to the role, such as bookkeeping and budget analysis. However, there is no explicit mention of leadership or management skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.508
+}

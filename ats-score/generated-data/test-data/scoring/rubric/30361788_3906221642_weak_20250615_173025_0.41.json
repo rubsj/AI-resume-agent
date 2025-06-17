@@ -1,0 +1,51 @@
+{
+    "resume_id": "30361788",
+    "jd_id": "3906221642",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.441,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed that match the requirements of the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BBA in Accountancy, which is relevant to the job description. However, the degree is not specified as a Bachelor's Degree, which is preferred in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.7 yrs (capped to 14.7), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting, particularly in school fund accounting, which aligns with the job description. However, the job description requires at least 7 years of experience, while the candidate has only 14.7 years of total experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not indicate any leadership roles or responsibilities that would align with the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job description's requirements for reviewing loan requests, evaluating credit structures, and performing underwriting."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'Creative problem solving skills', 'Advanced computer skills', and 'Works great with others'. However, there is no mention of specific tools like Excel, Appraisal, etc., which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are explicitly mentioned in the job description, such as excellent organizational skills, ability to assume responsibility and accountability for decision-making, and ability to work well independently."
+        },
+        "tools": {
+            "score": 0.048,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Environmental reports (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their experience, which contrasts with the job description's requirement for skills in Excel, Appraisal, Environmental reports, ABL Examinations, and Inventory Appraisal."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists transferable skills like continuous initiative for process improvement, which could be relevant to the job description. However, these skills are not detailed enough to fully align with the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.409
+}

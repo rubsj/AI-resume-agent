@@ -1,0 +1,51 @@
+{
+    "resume_id": "28733974",
+    "jd_id": "3902745796",
+    "domain": "AGRICULTURE",
+    "resume_jd_similarity": 0.425,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds relevant degrees in Marketing Education and Core Curriculum with Business Electives, but the lack of GPA information makes it difficult to assess the quality of education."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in association management, meeting planning, and customer service, which closely matches the job responsibilities. The experience spans over 20 years, demonstrating a long-term commitment to the field."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, the lack of specific details about the candidate's achievements and responsibilities may affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as an executive director indicates strong leadership skills, which are required for the role. However, there is no mention of leadership in the context of the specific industry or company."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing projects, customer service, and budget development, which are aligned with the job responsibilities. However, there is no mention of specific responsibilities related to order processing or inventory management."
+        },
+        "skills": {
+            "score": 0.448,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)'] | (LLM 0.4): The candidate has extensive experience in project management, customer service, and leadership, which aligns well with the job requirements. However, there is no mention of specific skills related to distribution, production, or computer proficiency in Windows applications."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as effective communication, attention to detail, and teamwork, which are essential for the role. There is no mention of positive outlook or exemplary customer service, which are optional skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, whereas the job description requires proficiency in JDEdwards ERP software, Microsoft Windows, and other systems."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include project management, customer service, and leadership, which could be applicable in various industries. However, there is no mention of skills specifically related to agriculture or the company's core competencies."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.567
+}

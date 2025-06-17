@@ -1,0 +1,51 @@
+{
+    "resume_id": "37370455",
+    "jd_id": "3902333139",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.551,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree but lacks the CPA certification, which is preferred in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has relevant degrees in finance and banking, but the GPA is lower than what might be expected for a senior position."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.7 yrs (capped to 15.7), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in accounting and finance roles that match the required experience level and responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates leadership qualities through their role as an Assistant Finance Manager, but does not explicitly highlight leadership in tax operations or compliance."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's requirements for leading tax operations and compliance, though they lack experience with specific aspects like Public Country by Country Reporting."
+        },
+        "skills": {
+            "score": 0.408,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting, financial reporting, and management, which aligns well with the job's requirement for strong analytical skills and hands-on working knowledge of specific tools."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong analytical skills and leadership qualities, which align with the soft skills required, but lacks explicit mention of effective communication with senior members of the organization."
+        },
+        "tools": {
+            "score": 0.43,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SAP (exact)'] | (LLM 0.4): The candidate has experience with tools like SAP and Hyperion, which are mentioned in the job description, but lacks experience with WDesk specifically."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are evident in their ability to manage multiple projects and meet deadlines under pressure, but they lack specific skills related to financial modeling."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.549
+}

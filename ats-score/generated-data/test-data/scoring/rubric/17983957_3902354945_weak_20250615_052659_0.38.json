@@ -1,0 +1,51 @@
+{
+    "resume_id": "17983957",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.497,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a PMP certification."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a Master's degree in Management and a Bachelor's degree in Computer and Information Sciences, which are relevant to the job description. However, the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 26.5 yrs (capped to 26.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in project management roles, including experience in managing teams and budgets, which aligns with the job description. However, the lack of specific details about IT and business process improvement projects reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate leadership skills or positions held that indicate leadership ability."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide enough detail about responsibilities that align with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.578,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Information Technology (substring)', 'Project Management (substring)', 'Time management (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'Project Management', 'Information Technology', and 'Consulting'. However, there are some discrepancies in the skill list that do not match the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are mentioned in the job description, such as Leadership, Influencing, Motivation, Negotiation, Conflict resolution, Documentation, Dissemination, Time management, Adaptability, Detail orientation, Problem solving, Teamwork, Communication."
+        },
+        "tools": {
+            "score": 0.133,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Network (exact)', 'Security (exact)'] | (LLM 0.4): The candidate does not mention any tools or technologies used in their experience, while the job description lists several required tools such as ERP, Cloud applications, Network, etc."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight any transferable skills that are mentioned in the job description, such as ERP implementation, Systems integrations, Infrastructure implementations, Technical solutions, Client success, Consultant success, Project organization, Project planning, Cost estimation, Project oversight, Project monitoring, Project control, Client communication, Issue resolution, Conflict management, Technical requirement gathering, Negotiation, Time management, Deadline adherence, Multiple project management, Priority adjustment, Detail orientation, Problem solving, Team building, Written communication, Verbal communication."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.383
+}

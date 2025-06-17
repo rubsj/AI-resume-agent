@@ -1,0 +1,51 @@
+{
+    "resume_id": "15581242",
+    "jd_id": "3905853156",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.433,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed in the resume match the requirements in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Science degree in Biology is listed, but it does not specify if it aligns with the required undergraduate degree in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 11.6 yrs (capped to 11.6), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales, IT, and consulting, which matches the required experience level of 2-3 years. The job description mentions specific tools like Apple CRM, SAP Inventory Management, iOSdm Hub & Jamf, which are not directly matched by the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has held leadership roles within university/community organizations, which aligns with the job description's requirement for leadership experience. However, there is no explicit mention of the required experience level of Director."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job description's responsibilities such as generating sales strategies, networking, working with the Executive Chef, and promoting private events."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as strong customer service experience, advanced mathematical aptitude, and technical skills with computers and other technologies. However, there is no direct match for required tools like Microsoft Office Suite, CRM, and Banquet Event Order software."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like strong customer service experience, motivation, and self-driven business acumen, which align with the job description's soft skill requirements. However, there is no explicit mention of creativity, attention to detail, or strong technical literacy."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['CRM (exact)'] | (LLM 0.4): The candidate lacks experience with the specific tools mentioned in the job description such as Microsoft Office Suite, CRM, and Banquet Event Order software."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include staff mentoring and development, which could be relevant to the job description's requirement for leadership roles. However, there is no explicit mention of the required experience level of Director."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.532
+}

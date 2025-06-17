@@ -1,0 +1,51 @@
+{
+    "resume_id": "20001721",
+    "jd_id": "3903897940",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.435,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, which are required skills in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is not relevant to the job description, which requires at least 2+ years of experience in sales and business development."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Resume: 15.0 yrs (capped to 15.0), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has some experience in sales and business development, but it is not recent or directly related to the job description. The experience is more focused on IT roles rather than sales."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, which is not a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not align with the responsibilities listed in the job description, which require door-to-door solicitation of new customers and proactive consultative needs analysis."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has technical skills relevant to the job, such as Windows, Unix, Linux, Mac OSX, VMWare, HTTP/Apache, DNS/BIND, SSH, SNMP, DNS, DHCP, FTP. However, there is no mention of PDAs, smartphones, routers, modems, set-top converters, wireless devices, which are required tools in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate soft skills relevant to the job description, such as engaging interpersonal skills, ability to listen, and articulating pitches."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any tools or technologies they are proficient in, which are required skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like customer service, data preparation, administration, reporting, and application design, which could be useful in a sales role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.344
+}

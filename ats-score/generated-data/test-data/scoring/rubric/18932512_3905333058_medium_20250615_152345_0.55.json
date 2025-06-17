@@ -1,0 +1,51 @@
+{
+    "resume_id": "18932512",
+    "jd_id": "3905333058",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.52,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the candidate's resume, which does not match the preferred certification 'ASE Certification Preferred' in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate only has a 'High School Diploma', which does not meet the educational requirement of a 'Bachelor's degree' or higher specified in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.5 yrs (capped to 18.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in customer service roles, including positions that align with the job responsibilities such as 'Customer Relations Specialist', 'Customer Service Representative', and 'Call Center Representative'. This experience closely matches the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is generally well-written and free of grammatical errors, except for the unusual use of commas in the education section year field, which is not a major concern."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the candidate's resume, which contrasts with the job description's requirement for 'day-to-day supervisory support for Team Members'."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like maintaining customer relationships and achieving sales goals, which align with the job responsibilities. However, there is no specific mention of supervisory or dispatching responsibilities, leading to a slightly lower score."
+        },
+        "skills": {
+            "score": 0.872,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)', 'Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Customer Service', 'Sales', 'Excel', and 'MS Word'. The skills listed match the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions some soft skills like 'customer service' and'sales', but does not explicitly state skills like 'friendly communication', 'effective communication', or 'problem-solving skills', which are listed in the job description."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like 'MS Word' and 'Excel', which are mentioned in the job description. However, there is no explicit mention of 'POS and Parts lookup systems', so the score is not full."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'customer service','sales', and 'call center' experience, which can be applied to the job description's requirements. However, the lack of specific technical skills like 'parts and automotive system knowledge' reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.552
+}

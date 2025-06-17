@@ -1,0 +1,51 @@
+{
+    "resume_id": "26932091",
+    "jd_id": "3904068273",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.419,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may reduce the ATS score slightly compared to candidates with relevant certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lacks specific details such as degree, field, institution, year, and GPA, which are typically required for a complete evaluation."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in various roles that demonstrate skills aligned with the job description, such as performance management, sales, and leadership. However, some details are missing from the experience section."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume appears to be well-written and free of grammatical errors, contributing positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but the details provided are not as comprehensive as those in the job description, which could impact the ATS score."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): Responsibilities are not explicitly mentioned in the resume, making it difficult to assess how closely they align with the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Coaching, Consultation, Customer Service, Data Analysis, Leadership, Leadership Development, Mentoring, Performance Management, Process Improvement, Project Management, Sales, Sales Development, Telecommunication, and Microsoft Office including Visio. These skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills such as organizational skills, creativity, ability to work under pressure, and meeting tight deadlines are not explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume, which might affect the ATS score negatively since the job description mentions proficiency in certain tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Communication, Problem Solving, Time Management, and Adaptability are transferable and can be inferred from the candidate's experience, but they are not explicitly mentioned in the resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.568
+}

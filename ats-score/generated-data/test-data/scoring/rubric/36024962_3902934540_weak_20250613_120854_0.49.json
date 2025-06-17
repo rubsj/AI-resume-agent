@@ -1,0 +1,51 @@
+{
+    "resume_id": "36024962",
+    "jd_id": "3902934540",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.658,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds two Bachelor's degrees in Accounting and Business Administration, which aligns with the required degree of a Bachelor's in Accounting."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in accounting roles, including experience in AP, AR, cash management, and financial reporting. However, the lack of specific details about the job title and dates makes it slightly less clear."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume that directly matches the job description's requirement for leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned in the description, such as reviewing contracts, collaborating with teams, and interpreting accounting standards. However, there is no direct match for reviewing complex contracts for proper revenue treatment."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'accounting', 'AP', 'AR', 'balance sheet', 'Benefits', 'billing', 'cash flow', 'Cash Management', 'credit', 'Client', 'Finance', 'financials', 'Director', 'Payroll', 'year-end'. However, there is no mention of specific tools like Workday, Salesforce, or Zuora RevPro."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as critical thinking, problem-solving, communication, and teamwork, which are aligned with the job description's requirements. However, there is no explicit mention of mentoring or training team members."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used in their work, which contrasts with the job description's requirement for proficiency in Microsoft Windows, Office, Workday, Salesforce, and Zuora RevPro."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat limited as they do not explicitly mention experience in public accounting, corporate accounting, or software industry experience, which are preferred skills in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.489
+}
