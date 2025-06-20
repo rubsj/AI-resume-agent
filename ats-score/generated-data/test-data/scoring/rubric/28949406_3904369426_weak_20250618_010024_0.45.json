@@ -1,0 +1,51 @@
+{
+    "resume_id": "28949406",
+    "jd_id": "3904369426",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.393,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education does not align with the required degree in construction or related fields."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 20.8 yrs (capped to 20.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in construction roles, which is relevant to the job description. However, the experience is not detailed enough to fully match the responsibilities listed."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not cover all the responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Office Administrative tasks, Microsoft Office proficiency, and knowledge of proprietary programs used in the construction industry. However, there is no mention of specific construction-related software or technologies."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not list any soft skills that match the requirements in the job description."
+        },
+        "tools": {
+            "score": 0.305,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which matches the tools required in the job description. However, there is no mention of Adobe Creative Suite, Facebook, Salesforce, or other tools mentioned."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as communication and administrative tasks, which could be useful in a construction foreman role. However, these skills are not specifically mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.448
+}

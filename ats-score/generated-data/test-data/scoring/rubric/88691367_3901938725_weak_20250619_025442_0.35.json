@@ -1,0 +1,51 @@
+{
+    "resume_id": "88691367",
+    "jd_id": "3901938725",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.281,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which are required for the position according to the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is not detailed enough to assess its relevance to the job requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 33.1 yrs (capped to 33.1), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in accounting and finance, which is more than the required 8 years. However, the job description does not specify the level of experience required."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not mention any leadership requirements, so they cannot be assessed."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description does not provide details about the responsibilities required for the position, so they cannot be assessed."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which matches the required skills of the position. The resume also mentions proficiency in MS Office Suite and Windows, which are tools that could be relevant to the job."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not specify any soft skills required for the position, so they cannot be assessed."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not mention any specific tools or technologies required, so it cannot be assessed."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not provide information on transferable skills required for the position, so they cannot be assessed."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.346
+}

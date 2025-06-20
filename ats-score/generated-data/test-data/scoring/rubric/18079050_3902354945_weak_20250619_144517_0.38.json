@@ -1,0 +1,51 @@
+{
+    "resume_id": "18079050",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.345,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires 'PMP'."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds an M.B.A., Bachelor of Science, and Bachelor of Arts degrees, which aligns well with the job description's requirement for a degree in finance, mathematics, or a related field. However, the lack of specific GPA details may slightly reduce the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 11.0 yrs (capped to 11.0), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in tax accounting roles that closely match the job description's requirements for project management and tax compliance tasks. The experience includes working with forms like 1118, 5471, and 8858, which are relevant to the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in some sections could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership skills or experiences that would be relevant to the job description's requirements for leadership and influencing."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that align with the job description's requirements for project management tasks such as defining business cases, identifying stakeholders, preparing budgets, and managing project plans."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Excel', 'Outlook', 'Microsoft Word', 'Oracle', 'PeopleSoft', 'Pivot Tables', 'Pricing', 'processes','reporting','scheduling', 'tax compliance', 'tax returns', and 'variance analysis'. However, there is no direct match for 'ERP implementation' or 'Systems integrations' mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are typically required for project management roles, such as leadership, influencing, motivation, negotiation, conflict resolution, and communication."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any tools or technologies that directly correspond to the job description's requirements for ERP, cloud applications, network, security, Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like attention to detail, problem-solving, and teamwork, which are generally beneficial for project management roles. However, the lack of specific skills like 'ERP implementation' or 'Systems integrations' reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.381
+}

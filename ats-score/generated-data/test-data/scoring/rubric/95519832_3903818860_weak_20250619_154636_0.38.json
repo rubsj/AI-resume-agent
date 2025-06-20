@@ -1,0 +1,51 @@
+{
+    "resume_id": "95519832",
+    "jd_id": "3903818860",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.225,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications mentioned match the job requirements."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education does not match the required degree level or field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 9.5 yrs (capped to 9.5), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in Trade Finance, Fund Transfer Investigations, Credit Card Collections, and Customer Service, which aligns with the job responsibilities. However, the total experience is less than the required 6+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience provided by the candidate."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No direct match of responsibilities listed by the candidate to those required by the job description."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Client Relations, Customer Satisfaction, Customer Service, Credit and Collections, Marketing, and Global Trade Services, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills mentioned by the candidate match the job requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools or technologies used by the candidate that match the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Client Relations, Customer Satisfaction, and Customer Service, which could be beneficial in the role. However, the lack of specific technical skills reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.38
+}

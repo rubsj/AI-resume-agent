@@ -1,0 +1,51 @@
+{
+    "resume_id": "18365791",
+    "jd_id": "3903454712",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.478,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Science degree in Accounting is mentioned, but the GPA is not provided, which could be important for assessing academic performance."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in accounting and customer service, which aligns with the job description. However, the job description prefers one year of experience, and the resume does not specify if the total experience is recent or relevant."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not exactly match the responsibilities listed in the job description, particularly in terms of project management and coordination tasks."
+        },
+        "skills": {
+            "score": 0.337,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['professionalism (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as Accounts receivable professional, proficiency with Microsoft Office, and experience with Salesforce.com and other software tools. However, there is no mention of specific certifications or advanced degrees."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions self-motivation, attention to detail, and teamwork, which align with the soft skills required. However, there is no explicit mention of professionalism, data security, or fast-paced environment."
+        },
+        "tools": {
+            "score": 0.39,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, Salesforce.com, and other tools that are listed in the job description. However, there is no mention of SharePoint or internal databases, which are also required."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes some transferable skills like sales software proficiency and desktop publishing software knowledge, but these are not directly aligned with the job description requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.485
+}

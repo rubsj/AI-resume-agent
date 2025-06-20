@@ -1,0 +1,51 @@
+{
+    "resume_id": "50222417",
+    "jd_id": "3904955115",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.432,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds certifications relevant to the financial industry, such as Certified Public Accountant (CPA), but lacks specific certifications mentioned in the job description like OMB Circ. A21, 22, 110, 133."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Finance Management and IT and a Bachelor's degree in Accounting, which are highly relevant to the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 4.8 yrs (capped to 4.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 4 years of experience in various accounting roles that match the required experience level and responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly mention leadership roles or responsibilities, although they have managed projects and provided guidance to junior staff."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as collaborating with internal groups, analyzing business processes, and overseeing projects, which align with the job responsibilities. However, there is no direct mention of translating business and functional requirements or designing solutions."
+        },
+        "skills": {
+            "score": 0.567,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Analyst (fuzzy)', 'Research (exact)', 'Excel (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, including roles as Staff Accountant, Finance Consultant, and Senior Accountant. This aligns well with the required skills of the position."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates strong communication skills through roles like Staff Accountant and Finance Consultant, aligning with the soft skills required. However, there is no explicit mention of problem-solving or decision-making skills."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience does not specifically mention proficiency in tools like ServiceNow, Salesforce, SharePoint, SQL, Database Technologies, Web Services, Web APIs, SOAP, REST, or Financial industry, which are listed as preferred tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows skills that can be transferred to the role, such as financial analysis, budgeting, and accounting, but lacks specific skills like writing user stories or acceptance criteria."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.623
+}

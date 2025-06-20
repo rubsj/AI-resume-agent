@@ -1,0 +1,51 @@
+{
+    "resume_id": "25200253",
+    "jd_id": "3902344466",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.451,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed that match the required or preferred degrees in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education provided does not align with the required or preferred degrees in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 36.5 yrs (capped to 36.5), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has extensive experience in banking operations, which matches the job responsibilities requiring leadership and management skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervisory roles, indicating leadership capability. However, there is no explicit mention of leadership skills or achievements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with some of the responsibilities listed in the job description, particularly in managing and implementing programs. However, there is no direct match with the detailed responsibilities provided."
+        },
+        "skills": {
+            "score": 0.524,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Problem-solving (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Account reconciliation', 'Customer Service', and 'Data Entry'. However, there are no specific certifications or tools mentioned."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks specific soft skills mentioned in the job description such as 'Leadership', 'Communication', and 'Collaboration'."
+        },
+        "tools": {
+            "score": 0.238,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate possesses skills like 'Data Entry' and 'Customer Service', which are related to tools mentioned in the job description. However, there is no explicit mention of proficiency in tools like 'Microsoft Office' or 'Adobe Creative Suite'."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills are mostly transferable from their previous roles, but there is a lack of emphasis on skills like 'Problem-solving', 'Decision-making', and 'Time management' which are crucial for the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.482
+}

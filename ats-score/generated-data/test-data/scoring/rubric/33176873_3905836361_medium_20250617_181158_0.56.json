@@ -1,0 +1,51 @@
+{
+    "resume_id": "33176873",
+    "jd_id": "3905836361",
+    "domain": "HR",
+    "resume_jd_similarity": 0.307,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not list any certifications that match the preferred certifications listed in the job description such as Certified Compensation Professional (CCP), Certified Managerial Accountant (CMA), or Certified Financial Accountant (CFA)."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds Master's and Bachelor's degrees in Information Management Systems and Organizational Management, respectively, which are relevant to the education requirements of the position. However, the job description specifically prefers a Bachelor's degree in Accounting, Finance, or Economics, which is not mentioned in the candidate's education."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 23.0 yrs (capped to 23.0), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in Human Resources, including roles as an HR Director and HR Manager/Sr. Recruiter, which aligns well with the required experience level. However, the job description specifies a minimum of 8+ years of experience in Human Resources, which is slightly less than what the candidate has."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors. The language used is professional and appropriate for a resume. There are no obvious issues with formatting or clarity that would detract from its readability."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership skills through sections like 'Leading Change', 'Federal Security Manager', and 'Job Vacancy Project'. However, there is no explicit mention of leadership responsibilities or achievements that directly align with the leadership requirements of the Incentive Manager position."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the responsibilities listed in the job description, such as managing sales compensation plans and leading a team of analysts. However, there is no direct mention of responsibilities related to financial analysis or sales performance metrics, which are key responsibilities of the Incentive Manager position."
+        },
+        "skills": {
+            "score": 0.672,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (fuzzy)', 'Other (substring)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, which aligns well with the required skills of the Incentive Manager position. The resume also mentions skills like HRIS Development, Benefit Administration, Policy Development, and Web Page Development, which are relevant to the role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes soft skills such as Analytical, Critical thinking, Problem-solving, Relationship building, Trust, Prioritization, Multitasking, Organization, Detail-oriented, Self-motivation, Goal setting, Deadline meeting, Leadership, Mentoring, Interpersonal, Presentation, Verbal communication, Written communication, Professionalism, Adherence to Core Values. These skills are generally aligned with the soft skills required for the position. However, there is no explicit mention of skills like Adherence to Core Values, which is mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume mentions proficiency in MS Office, which matches one of the tools listed in the job description. However, it does not explicitly mention proficiency in SAP sales performance management solution, another tool mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights transferable skills such as Developing HRIS tracking systems, Managing front office personnel, Reducing contract labor costs, Implementing unique pay structures, Creating local websites, and Leading change initiatives. These skills are relevant to the position but do not directly match the specific skills required in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.555
+}

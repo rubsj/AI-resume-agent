@@ -1,0 +1,51 @@
+{
+    "resume_id": "27246366",
+    "jd_id": "3904384407",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.404,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job requires a PES certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Construction Management Technology, which is related to the field but not specifically in Mechanical Engineering."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in construction management, which is relevant to the job responsibilities. However, there is no mention of experience in mechanical engineering."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate leadership skills relevant to the position of a Senior Mechanical Engineer."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities required for a Senior Mechanical Engineer."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has experience in project management, which aligns with the required skill of consulting. However, there is no mention of mechanical engineering skills, which are essential for the position."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills that are typically required for a mechanical engineering role."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Project (fuzzy)'] | (LLM 0.4): The candidate does not use any of the specified tools like Microsoft Office, MS Project, or AutoCAD."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in customer service satisfaction, expense control, and multi-task management, which could be beneficial in a mechanical engineering context."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.349
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "27298953",
+    "jd_id": "3901981174",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.323,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required ones for the role."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a certificate in Human Resources Management, but lacks formal degrees in fields related to restaurant management."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Resume: 29.0 yrs (capped to 29.0), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in various roles that could be transferable to restaurant management, but lacks specific experience in restaurant operations."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No mention of leadership experience or skills."
+        },
+        "responsibilities": {
+            "score": 0.012,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Communicate with staff (fuzzy)'] | (LLM 0.5): No responsibilities listed match those required for the role."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Management' and 'Human Resources Management', but lacks direct experience in manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists strong soft skills such as leadership, communication, problem-solving, teamwork, attention to detail, customer service, and adaptability, which are essential for restaurant management."
+        },
+        "tools": {
+            "score": 0.06,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Trays (fuzzy)'] | (LLM 0.4): No mention of tools or technologies used in restaurant management."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from previous roles, but lacks specific skills related to restaurant management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.398
+}

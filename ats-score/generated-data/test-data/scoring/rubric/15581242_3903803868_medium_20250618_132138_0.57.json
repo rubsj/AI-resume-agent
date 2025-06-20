@@ -1,0 +1,51 @@
+{
+    "resume_id": "15581242",
+    "jd_id": "3903803868",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.337,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, whereas the job description mentions required certifications."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A Bachelor of Science degree in Biology is mentioned, but the GPA is missing, which could be important for the job."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has relevant experience in sales, IT, and consulting, which matches the job requirements. The experience is recent and includes responsibilities that are similar to those described in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has held leadership roles within university/community organizations, which is a positive aspect. However, there is no explicit mention of meeting expectations for attendance and punctuality."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job description, such as operating machines and performing quality checks. However, there is no direct match for all the responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in sales, IT, and consulting, which align with the job requirements. However, there is no mention of specific tools like OSHA Voluntary Protection Program or Star Safety Award."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong customer service experience and business acumen, which are soft skills relevant to the job. However, there is no explicit mention of meeting expectations for attendance and punctuality."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not list any specific tools or technologies used, unlike the job description which mentions OSHA Voluntary Protection Program and Star Safety Award."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles and staff mentoring aligns with the job description's requirement for leadership skills. However, there is no explicit mention of meeting expectations for attendance and punctuality."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.567
+}

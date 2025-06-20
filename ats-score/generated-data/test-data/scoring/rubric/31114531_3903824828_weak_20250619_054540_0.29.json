@@ -1,0 +1,51 @@
+{
+    "resume_id": "31114531",
+    "jd_id": "3903824828",
+    "domain": "ARTS",
+    "resume_jd_similarity": 0.262,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description requires current CPR certification, TB questionnaire, PPD or chest x-ray, and a health certificate."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only a Bachelor of Science degree in Psychology, which does not match the required minimum of a Bachelor's Degree in Education or a related field."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in arts management and programming, which aligns with the job responsibilities of supporting students with disabilities. However, the experience is in the arts sector rather than education."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership roles or achievements in the candidate's resume that would indicate experience leading teams or managing projects, which could be beneficial in an educational setting."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that directly correlate with the job responsibilities listed in the job description, such as preparing student education plans, consulting with parents, or coordinating IEP implementation."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate possesses skills in Microsoft Office Suite, which matches the required skill set. However, there is no mention of Adobe Creative Suite, Facebook, Salesforce, or specific education software like Showare, which are also mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks evidence of soft skills such as communication, teamwork, patience, empathy, and adaptability, which are crucial for special education teachers."
+        },
+        "tools": {
+            "score": 0.105,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used in education, such as Microsoft Office, Adobe Creative Suite, Facebook, Salesforce, or specific education software like Showare."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in leadership, communication, and problem-solving, which can be applied in an educational setting. However, these skills are not specifically tied to educational contexts."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.288
+}

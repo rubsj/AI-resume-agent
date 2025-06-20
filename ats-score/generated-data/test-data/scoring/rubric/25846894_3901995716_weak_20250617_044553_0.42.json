@@ -1,0 +1,51 @@
+{
+    "resume_id": "25846894",
+    "jd_id": "3901995716",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.548,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions a Bachelor of Science degree in Accounting & Finance, but the GPA is not provided, which could be a factor in assessing educational qualifications."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 22.0 yrs (capped to 22.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in various accounting roles, which is more than the required minimum of 3-5 years. The detailed job descriptions show experience in financial management, accounting, and reporting, which matches the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The formatting is professional and the information is presented clearly."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not indicate any leadership experience or responsibilities, which might be beneficial for certain roles but is not a requirement for the Accounts Receivable Clerk position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on responsibilities that specifically match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', ', (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, aligning closely with the job requirements. The resume lists skills such as 'account reconciliation', 'accounting', 'Accountant', 'general accounting', 'Accounting Management', etc., which are directly relevant to the position."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks explicit mention of soft skills that are typically required for an Accounts Receivable Clerk position, such as customer service, attention to detail, and problem-solving."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No specific tools or technologies used are mentioned in the resume, which contrasts with the requirement for proficiency in 'Accounting software systems'."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes a wide range of accounting-related skills that can be transferred to the Accounts Receivable Clerk role, such as 'account reconciliation', 'accounting', 'Accountant', 'general accounting', etc. However, there is no direct alignment with the specific responsibilities mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.416
+}

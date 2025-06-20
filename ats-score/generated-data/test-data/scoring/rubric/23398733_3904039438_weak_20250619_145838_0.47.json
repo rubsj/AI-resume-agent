@@ -1,0 +1,51 @@
+{
+    "resume_id": "23398733",
+    "jd_id": "3904039438",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.287,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a CPC-A certification, which is relevant to the medical coding field required by the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in a non-relevant field, and there is no mention of specific grades or GPA."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in unrelated fields such as tutoring, financial transactions, and sales, which do not directly match the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any responsibilities listed that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate possesses skills like computer systems, organized, self-starter, grammar, and communicates well, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions self-starter and communicates well, which are soft skills aligned with the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume that align with the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like organized, self-starter, and grammar can be transferred from previous roles to the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.466
+}

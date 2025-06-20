@@ -1,0 +1,51 @@
+{
+    "resume_id": "25080805",
+    "jd_id": "3904059851",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.284,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have the required active Series 7 license certification mentioned in the job description."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Master of Science degree in Statistics from a reputable university, which aligns well with the education requirements. However, the degree is not directly related to financial investments."
+        },
+        "experience": {
+            "score": 0.391,
+            "reason": "(Rule 0.5): Resume: 1.1 yrs (capped to 1.1), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has relevant internship experience in data analysis and customer service, but the experience is limited to one year and does not specifically match the required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles within student organizations, which indicates leadership potential. However, there is no direct evidence of leadership experience in a professional setting."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully align with the responsibilities required in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has strong knowledge of SAS, R, and SSPS programming, which matches the required skills in the job description. However, there is no mention of experience with the tools and technologies listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as adeptness at diffusing situations and ability to translate information clearly, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description mentions specific tools and technologies that the candidate does not possess."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as organizational planning and leadership, which are relevant to the job description. However, these skills are not as explicitly mentioned as those required in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.539
+}

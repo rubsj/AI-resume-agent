@@ -1,0 +1,51 @@
+{
+    "resume_id": "26958533",
+    "jd_id": "3901950312",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.303,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a High School Diploma and an Associate of Arts degree, but the job description requires a Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 25.5 yrs (capped to 25.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that align with the job responsibilities, including experience in supervision, project management, and consultation. However, the total experience years do not meet the requirement of 4 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership experience or achievements in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities related to supervision and project management, but it does not cover all the responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills in Networking (Computer), Computer Management, Rebuild/Repair Computer (Hardware), Computer Software Installation (Operating Systems), Photoshop Experience, Excel Experience, Microsoft Office Experience, Spreadsheet Experience, and Power Point Experience. However, there is no direct match for 'Management' and 'Manufacturing' which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions skills like Work Ethic, Personal Ownership, Responsibility, Adaptability, ability to learn quickly and accurately, Positive attitude, Timeliness, Positive appearance and customer interactions, which align with soft skills required in the job description. However, there is no explicit mention of Leadership, Communication, Analytical, Research, Problem-solving, Adaptability, Cultural sensitivity."
+        },
+        "tools": {
+            "score": 0.46,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Lean (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is a tool mentioned in the job description. However, there is no mention of SharePoint or other specific tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from previous jobs that could be applicable to the role, such as problem-solving, communication, and adaptability. However, there is no direct match for specific skills like State of Minnesota leadership program completion, Six Sigma Green or Black Belt certification, Advanced SharePoint training, Project management tools experience, Data analysis and synthesis, Public speaking and presentation skills, Continuous improvement methodologies, Lean and project management principles, Business process evaluation, Research methods, Cross-cultural collaboration."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.484
+}

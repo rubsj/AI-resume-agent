@@ -1,0 +1,51 @@
+{
+    "resume_id": "15918496",
+    "jd_id": "3887492681",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.349,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications listed in the resume match the requirements in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not list any degrees that match the preferred degree requirement of a Bachelor's degree in Marketing, Business, or a related field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 10.3 yrs (capped to 10.3), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in sales, which aligns with the required skill set. However, the experience is not directly linked to the responsibilities mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume that would indicate the candidate has led projects or teams, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not cover the responsibilities listed in the job description, such as leading efforts on the website, developing and optimizing website content, conducting audits, and managing ticket triage."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Honest', 'Reliable', 'Driven', 'Enthusiastic', 'people person', and 'Self motivated'. However, there is no direct match with required skills like 'Business Development' and 'Sales'."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists soft skills like 'Strong analytical skills', 'Proficiency in web analytics tools', and 'Excellent communication and team management skills', which align with the soft skills required in the job description. However, these skills are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any experience with tools like Shopify or Google Analytics, which are required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like customer service, sales, and management, which can be applied to the role. However, these skills are not directly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.382
+}

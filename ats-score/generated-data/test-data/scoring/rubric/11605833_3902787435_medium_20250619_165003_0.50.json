@@ -1,0 +1,51 @@
+{
+    "resume_id": "11605833",
+    "jd_id": "3902787435",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.36,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has certifications in 'Certified Computer Technician' and 'Certified Medical Supply Technician', which are relevant to the job description's required skills but not as directly aligned as the skills listed under education."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelors of Science and Business in Health Care Management, which is relevant to the job description's inferred domain of Medical and Healthcare. However, the lack of specific details about the GPA and field of study limits the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.4 yrs (capped to 15.4), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in various roles related to healthcare management and IT support, which aligns with the job description's required experience and skills. The detailed job descriptions provide context for the skills mentioned in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no obvious grammatical errors or formatting issues. The clarity and professionalism of the resume contribute positively to its ATS score."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are important in the job description. The score reflects the absence of clear leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing resources, coordinating tasks, and providing support, which aligns with the job description's responsibilities. However, the lack of detail about specific responsibilities makes the score moderate."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'accounting', 'business — case', 'charts', 'hardware', 'configuration management', 'counseling', 'client', 'documentation', 'financial statements', 'graphs', 'information systems', 'information technology','market analysis','materials', 'office', 'Monitors', 'network', 'operating systems', 'peripherals', 'policies', 'publications','staffing', 'telephone', 'troubleshooting'. These skills align well with the job description's required skills like 'Marketing', 'Public Relations', and 'Writing/Editing'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions customer service orientation, reliability, flexibility, security clearance, and technology background, which aligns with the soft skills listed in the job description. However, the lack of specific examples or quantifiable achievements reduces the score slightly."
+        },
+        "tools": {
+            "score": 0.16,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not explicitly mention proficiency in tools like Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce, which are listed in the job description's tools and technologies section. This indicates a lack of direct alignment."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills and experience can be transferred to the role, particularly in areas like communication, management, and technology. However, the lack of direct alignment with specific job responsibilities reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.502
+}

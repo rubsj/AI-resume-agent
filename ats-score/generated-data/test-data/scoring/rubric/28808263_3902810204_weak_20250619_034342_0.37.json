@@ -1,0 +1,51 @@
+{
+    "resume_id": "28808263",
+    "jd_id": "3902810204",
+    "domain": "HR",
+    "resume_jd_similarity": 0.378,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree in Business Finance, which is relevant to the job, but no specific GPA is provided."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 5.2 yrs (capped to 5.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in HR Payroll/Accounting, Financial Relationship Specialist roles, and retail positions, which are somewhat relevant to the job, but the job description requires more specific experience in internal communications."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume that would indicate the candidate has led teams or projects."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.312,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Marketing (exact)'] | (LLM 0.4): The candidate has relevant skills such as Analytical and Statistical reporting, Public Speaking, and Excellent Interpersonal Skills, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions Attention to detail, Passion for internal communications, Strong communication skills, Effective time management, Understanding of website best practices and trends, Proficient in Microsoft Office Suite, Ability to interpret and apply company policies and procedures, Ability to use insights and data to create recommendations, and Thrive in a fast-paced work environment, which aligns with some soft skills required for the job."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention proficiency in tools like Adobe Creative programs, CSS, HTML, Intranet platform, CMS, or Microsoft Office Suite, which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as Analytical and Statistical reporting, Public Speaking, and Excellent Interpersonal Skills, but these are not directly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.372
+}

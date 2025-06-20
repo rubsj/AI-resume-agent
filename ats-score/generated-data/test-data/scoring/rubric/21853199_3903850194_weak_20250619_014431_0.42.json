@@ -1,0 +1,51 @@
+{
+    "resume_id": "21853199",
+    "jd_id": "3903850194",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.346,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume that directly match the job description's requirements."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Business Administration in Accounting, which is relevant to the job description's requirement for a Bachelor's degree in Information Technology or related field."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has a history of working in various accounting roles, which shows progression and relevance to the job description's requirements for mid-senior level experience in product management and project management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. This contributes positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills through specific examples or achievements, which contrasts with the job description's requirement for leadership."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that align with the job description's requirements for defining product vision, developing product roadmaps, translating customer needs, managing project plans, and communicating with leadership and stakeholders."
+        },
+        "skills": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the required skills in product management and project management. The candidate's skills also include areas like documentation, financial reporting, and analysis, which are relevant to the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions some soft skills such as communication and leadership, but lacks specifics on how these skills have been applied in previous roles, which contrasts with the job description's emphasis on strategic thinking, problem-solving, and stakeholder engagement."
+        },
+        "tools": {
+            "score": 0.044,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['AI (substring)', 'Accounts Receivable Systems (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their previous roles, which contrasts with the job description's emphasis on proficiency with AI, ML, LLMs, cloud-based solutions, and other financial management tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes skills like analytical, organizational, and communication abilities, which can be transferred to the role of a senior product manager. However, the lack of detail on specific experiences applying these skills in a product management context reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.42
+}

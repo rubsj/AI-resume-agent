@@ -1,0 +1,51 @@
+{
+    "resume_id": "20110597",
+    "jd_id": "3886872752",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.249,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has some certifications, but they do not specifically match the required certifications listed in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's Degree in Accounting, Finance, Economics, Business Administration, or a related field (fuzzy)\"] | (LLM 0.5): The candidate holds a Bachelor's degree in Business Administration, which is aligned with the preferred degrees mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 4.8 yrs (capped to 4.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in sales and customer service roles, which are relevant to the job responsibilities. However, the experience does not directly match the specific job responsibilities listed."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job responsibilities, particularly in financial oversight and customer service, but lacks direct experience in managing grants and contracts."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Time Management, Effective Communication, Troubleshooting, Problem Solving, and Cloud technology, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like Time Management, Effective Communication, and Problem-solving, which are crucial for the job responsibilities."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have experience with the tools mentioned in the job description such as Grant Solutions, REDCap, and Workday."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles that could be applicable to the job, such as working with different software and handling customer inquiries."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.48
+}

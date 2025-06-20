@@ -1,0 +1,51 @@
+{
+    "resume_id": "34953092",
+    "jd_id": "3904061631",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.38,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in Computer Engineering and Finance, which are relevant to the field of finance. However, the GPA is not provided, which could be a factor in assessing the quality of education."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in Corporate Banking, Financial Analysis, and Financial Forecasting, which aligns with the job responsibilities. However, the experience is limited to internships and does not include full-time positions."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which contrasts with the job description that may require leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on past job responsibilities, which contrasts with the job description that lists specific responsibilities such as reconciling ATMs and Vaults, reviewing daily vendor reports, conducting ATM reconciliation, confirming Vault balances, identifying exceptions, monitoring cash position, resolving out-of-balance items, and preparing reports for management."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has skills in C/C++, Python, MATLAB, SQL, R, LUA, VBA, which aligns well with the required skills of 'Accounting/Auditing' and 'Finance'. However, there is no explicit mention of 'CORE Opti Cash Device Manager', 'Vendor Reporting App', or other tools mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks information on soft skills, which are important for the role. The job description mentions analytical skills, problem-solving, communication, teamwork, and attention to detail."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their work, which contrasts with the job description that requires knowledge of 'CORE Opti Cash Device Manager', 'Vendor Reporting App', 'Microsoft Office', and 'Microsoft Windows'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as programming languages and financial analysis, which can be applied in various roles. However, the lack of specific tools and technologies used in previous roles reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.404
+}

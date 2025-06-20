@@ -1,0 +1,51 @@
+{
+    "resume_id": "17025292",
+    "jd_id": "3905362427",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.39,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate possesses some certifications like Microsoft Office Specialist and Symantec Endpoint Protection, but lacks others such as Network+, which are mentioned as optional skills in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education history is unclear due to missing details such as graduation years and GPAs. The field of study matches the job requirements, but the lack of specific details reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 20.1 yrs (capped to 20.1), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has extensive experience in IT consultancy and service, which closely matches the job description's required experience and responsibilities. The detailed descriptions of past roles provide evidence of relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free from grammatical errors, making it easy to read and understand. However, the lack of detail in certain sections reduces the overall score."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not demonstrate leadership qualities that are essential for a senior consulting role, such as developing a book of business or mentoring junior staff."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly map to the job responsibilities outlined in the description. While there is overlap, the candidate's experience is more focused on technical support rather than strategic consulting."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as ITIL, Active Directory, and Windows 7, which align with the job description's required skills. However, there are gaps in the skill set compared to the preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills do not explicitly mention soft skills such as leadership, networking, or strategic thinking, which are crucial for the senior leadership role described in the job description."
+        },
+        "tools": {
+            "score": 0.385,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate's skills include proficiency in tools like Microsoft Office, which are listed in the job description's tools and technologies section. However, there are discrepancies in the tool proficiencies provided."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills are largely transferable to the job description, but there are areas where they may need to develop further, particularly in the areas of business strategy and domain solutions."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.529
+}

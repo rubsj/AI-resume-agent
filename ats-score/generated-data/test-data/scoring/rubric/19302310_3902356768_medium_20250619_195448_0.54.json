@@ -1,0 +1,51 @@
+{
+    "resume_id": "19302310",
+    "jd_id": "3902356768",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.257,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed in the resume match the job description's required certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's (fuzzy)\"] | (LLM 0.5): The candidate holds a Bachelor of Arts degree from University of West Florida, which is a relevant degree but not specifically mentioned in the job description's preferred degrees."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 26.3 yrs (capped to 26.3), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has over 26 years of experience, including roles that involve leadership, management, and responsibilities related to education, training, and facilities management, which aligns well with the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, such as Director and Lead Teacher, indicates strong leadership abilities, which are required for the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles include tasks like curriculum development, staff development, and facility management, which are relevant to the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'bookkeeper', 'Child Care', 'conferences', 'counseling', 'documentation', 'Educator', 'email', 'Human Resources', 'Internet navigation','meetings','mentor', 'Microsoft Office products', 'organizational', 'evaluation of patients', 'problem solving skills', 'progress','reporting','safety', 'Staff Development', 'Teacher', 'teaching', 'team player', 'Time Management', 'unique', 'Workshops'. These skills align well with the job description's required skills of 'Education' and 'Training'."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as 'effective time management', 'attention to detail', and'supporting the academic mission', align with the job description's soft skills requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are listed in the resume, and the job description mentions specific tools ('NCCD, LLC', 'SRJC') that are not utilized by the candidate."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'bookkeeper', 'Child Care', 'conferences', 'counseling', 'documentation', 'organizational', 'evaluation of patients', 'problem solving skills','reporting','staff development', 'teacher', 'teaching', 'team player', 'time management', and 'workshops' can be transferred to the new role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.54
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "21125113",
+    "jd_id": "3905884262",
+    "domain": "DIGITAL-MEDIA",
+    "resume_jd_similarity": 0.486,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description prefers a Master's Degree in Computer Science."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A BA in Political Science is mentioned, but it does not directly match the preferred degree of a Master's in Computer Science."
+        },
+        "experience": {
+            "score": 0.385,
+            "reason": "(Rule 0.5): Resume: 1.7 yrs (capped to 1.7), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in technical support and media support, which is relevant to the job description. However, the experience lacks specific details related to AI and machine learning."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not fully align with the job responsibilities listed in the description, particularly in terms of AI and machine learning."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in computer hardware, software troubleshooting, and network support, which align with the job requirements. However, there is a lack of depth in advanced AI and machine learning skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong communication and teamwork skills, which are aligned with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of required tools like Google Vertex AI, BigQuery, Docker, Kubernetes, etc., which are essential for the role."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): While the candidate has skills in client interaction and documentation, these are not specifically mentioned as transferable skills in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.342
+}

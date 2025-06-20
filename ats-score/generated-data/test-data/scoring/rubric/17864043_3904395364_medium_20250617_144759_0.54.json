@@ -1,0 +1,51 @@
+{
+    "resume_id": "17864043",
+    "jd_id": "3904395364",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.321,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's lack of certification requirements."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume lacks specific details about the GPA, which contrasts with the job description's lack of education requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.6 yrs (capped to 19.6), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in various roles related to recruitment and sales, aligning closely with the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is professionally formatted and free of grammatical errors, indicating high cleanliness."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not provide evidence of leadership roles or achievements, which contrasts with the job description's lack of leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as developing recruitment plans and managing territories, which align with the job description's responsibilities but lacks specifics on sales-related responsibilities."
+        },
+        "skills": {
+            "score": 0.848,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Business Development (substring)', 'Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has strong skills in Business Development and Sales, which align well with the job description requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not explicitly mention soft skills, which contrasts with the job description's lack of explicit soft skill requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, contrasting with the job description's mention of ILLUMISITE™ and Windows Office Products."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like communication, problem-solving, and relationship building, which are relevant to the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.537
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "12333703",
+    "jd_id": "3901950312",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.269,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the required or preferred ones in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has some relevant educational background in fields like Electrical Assistant & HVAC-R, but lacks formal degrees or specific certifications that align with the job description requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.1 yrs (capped to 19.1), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has extensive experience in facility management, operations, and retail, which closely matches the job responsibilities. However, the job description requires at least 4 years of experience, and the candidate has more than 19 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for some missing punctuation and unclear sections."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows leadership in managing teams and projects, but the job description requires specific leadership qualifications that are not mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like project management, supervision, and coordination, which align with the job responsibilities. However, the job description specifies supervisory roles in human services, which may not be directly reflected in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Management', 'HVAC', 'Inventory', and 'Problem solving'. However, there is no mention of specific certifications like Six Sigma or advanced SharePoint training."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like 'Customer Service', 'Problem solving', and 'Leadership', which are relevant to the soft skills required. However, the job description emphasizes leadership and communication skills more strongly."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Project management tools (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their experience, which contrasts with the job description's requirement for proficiency in Microsoft Office, SharePoint, and project management tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Management', 'HVAC', and 'Inventory' can be transferred to the role, but the lack of specific certifications and tools proficiency reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.491
+}

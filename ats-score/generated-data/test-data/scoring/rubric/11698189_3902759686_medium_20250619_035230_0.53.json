@@ -1,0 +1,51 @@
+{
+    "resume_id": "11698189",
+    "jd_id": "3902759686",
+    "domain": "HR",
+    "resume_jd_similarity": 0.379,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Network Information & Technology Administration and an MBA, which are relevant fields but do not directly match the preferred degree requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 23.5 yrs (capped to 23.5), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, particularly in employee relations and management, which aligns with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is not explicitly mentioned, but their experience in managing employees and conducting training suggests some level of leadership ability."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like conducting investigations and resolutions, serving as a partner for managers and employees, creating and conducting training, and supporting performance management, which aligns partially with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.459,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Human Resources (fuzzy)', 'Customer Service (substring)'] | (LLM 0.4): The candidate has relevant skills including Critical Thinking, Conflict Resolution, Leadership, Integrity, Customer Service, Human Resource Training, and Microsoft Office Suite, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills include Critical Thinking, Communication, Problem Solving, Adaptability, Empathy, and Attention to Detail, which align well with the job requirements."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office Suite, which matches the tools required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses easily transferable skills such as organization, working with teams, time keeping/payroll, and business writing, which are relevant to the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.529
+}

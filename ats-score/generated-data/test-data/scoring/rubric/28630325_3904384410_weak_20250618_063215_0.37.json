@@ -1,0 +1,51 @@
+{
+    "resume_id": "28630325",
+    "jd_id": "3904384410",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.314,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a Bachelor's degree in Mechanical Engineering or Architectural Engineering with Mechanical emphasis."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education only includes an Associate of Science degree in Software Engineering, which does not match the required degree of Bachelor's in Mechanical Engineering or Architectural Engineering with Mechanical emphasis."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 19.6 yrs (capped to 19.6), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in various roles related to software development, but lacks experience in mechanical engineering or building engineering services, which are key responsibilities of the job."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with clear sections and grammatically correct sentences. There are no obvious errors in formatting or language usage."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions experience in coaching and mentoring individuals, which indicates leadership skills. However, there is no explicit mention of leadership in the context of managing projects or teams in the building engineering field."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that align with the job description's requirements for coordinating work, assessing and designing HVAC and plumbing systems, establishing client relations, participating in meetings, assuming mechanical lead on projects, and conducting reviews with governing agencies."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Engineering (exact)'] | (LLM 0.4): The candidate has relevant skills such as ASP, C#, VB.NET, SOAP, REST, JQuery, Bootstrap, CSS, HTML5, MSSQL, MYSQL, DTS, SSIS, SSRS, IIS 5, IIS 6, Agile, Scrum, Kanban, Objective C, PHP, Perl. However, there is no mention of MS Office, Trane TRACE, Revit MEP, Sustainable design/LEED, which are required tools in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention soft skills such as assessment and design of HVAC and plumbing systems, client relations, participation in marketing and design meetings, mechanical lead on projects, reviews with governing agencies, coordination of workload, tracking financial aspects of projects, and providing client/project management, which are essential for the role."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in any tools such as MS Office, Trane TRACE, Revit MEP, Sustainable design/LEED, which are required skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like leadership, project management, and teamwork, which can be applied in various industries. However, these skills are not directly aligned with the specific job responsibilities and requirements mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.371
+}

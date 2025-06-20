@@ -1,0 +1,51 @@
+{
+    "resume_id": "28630325",
+    "jd_id": "3905302212",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.321,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, which could be beneficial for roles requiring specific knowledge or compliance standards."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an Associate of Science degree in Software Engineering, which is relevant but may not be considered sufficient for a senior-level position in embedded software engineering."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has substantial experience in software engineering, including leadership roles. This experience is relevant to the job description, particularly in terms of team management and software development practices. However, the lack of direct experience in embedded systems or ADAS development is a limitation."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate effectively communicates their qualifications and experiences using clear and concise language."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, which is a positive aspect. However, the job description emphasizes leadership in the context of ADAS functionalities and real-time systems, areas where the candidate's experience is lacking."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some aspects of the job description, such as algorithm development and software implementation. However, there is no mention of responsibilities related to hardware integration or real-time systems, which are critical for embedded software engineering."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills that align well with the job description, including proficiency in various programming languages, software tools, and methodologies such as Agile and Scrum. However, there is no mention of specific knowledge in embedded systems or ADAS technologies, which are crucial for this role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong soft skills, including problem-solving, communication, and collaboration. These skills are important for the job, but they might need to be further emphasized or demonstrated through specific examples."
+        },
+        "tools": {
+            "score": 0.248,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Software Development Tools (fuzzy)'] | (LLM 0.4): The candidate has experience with a variety of tools mentioned in the job description, such as software development tools and simulation tools. However, there is no explicit mention of hardware-in-the-loop (HIL) testing or model-based design tools, which are essential for embedded software development."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as Agile methodology and Scrum mastery, which can be applied across different domains. However, the lack of specific technical skills related to the job description limits the transferability of these skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.465
+}

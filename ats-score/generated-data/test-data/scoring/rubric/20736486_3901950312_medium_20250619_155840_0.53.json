@@ -1,0 +1,51 @@
+{
+    "resume_id": "20736486",
+    "jd_id": "3901950312",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.349,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has one certification relevant to the job, but it was issued several years ago."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a GED and a relevant certificate, but no bachelor's degree as preferred in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 25.8 yrs (capped to 25.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has extensive experience in healthcare administration and patient care, which matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not specifically highlight leadership roles or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job responsibilities, particularly in managing projects and leading teams."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has strong skills in administrative operations, customer service, and medical terminology, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication and leadership, are relevant to the job responsibilities."
+        },
+        "tools": {
+            "score": 0.35,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is listed as a required tool in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in recordkeeping and report development, but these are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.534
+}

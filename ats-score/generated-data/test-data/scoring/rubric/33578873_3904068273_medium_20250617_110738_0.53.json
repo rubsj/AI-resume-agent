@@ -1,0 +1,51 @@
+{
+    "resume_id": "33578873",
+    "jd_id": "3904068273",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.402,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has only listed high school diplomas and bachelor's degrees without specifying the field of study, which does not match the job's inferred domain of consumer goods."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in sales, which aligns with the job's responsibilities of preparing products for images on set and managing inventory. However, the experience is not directly related to consumer goods."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No information about leadership roles or achievements is provided in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information about specific responsibilities that match the job's responsibilities."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has listed 'Self Starter Motivated', 'Client Relations', and 'Success Driven' as skills, which aligns with the job's requirement for organizational skills and meeting tight deadlines. However, there is no direct match with creativity or ability to work under pressure."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions'self starter motivated' and'success driven', which aligns with the job's requirement for organizational skills and meeting tight deadlines. However, there is no mention of creativity or ability to work under pressure."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills such as'self starter motivated' and 'client relations' are transferable to the job's requirements for organizational skills and meeting tight deadlines. However, there is no mention of leadership or specific technical skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.53
+}

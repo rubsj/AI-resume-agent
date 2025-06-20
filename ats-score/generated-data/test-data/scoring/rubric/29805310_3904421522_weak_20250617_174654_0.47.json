@@ -1,0 +1,51 @@
+{
+    "resume_id": "29805310",
+    "jd_id": "3904421522",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.262,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is listed as High School Diploma and General Education, which does not meet the implied requirement for higher education or specific technical certifications."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 15.2 yrs (capped to 15.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in retail sales and customer service, which can be transferred to roles requiring technical support and customer interaction. However, the experience is not directly in manufacturing or automation."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not detailed enough to compare with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has experience in cash register operations, closing procedures, and customer service, which aligns well with the required skills in automation and technical support. However, there is no direct mention of skills in AB Studio 5000, Factory Talk View Studio, Cognex In-Sight Explorer, or Keyence Vision System software."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not list any tools or technologies used in their previous roles."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as customer service, problem-solving, and attention to detail are transferable from retail to manufacturing roles."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

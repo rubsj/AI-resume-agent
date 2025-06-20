@@ -1,0 +1,51 @@
+{
+    "resume_id": "17539842",
+    "jd_id": "3904394290",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.217,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the requirements of the job description, such as Certified Public Accountant (CPA) or Certified Management Accountant (CMA)."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has multiple certificates listed but no degrees in the specified fields of Accounting or Finance. The certificates are also not recent or detailed enough to assess relevance to the job."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in administrative roles, which aligns with the job description's requirement for experience in accounting or finance. However, the experience is not detailed enough to assess specific skills or achievements related to the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-organized and free of grammatical errors, making it easy to read and understand. However, the lack of detail in some sections reduces its overall effectiveness."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which are important for the job description."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that align with the job description, such as assisting in teaching and administrative tasks. However, there is no direct evidence of experience in preparing financial statements, performing audits, managing budgets, or other key responsibilities."
+        },
+        "skills": {
+            "score": 0.291,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Communication (exact)', 'Organizational Skills (substring)'] | (LLM 0.4): The candidate has a variety of skills listed, including organizational skills, written and verbal communication skills, cultural awareness, and Microsoft typing skills. However, there is no evidence of proficiency in Excel, financial analysis, or other tools mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists several soft skills, including attention to detail, time management, communication, teamwork, and organizational skills, which are aligned with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any proficiency in the tools and technologies mentioned in the job description, such as Microsoft Office, accounting software, financial reporting systems, budgeting tools, audit tools, and financial analysis tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as organizational skills, written and verbal communication skills, and cultural awareness, which could be applicable to the job. However, there is no evidence of specific skills related to accounting or finance."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.354
+}

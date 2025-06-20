@@ -1,0 +1,51 @@
+{
+    "resume_id": "23398733",
+    "jd_id": "3905306775",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.281,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The CPC-A certification directly matches one of the required certifications, indicating proficiency in coding, which is relevant to the job. The date of issuance is recent."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions a certificate from a medical coding program, which is not aligned with the job requirements that focus on food services."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Resume: 17.5 yrs (capped to 17.5), JD requires: 2.0 yrs. | (LLM 0.5): The resume includes experience in tutoring, tracking financial transactions, and product demonstrations, which may transfer some skills but does not directly match the job responsibilities listed."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with clear sentences and proper grammar usage, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience or skills in the resume that would indicate the candidate can lead teams effectively, as required by the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide information on past responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The resume lists computer systems, organized, self-starter, grammar, and communicates well, which aligns with the required skills of management and manufacturing. However, there is no direct mention of mixology experience as required."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions strong interpersonal skills and excellent customer service skills, which are among the soft skills required by the job description. However, it lacks specific details about collaboration with other departments and mixology experience."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume, and the job description does not specify any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like being organized, a self-starter, and having good communication are transferable, but they do not specifically address the job responsibilities or required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.47
+}

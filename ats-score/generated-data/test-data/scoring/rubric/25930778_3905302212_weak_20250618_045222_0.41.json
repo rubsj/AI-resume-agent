@@ -1,0 +1,51 @@
+{
+    "resume_id": "25930778",
+    "jd_id": "3905302212",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.386,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, which may be beneficial for roles requiring specific qualifications or industry standards."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an A.A.S degree in Drafting and Design, which is relevant to the job but lacks details on GPA or more advanced degrees."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in engineering and construction, including roles that involve drafting and problem-solving. However, the job description requires more specific experience with software tools and technologies."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate uses appropriate language and formatting conventions."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide information on leadership skills or experience, which might be important for roles requiring management or project coordination."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned, such as developing algorithms and collaborating with hardware engineers. However, there is no direct match with the detailed responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.297,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Problem-solving (substring)'] | (LLM 0.4): The candidate has relevant skills such as 3D modeling, architectural drafting, AutoCAD, reading blueprints, carpentry, and multi-tasking, which align with the job requirements. However, there is no mention of specific software tools or technologies required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong problem-solving skills, effective team environment, clear communication skills, and multidisciplinary team collaboration, which align with the soft skills required by the job description. However, there is no explicit mention of cross-functional interaction or business anchoring."
+        },
+        "tools": {
+            "score": 0.008,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Innovation (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies required by the job description, such as software tools, hardware-in-the-loop setups, simulation tools, data analysis tools, model-based design tools, automotive communication protocols, etc."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as detail-oriented work, multi-tasking, and self-motivation, which could be valuable in the role. However, there is no evidence of specific skills related to ADAS functionalities, real-time systems, safety standards, or sensor technologies."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.408
+}

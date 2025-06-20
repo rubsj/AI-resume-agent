@@ -1,0 +1,51 @@
+{
+    "resume_id": "22019500",
+    "jd_id": "3901947070",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.409,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume that directly match the job description's requirements."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Technical degree in Telecommunications and a High School Diploma, which may not be considered advanced degrees as preferred in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 35.9 yrs (capped to 35.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 30 years of experience in construction and engineering management, which is significantly more than the required 5 years. The experience includes roles that involve project management, construction, and engineering tasks."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is generally well-written and free of grammatical errors, except for some unclear dates and missing punctuation."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing teams, overseeing projects, and leading technicians indicates strong leadership skills, which are important for the job description."
+        },
+        "responsibilities": {
+            "score": 0.335,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Review project scope (fuzzy)'] | (LLM 0.5): The candidate's experience includes responsibilities such as project management, construction oversight, and engineering tasks, which align with the job responsibilities. However, there is no explicit mention of producing architectural documents or coordinating with engineers, which are key responsibilities in the job description."
+        },
+        "skills": {
+            "score": 0.512,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Project Management (substring)'] | (LLM 0.4): The candidate has extensive experience in telecommunications and construction, which aligns well with the required skills of Information Technology and Project Management. The candidate's skills also include documentation, project management, and communication, which are relevant to the job responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like coaching, continuous improvement, and teamwork, which are aligned with the soft skills required in the job description. However, there is no explicit mention of communication, detail-oriented work, problem-solving, adaptability, or teamwork."
+        },
+        "tools": {
+            "score": 0.12,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Revit (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their previous roles, which contrasts with the job description's requirement for proficiency in Revit and AutoCAD."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like acquisitions, budget preparation, and materials management can be transferred to the role, but they lack specific technical skills like Revit or AutoCAD proficiency."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.534
+}

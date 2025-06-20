@@ -1,0 +1,51 @@
+{
+    "resume_id": "34953092",
+    "jd_id": "3903813809",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.443,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, which contrasts with the requirement for accounting and finance degrees."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Computer Engineering and a Bachelor's degree in Finance and Banking, which aligns with the preferred degrees but lacks specific details that could strengthen the match."
+        },
+        "experience": {
+            "score": 0.584,
+            "reason": "(Rule 0.5): Resume: 2.0 yrs (capped to 2.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in corporate banking and financial analysis, but the roles do not directly match the responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume, which contrasts with the requirement for mid-senior level experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have experience in the specific responsibilities listed in the job description such as overseeing accounting duties, recording vendors' invoices, accounts reconciliation, fixed assets management, intercompany transactions, and leveraging Netsuite ERP system."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has skills in C/C++, Python, MATLAB, SQL, R, LUA, VBA, which aligns well with the required skills of accounting, auditing, general business, and project management. However, there is no direct mention of proficiency in Excel or Netsuite ERP system."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills that are essential for the role, such as attention to detail, proactive approach, resourceful problem-solving, self-starter attitude, collaboration, efficiency, adaptability, great communication, curiosity, and desire to learn."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned in the resume, which contrasts with the requirement for proficiency in Netsuite ERP system and Excel."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like financial forecasting and analysis, which could be beneficial in an accounting role, but these are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.313
+}

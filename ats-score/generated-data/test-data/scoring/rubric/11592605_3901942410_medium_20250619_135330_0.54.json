@@ -1,0 +1,51 @@
+{
+    "resume_id": "11592605",
+    "jd_id": "3901942410",
+    "domain": "HR",
+    "resume_jd_similarity": 0.35,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a relevant certification in SHRM Essentials of Human Resource Management, but lacks other certifications that are preferred or optional in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BA in Justice Studies and an ABA Approved Paralegal Program Certification, which are relevant to the job. However, the AS in Psychology does not directly align with the job requirements."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 14.3 yrs (capped to 14.3), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in HR roles, which aligns well with the job responsibilities. The experience is slightly older than the required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes supervision and coordination, which can be seen as leadership skills. However, there is no explicit mention of leading teams or managing staff."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job description, such as managing processes and providing advice. However, there is no direct mention of coordinating projects or conducting complex research and analyses."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as administrative, Human Resource Management, and Microsoft Office, which align with the job requirements. However, there is a lack of specific technical skills like information technology and project management."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions qualities like dedication and focus, which align with soft skills. However, there is no explicit mention of communication, teamwork, leadership, problem-solving, or adaptability."
+        },
+        "tools": {
+            "score": 0.38,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft_Office (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is listed as a tool requirement in the job description. However, there is no mention of Adobe Creative Suite, Facebook, Salesforce, or other tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like administrative work, which can be applied in the new role. However, there is a lack of specific skills like federal, state, or local programs knowledge, which are preferred in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.535
+}

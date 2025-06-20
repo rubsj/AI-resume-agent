@@ -1,0 +1,51 @@
+{
+    "resume_id": "98348532",
+    "jd_id": "3902759328",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.268,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, which may be a concern given the job description's preference for a CPA or similar certification."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Technology degree in Computer and Science Engineering, which is relevant to the field but does not specify any major courses or focus areas that might further align with the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 16.5 yrs (capped to 16.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 16 years of experience in Teradata and Oracle database engineering, which directly matches the job description's requirement for significant experience in these areas."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in coordinating and managing projects suggests some leadership qualities, but there is no specific mention of leading teams or managing complex projects, which are key aspects of the job description's leadership expectations."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing projects and coordinating with different implementation groups are somewhat aligned with the job description's responsibilities, but there is no direct mention of preparing financial statements or budgets."
+        },
+        "skills": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in Teradata and Oracle databases, which aligns well with the job requirements. The resume also mentions skills in SQL Testing, Unit Testing, and Data Analysis, which are relevant to the position."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leading meetings and contributing to team efforts, are generally aligned with the job description's expectations for leadership and teamwork."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience includes working with Teradata utilities such as Bteq, Fast Load, and Fast Export, which aligns with the job description's mention of tools and technologies."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in data warehousing, database design, and SQL align well with the job description's requirements, though there is no explicit mention of advanced accounting concepts or SEC regulations."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.498
+}

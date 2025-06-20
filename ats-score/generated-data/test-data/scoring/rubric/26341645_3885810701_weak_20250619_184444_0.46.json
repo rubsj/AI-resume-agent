@@ -1,0 +1,51 @@
+{
+    "resume_id": "26341645",
+    "jd_id": "3885810701",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.263,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, while the job description requires a Safelite-certified Technician certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Management Information Systems and an Associate of Science degree in Computer Science, which may not directly match the job's requirement for high school diploma/GED/equivalent."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in business systems analysis, particularly in HRIS applications, which closely matches the required experience in auto glass installation and repair."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience is mentioned in the resume, which contrasts with the job's requirement for hands-on and classroom training."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing projects and systems align with the job's responsibilities of hands-on training and installing auto glass, but there is no direct match in terms of calibrating automotive safety systems."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has strong analytical skills, project management, and collaboration, aligning well with the required skills of mechanical ability, problem-solving, and attention to detail."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's strong collaborative skills align with the soft skills required for independence, teamwork, flexibility, and positive attitude."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate possesses knowledge of tools like PeopleSoft, Oracle, and Microsoft SQL Server, which are not directly aligned with the job's requirement for specific auto glass installation tools."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in problem analysis and resolution, test planning, and requirements gathering are transferable to the job's requirements of mechanical ability, problem-solving, and attention to detail."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.459
+}

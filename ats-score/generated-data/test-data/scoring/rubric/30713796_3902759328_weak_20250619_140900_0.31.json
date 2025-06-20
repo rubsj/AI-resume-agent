@@ -1,0 +1,51 @@
+{
+    "resume_id": "30713796",
+    "jd_id": "3902759328",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.368,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires 'CPA', 'SIE', 'Series 99'."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lacks specific details such as degree, field, institution, and year, which are required for the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 18.2 yrs (capped to 18.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in banking and customer service roles, which aligns with the job description requirements. However, the total experience years mentioned in the resume do not match the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for some discrepancies in the total experience years mentioned."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate any leadership experience or skills, which are expected for a director-level position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details about responsibilities, which are crucial for matching the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'banking', 'credit', 'client', 'excellent customer service', 'customer service', 'direction', 'inventory', 'quality', 'quality control','receiving','safety','sales', 'tables', 'tax', 'treasury'. However, there is a discrepancy in total experience years mentioned in the resume and the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills, which are important for leadership and management roles as described in the job description."
+        },
+        "tools": {
+            "score": 0.084,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['SEC (substring)'] | (LLM 0.4): The candidate does not mention any tools or technologies used, whereas the job description lists specific tools like GAAP, SEC, Sarbanes Oxley, etc., which are essential for the role."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like'strong interpersonal skills', 'direction', and 'teamwork' that could be beneficial in the role. However, these skills are not as comprehensive as those required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.311
+}

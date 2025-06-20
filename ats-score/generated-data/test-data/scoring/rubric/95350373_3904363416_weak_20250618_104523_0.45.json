@@ -1,0 +1,51 @@
+{
+    "resume_id": "95350373",
+    "jd_id": "3904363416",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.234,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed that directly match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Social Work, which is relevant to the job description but does not explicitly match the preferred degree requirements."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 27.5 yrs (capped to 27.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 27 years of experience in medical social work, which is more than the required 10 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There is no clear alignment between the candidate's responsibilities and the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in medical social work, which aligns with the required skills of consulting and information technology sales. However, there is no direct mention of sales skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as case management and counseling, may be applicable to sales roles, but they are not specifically mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.445
+}

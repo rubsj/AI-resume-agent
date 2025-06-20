@@ -1,0 +1,51 @@
+{
+    "resume_id": "24647386",
+    "jd_id": "3902343426",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.375,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed match the job description requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest degree is a Bachelor of Science in Business Administration Marketing/Management, which does not meet the job description's preferred degree requirement of an Associate's degree."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in business development and client relations, though the job description does not specify required experience levels."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes executive management roles, indicating leadership capabilities, but the job description does not emphasize leadership as a key requirement."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's requirements for identifying and cultivating B2B partnerships, presenting insurance solutions, and serving as a trusted advisor."
+        },
+        "skills": {
+            "score": 0.744,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Business Development (substring)', 'Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has extensive experience in business development, sales, and client relations, aligning closely with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong interpersonal and communication skills, which are essential for the role."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as networking and budget preparation are transferable but may not be directly aligned with the job description's specific requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.571
+}

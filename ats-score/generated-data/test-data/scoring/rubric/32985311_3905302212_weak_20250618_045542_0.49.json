@@ -1,0 +1,51 @@
+{
+    "resume_id": "32985311",
+    "jd_id": "3905302212",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.364,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has some certifications but lacks details about their relevance to the job description. The certifications provided are not directly related to the required skills in the job description."
+        },
+        "education": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a B.E in Chemical Engineering and an MS IM degree, which may not align well with the job description's requirement for an Engineering degree. The lack of details in the education section also affects the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in software engineering roles, which aligns with the job description. However, the descriptions lack detail and context that would help assess the relevance of the experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The formatting is clean and professional."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through founding a project as a team lead, which is relevant. However, the lack of detail in the experience section reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's requirements for developing and optimizing algorithms, designing software components, collaborating with hardware engineers, conducting simulations, analyzing data, staying updated with industry trends, documenting designs, and maintaining records. However, the lack of detail in the experience section reduces the score."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as C, SQL, Python, R, Tableau, developer tools like HP ALM Quality Center, HP QTP, MS Office, Trello, and Streak CRM. However, there are missing details in the education section that could impact the relevance of the skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as strong problem-solving, effective team environment, clear communication, conveying complex technical concepts, multidisciplinary team collaboration, cross-functional interaction, and business anchoring. These skills are relevant to the job description."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools mentioned in the job description such as HP ALM Quality Center, HP QTP, MS Office, Trello, and Streak CRM. However, there are gaps in the details provided."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like project management through Trello and CRM knowledge through Streak, which could be beneficial in the role. However, the lack of detail in the experience section reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.495
+}

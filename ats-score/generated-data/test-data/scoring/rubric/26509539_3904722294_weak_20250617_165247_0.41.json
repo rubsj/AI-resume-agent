@@ -1,0 +1,51 @@
+{
+    "resume_id": "26509539",
+    "jd_id": "3904722294",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.358,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate lacks specific certifications required by the job description, such as the National Board of Boiler and Pressure Vessel Inspectors commission."
+        },
+        "education": {
+            "score": 0.05,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's educational background does not align with the required degree of an Engineering degree (BSME, BSEE, BSChE) specified in the job description."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in management and manufacturing roles, but lacks experience specifically in boiler and pressure vessel inspection."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through managing employees, but lacks direct experience in leadership roles within the context of boiler and pressure vessel inspection."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed, but there is a lack of detail regarding specific skills related to boiler and pressure vessel inspection."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as'management','manufacturing', and 'boiler and pressure vessel inspection'. However, there are gaps in the education and certifications sections."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong soft skills, including excellent communication and integrity, which are crucial for working with clients and customers."
+        },
+        "tools": {
+            "score": 0.192,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate possesses some tools and technologies mentioned in the job description, such as Microsoft Office and Adobe Creative Suite, but lacks others like Facebook and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as project management and resource utilization, but lacks specific skills related to the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.406
+}

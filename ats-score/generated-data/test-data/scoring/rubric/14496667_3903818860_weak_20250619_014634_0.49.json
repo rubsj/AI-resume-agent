@@ -1,0 +1,51 @@
+{
+    "resume_id": "14496667",
+    "jd_id": "3903818860",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.38,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Management and Psychology, which is relevant to the job domain but lacks specific details about the curriculum or achievements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.7 yrs (capped to 16.7), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has relevant experience in finance and administration, including roles that involve financial reporting, budget management, and customer service. However, the job description seeks more advanced technical skills and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, it lacks specific details and quantifiable achievements that could enhance its impact."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not indicate any leadership roles or responsibilities, whereas the job description may require leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, particularly in terms of financial management and customer service. However, the job description emphasizes more complex tasks related to data analysis and architecture."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills in accounting, finance, and administrative support, which align well with the job requirements. However, there is a lack of specific technical skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are generally aligned with the job description's requirements, including customer focus, teamwork, and integrity. However, the job description also emphasizes curiosity and inclusivity, which are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, whereas the job description requires proficiency in Azure Databricks, Azure Data Factory, Python, Spark, and other technologies."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as attention to detail, problem-solving, and adaptability, which are relevant to the job description. However, the job description seeks more specialized technical skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.49
+}

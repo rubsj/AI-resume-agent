@@ -1,0 +1,51 @@
+{
+    "resume_id": "17025292",
+    "jd_id": "3905255131",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.255,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications like Microsoft Office Specialist and Symantec Endpoint Protection, but lacks more advanced certifications such as PMP or Lean Six Sigma."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has degrees in Information Systems Technology, but the lack of specific years and GPA makes it difficult to assess the relevance and quality of education."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 20.1 yrs (capped to 20.1), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has extensive experience in IT consultancy and field services, which closely matches the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not specifically mention leadership roles or responsibilities, which are crucial for a managing consultant position."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like project management and stakeholder engagement, which are aligned with the job description. However, there is no direct mention of financial modeling or business case development."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as A+, Active Directory, and ITIL, which align with the job description's required skills. However, there are missing skills like Microsoft Office, Salesforce, and Agile."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows strong technical skills and experience in managing projects and teams, which aligns with the soft skills required. However, there is no explicit mention of flexibility or resilience."
+        },
+        "tools": {
+            "score": 0.45,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Visio (exact)'] | (LLM 0.4): The candidate has experience with tools like Windows, Active Directory, and Citrix, which are mentioned in the job description. However, there is a lack of detail on proficiency with newer tools like Smartsheet and AirTable."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly highlight transferable skills like leadership or communication, which are important for a managing consultant role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.618
+}

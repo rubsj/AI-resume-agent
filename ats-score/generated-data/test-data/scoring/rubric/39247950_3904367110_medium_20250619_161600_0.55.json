@@ -1,0 +1,51 @@
+{
+    "resume_id": "39247950",
+    "jd_id": "3904367110",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.224,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has ITIL certification, which is beneficial but not directly related to the job responsibilities mentioned in the JD. The ITIL certification is not listed under the required or preferred certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree in Electronics/Communication, which is relevant to the field of technology. However, the GPA is not provided, which could be a factor in evaluating the candidate's academic performance."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.8 yrs (capped to 3.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in software engineering roles that align with the job responsibilities. However, the experience does not explicitly mention the required skills such as project management experience or Excel proficiency."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly mention leadership roles or responsibilities, which are not required for this position."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that align with the job responsibilities, such as assisting in sales activities and project coordination. However, there is no direct match with the detailed responsibilities listed in the JD."
+        },
+        "skills": {
+            "score": 0.567,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', 'Data analysis (substring)'] | (LLM 0.4): The candidate has relevant skills in.NET, ASP.NET, C#, SQL, and Business Objects, which align with the job requirements. However, there is a lack of specific mention of Excel proficiency, a required skill."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include communication, self-motivation, and teamwork, which align with the soft skills required. However, there is no explicit mention of proactivity, interpersonal skills, or time management, which are mentioned in the JD."
+        },
+        "tools": {
+            "score": 0.314,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Teams (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Visual Studio, IIS, and Visual SourceSafe, which are relevant to the job. However, there is no explicit mention of CRM systems, event planning tools, communication tools, or Teams proficiency, which are required skills."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in data analysis, programming, and technical support are transferable to the job. However, there is no explicit mention of sales or business development, which are required skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.554
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "13376919",
+    "jd_id": "3905368524",
+    "domain": "HR",
+    "resume_jd_similarity": 0.311,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The MBA in Human Resources is relevant, but the B.Com degree does not provide specific qualifications related to the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 6.9 yrs (capped to 6.9), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR roles, including experience in recruitment, performance management, and operational frameworks, which aligns well with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like policy interpretation and implementation, which aligns with the job responsibilities. However, there is no mention of gathering information or making referrals."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'HR','recruiting', 'performance management', and'vendor management'. However, there is no direct match with 'business development' and'sales' which are required."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include strong writing and problem-solving abilities, which align with soft skills required. However, there is no explicit mention of strong communication or interpretation skills."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of specific tools like ARIES, SNAP, Medicaid, TEA, or Microsoft Office proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'assistant manager', 'banking', and'marketing' are transferable but do not directly match the job requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.525
+}

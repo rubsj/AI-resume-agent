@@ -1,0 +1,51 @@
+{
+    "resume_id": "54934269",
+    "jd_id": "3902747682",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.223,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has some certifications listed but lacks the specific certification (CPCU) that is preferred in the job description."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Health Education and Healthcare Administration, which aligns well with the job requirements. Additionally, the Bachelor's degree and Associate's degree provide foundational knowledge in healthcare and education."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in healthcare settings, including roles as a Healthcare Instructional Assistant and Acting Clerk/Nursing Attendant. However, the job description requires more specific experience in underwriting projects, which is not directly mentioned in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The summary section is clear and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume that directly relates to the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not directly match the job responsibilities listed in the job description, particularly those related to underwriting projects and collaboration with various departments."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Microsoft Office, Organizational Skills, Teaching, and Filing, which align with the job requirements. However, there is a lack of specific certifications like CPCU that are preferred."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as strong analytical and problem-solving abilities, listening, written and verbal presentation, organization, and analytical skills, which are aligned with the job requirements."
+        },
+        "tools": {
+            "score": 0.294,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'IT systems (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which aligns with the job requirements. However, there is no mention of specific tools or technologies related to underwriting or insurance industry."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles, such as multitasking, managing changing priorities, and attention to detail. However, these skills are not specifically tied to underwriting or insurance industry context."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.404
+}

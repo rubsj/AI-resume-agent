@@ -1,0 +1,51 @@
+{
+    "resume_id": "32773331",
+    "jd_id": "112576855",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.309,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate possesses some certifications such as OSHA training and CPR/First Aid, but lacks specific certifications like CFC or trade certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate has a diploma and a degree in civil engineering, which is relevant to the job, but the lack of details and missing information reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 30.2 yrs (capped to 30.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has significant experience in project management and engineering, which matches the job requirements. The detailed descriptions of past roles provide evidence of transferable skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams and managing projects, which indicates leadership skills. However, there is no explicit mention of leadership in the context of the physical plant."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, particularly in managing projects, coordinating activities, and handling emergencies. However, there is no explicit mention of supervising the physical plant or grounds."
+        },
+        "skills": {
+            "score": 0.696,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in project management, engineering, and supervision, which aligns well with the job requirements. However, there is no mention of specific tools like HVAC or CFC certification, which are preferred."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong soft skills such as communication, organization, and computer competency, which are essential for the role. The mention of leadership and emergency response skills is also positive."
+        },
+        "tools": {
+            "score": 0.252,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 3}. Matched: ['Steam (fuzzy)', 'Electrical (fuzzy)', 'Email (fuzzy)'] | (LLM 0.4): The candidate lists several software skills, but does not mention specific tools like HVAC or plumbing, which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in project management, engineering, and supervision are transferable to the job, but the lack of specific tool-related skills reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.637
+}

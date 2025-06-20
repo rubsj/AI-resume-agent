@@ -1,0 +1,51 @@
+{
+    "resume_id": "20001721",
+    "jd_id": "3905302212",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.37,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists only a Bachelor of Arts degree in English, which does not match the preferred degree of Engineering specified in the job description."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in Information Technology and Foreclosure Processing, but lacks experience specifically related to Embedded Software Application Engineering or ADAS functionalities."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not provide evidence of leadership skills, which are important for the job description's responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not aligned with the job description's responsibilities, which require specific skills and tasks related to Embedded Software Application Engineering."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has technical skills listed that align with the job description's required skills, such as Windows, Unix, Linux, and Mac OS, but lacks specific skills like Model-based Design and AUTOSAR which are mentioned as optional."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not mentioned in the resume, and the job description requires strong problem-solving skills, effective team environment, clear communication skills, and multidisciplinary team collaboration."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any tools used in the context of the job description's required tools and technologies."
+        },
+        "transferable_skills": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as customer service, data preparation, administration, reporting, and application design, which could be relevant to the job description's responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.281
+}

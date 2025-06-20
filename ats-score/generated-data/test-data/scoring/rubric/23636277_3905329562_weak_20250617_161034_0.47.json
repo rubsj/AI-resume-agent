@@ -1,0 +1,51 @@
+{
+    "resume_id": "23636277",
+    "jd_id": "3905329562",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.368,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description prefers candidates with CFP certification."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a law degree and commerce degree, which are not directly related to the job requirements. The law degree might be beneficial for understanding tax laws, but it lacks specific qualifications in finance or accounting."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.4 yrs (capped to 15.4), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has extensive experience in accounting roles, particularly in financial analysis, tax preparation, and management, which closely matches the job responsibilities. However, the lack of direct experience with proprietary reporting software or eMoney reduces the score slightly."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details about the candidate's achievements reduces the score slightly."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and coordinating tasks, which is a key leadership skill. However, the lack of experience with managing a team at a senior level reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as financial planning, tax preparation, and client service, which align with the job responsibilities. However, the lack of specific experience with RGFO or Rockefeller Capital Management reduces the score."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in accounting, auditing, and financial reporting, which align with the job requirements. However, there is no mention of experience with proprietary reporting software or eMoney, which are optional skills preferred by the employer."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in organization, multitasking, communication, and teamwork are aligned with the soft skills required by the job description. However, the lack of experience with specific tools or technologies reduces the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in any tools or technologies required by the job description, such as proprietary reporting software or eMoney."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, auditing, and financial reporting are transferable to the job responsibilities. However, the lack of specific experience with RGFO or Rockefeller Capital Management reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.466
+}

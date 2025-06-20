@@ -1,0 +1,51 @@
+{
+    "resume_id": "93002334",
+    "jd_id": "3901960003",
+    "domain": "HR",
+    "resume_jd_similarity": 0.317,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds certifications in Change Management, Brain Dominance, and Interview Skills, which are beneficial but not directly mentioned in the job description."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): A Bachelor's degree in Psychology is listed, but the GPA is not provided, making it less relevant compared to the job description requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 7.9 yrs (capped to 7.9), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has relevant experience in various HR roles, including HR Analyst, HR Coordinator, Senior HR Coordinator Sales, and Administrative Assistant, which matches the job description's experience requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is not explicitly mentioned, so the score reflects the lack of direct alignment with the job description's leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job description's responsibilities, such as serving as a point of contact, managing schedules, and handling employee relations."
+        },
+        "skills": {
+            "score": 0.456,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, Administrative, and Customer Service environments, aligning well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like being service-oriented, owning the impact, connecting genuinely, acting fast, including always, and innovating for good, which are aligned with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate is proficient in tools like Excel, Outlook, PowerPoint, Visio, OneNote, SharePoint, SAP, and others, which are aligned with the job description's tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as managing schedules, handling employee relations, and using various software tools, are relevant to the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.644
+}

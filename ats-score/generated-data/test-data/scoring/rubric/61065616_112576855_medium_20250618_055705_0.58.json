@@ -1,0 +1,51 @@
+{
+    "resume_id": "61065616",
+    "jd_id": "112576855",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.4,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds certifications like Asphalt Paving Technician and Earthwork Construction Inspection, which match the job's certification requirements."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate's education includes a Bachelor of Science in Construction Management and an Ordinary Level degree, which may not directly correlate with the job's educational requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.6 yrs (capped to 21.6), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in construction materials inspection and testing, closely matching the job's experience requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's specialities section highlights strong leadership skills, which are crucial for the job role."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job's responsibilities, particularly in maintaining buildings and coordinating maintenance projects."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has relevant skills such as cables, calibration, inspection, and laboratory testing, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's specialities section indicates strong leadership and communication skills, which are beneficial for the job."
+        },
+        "tools": {
+            "score": 0.274,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Steam (fuzzy)', 'Email (fuzzy)'] | (LLM 0.4): The candidate's experience includes tools and technologies like laboratory testing, which are relevant but not explicitly mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's specialities section lists skills that could transfer to the job, but they are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.585
+}

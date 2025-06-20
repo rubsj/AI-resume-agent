@@ -1,0 +1,51 @@
+{
+    "resume_id": "93112113",
+    "jd_id": "3902860720",
+    "domain": "HR",
+    "resume_jd_similarity": 0.32,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed that directly match the required or preferred degrees in Human Resources."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a B.A. in Sociology/Psychology and an A.A.S in Human Services, which are related to the field of Human Resources but do not specifically align with the preferred degree of Human Resources."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in various HR roles, including HR Manager, Sr. HR Generalist, HR Representative, etc., which closely matches the required experience level of an Associate."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is not explicitly detailed in the resume, making it difficult to assess how well they align with the leadership expectations in the job description."
+        },
+        "responsibilities": {
+            "score": 0.425,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Coordinate and schedule interviews (fuzzy)'] | (LLM 0.5): The candidate's responsibilities in managing employee relations, conducting performance evaluations, and overseeing HR processes align well with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.368,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate possesses a Professional Human Resources Certification (PHR), which aligns well with the required skill of Sales in the context of Talent Acquisition."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as excellent communication and interpersonal skills, are relevant to the job responsibilities and align with the soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency with Workday, which is a tool mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as problem-solving and decision-making, are generally applicable across different HR roles and may be beneficial in the Talent Acquisition position."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.514
+}

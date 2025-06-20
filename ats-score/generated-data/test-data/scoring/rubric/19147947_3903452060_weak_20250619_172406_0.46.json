@@ -1,0 +1,51 @@
+{
+    "resume_id": "19147947",
+    "jd_id": "3903452060",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.362,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lacks detail and relevance to the job requirements. The listed degrees are not specified, and there is no evidence of academic achievements that could be relevant to the position."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 9.2 yrs (capped to 9.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in warehouse operations, shipping, receiving, and sales, which directly matches the required experience in managing the product portfolio and implementing strategies. However, the lack of detail in the education section reduces the overall score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, the lack of detail in some sections, such as education and tools, slightly affects the overall score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume, and the job description does not require any specific leadership qualifications."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing inventory, overseeing warehouse operations, and handling sales tasks, which align with the job responsibilities. However, there is no direct mention of managing the product portfolio or developing product strategies."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant experience in sales and warehouse operations, which aligns with the required skills of managing the product portfolio and implementing product strategies. However, there is no explicit mention of strategic planning or analytical skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like adaptability, learning new job assignments quickly, and having 8+ years of experience, which are relevant to the soft skills required for the position. However, there is no explicit mention of interpersonal communication, relationship building, or strategic thinking."
+        },
+        "tools": {
+            "score": 0.06,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Excel (fuzzy)'] | (LLM 0.4): The resume does not mention proficiency in any tools or technologies, whereas the job description requires proficiency in MS Word, Excel, Outlook, and PowerPoint."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section mentions adaptability, learning new job assignments quickly, and experience in various roles, which can be considered transferable. However, these skills are not explicitly aligned with the job responsibilities or required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.464
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "22560013",
+    "jd_id": "3904987409",
+    "domain": "PUBLIC-RELATIONS",
+    "resume_jd_similarity": 0.413,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's degree in Communications, Marketing, or related field (fuzzy)\"] | (LLM 0.5): A BA in Graphic Design is relevant to the job, but the GPA is not provided, which could be a point of concern."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 30.5 yrs (capped to 30.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in marketing and public relations, which aligns with the job description. However, the job description specifies 2-3+ years of experience, and the resume shows more than 15 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The summary is concise and highlights relevant skills and experiences."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as Partner/Creative Director, but there is no explicit mention of leadership skills or experience in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, but there is no mention of developing communication plans or conducting interviews, which are key responsibilities."
+        },
+        "skills": {
+            "score": 0.616,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Marketing (exact)', ', (substring)'] | (LLM 0.4): The candidate has extensive experience in Adobe Creative Suite, which aligns well with the job requirements. The summary highlights strong graphic design skills, and the education includes a BA in Graphic Design."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary indicates strong time management and prioritization skills, which align with the soft skill requirements. However, there is no explicit mention of attention to detail or meeting deadlines."
+        },
+        "tools": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft Office Suite (fuzzy)'] | (LLM 0.4): The candidate is proficient in Microsoft Office Suite and has experience with Wordpress, which matches the job requirements. However, the job description also mentions content management systems, which are not explicitly mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a wide range of skills that can be transferred to the job, such as graphic design, marketing, and project management. However, there is no mention of writing/editing skills, which are required by the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.624
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "10549585",
+    "jd_id": "3885870296",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.329,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which contrasts with the requirement for a Bachelor's degree in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Information Systems, which is relevant to the job description. However, the Bachelor's degree is not specified, which may be a concern given the preference for a Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 25.8 yrs (capped to 25.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience, which exceeds the required minimum of 2 years. The detailed experience in finance management and sales aligns closely with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading sales teams and achieving sales targets aligns with leadership skills. However, there is no explicit mention of leading projects or teams, which could further enhance the leadership score."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like conducting research, performing analyses, and developing models, which aligns with the job responsibilities. However, there is no explicit mention of regulatory and policy analysis, which is mentioned as optional."
+        },
+        "skills": {
+            "score": 0.58,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has extensive experience in finance and sales, which aligns well with the required skills in the job description. The resume also mentions skills like network, hardware, and software administration, which are relevant but less emphasized compared to the core skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary highlights leadership and teamwork skills, which align with the soft skills required. However, there is no explicit mention of excellent written and oral communication, which is a key soft skill."
+        },
+        "tools": {
+            "score": 0.128,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 2}. Matched: ['Excel (fuzzy)', 'R (substring)', 'Stata (fuzzy)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used, which contrasts with the job description's requirement for proficiency in Excel, R, Stata, Python, Tableau, Power BI, and Google Data Studio."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing networks, hardware, and software aligns with transferable skills needed for the job. However, there is no explicit mention of innovative thinking, problem-solving, or teamwork, which are important transferable skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.575
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "24550866",
+    "jd_id": "3902784437",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.348,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has no certifications listed that match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate's experience does not match the required skills or responsibilities specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is not mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the required job responsibilities specified in the job description."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in 'accounting', 'billing', 'business intelligence', 'coding', 'data analysis', 'financial', 'health information technology', 'insurance', 'critical thinking', 'customer support', 'troubleshooting', 'processes', 'project management', 'quality','real-time','reporting','strategic', and'vendor management'. However, there are no direct matches with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have experience with the required tools and technologies specified in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not mentioned in the resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.326
+}

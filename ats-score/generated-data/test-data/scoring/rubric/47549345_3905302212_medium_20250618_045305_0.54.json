@@ -1,0 +1,51 @@
+{
+    "resume_id": "47549345",
+    "jd_id": "3905302212",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.363,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a relevant certification (SPI Intools), but there is no mention of additional certifications that could further enhance their qualifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Electrical Engineering and a Bachelor's degree in Instrumentation & Control Engineering, both from reputable institutions, which aligns well with the preferred degree requirement in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant work experience, including roles as an Engineering Instructor and a Graduate Teaching Assistant, which demonstrates some teaching and project management skills. However, the lack of direct experience in embedded software application development limits the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate has used appropriate language and formatting to highlight their qualifications."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership roles or responsibilities, which are important in the job description. The role as an Engineering Instructor may imply some leadership qualities, but it is not clearly stated."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not directly match the responsibilities listed in the job description, particularly in terms of developing and optimizing algorithms for ADAS functionalities and conducting simulation and testing."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills relevant to the job description, including proficiency in MATLAB, Simulink, and other technical tools, which aligns well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as strong problem-solving abilities and effective team environment, which are aligned with the soft skills required in the job description. However, there is no explicit mention of skills related to cross-functional interaction or business anchoring."
+        },
+        "tools": {
+            "score": 0.248,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Certifications (fuzzy)'] | (LLM 0.4): The candidate has experience with tools mentioned in the job description such as MATLAB, Simulink, and PLC programming, but there is no explicit mention of experience with Hardware-in-the-loop (HIL) setups or Model-based Design Tools, which are key tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as proficiency in various programming languages and tools, which can be applied across different industries. However, there is no explicit mention of skills related to model-based design or AUTOSAR, which are important in the automotive industry."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.541
+}

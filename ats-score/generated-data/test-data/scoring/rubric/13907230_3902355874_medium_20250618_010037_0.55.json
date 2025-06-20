@@ -1,0 +1,51 @@
+{
+    "resume_id": "13907230",
+    "jd_id": "3902355874",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.338,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree in Construction Management, which is relevant to the job domain. However, the lack of details about GPA and missing fields in education sections lower the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 2.2 yrs (capped to 2.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction-related roles, including general construction intern, bartender/server, and voluntary business manager. This experience aligns well with the job responsibilities requiring negotiation, management, and understanding of construction processes."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's use of bullet points and clear sections enhances readability."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience or skills in the candidate's resume, which contrasts with the requirement for decision-making and department responsibility in the job description."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing documentation, ensuring safety protocols, and generating financial reports, which align with some of the job responsibilities. However, the lack of direct experience in negotiating contracts and managing trade partners reduces the score."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in AutoCAD, Microsoft Office suite, and quality control/safety, which aligns with the job requirements. However, the lack of specific technical skills listed in the job description reduces the score."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills, which aligns with the soft skills required in the job description. The ability to handle pressure and understand customer needs also supports this score."
+        },
+        "tools": {
+            "score": 0.5,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate lists proficiency in Excel, which matches one of the tools required in the job description. However, there is no mention of construction or purchasing systems, reducing the score."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in communication, problem-solving, and technical abilities are transferable to the job role. However, the lack of specific skills related to purchasing systems and construction management reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.551
+}

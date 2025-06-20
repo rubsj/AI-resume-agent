@@ -1,0 +1,51 @@
+{
+    "resume_id": "11378657",
+    "jd_id": "3905334757",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.406,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires CPCU or AU certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's educational background is not detailed enough to match the required bachelor's degree for the position."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 32.2 yrs (capped to 32.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare recruiting and employment staffing, which aligns with the job responsibilities. However, the total experience years exceed the preferred experience range."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are required by the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as administrative skills, admin support, benefits, benefits administration, hiring, HR, insurance, interpretation, Excel, Microsoft Office programs, PowerPoint, MSWord, processes, radiology, recruiting, and staffing. However, there is no mention of finance or sales, which are required skills for the position."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks information on soft skills that are required or preferred by the job description."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office programs, which matches the tools required by the job description. However, there is no mention of Salesforce, Adobe Creative Suite, Facebook, or other tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as administrative skills, admin support, benefits, benefits administration, hiring, HR, insurance, interpretation, Excel, Microsoft Office programs, PowerPoint, MSWord, processes, radiology, recruiting, and staffing. However, these skills do not fully align with the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.335
+}

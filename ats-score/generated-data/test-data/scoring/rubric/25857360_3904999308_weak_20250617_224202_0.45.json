@@ -1,0 +1,51 @@
+{
+    "resume_id": "25857360",
+    "jd_id": "3904999308",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.35,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education does not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 21.9 yrs (capped to 21.9), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in administrative roles, which aligns with the job description's responsibilities. However, the total experience years do not meet the required minimum of 4 years."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not indicate any leadership experience or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not explicitly list responsibilities that match the job description's responsibilities such as monitoring production environments, building CI/CD tools, assessing cloud services, deploying applications, monitoring and alerting applications, troubleshooting issues, and supporting specific business needs."
+        },
+        "skills": {
+            "score": 0.632,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'accounting', 'audio', 'Backup', 'billing', 'conferences', 'content', 'customer service', 'data Entry', 'directing', 'electronics', 'fax', 'filing', 'Information Technology', 'inventory', 'law', 'Lotus Notes','managing','materials','meetings', 'Excel', 'Exchange','mail', 'Office', 'Microsoft Word','multi-line telephone','multi-tasking', 'organizing', 'copier', 'procurement','receptionist','reception','scheduling','supervisor', 'telephone', '70 wpm'. These skills align well with the job description's required skills of 'Engineering' and 'Information Technology'."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks explicit soft skills that are typically required for the role, such as problem-solving, communication, teamwork, and adaptability."
+        },
+        "tools": {
+            "score": 0.048,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Azure (fuzzy)', 'React (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention specific tools or technologies used, which contrasts with the job description's requirement for skills in Azure, Kubernetes, CI/CD tools, Ruby on Rails, GoLang, React, JavaScript, CI-CD pipelines, deployment management tools, release management standard methodologies."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like attention to detail, organizational ability, and customer service experience, which could be beneficial in a DevOps role. However, these skills are not directly aligned with the technical requirements of the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.45
+}

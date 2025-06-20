@@ -1,0 +1,51 @@
+{
+    "resume_id": "20417897",
+    "jd_id": "3901942410",
+    "domain": "HR",
+    "resume_jd_similarity": 0.331,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['business_administration (fuzzy)'] | (LLM 0.5): The candidate holds a Master of Business Administration degree, which is relevant to the job description's preferred degrees in business administration and public administration."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 29.8 yrs (capped to 29.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has extensive experience in administrative roles, including managing HR processes, which closely matches the job description's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership experience, but the experience in managing staff and coordinating projects could imply some level of leadership."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like coordinating projects, managing staff, and analyzing data, which align with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as administrative support, billing, and human resource management, which align well with the job description's required skills like information technology and project management."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary indicates strong skills in administrative support, which suggests good communication and organizational abilities, matching the soft skills required."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in any specific tools or technologies listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various administrative roles provides transferable skills that could be applicable to the job description's responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.518
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "14224370",
+    "jd_id": "3904362397",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.291,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which might be a requirement for the job."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A Bachelor's degree in accounting is mentioned, but the GPA is not provided, which could be important for some roles."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 8.5 yrs (capped to 8.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting and tax preparation, which matches the job description. However, the job description requires more years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which might be expected for a lead position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in accounting, bookkeeping, and financial statements, which align with the job requirements. However, there is no mention of specific tools like PeopleSoft or QuickBooks."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks soft skills that are specifically mentioned in the job description, such as influencing skills and strategic thinking."
+        },
+        "tools": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate lists some technical skills related to accounting software and operating systems, but does not specify if they have experience with tools like PeopleSoft or QuickBooks."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like analytical skills, attention to detail, and communication, which are generally required for most accounting positions. However, these skills are not directly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.588
+}

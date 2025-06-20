@@ -1,0 +1,51 @@
+{
+    "resume_id": "22452756",
+    "jd_id": "3902745900",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.351,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education does not provide qualifications relevant to the automotive industry or the specific job responsibilities."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.2 yrs (capped to 20.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in services engineering, which aligns with the job responsibilities of performing maintenance and repairs."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership roles or skills is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like supervision and repairs, which are relevant to the job responsibilities."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills like 'Engineer', 'Sales', and 'Supervision' which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Agency', 'Consultation', and 'Clients' could be transferable but are not directly related to the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.548
+}

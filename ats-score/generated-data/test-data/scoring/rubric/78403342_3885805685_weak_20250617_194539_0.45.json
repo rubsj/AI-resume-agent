@@ -1,0 +1,51 @@
+{
+    "resume_id": "78403342",
+    "jd_id": "3885805685",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.369,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume that match the required degrees or skills in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree, which matches one of the preferred degrees in the job description. However, the specific field of study does not align with the required Business Degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.6 yrs (capped to 14.6), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting and auditing, which aligns with the job responsibilities. However, the job description requires 1 year of experience, and the candidate has significantly more."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or achievements that align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on their responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong background in accounting, which aligns with the required skill of Business Development. They also have experience in Excel, which is mentioned in the tools section of the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any soft skills that align with the soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Phone (exact)'] | (LLM 0.4): The candidate has experience with Excel, which is mentioned in the tools section of the job description. However, they do not mention any experience with Phone, which is also listed as a tool."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as attention to detail and problem-solving, which are mentioned in the job description. However, they lack specific skills like Customer Service and Strategic Thinker."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.448
+}

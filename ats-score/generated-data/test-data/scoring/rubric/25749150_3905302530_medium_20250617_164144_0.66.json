@@ -1,0 +1,51 @@
+{
+    "resume_id": "25749150",
+    "jd_id": "3905302530",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.275,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which could be beneficial for a financial role."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A Bachelor of Arts degree in Accounting is relevant to the finance field, but the lack of specific details about GPA or graduation year may lower the score slightly."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 10.1 yrs (capped to 10.1), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in accounting and financial roles, which directly matches the job description's requirements. The experience is also recent enough to be considered relevant."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions leadership skills, but there are no specific examples or achievements that highlight leadership abilities, which is a key requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to financial activities, such as preparing financial statements and managing accounts receivable and payable. However, the job description requires specific responsibilities like customer engagement and digital solution sharing, which are not fully covered in the resume."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills such as accounting, finance, and financial statements, which align with the job requirements. However, there is no mention of sales skills, which are preferred but not required."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership skills and adherence to policy guidelines, which are aligned with the soft skills required. However, it lacks explicit mention of customer service focus, integrity, and teamwork."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume, which might be important for a financial position depending on the company's specific needs."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like Excel and MS Office, which can be transferable to the job. However, these are not explicitly mentioned in the job description, so the score is moderate."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.662
+}

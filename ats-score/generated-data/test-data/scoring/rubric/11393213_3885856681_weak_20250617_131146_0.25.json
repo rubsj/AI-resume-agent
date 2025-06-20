@@ -1,0 +1,51 @@
+{
+    "resume_id": "11393213",
+    "jd_id": "3885856681",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.295,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications match the requirements for the job."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate is still pursuing education and does not have a Doctorate degree as required."
+        },
+        "experience": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has experience in Construction, which is relevant but not aligned with the Manufacturing domain required for the job."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate leadership skills relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.038,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Documentation (exact)'] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in Construction, which is relevant but not aligned with the Manufacturing domain required for the job."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills that are specifically mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used align with the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like teamwork and safety compliance, which are somewhat relevant to the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.252
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "14206561",
+    "jd_id": "3904384407",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.337,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires 'PES' certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree in Business Administration, which is not directly related to the job description requirements. The job description prefers a Bachelor's degree in Mechanical Engineering."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 21.0 yrs (capped to 21.0), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in engineering roles, which aligns with the job description. However, the total experience years do not match the required minimum of 10 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors. However, it lacks certain sections that would enhance its completeness and relevance to the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that aligns with the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details about responsibilities that match the job description's requirements."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Consulting', 'Engineering', 'Management', 'MS Excel', 'Microsoft Office', 'Outlook', 'PowerPoint', and 'networking'. However, there is no mention of specific certifications or advanced degrees required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are typically expected in a senior-level position, such as leadership, communication, and teamwork."
+        },
+        "tools": {
+            "score": 0.58,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'MS Project (fuzzy)'] | (LLM 0.4): The candidate has experience using tools like 'Microsoft Office', 'MS Excel', 'PowerPoint', and 'Outlook', which are mentioned in the job description. There is no mention of 'AutoCAD' or 'MS Project' in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'documentation', 'inspection', 'logistics', and'supervision', which could be beneficial in a senior mechanical engineering role. However, these skills are not specifically mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.39
+}

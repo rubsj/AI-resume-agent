@@ -1,0 +1,51 @@
+{
+    "resume_id": "19506295",
+    "jd_id": "3902804568",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.402,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds multiple degrees in Mechanical Engineering, but the job description does not specify any preferred degrees beyond a B.S. in Engineering or related technical field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.5 yrs (capped to 20.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in product design, development, process improvement, and project management, which aligns with the job responsibilities. However, the job description does not specify any required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership skills in project management and collaboration, which aligns with the job description's emphasis on leadership. However, it does not explicitly state experience in leading vehicle operations integrators."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume provides some information on leading development, defining operational constraints, and providing real-time engineering anomaly resolution, which aligns with the job responsibilities. However, it lacks specifics on leading development of detailed CONOPS and operating requirements."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a comprehensive set of skills including Solid Edge UG NX6, GD&T, FEA, ANSYS, and more, which align well with the job description's required skill of Education, Training. However, there is no mention of specific software tools like Microsoft Office or Adobe Creative Suite."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes skills like being future-thinking and having a deep passion for Blue Origin's mission, which aligns with the soft skills mentioned in the job description. However, it does not explicitly state being highly diligent."
+        },
+        "tools": {
+            "score": 0.105,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate's resume does not list any specific tools or technologies used, while the job description mentions Microsoft Office and Adobe Creative Suite as required skills."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills that can be transferred to the job, such as proficiency in engineering tools and leadership skills, but it lacks specific details on experience with cryogenic fluids and pressurized pneumatics."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.486
+}

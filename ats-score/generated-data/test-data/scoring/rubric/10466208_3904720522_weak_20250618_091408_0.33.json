@@ -1,0 +1,51 @@
+{
+    "resume_id": "10466208",
+    "jd_id": "3904720522",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.259,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job description's requirements."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Arts degree in Business Administration and Public Relations is mentioned, but it lacks specific details such as GPA or graduation year, which could be crucial for the job."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate's experience includes roles that closely match the job description's responsibilities, such as pharmaceutical sales and account management, though the exact dates are missing."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for some missing dates and details."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions being a 'Representative of the year 2003' and having 'team player' skills, but there is no detailed information on leadership roles or achievements."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not exactly match the job description's responsibilities, such as coordinating internal and external clinical studies, but there is overlap in terms of customer service and account management."
+        },
+        "skills": {
+            "score": 0.338,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Management (exact)', 'Strategy (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'Account Management', 'acquisitions', 'ADMINISTRATIVE', 'contracts', 'clientele', 'customer satisfaction', etc., which align well with the job description's required skills like 'Analyst', 'Information Technology', 'Research'."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Communication', 'Presentation', 'Writing', and 'Management' are present in both the resume and job description, indicating some alignment."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned in the resume, which contrasts with the job description's requirement for skills like 'Microsoft Office', 'Adobe Creative Suite', etc."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Account Management', 'acquisitions', 'ADMINISTRATIVE', etc., can be transferred from the candidate's past roles to the new position, but they lack specifics about how these skills were applied."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.328
+}

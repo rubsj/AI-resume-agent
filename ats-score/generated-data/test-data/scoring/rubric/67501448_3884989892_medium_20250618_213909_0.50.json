@@ -1,0 +1,51 @@
+{
+    "resume_id": "67501448",
+    "jd_id": "3884989892",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.279,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, while the job description does not explicitly require any."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a Bachelor of Science degree in Dental Hygiene and a Master's degree in Social Media and Digital Marketing, which may not be directly relevant to the job description's requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 21.8 yrs (capped to 21.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in Business Development, Event Coordination, and Marketing, which aligns well with the job responsibilities mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership experience or responsibilities, which are mentioned as a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to business development, event coordination, and marketing, which aligns with some of the responsibilities mentioned in the job description. However, there is no direct match with the specific responsibilities listed."
+        },
+        "skills": {
+            "score": 0.72,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Responsible and reliable', 'Highly motivated for career advancement', 'Able to deal in a mature manner with problem solving', 'Willing to learn and accept constructive criticism', 'Willing to help', 'Good attitude around others', 'Calm and focused', 'Good knowledge of social media', 'Able to use own initiative and work as part of a team', 'Excellent communication and organizational skills'. However, there is a lack of direct alignment with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as responsibility, motivation, problem-solving ability, willingness to learn, teamwork, communication, and organization, which are generally aligned with the soft skills expected in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions 'Python SDK' as a tool, but the candidate's resume does not provide evidence of proficiency or experience with this tool."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include experience in various roles and industries, which could potentially be transferred to the role described in the job description. However, there is a lack of direct alignment with the specific skills required."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.503
+}

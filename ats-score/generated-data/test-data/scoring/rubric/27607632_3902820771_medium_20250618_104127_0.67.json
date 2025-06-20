@@ -1,0 +1,51 @@
+{
+    "resume_id": "27607632",
+    "jd_id": "3902820771",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.354,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): Bachelor's degree in Accounting is relevant but lacks specific details like GPA."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.1 yrs (capped to 17.1), JD requires: 2.0 yrs. | (LLM 0.5): Experience in various roles shows adaptability and skill in different areas, aligning with job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Resume is well-written with no obvious grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership roles or achievements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): Experience in responsibilities like inventory control and purchasing aligns with job responsibilities."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills like Excel, ADP, and QuickBooks, which match the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills like communication and organization are mentioned but could be more detailed."
+        },
+        "tools": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): Experience with tools like Excel matches the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like time management and customer relations are transferable and relevant."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.671
+}

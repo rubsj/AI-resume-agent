@@ -1,0 +1,51 @@
+{
+    "resume_id": "21060367",
+    "jd_id": "3905380171",
+    "domain": "ARTS",
+    "resume_jd_similarity": 0.253,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description requires a PhD."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Family and Consumer Science, which is relevant to the job. However, there is no mention of a PhD, which is preferred."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD required years = 0. | (LLM 0.5): The candidate has relevant experience as a Culinary Arts Instructor and Director of Dining Services, which aligns with the job responsibilities. The experience also includes leadership roles and managing budgets, which are transferable skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks details in some sections, such as specific responsibilities and achievements."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as owner/manager and director of dining services. However, there is no mention of leading research projects or managing budgets in a research setting."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities, such as managing classes, developing programs, and ensuring quality. However, there is no mention of conducting research or managing large-scale studies."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as teaching, instruction, and culinary arts, which align with the job requirements. However, there is no mention of finance or sales, which are required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like teaching, coaching, and customer service, which align with the soft skills required. However, there is no mention of strong organizational skills, attention to detail, or cultural competence."
+        },
+        "tools": {
+            "score": 0.06,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['STATA (fuzzy)', 'R (substring)'] | (LLM 0.4): No tools or technologies used are mentioned in the resume, whereas the job description requires proficiency in STATA, R, Python, and other statistical software."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like leadership, instruction, and management, which are transferable to the job responsibilities. However, there is no mention of specific skills like conducting research or managing large-scale studies."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.593
+}

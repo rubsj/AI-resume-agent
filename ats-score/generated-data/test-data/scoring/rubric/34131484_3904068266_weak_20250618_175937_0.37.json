@@ -1,0 +1,51 @@
+{
+    "resume_id": "34131484",
+    "jd_id": "3904068266",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.364,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, while the job requires a Bachelor's degree in photography or related field."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is not detailed enough to determine if they have the required degree or qualifications for the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in sales, which aligns with the job requirements. However, the job specifically requires photography skills, which are not mentioned in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, which is not explicitly required for the job but could be beneficial."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not detailed enough to match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'billing', 'credit', 'customer service', and 'Experienced in FileMaker'. However, there is no mention of digital photography or film photography which are required skills for the job."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions 'exceptional customer services skills', which aligns with the job requirement of excellent communication skills. However, there is no mention of a keen eye for detail, which is another soft skill required by the job."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any tools or technologies used, while the job requires knowledge of digital photography, film photography, and other photography-related tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'customer service' and'sales', which could be beneficial in a retail/e-commerce setting. However, these skills are not directly related to photography."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.372
+}

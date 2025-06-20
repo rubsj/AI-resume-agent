@@ -1,0 +1,51 @@
+{
+    "resume_id": "10070224",
+    "jd_id": "3902842914",
+    "domain": "PUBLIC-RELATIONS",
+    "resume_jd_similarity": 0.236,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which is a requirement for the job."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds Master's and Bachelor's degrees in Mass Communication, which is relevant to the job description's required degree in Criminal Justice."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in public relations and communications, which aligns with the job responsibilities. However, the job description requires specific experience in law enforcement or police work, which is not mentioned in the candidate's resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, indicating a high level of professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide details on leadership roles or achievements that align with the job responsibilities listed in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on leadership or responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate possesses skills in Microsoft Office Suite, which aligns with the required tools in the job description. However, there is no mention of Google Workspace, which is also listed as a preferred tool."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions professional affiliations and awards, which could indicate strong soft skills such as leadership and integrity. However, there is no direct mention of the soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.49,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office Suite, which is a required tool. However, there is no mention of Google Workspace, which is also listed as a preferred tool."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in communication and management, which are relevant to the job description. However, there is no mention of IT skills or technology proficiency, which are also listed as required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.473
+}

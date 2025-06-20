@@ -1,0 +1,51 @@
+{
+    "resume_id": "28419173",
+    "jd_id": "3905368524",
+    "domain": "HR",
+    "resume_jd_similarity": 0.494,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, which are required for the job."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BS in Business Management and AS in Human Resource Management, which are relevant to the job description's inferred domain of human services. However, the lack of a degree in psychology or sociology reduces the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.8 yrs (capped to 3.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in administrative roles that involve coordination, planning, and organization, which align with the job responsibilities. However, the lack of experience directly related to eligibility analysis reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have any leadership experience listed, which is not explicitly required but could be beneficial for the role."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any responsibilities listed that match the job responsibilities described in the job description."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'administrative support', 'problem solving', and 'oral communication', which align with the job description's required skills of 'Business Development' and 'Sales'. However, there is no direct match for 'Business Development' and 'Sales' skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has soft skills such as'strong writing skills', 'interpretation of SNAP policy', and 'proficiency in all Microsoft office programs', which align with the job description's soft skills. However, the lack of specific soft skills such as 'ability to gather information' reduces the score."
+        },
+        "tools": {
+            "score": 0.132,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['ARIES (fuzzy)', 'TEA (substring)'] | (LLM 0.4): The candidate does not have any tools or technologies listed, which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'administrative support', 'problem solving', and 'oral communication', which could be applied to the job responsibilities. However, the lack of specific skills such as 'business development' and'sales' reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.47
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "25330083",
+    "jd_id": "3903818860",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.306,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed in the candidate's resume match the job description's requirement for specific technologies or skills."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Administration-Finance, which is relevant to the job description's requirement for a degree in Financial Services. However, the lack of specific details about the institution and GPA reduces the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 19.8 yrs (capped to 19.8), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in financial management and budgeting, which aligns with the job description's requirement for experience in IT and financial services. However, the job description does not specify the level of experience required, and the candidate's experience is in a different domain."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, which indicates a high level of professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership skills, such as managing a team and training new members, align with the job description's requirement for leadership. However, the job description does not specify the level of leadership required, and the candidate's skills are in a different domain."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in financial management and budgeting align with the job description's requirement for responsibilities in IT and financial services. However, the job description does not specify the level of responsibilities required, and the candidate's responsibilities are in a different domain."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills in Accounting and Financial Management, which align with the job's requirement for Engineering and Information Technology skills. However, there is no direct match with Azure Databricks, ADF, ADLS, Synapse, Python, Spark, T-SQL, Azure Data Factory, PySpark, GIT, Jenkins, Terraform, which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as customer focus, teamwork, ownership, integrity, and inclusivity, align with the job description's requirement for soft skills. However, the job description does not specify the level of soft skills required, and the candidate's skills are in a different domain."
+        },
+        "tools": {
+            "score": 0.019,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Spark (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, which contrasts with the job description's requirement for specific tools like Azure Databricks, ADF, ADLS, Synapse, Python, Spark, T-SQL, Azure Data Factory, PySpark, GIT, Jenkins, Terraform."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as attention to detail, flexibility, self-motivation, problem-solving, team player, dependability, initiative, dedication, and passion, align with the job description's requirement for soft skills. However, the job description does not specify the level of soft skills required, and the candidate's skills are in a different domain."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.504
+}

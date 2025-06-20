@@ -1,0 +1,51 @@
+{
+    "resume_id": "37374340",
+    "jd_id": "3902863976",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.361,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed in the resume."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only a High School Diploma and Some College (No Degree) education, which may not meet the minimum requirement of a Bachelor's or Master's degree in a relevant technical field."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 16.9 yrs (capped to 16.9), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare and life sciences, particularly in senior outreach and administration roles, which aligns with the job requirements. The experience includes counseling, eligibility assessment, customer service, and program management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions being a 'Creative and adaptable leader', but the resume lacks details on leadership achievements or specific leadership roles held."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on responsibilities that match the job responsibilities outlined in the job description, such as leading technical strategy, managing projects, and serving as a technical advisor."
+        },
+        "skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 2, 'fuzzy': 0}. Matched skills: ['Communication (exact)', 'Team management (substring)', 'AI (substring)'] | (LLM 0.4): The candidate has relevant skills in 'Confidential data protection', 'Data entry', 'Scheduling clients for evaluations for Managed Long Term Care Intake', 'Submission of Medicaid applications for clients', 'Intake and submission of Pool Trust for Long Term Care clients', and 'Excellent Communication skills'. However, the resume lacks specific technical skills required for the role such as 'Engineering', 'Information Technology', 'Strategy/Planning', 'Cloud technologies', 'AI', 'Machine learning', 'Health insurance', 'Life sciences', 'Drug commercialization', 'Patient claims', 'Real-world data', 'EHR/EMR', 'Market access', 'Medical affairs', and 'Regulatory landscape'."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions 'Exceptional leadership', 'Communication', and 'Interpersonal skills', which are aligned with the soft skills required for the role. However, the resume lacks specifics on how these skills have been applied in previous roles."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any tools or technologies used, which is crucial for a Data Engineering role requiring proficiency in Azure, AWS, and General AI."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'Client interaction', 'Reliability', and 'Patience', which could be beneficial in a leadership role. However, the resume lacks specific examples of how these skills have been utilized in a professional setting."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.4
+}

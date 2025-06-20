@@ -1,0 +1,51 @@
+{
+    "resume_id": "39247950",
+    "jd_id": "3902333139",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.356,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has ITIL certification, which is relevant but not a CPA certification, which is preferred in the job description."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest education is a Bachelor of Engineering, which does not match the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.476,
+            "reason": "(Rule 0.5): Resume: 3.8 yrs (capped to 3.8), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has experience in software engineering roles that align with the job responsibilities, but the experience is not as extensive as the required experience years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly demonstrate leadership skills in a tax or finance context, which is required for the position."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to software development and support, but does not cover the specific responsibilities listed in the job description such as Public Country by Country Reporting and global Pillar 2 calculation."
+        },
+        "skills": {
+            "score": 0.388,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills in.NET, ASP.NET, C#, SQL, and Business Objects, which align with the job requirements. However, there is no mention of advanced skills in financial modeling or specific tools like HFM, SAP, or Wdesk."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership and communication skills, but these are not as detailed or specific as those required in the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with some tools mentioned in the job description, such as Business Objects and SQL Server, but lacks experience with HFM, SAP, and Wdesk."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like project management, customer satisfaction, and technical support, which could be beneficial in a leadership role, but they lack specific skills in financial modeling and advanced tax knowledge."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.368
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "16300459",
+    "jd_id": "3905206833",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.35,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Finance and a Bachelor's degree in International Economics and Trade, which are relevant to the job requirements. The lack of GPA information does not significantly impact the score."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant work experience in finance-related roles, including financial analysis and customer management. However, the job description requires entry-level experience, and the candidate has more than two years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not provide evidence of leadership skills, which are not explicitly mentioned in the resume but could be inferred from the experience section."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not provide specific examples of responsibilities that match those listed in the job description."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills in finance and sales, which align with the job requirements. However, there is no mention of proficiency in Cadence procedures or specific accounting software."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong interpersonal communication skills, which align with the job requirements. However, there is no explicit mention of self-starter attitude, cooperative teamwork, or regular and reliable attendance."
+        },
+        "tools": {
+            "score": 0.115,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 1}. Matched: ['Computer (exact)', 'Accounting software (substring)', 'Forms (fuzzy)'] | (LLM 0.4): The candidate does not list proficiency in any tools mentioned in the job description, such as Cadence procedures, Microsoft Office, adding machine, typewriter, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as attention to detail, organizational skills, and analytical skills, which are relevant to the job requirements. However, there is no explicit mention of computer skills or ability to operate standard office equipment."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.418
+}

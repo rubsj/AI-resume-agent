@@ -1,0 +1,51 @@
+{
+    "resume_id": "23864648",
+    "jd_id": "3905302212",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.223,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, and the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists two degrees, but neither directly matches the job description's educational requirements."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in IT infrastructure management, network operations, and system administration, which aligns well with the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing infrastructure operations demonstrates leadership skills, though the job description does not explicitly require leadership."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing infrastructure operations, leading teams, and overseeing IT projects align with the job description's responsibilities, though there is no direct mention of ADAS functionalities or real-time systems."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in infrastructure management, data center operations, project management, team building/coaching, vendor management, budget management, policy/program development, LAN/WAN, SAN, firewalls, and routers, which aligns well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in team building, coaching, vendor management, and documentation align with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.03,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Simulation Tools (fuzzy)', 'Training (exact)'] | (LLM 0.4): The job description mentions tools such as software tools, hardware-in-the-loop setups, simulation tools, data analysis tools, model-based design tools, automotive communication protocols, and software development tools, but these are not explicitly mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in problem-solving, communication, and collaboration are transferable to the role, but there is no explicit mention of model-based design or AUTOSAR."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.51
+}

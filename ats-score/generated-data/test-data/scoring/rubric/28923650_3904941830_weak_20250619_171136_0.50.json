@@ -1,0 +1,51 @@
+{
+    "resume_id": "28923650",
+    "jd_id": "3904941830",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.206,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No specific certifications are mentioned in the resume that match the job description's requirements."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a PhD and MS in Mechanical Engineering from a reputable institution, which matches the educational requirements of the job description."
+        },
+        "experience": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has relevant experience in research and development, which aligns with the job responsibilities. However, the lack of direct experience in chemical engineering reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Research (exact)', ' (substring)'] | (LLM 0.4): The candidate has a strong background in mechanical engineering and relevant skills such as ANSYS, MATLAB, and CAD, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in decision-making, designing, and experimentation align with the soft skills required. However, the lack of explicit communication and teamwork skills reduces the score."
+        },
+        "tools": {
+            "score": 0.54,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Matlab (exact)'] | (LLM 0.4): The candidate has experience with tools like ANSYS, MATLAB, and CAD, which are mentioned in the job description. However, there is no explicit mention of proficiency in Matlab or similar platforms."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in teaching and research and design are transferable but may not be directly applicable to the chemical engineering field."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.498
+}

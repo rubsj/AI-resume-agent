@@ -1,0 +1,51 @@
+{
+    "resume_id": "45656814",
+    "jd_id": "3904722899",
+    "domain": "FITNESS",
+    "resume_jd_similarity": 0.26,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the requirements of the job description."
+        },
+        "education": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists degrees in Education and Physical Education, which align with the job description's domain of Athletics, but lacks details on the qualifications or achievements related to the field."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 15.9 yrs (capped to 15.9), JD requires: 2.0 yrs. | (LLM 0.5): The resume provides detailed work experience in teaching and managing children, which aligns well with the job description's responsibilities in managing grounds and staff."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or roles in the resume align with the job description's requirement for leadership in managing staff."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide evidence of responsibilities that align with the job description's responsibilities, such as supervising staff or contributing to budget preparation."
+        },
+        "skills": {
+            "score": 0.336,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The resume includes skills relevant to the job description, such as teaching and child care, but lacks specific technical skills mentioned in the job description like Management and Manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions soft skills like organization and positivity, which are relevant, but lacks specific examples or quantifiable achievements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools or technologies used in the resume matches those listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like teaching and child care management are transferable to the job description's focus on managing grounds and staff."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.34
+}

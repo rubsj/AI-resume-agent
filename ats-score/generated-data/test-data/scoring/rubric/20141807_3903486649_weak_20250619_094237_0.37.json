@@ -1,0 +1,51 @@
+{
+    "resume_id": "20141807",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.342,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, which are required for the job."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education is not relevant to the job requirements."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 15.7 yrs (capped to 15.7), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in sales and operations, which aligns with the job requirements. However, the experience is not as recent or as detailed as what is expected for a mid-senior level position."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate leadership skills or experience that align with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have responsibilities that match the job requirements."
+        },
+        "skills": {
+            "score": 0.336,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has skills in 'balance', 'book', 'database', 'Debit', 'documentation', 'email', 'Forms', 'front office', 'IMS', 'inventory', 'Legal', 'notes','money', 'Outlook', 'Enterprise', 'newsletters','sales', 'take messages', 'phone', 'Type', 'website'. These skills align with the job requirements but are not as extensive as required skills like 'Information Technology', 'Purchasing', and 'Supply Chain'."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have soft skills that match the job requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have experience with tools like Excel, SQL, or Process Improvement Techniques, which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'balance', 'book', 'database', 'Debit', 'documentation', 'email', 'Forms', 'front office', 'IMS', 'inventory', 'Legal', 'notes','money', 'Outlook', 'Enterprise', 'newsletters','sales', 'take messages', 'phone', 'Type', 'website'. These skills can be transferred to the new role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.373
+}

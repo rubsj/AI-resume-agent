@@ -1,0 +1,51 @@
+{
+    "resume_id": "17488801",
+    "jd_id": "3904984648",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.256,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have a Professional Engineer (PE) license, which is a required certification in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science in Mechanical Engineering, which is close to the required degree in the job description but not exactly specified."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in engineering management and quality management, which aligns well with the job responsibilities. However, the job description focuses more on electrical engineering rather than mechanical engineering."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience as an Engineering Manager and Quality Manager, indicating strong leadership skills. The job description mentions leadership responsibilities, so the candidate's experience aligns well with these requirements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes managing teams and departments, which aligns with some of the responsibilities listed in the job description. However, the job description focuses more on electrical engineering tasks rather than mechanical engineering tasks."
+        },
+        "skills": {
+            "score": 0.776,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Engineering (exact)', 'Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has experience with AutoCAD and Microsoft Office, which matches the required tools in the job description. The candidate also has expertise in various ERP systems, which is beneficial but not explicitly mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not mention specific soft skills, so it's unclear if the candidate possesses any that match the requirements."
+        },
+        "tools": {
+            "score": 0.7,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['AutoCAD (exact)', 'Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with AutoCAD and Microsoft Office, which matches the required tools in the job description. The candidate also has experience with various ERP systems, which is beneficial but not explicitly mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in project management, quality management system implementation, production and engineering management, staff development, cost reduction, process development and documentation, process improvement/simplification, source evaluation and selection, which are transferable skills relevant to the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.559
+}

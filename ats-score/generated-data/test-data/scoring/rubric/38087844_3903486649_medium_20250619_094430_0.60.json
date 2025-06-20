@@ -1,0 +1,51 @@
+{
+    "resume_id": "38087844",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.362,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed, which might be a concern given the job's emphasis on IT skills."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a degree in Business Administration and a High School Diploma, but the lack of specific field details and GPA suggests a lower fit with the job's educational requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 22.7 yrs (capped to 22.7), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in various sales roles, including timeshare sales, real estate, and founding companies, which directly matches the job's experience requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in founding and leading companies, which indicates strong leadership skills. However, there is no explicit mention of leading cross-functional teams or driving strategic initiatives."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that match the job's responsibilities, such as leading teams and managing projects, but there is no direct alignment with driving cross-functional strategic initiatives."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills in Sales, Sales Management, and Workflow, which align with the job requirements. However, there is a lack of specific IT skills mentioned."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like leadership and problem-solving, which are aligned with the job's requirements. However, there is no explicit mention of self-starting, data analytical capabilities, or customer-centric philosophy."
+        },
+        "tools": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Excel, which is a required tool, but lacks explicit mention of SQL and other advanced tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, administrative support, and business plans are transferable, but they do not directly match the job's specific requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.598
+}

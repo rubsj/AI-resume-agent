@@ -1,0 +1,51 @@
+{
+    "resume_id": "22946204",
+    "jd_id": "3902754589",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.263,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required ASE, Master, or Brand Certified certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Master's degree in Mechanical Engineering from a reputable university, aligning with the educational background expected for the position."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in R&D product development and research assistance, which aligns with the job responsibilities. However, the lack of direct automotive industry experience may slightly reduce the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership roles or achievements that could indicate the candidate's ability to lead teams or manage projects."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not explicitly list responsibilities that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Mechanical Engineering, CAD, and Assembly Language, but lacks specific skills like Management and Manufacturing mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks explicit soft skills that are crucial for the role, such as good work ethic, problem-solving skills, positive attitude, and teamwork."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No mention of specific tools or technologies used that match the requirements of the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like data analysis, programming, and mechanical design, which could be applicable in the automotive industry. However, the lack of direct automotive industry-specific skills reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.434
+}

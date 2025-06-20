@@ -1,0 +1,51 @@
+{
+    "resume_id": "32308556",
+    "jd_id": "3902963119",
+    "domain": "HR",
+    "resume_jd_similarity": 0.331,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, which may be preferred by the employer based on the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Business Administration and a Bachelor's degree in Entrepreneurship, which are relevant to the job requirements. However, the expected graduation date from the MBA program is not completed, which may affect the candidate's eligibility for the position."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as an HR Volunteer Assistant Manager, which matches the job requirements. However, the experience is not detailed enough to fully assess the candidate's qualifications."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not provide any information on leadership experience, which is a key requirement for the job."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not provide any information on responsibilities, which is crucial for assessing their fit for the job."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as Human Resource Management, Leadership, and Strategic Management, which match the job requirements. However, there are some discrepancies in the skill list that do not align with the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any soft skills, which are important for the job role."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any specific tools or technologies used in their experience, which may be important for the job role."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not provide any information on transferable skills, which could enhance their application."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.353
+}

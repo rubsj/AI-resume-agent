@@ -1,0 +1,51 @@
+{
+    "resume_id": "23138078",
+    "jd_id": "3905650597",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.294,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed on the candidate's resume, which contrasts with the job description's preference for a professional certification in HSE-related fields."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA in Health Services Administration, which aligns with the job description's requirement for a college, university, or equivalent degree in health, safety, environment, engineering, or related field. However, the lack of specific GPA information may be seen as less favorable."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in healthcare administration, human resources, and operations management, which directly matches the job responsibilities outlined in the description. The detailed job descriptions provide clear evidence of past achievements and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in some sections could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): While the candidate has experience in directing multiple healthcare administrative affairs, there is no explicit mention of leadership skills or certifications that would indicate a high level of leadership proficiency."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume includes responsibilities that closely match those listed in the job description, such as managing health, safety, and environmental operations, leading training programs, and conducting safety investigations."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a comprehensive list of skills including active learning, critical thinking, customer service, and proficiency in Microsoft Office tools, which align well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are generally aligned with the job description's expectations, including promoting health and safety awareness and working cross-functionally. However, there is no explicit mention of leadership skills, which could be crucial for the role."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned on the candidate's resume, which contrasts with the job description's emphasis on skills like training delivery and risk assessment."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as multi-task management, prioritization, and customer service, which are beneficial but not as extensively detailed as those required by the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.546
+}

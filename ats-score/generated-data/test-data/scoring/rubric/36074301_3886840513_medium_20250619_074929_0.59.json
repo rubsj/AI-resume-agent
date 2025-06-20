@@ -1,0 +1,51 @@
+{
+    "resume_id": "36074301",
+    "jd_id": "3886840513",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.295,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a CIPS certification, relevant to international sales, but lacks other certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is not directly aligned with the job requirements, lacking specific degrees in manufacturing or management."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive sales experience, including international sales, which closely matches the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or achievements, which are important in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as maintaining customer service and ensuring compliance with policies, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has strong sales experience and bilingual skills, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include customer service and strong sales experience, which are soft skills relevant to the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies are listed in the candidate's resume that match those required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in account management and customer service are transferable to the retail/food industry, though they may not be as specialized as required."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.59
+}

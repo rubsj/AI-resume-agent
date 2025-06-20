@@ -1,0 +1,51 @@
+{
+    "resume_id": "12526702",
+    "jd_id": "3902757168",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.371,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the candidate's resume, and there is no mention of required certifications in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Electrical Engineering from Northeastern University, which aligns with the preferred degrees in the job description. However, the second degree is unspecified and does not match the preferred degrees."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 30.4 yrs (capped to 30.4), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that involve engineering, quality management, and project management, which matches the job responsibilities and required experience years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles such as Principal Electrical Engineer and Consultant, which aligns with the job responsibilities. However, there is no explicit mention of leadership skills in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as project management, quality improvement, and technical support, which align with the job responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in electrical engineering and quality engineering, aligning well with the required skills in consulting, engineering, and science. The skills listed also match the tools and technologies mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows proficiency in managing projects, quality management, and client relationship management, which aligns with the soft skills mentioned in the job description. However, there is no explicit mention of computer literacy, written communication, or verbal communication."
+        },
+        "tools": {
+            "score": 0.55,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 2}. Matched: ['Microsoft Word (fuzzy)', 'Excel (exact)', 'PowerPoint (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools like Word, Excel, PowerPoint, and MS Access, which are mentioned in the job description. However, there is no explicit mention of Blue Beam, another tool mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in problem-solving, programming, and project management are transferable to the role, as these skills are mentioned in the job description. However, there is no explicit mention of specific skills like OSHA training or technical report writing."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.513
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "22925443",
+    "jd_id": "3904422494",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.264,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not specify any required certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in Accounting, which is relevant to the job, but the GPA is not provided, which could indicate academic performance."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 18.0 yrs (capped to 18.0), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting and laboratory work, which aligns with the job responsibilities. However, the job requires more specific experience in campus operations and management."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume, which is a requirement for the job."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume lacks details about responsibilities that directly match the job responsibilities listed in the job description, particularly those related to campus operations and management."
+        },
+        "skills": {
+            "score": 0.248,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Strong communication (fuzzy)'] | (LLM 0.4): The candidate has relevant skills in Microsoft Office, math, data analysis, communication, organization, and physical dexterity, which align with the job requirements. However, there is no mention of management or manufacturing skills, which are explicitly required."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as strong communication and interpersonal skills, which are aligned with the job requirements. However, the resume does not provide evidence of customer-centered approach."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of specific tools or technologies used in the resume, while the job description mentions a Computerized Maintenance Management System (CMMS), which is a requirement."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like proficiency in Microsoft Office, math, and communication, which can be applied across various industries. However, the lack of specific experience in campus operations limits the transferability."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.417
+}

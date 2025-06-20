@@ -1,0 +1,51 @@
+{
+    "resume_id": "32308556",
+    "jd_id": "3904954963",
+    "domain": "HR",
+    "resume_jd_similarity": 0.314,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume that match the job requirements."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Master's degree in Business Administration and a Bachelor's degree in Entrepreneurship, which are relevant to the job requirements. However, the expected graduation date for the MBA indicates that the degree may not be completed by the time of application."
+        },
+        "experience": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience as an HR Volunteer Assistant Manager, but the job description requires at least 5 years of related experience specifically in payroll and benefits processing, which is not clearly stated in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that matches the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Human Resource Management, Leadership, and Project Management, which align with the job requirements. However, there is a lack of specific technical skills like proficiency in Ceridian Dayforce or ADP."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions some soft skills like attention to detail and customer-service orientation, which are aligned with the job requirements. However, there is no explicit mention of high-level proficiency with technology platforms."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any specific tools or technologies used in their experience, which contrasts with the job requirements that specify proficiency in Ceridian Dayforce and ADP."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes a section with additional skills, some of which are transferable to the job requirements, such as Advertising and Marketing Management. However, there is no clear alignment with the specific job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.407
+}

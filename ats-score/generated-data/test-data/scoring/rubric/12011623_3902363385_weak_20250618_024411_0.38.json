@@ -1,0 +1,51 @@
+{
+    "resume_id": "12011623",
+    "jd_id": "3902363385",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.365,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Analytics and Environmental Science, which aligns with the job requirements. However, the GPA for the Environmental Science degree is missing."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD required years = 0. | (LLM 0.5): The candidate has experience in engineering, lecturing, and natural resource management, which is relevant. However, the job description requires less than 5 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No responsibilities are mentioned in the resume that match the job description's requirements."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Engineering (exact)', 'Science (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Engineering', 'Project Management', and 'Science'. However, there is no mention of specific certifications or tools like GIS or CADD."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned in the resume that match the job description's requirements."
+        },
+        "tools": {
+            "score": 0.12,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['GIS (exact)'] | (LLM 0.4): No mention of specific tools like Microsoft Excel, GIS, or CADD in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'data analysis', 'data mining', and 'data warehousing'. However, these do not directly align with the job description's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.378
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "11262933",
+    "jd_id": "3901685082",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.377,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications like 'Certification as Nursing Assistant' and 'MLS Real Estate School', but lacks the required CPA certification."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education includes only two degrees and no formal accounting or finance qualifications, which are preferred in the job description."
+        },
+        "experience": {
+            "score": 0.696,
+            "reason": "(Rule 0.5): Resume: 7.1 yrs (capped to 7.1), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles such as 'Account Receivable', 'Treasury Services Advisor', and 'Lead Ops Representative'. However, the experience is shorter than the required 12 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or achievements, which are important in a managing director position."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned in the job description, but there is a lack of detail on how they have led teams or managed projects."
+        },
+        "skills": {
+            "score": 0.293,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Excel (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'accounting', 'business development', and 'consulting'. However, there is a lack of specific technical skills like 'US GAAP' and 'operational accounting' which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'communication', 'attention to detail', and 'initiative', which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with tools like 'Excel', which is listed in the job description as a required skill."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'data entry', 'customer service', and 'team management', which can be applied in a financial consulting role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.465
+}

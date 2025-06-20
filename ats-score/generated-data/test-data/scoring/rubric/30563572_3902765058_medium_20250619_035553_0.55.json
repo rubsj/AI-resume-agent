@@ -1,0 +1,51 @@
+{
+    "resume_id": "30563572",
+    "jd_id": "3902765058",
+    "domain": "HR",
+    "resume_jd_similarity": 0.28,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a SPHR Certification, which is relevant to the job description's required skills. However, the certification is only mentioned from 2010-present, which might not be sufficient for the required experience years."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a B.S. in Business Administration and an SPHR Certification, but the education details are not as detailed as what is typically expected in a job description. The lack of specific dates and GPA could impact the ATS score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.1 yrs (capped to 17.1), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has over 17 years of experience in Human Resources, which is significantly more than the required 1 year of experience. This extensive experience aligns well with the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The formatting is clean and professional."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership skills or experiences that would indicate a leadership role. Leadership is a key requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job description's responsibilities, particularly in areas like employee relations, talent management, and change management. However, the detailed responsibilities are not as comprehensive as those listed in the job description."
+        },
+        "skills": {
+            "score": 0.536,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'HRIS (exact)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, which aligns well with the job description's required skills. The resume includes skills like 'Employee Relations', 'Talent Management', and 'Change Management', which are crucial for the role."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as critical thinking, communication, problem-solving, adaptability, and empathy, which are aligned with the job description's soft skills. However, the soft skills are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.43,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['HRIS (exact)'] | (LLM 0.4): The candidate's experience includes proficiency in Microsoft Office, HRIS, Applicant Tracking Systems, and Payroll Systems, which are tools mentioned in the job description. However, there is no explicit mention of these tools in the experience section."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as detail-oriented approach, self-motivation, and organizational skills, are relevant to the job description. However, these skills are not explicitly stated in the resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.548
+}

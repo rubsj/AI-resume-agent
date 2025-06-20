@@ -1,0 +1,51 @@
+{
+    "resume_id": "10076271",
+    "jd_id": "3903846383",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.268,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.55,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['BA/BS in Engineering or physical sciences (fuzzy)'] | (LLM 0.5): The candidate holds an MBA and BS in Business Administration, which are relevant to the job but not specifically in engineering or physical sciences."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 24.2 yrs (capped to 24.2), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare management and product development, though the job requires more direct experience in medical device catheter process development."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including CEO and Healthcare Management Representative, which aligns with the job's need for leadership."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some aspects of the job description, such as leading teams and managing projects, but lacks specifics on process development and validation."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has strong skills in Microsoft Office, Internet usage, PC/MAC software proficiency, and specific tools like Microsoft Project, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates skills in persistence, productivity, and collaboration, which are beneficial for the role."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with some tools mentioned in the job description, but not all, particularly those related to medical device manufacturing."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in project management and teamwork, but lacks specific skills in medical device process development."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.528
+}

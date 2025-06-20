@@ -1,0 +1,51 @@
+{
+    "resume_id": "67406885",
+    "jd_id": "3901938725",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.364,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires 'Professional registration (PE or PG)' and 'CHG'."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's degree in geology or engineering (fuzzy)\"] | (LLM 0.5): The candidate has a Bachelor's degree in Mechanical Engineering, but it lacks specific details like GPA or field of study alignment with the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 14.3 yrs (capped to 14.3), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has relevant experience in various engineering roles, including experience in acquisitions, billing, and working with clients, which aligns with the job description. However, the experience is not directly related to remediation or environmental consulting."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with clear sections and grammatical correctness."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate leadership skills or experience, which are required according to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that align with the job description's requirements for collaboration, strategic planning, technical project management, business development, and meeting client expectations."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'acquisitions', 'billing', 'clients', 'Explorer', 'Win', 'PHD', 'progress','record keeping', and 'routing'. However, there is no direct mention of 'Engineering' or 'Science' which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention soft skills such as leadership, business performance goals, risk management, writing, communication, which are required according to the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate does not list any tools or technologies used, whereas the job description does not specify any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like problem-solving, attention to detail, and adaptability, which could be beneficial in environmental consulting. However, these skills are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.425
+}

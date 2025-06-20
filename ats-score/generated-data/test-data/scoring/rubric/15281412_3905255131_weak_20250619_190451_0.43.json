@@ -1,0 +1,51 @@
+{
+    "resume_id": "15281412",
+    "jd_id": "3905255131",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.317,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which may be preferred or required by the employer."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Bachelor's degree in Business Administration and an A.A.S DP in Computer/Applied Science, which are relevant to the job description. However, the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 39.2 yrs (capped to 39.2), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has over 30 years of experience in application development and management, closely matching the required experience level of 8+ years. The detailed job descriptions show proficiency in various technologies and processes that are aligned with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are some inconsistencies in formatting and missing details, such as the lack of a clear summary statement and missing GPA information."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly demonstrate leadership skills through specific examples or titles, which is a key requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not explicitly mention any responsibilities that match the job description's list of responsibilities, which includes strategic planning, project management, and leadership roles."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)', ', (substring)'] | (LLM 0.4): The candidate has extensive experience in.NET technologies such as C#, Visual Studio, and TFS, which aligns well with the required skills in the job description. The resume also mentions technical leadership, which is a soft skill valued in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks explicit statements about soft skills such as flexibility, resilience, drive, and discipline, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Visio (fuzzy)'] | (LLM 0.4): The candidate does not list any tools or technologies used in their experience, which contrasts with the job description's requirement for familiarity with tools like Microsoft Office, Project Management, Smartsheet, AirTable, Visio, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight any transferable skills that could be directly applied to the job responsibilities, such as problem-solving, communication, or adaptability."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.432
+}

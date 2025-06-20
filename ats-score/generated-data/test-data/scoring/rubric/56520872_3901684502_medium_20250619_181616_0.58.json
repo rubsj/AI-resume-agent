@@ -1,0 +1,51 @@
+{
+    "resume_id": "56520872",
+    "jd_id": "3901684502",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.343,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has certifications such as 'BLS' and 'CNOR'. However, there is no direct match for the required certification 'DCC Parole/Probation Officer' mentioned in the job description."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has completed Master's, Bachelor's, and Diploma degrees in Nursing, which aligns well with the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in various healthcare roles, including RN, RN Supervisor, RN Case Manager, etc., which closely matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the candidate's resume that align with the job description's leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job responsibilities, such as maintaining patient care, reporting, and supervising, but lacks specific details like drug testing and warrant handling."
+        },
+        "skills": {
+            "score": 0.688,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Other (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'acute care', 'billing', 'Case management', 'charts', 'chemotherapy', 'closing', 'coaching', 'Client', 'clients', 'discharge planning', 'insurance', 'director','meetings', 'presenting', 'quality', 'Quest','reporting','supervising', 'telecommunication', 'wound care'. However, there is no direct match for 'Information Technology', 'Management', and 'Other' skills listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are explicitly mentioned in the candidate's resume that align with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume that directly correspond to the job description's tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills that can be transferred to the role, such as communication, problem-solving, and patient care, but lacks specific skills like Information Technology and Management."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.583
+}

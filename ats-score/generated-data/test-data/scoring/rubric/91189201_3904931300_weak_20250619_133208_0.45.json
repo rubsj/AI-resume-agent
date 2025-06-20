@@ -1,0 +1,51 @@
+{
+    "resume_id": "91189201",
+    "jd_id": "3904931300",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.361,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in Business Technology and Computer Science, which are relevant to the job requirements. However, the job description prefers degrees in Environmental Science or Civil/Environmental Engineering."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in product marketing and consulting, but there is no direct experience in environmental projects or manufacturing, which are key areas mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, which indicates potential leadership skills. However, there is no explicit mention of leadership skills required for the job."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There is no clear alignment between the candidate's responsibilities and the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in Web Services, which aligns with the job requirements. However, there is no mention of specific environmental or manufacturing skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles and has received awards, which could indicate strong soft skills. However, there is no explicit mention of the soft skills required for the job."
+        },
+        "tools": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Excel, which is mentioned in the job description. However, there is no mention of other tools or technologies required for the role."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like project management, data management, and client interaction, which could be useful in the job. However, these skills are not directly aligned with the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.446
+}

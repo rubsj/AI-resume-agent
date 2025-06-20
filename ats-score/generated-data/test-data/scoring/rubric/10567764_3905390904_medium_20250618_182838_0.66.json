@@ -1,0 +1,51 @@
+{
+    "resume_id": "10567764",
+    "jd_id": "3905390904",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.329,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate possesses certifications like Aviation Structural Mechanics Common Core, Class A1, and Aircraft Paint/Finish, which are relevant but not all required by the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education includes a certificate in Aircraft Coating Technician and Welding, which may not directly align with the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in aircraft-related roles, including supervision, which matches the job description's requirement for experience in aviation."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's role as a supervisor indicates leadership experience, which is relevant to the job description's requirement for leadership."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like aircraft painting and maintenance, which align with the job responsibilities, but the job description also requires research and development testing, which is not explicitly mentioned in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as aircraft painting, aircraft worker, and supervisor roles which align with the job responsibilities requiring aircraft piloting and research and development testing."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not mention any soft skills, so there is no basis to evaluate the candidate's soft skills."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the candidate's resume that directly match the job description's requirements."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in blueprints, charts, color, office, painting, power tools, publications, maintaining records, and supervising are transferable to the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.663
+}

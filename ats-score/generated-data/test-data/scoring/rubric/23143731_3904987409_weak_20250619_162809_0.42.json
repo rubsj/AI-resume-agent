@@ -1,0 +1,51 @@
+{
+    "resume_id": "23143731",
+    "jd_id": "3904987409",
+    "domain": "PUBLIC-RELATIONS",
+    "resume_jd_similarity": 0.337,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications mentioned in the resume match the requirements in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's degree in Communications, Marketing, or related field (fuzzy)\"] | (LLM 0.5): The candidate holds a BA in Journalism-History, but the degree does not directly align with the required Bachelor's degree in Communications or Marketing."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in various roles that involve public relations, marketing, and communications, which aligns with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the responsibilities listed in the job description, such as developing communication plans and writing/editing content."
+        },
+        "skills": {
+            "score": 0.704,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Marketing (exact)', 'Public Relations (substring)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Marketing, Public Relations, Writing/Editing, and has experience in developing press releases, media plans, and newsletters."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates strong interpersonal skills, attention to detail, and ability to meet deadlines, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of specific tools or technologies used in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills across different roles, but there is no explicit mention of skills like collaboration or stakeholder management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.421
+}

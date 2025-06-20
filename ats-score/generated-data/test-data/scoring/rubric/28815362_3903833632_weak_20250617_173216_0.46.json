@@ -1,0 +1,51 @@
+{
+    "resume_id": "28815362",
+    "jd_id": "3903833632",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.269,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds an Engineer in Training Certification (EIT), which is relevant but not as specific as the Bachelor's degree in civil/transportation engineering preferred in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Civil Engineering and a Bachelor's degree in Construction Technology, which aligns well with the job requirements. However, the additional Bachelor's degree in Mathematics does not seem directly relevant."
+        },
+        "experience": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction inspection and project management, which matches the job responsibilities. The detailed job history provides evidence of skills such as supervision, compliance with regulations, and documentation."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The job description also appears to be well-written."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes supervising employees, which could indicate leadership skills. However, the job description does not require specific leadership qualifications."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like project supervision, compliance checks, and documentation, which align with the job responsibilities. However, the job description does not specify any particular responsibilities."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has a strong set of skills relevant to the job, including proficiency in Microsoft Office, AutoCAD, and other engineering tools. However, there is no mention of specific leadership or management skills required in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide clear examples of soft skills such as communication or teamwork, which are often required in engineering roles. The job description does not list any specific soft skills either."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate lists proficiency in several tools, including Microsoft Office, AutoCAD, and MATLAB, which are relevant to the job description. However, the job description specifically mentions CADD as a required tool, which is not explicitly mentioned in the candidate's skills."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like problem-solving, attention to detail, and technical proficiency are transferable to the job. However, the job description does not emphasize these skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.459
+}

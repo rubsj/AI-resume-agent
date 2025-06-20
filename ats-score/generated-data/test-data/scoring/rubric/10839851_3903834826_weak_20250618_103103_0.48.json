@@ -1,0 +1,51 @@
+{
+    "resume_id": "10839851",
+    "jd_id": "3903834826",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.395,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, whereas the job description does not explicitly require any."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lacks specific details such as degree, field, institution, year, and GPA, making it difficult to assess the candidate's educational background against the job description."
+        },
+        "experience": {
+            "score": 0.925,
+            "reason": "(Rule 0.5): Resume: 13.1 yrs (capped to 13.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in Information Technology, particularly in roles that involve project management, troubleshooting, and system maintenance, which aligns well with the job description's responsibilities. The experience is also recent."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for missing details in the education section."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume, which is important for a senior-level position as indicated in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like project planning, system maintenance, and troubleshooting, which are relevant to the job description's responsibilities. However, the resume does not detail specific responsibilities related to infrastructure implementation."
+        },
+        "skills": {
+            "score": 0.492,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)'] | (LLM 0.4): The candidate has relevant skills in Information Technology and Desktops, which align with the job description's required skills. However, there are no specific certifications mentioned, and the education details are incomplete."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section indicates proficiency in areas like software knowledge and ITSM, which can be considered soft skills. However, there is no direct mention of strategic planning, team collaboration, or adaptability, which are mentioned in the job description's soft skills section."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate possesses skills in tools like Ethernet cables, Cisco routers, etc., which are somewhat aligned with the job description's tools and technologies section. However, there is no explicit mention of proficiency in tools like FTP, secure FTP, IBM WebSphere, etc."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section lists various technical skills that can be transferred to the role, but there is no clear indication of how these skills specifically relate to the job responsibilities or the company's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.484
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "33919379",
+    "jd_id": "3905255131",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.41,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the required certifications in the job description such as PMP, Agile, Change Management, LEAN Six Sigma, and CX certification."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a Doctor of Pharmacy degree which is relevant to the job description. However, the Bachelor of Science degree in Economics is not directly related to the job requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.1 yrs (capped to 13.1), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has relevant experience in managing pharmacies, developing compounded medications, and leading teams. However, the job description requires more than 8 years of experience, which is not explicitly stated in the candidate's resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors. The summary is concise and highlights relevant experiences and skills."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide information about leadership roles or achievements that align with the leadership requirements in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information about responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Pharmacy operations, Prescription compounding and dispensing, Inventory control, Non-sterile compounded medication development, Business development, Team building, Patient counseling, Microsoft Office, Intercom Plus, and BestRx. However, there are no specific certifications listed that match the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide information about soft skills that align with the soft skills listed in the job description such as flexible, resilient, driven, disciplined, etc."
+        },
+        "tools": {
+            "score": 0.39,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office, which is listed in the job description. However, there is no mention of other tools such as Smartsheet, AirTable, Visio, Salesforce, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as leadership, teamwork, and problem-solving. However, there is no explicit mention of skills related to project management, strategic planning, or client relationship management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.462
+}

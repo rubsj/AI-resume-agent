@@ -1,0 +1,51 @@
+{
+    "resume_id": "12442909",
+    "jd_id": "3905251486",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.351,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree, but lacks specific certifications like Series 7, FINRA Series 66, and state life and health licenses mentioned in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is relevant to the job description, but lacks specific details such as GPA or field of study."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in various roles that match the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through roles like Director of Finance & Accounts and General Manager, but lacks specific details about leadership responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, particularly in managing clients and providing financial advice."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has experience in Accounting, which aligns with the required skill of Consulting in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as integrity, strong work ethic, team player, and excellent communication skills, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.16,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have direct experience with tools and technologies mentioned in the job description such as Equitable Advisors' training curriculum, client management systems, sales skills, market development, product knowledge, technology systems, and core practice management systems."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like customer relations, management, and financial analysis, which are relevant to the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.518
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "10694288",
+    "jd_id": "3903485863",
+    "domain": "HR",
+    "resume_jd_similarity": 0.337,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the required skills or qualifications in the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor of Science in Organizational Management and Leadership and an Associate of Applied Science in Business Management. While these degrees are related to business management, they do not specifically mention human resources or the required skills in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in human resources, including roles that closely align with the job responsibilities such as HR Leave Coordinator and HR Benefits/Leave Coordinator. The experience demonstrates proficiency in areas like leave policies, benefits consultation, and compliance with regulations."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The summary and descriptions are clear and concise."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership roles or achievements in the resume that would indicate the candidate possesses leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles, such as developing leave trainings, analyzing leave discrepancies, and maintaining compliance with regulations, align well with the job responsibilities that require building mechanisms for scenario planning and preparing communications for executives."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Benefits', 'consultation', 'Content', 'editor', 'HRIS', 'HR', 'insurance', 'all Microsoft', 'Navigator', 'newsletter', 'Page', 'Assist patients', 'payroll', 'payroll processing', 'Personnel Management', 'phone system', 'policies','reporting','research', 'phone', 'website'. These skills align well with the job responsibilities requiring'skilled writer' and 'politically astute' soft skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Content editor', 'Newsletter', and 'Assist patients' demonstrate proficiency in written communication and attention to detail, which are aligned with the soft skill requirement of being a'skilled writer'. However, there is no explicit mention of political acumen or diplomacy, which are part of the preferred soft skills."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are listed in the resume that match the job description requirements."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing personnel transactions, performing audits, and coordinating with payroll shows transferable skills in organizational management and compliance, which are relevant to the job responsibilities but may not be explicitly called out in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.683
+}

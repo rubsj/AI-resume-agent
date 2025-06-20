@@ -1,0 +1,51 @@
+{
+    "resume_id": "56520872",
+    "jd_id": "3905209011",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.4,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has certifications such as 'BLS' issued in 2016 and 'CNOR' but the latter is incomplete and lacks a date. The job description requires specific certifications that are not listed."
+        },
+        "education": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds Master's and Bachelor's degrees in Nursing, which aligns well with the job description requiring a degree in the field of insurance."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.7 yrs (capped to 17.7), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in various roles related to healthcare and nursing, which matches the job description's requirement for experience in the insurance industry. However, the experience does not directly correlate with the role of a Producer Onboarding Advisor."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume that would directly apply to the role of a Producer Onboarding Advisor."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job responsibilities listed in the description do not match the candidate's experience or skills."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'acute care', 'billing', 'Case management', 'charts', 'chemotherapy', 'closing', 'coaching', 'Client', 'clients', 'discharge planning', 'insurance', 'director','meetings', 'presenting', 'quality', 'Quest','reporting','supervising', 'telecommunication', 'wound care'. However, there is no direct match for the required skill'strategic thinking' mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The soft skills mentioned in the job description are not present in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like AMS360, ImageRight, and EPIC, which are not reflected in the candidate's experience or skills."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills that can be transferred to the role, such as communication, teamwork, and problem-solving. However, these skills are not specifically aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.553
+}

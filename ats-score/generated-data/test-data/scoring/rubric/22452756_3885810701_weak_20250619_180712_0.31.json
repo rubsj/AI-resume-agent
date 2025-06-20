@@ -1,0 +1,51 @@
+{
+    "resume_id": "22452756",
+    "jd_id": "3885810701",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.386,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed on the resume."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only mentioned two educational qualifications without specifying degrees or grades, which are not aligned with the job description's preferred degree of High school diploma/GED/equivalent."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in the automotive field, specifically in services engineering, which aligns with the job description. However, the details provided do not explicitly match the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like supervision and sales, which align with the job description. However, there is no explicit mention of installing and repairing auto glass or calibrating automotive safety systems."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Engineer', 'Sales', and 'Supervision'. However, there is no mention of mechanical ability or attention to detail, which are required skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned on the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of any tools used in the candidate's experience matches the job description's required tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like 'Agency', 'Consultation', and 'Clients' which could be transferable to the role, but they lack specific skills like mechanical ability and attention to detail."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.314
+}

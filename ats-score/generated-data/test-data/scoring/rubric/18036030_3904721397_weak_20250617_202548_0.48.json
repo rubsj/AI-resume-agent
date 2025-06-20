@@ -1,0 +1,51 @@
+{
+    "resume_id": "18036030",
+    "jd_id": "3904721397",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.322,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires 'Food Handlers Certification'."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is limited to a High School Diploma and Some College degree, which do not match the job requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in warehouse coordination and management, which aligns with the job description. However, the experience is not as recent as the job posting might prefer."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams in previous roles, which aligns with the job description's requirement for leadership skills. However, the job description does not specify any particular leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the responsibilities listed in the job description, such as maintaining kitchen cleanliness and preparing food items. However, the job description focuses on restaurant management, which is not covered in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Machine operations' and 'Team lead', but lacks specific skills like 'Management' and 'Manufacturing' mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as 'Clear communication' and 'Stress tolerance', are relevant to the job description. However, the candidate lacks specific skills like 'Quick decision-making' mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not mention any specific tools, so there is no basis to evaluate the candidate's proficiency in using tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Machine operations' and 'Team lead', which could be applicable in a restaurant setting. However, the job description focuses on restaurant-specific skills that are not present in the candidate's resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.481
+}

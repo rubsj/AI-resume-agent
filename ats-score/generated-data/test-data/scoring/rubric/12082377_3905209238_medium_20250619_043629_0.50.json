@@ -1,0 +1,51 @@
+{
+    "resume_id": "12082377",
+    "jd_id": "3905209238",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.383,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed in the candidate's resume match the requirements specified in the job description."
+        },
+        "education": {
+            "score": 0.05,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['High school diploma / GED (fuzzy)'] | (LLM 0.5): The candidate's highest education is a High School Diploma, which does not meet the minimum requirement of a Bachelor's degree or higher."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.8 yrs (capped to 12.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales roles that align with the job description's requirements, including experience in territory management, sales, and negotiations. However, the total experience years exceed the preferred range but do not match the required experience years exactly."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership skills or experiences that align with the job description's leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions experience in sales and territory management, which aligns with some responsibilities listed in the job description. However, there is no explicit mention of designing incentive plans or acting as a strategic partner with business leadership."
+        },
+        "skills": {
+            "score": 0.872,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Business Development (substring)', 'Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Business Development', 'Sales', 'Attention to Detail', 'Strong Interpersonal Skills', 'Contracts', 'Credit', 'Clients', 'Database', 'Dependable', 'English', 'Estimating', 'Outlook', 'Natural', 'Negotiator', 'Persuasive', 'Progress', 'Purchasing', 'Sales Management', 'Seminar', 'Spanish', 'Strategic', 'Supervising', 'Tops', 'Trade Shows'. However, there are no direct matches for 'Microsoft products' skill mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights strong interpersonal skills, attention to detail, and dependability, which are aligned with soft skills mentioned in the job description. However, there is no explicit mention of providing strong guidance or recommendations based on analytics."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, specifically Microsoft products like Excel, Access, or PowerPoint."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes skills like 'Business Development', 'Organized', 'Fast Learner', 'Natural Leader', which can be considered transferable skills. However, there is no explicit mention of these skills in relation to the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.503
+}

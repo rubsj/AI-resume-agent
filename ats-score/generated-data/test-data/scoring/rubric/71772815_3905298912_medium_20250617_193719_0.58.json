@@ -1,0 +1,51 @@
+{
+    "resume_id": "71772815",
+    "jd_id": "3905298912",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.372,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job description requirements."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): Only a high school diploma is listed, which does not meet the educational requirements specified in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales, customer service, and office roles, closely matching the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in training and cross-training, indicating some leadership qualities, but formal leadership roles are not mentioned."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like training and motivating teams, but lacks details on managing inventory and creating business plans."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in customer service, communication, and office management, aligning well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong communication and organizational skills, which are aligned with the soft skill requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like customer service, communication, and office management are transferable, but the depth of experience in these areas varies."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.581
+}

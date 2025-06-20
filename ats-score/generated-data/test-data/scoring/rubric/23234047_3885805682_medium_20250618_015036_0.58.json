@@ -1,0 +1,51 @@
+{
+    "resume_id": "23234047",
+    "jd_id": "3885805682",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.326,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, which may be beneficial for roles requiring specific qualifications or industry recognition."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Electrical and Computer Engineering from a reputable university, which aligns well with the required degree in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.9 yrs (capped to 18.9), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has extensive experience in various engineering roles, including leadership positions, which matches the required years of experience and responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate has included relevant information in a clear and organized manner."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has held leadership roles, such as Engineering Supervisor, which indicates strong leadership abilities. This aligns with the job description's requirement for leading technology projects and teams."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities described, particularly in terms of leading technology projects, managing teams, and delivering cloud-based solutions."
+        },
+        "skills": {
+            "score": 0.374,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Java (exact)', 'Go (substring)'] | (LLM 0.4): The candidate has a strong set of skills relevant to the job description, including proficiency in various programming languages, hardware design, and engineering principles. The resume also includes a list of projects that demonstrate practical application of these skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes a section on 'Skills' that could be interpreted as soft skills, but it lacks specific examples or quantifiable achievements that would indicate strong soft skill proficiency."
+        },
+        "tools": {
+            "score": 0.348,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Java (exact)', 'Go (substring)'] | (LLM 0.4): The candidate's skills include some tools mentioned in the job description such as Java, C, and Labview, but there is no explicit mention of cloud computing services or container orchestration tools like Docker or Kubernetes."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as leadership, collaboration, and innovation, which are essential for the role. However, there is no explicit mention of mentorship or passion, which are also important soft skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.581
+}

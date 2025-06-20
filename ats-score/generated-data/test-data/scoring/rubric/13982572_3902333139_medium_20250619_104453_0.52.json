@@ -1,0 +1,51 @@
+{
+    "resume_id": "13982572",
+    "jd_id": "3902333139",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.396,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BBA in Banking but lacks the CPA certification which is preferred in the job description."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not match the required degree level of a Bachelor's or higher in Accounting or Finance."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.3 yrs (capped to 21.3), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has relevant experience in banking operations, customer service, and leadership, which closely matches the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles demonstrates strong leadership skills, which are crucial for the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job description's responsibilities, particularly in managing operations, staff, and compliance."
+        },
+        "skills": {
+            "score": 0.388,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate possesses skills that align well with the job description, including accounting, auditing, financial modeling, and leadership skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership, communication, and problem-solving, are relevant to the job description."
+        },
+        "tools": {
+            "score": 0.3,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['WDesk (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like WDesk, HFM, SAP, and OneSource, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat aligned with the job description, but there is a lack of specific technical skills like ASC-740 technical skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.516
+}

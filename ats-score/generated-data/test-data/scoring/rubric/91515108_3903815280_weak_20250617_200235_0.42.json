@@ -1,0 +1,51 @@
+{
+    "resume_id": "91515108",
+    "jd_id": "3903815280",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.373,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, whereas the job description requires a Bachelor's degree in Business Administration or related field."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's educational background does not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 6.5 yrs (capped to 6.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in managing teams and providing customer service, but lacks experience in business development and sales, which are key requirements for the job."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as being a supervisor and co-owner, which aligns with the job requirement for strong leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not align with the job responsibilities outlined in the job description, particularly in terms of managing multiple locations and implementing marketing strategies."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Call center management', 'Service quality assurance', and 'Leadership'. However, there is no mention of specific tools like 'Portal Insurance operating systems' which might be required by the job."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Leadership' and 'Communication', but lacks specific skills like 'Strong leadership' and 'Analytical' that are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used, while the job description requires knowledge of tools like 'Portal Insurance operating systems'."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Customer service' and 'Time management', but these are not as detailed or specific as those required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.423
+}

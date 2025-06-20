@@ -1,0 +1,51 @@
+{
+    "resume_id": "23568641",
+    "jd_id": "3902788384",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.214,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job description's requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not match the job description's required degree level or field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 28.2 yrs (capped to 28.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in business development and account management, which aligns with the job description's responsibilities. However, the job description focuses on data program management, which is different from the candidate's background."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership awards and accomplishments, which could indicate leadership skills. However, the job description specifically calls for leadership abilities, demonstrated leadership, motivating teams, resolving conflicts, driving consensus, and project management skills, which are not explicitly mentioned in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly align with the job description's responsibilities for leading data programs and managing technical data concepts."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in CRM software (Salesforce), Office 365, Healthcare: GPOs, Government and Education: Consortiums, which align well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions strong communication and interpersonal skills, which align with the job description's soft skills. However, the job description also requires leadership abilities, demonstrated leadership, motivating teams, resolving conflicts, driving consensus, and project management skills, which are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.07,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['R (substring)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used, which contrasts with the job description's requirement for proficiency in SQL, Python, R, data management platforms, databases, and data warehousing technologies."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing accounts and relationships can be seen as transferable to the job description's focus on managing technical data programs, but the job description's emphasis on data management and technical skills is not reflected in the candidate's resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.413
+}

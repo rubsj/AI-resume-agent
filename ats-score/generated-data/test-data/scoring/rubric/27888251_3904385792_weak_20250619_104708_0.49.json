@@ -1,0 +1,51 @@
+{
+    "resume_id": "27888251",
+    "jd_id": "3904385792",
+    "domain": "AGRICULTURE",
+    "resume_jd_similarity": 0.21,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Environmental Science and Geology, which is relevant but not a requirement specified in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 20.0 yrs (capped to 20.0), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has extensive experience in water resources management and permit writing, which closely matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not require leadership skills, and there is no evidence of leadership in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly match the job responsibilities listed."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills in Microsoft PowerPoint, GIS, and project management, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong organizational skills and communication abilities, which are soft skills required by the job."
+        },
+        "tools": {
+            "score": 0.412,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft PowerPoint (substring)', 'Microsoft Excel (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Access, GPS, and GIS, which are tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in supervision and project management can be transferred to the role, but it is not explicitly called out in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.49
+}

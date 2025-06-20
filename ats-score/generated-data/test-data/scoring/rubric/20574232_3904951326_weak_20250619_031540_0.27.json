@@ -1,0 +1,51 @@
+{
+    "resume_id": "20574232",
+    "jd_id": "3904951326",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.399,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.042,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SQL (exact)'] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires AWS, Google Cloud Platform, Azure, CDMP, MDM, DBA, SQL, SAP, TOGAF, API, CISSP, and VCP certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is only listed as an Associate degree in Computer Science Technology, which does not match the required bachelor's or college degree in Computer Science, Engineering, Technical, Mathematics, Information Technology, Information Systems, Business, Education, or Computer Engineering."
+        },
+        "experience": {
+            "score": 0.704,
+            "reason": "(Rule 0.5): Resume: 9.7 yrs (capped to 9.7), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in network administration and support, but lacks specific details about cloud solutions, high-level architecture, and data modeling, which are key responsibilities mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume, which could be crucial for a senior position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on providing thought leadership, collaborating with application development teams, defining technical principles, or presenting strategies, which are critical responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.335,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['SQL (exact)'] | (LLM 0.4): The candidate has relevant skills such as Active Directory, Networking, and SQL, which align with the job requirements. However, there is no mention of business development or sales skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills, which are important for roles requiring high-level presentation and influencing abilities."
+        },
+        "tools": {
+            "score": 0.05,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SQL (exact)'] | (LLM 0.4): The candidate does not list any tools or technologies used, whereas the job description mentions AWS, Google Cloud Platform, Azure, and other technologies that are essential for the role."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like problem-solving and technical expertise, but lacks specific skills related to business development, sales, and industry trends."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.27
+}

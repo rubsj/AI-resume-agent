@@ -1,0 +1,51 @@
+{
+    "resume_id": "25162378",
+    "jd_id": "3904955115",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.463,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions a Bachelor of Science degree in Business Management Marketing, but the field of study does not directly align with the required 'BS degree in technology, engineering' mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in various roles that involve business operations, marketing, and sales, which aligns with the job responsibilities. However, the lack of specific details about the time period makes it difficult to assess the relevance fully."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles, but the resume lacks specific details about leadership achievements or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as collaboration, requirement translation, and process improvement, which align with the job responsibilities. However, the lack of detail about specific tasks and achievements limits the score."
+        },
+        "skills": {
+            "score": 0.487,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Research (exact)', 'Excel (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Analyst', 'Information Technology', 'Research', 'Web applications', 'Data analysis', 'MS Word', 'Excel', and 'Communication'. However, there is no mention of specific tools like ServiceNow or Salesforce."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary highlights leadership qualities and problem-solving abilities, which are aligned with the soft skills required. However, the lack of specific examples in the resume reduces the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not list any specific tools or technologies used, unlike the job description which requires proficiency in tools like ServiceNow, Salesforce, and SQL."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like 'approach', 'budget', 'content management', and 'negotiation', which can be transferred to the role. However, these skills are not as clearly defined or quantified as those in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.393
+}

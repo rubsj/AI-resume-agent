@@ -1,0 +1,51 @@
+{
+    "resume_id": "34816637",
+    "jd_id": "3904430353",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.33,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a degree in Business Accounting from Fulton-Montgomery Community College, but the degree is not specified and the GPA is not provided. The degree and GPA are important for the job description as it requires a BS/MS/PhD or equivalent experience in Computer Science, Electrical/Computer Engineering, Mathematics, Statistics, or other STEM fields."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 8.5 yrs (capped to 8.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting and administrative roles, but lacks specific experience in financial services or fintech, which is required by the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well formatted and free of grammatical errors. However, the summary field is empty, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide any evidence of leadership skills or experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description mentions responsibilities such as research, development, and application of ML/AI solutions, performing in-depth analysis and optimization of state-of-the-art ML models, and conducting model-related analyses to provide comprehensive insights. The candidate's resume does not provide any evidence of having performed these responsibilities."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in 'dot net', 'Accounts Payable', 'Accounts Receivable', 'Administrative', 'Balance Sheet', 'Benefits', 'Book Keeping', 'Budget Analysis', 'Budget Development', 'budget planning', 'budgeting', 'Budget', 'Bi', 'Closing', 'Credit', 'client', 'data entry', 'Equity', 'event planning', 'Special Events', 'Financial', 'Financial Statements', 'general office', 'Insurance', 'Director', 'Excel', 'Microsoft Office', 'Office', 'Outlook', 'Power Point', 'Publisher', 'Word', 'payables', 'Payroll', 'Process Payroll', 'Personnel', 'QuickBooks', 'Recording','reporting', 'Sales', 'Tax', 'tax returns', 'year end'. However, there is no mention of 'Modeling and machine learning experience to build ML-driven products' which is a key skill required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has soft skills such as effective communication and self-starter attitude, which align with the job description. However, the candidate does not have experience in financial services or fintech, which is required by the job description."
+        },
+        "tools": {
+            "score": 0.27,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['R (substring)'] | (LLM 0.4): The candidate has experience with tools like Python, R, TensorFlow, PyTorch, Spark, and cloud platforms, which are mentioned in the job description. However, the candidate does not explicitly mention having experience with ML/DL algorithms with these frameworks."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as data entry, book keeping, budget analysis, and financial statement preparation, which are relevant to the job description. However, the candidate lacks specific experience in financial services or fintech, which is required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.404
+}

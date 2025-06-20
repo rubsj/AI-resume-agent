@@ -1,0 +1,51 @@
+{
+    "resume_id": "10030015",
+    "jd_id": "3903841740",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.348,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has multiple degrees in related fields, but the lack of specific details about GPA and the absence of advanced degrees might lower the score."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in engineering roles that involve testing and maintenance, which matches the job's requirement for driving and handling equipment. The detailed descriptions of duties show a strong background in the field."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not provide evidence of leadership skills relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines responsibilities related to driving and customer service, which do not match the candidate's experience."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Mechanical, Electrical, and Hydraulic Testing, which align with the job's requirement for handling equipment and systems. However, the lack of direct software development skills might slightly reduce the score."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not mention soft skills, and the resume does not provide evidence of soft skills relevant to the position."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not mention any specific tools or technologies required, and the resume does not list any tool-specific skills."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Lean/5S and Test Stand Fabrication are transferable to the job, but the lack of direct experience in driving or customer service reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.556
+}

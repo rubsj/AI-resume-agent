@@ -1,0 +1,51 @@
+{
+    "resume_id": "88859947",
+    "jd_id": "3903868856",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.346,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications like 'Cisco Certification' and 'PMP Certification', but lacks the required certifications such as 'Zachry or Zachry ROF’ed employee', 'Licensed Journeyman Electrician', and 'National Center for Construction Education and Research’s (NCCER) certification for Industrial Journeyman Electrician'."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lacks detail and does not provide any degree or field of study, making it difficult to assess the relevance to the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.8 yrs (capped to 14.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction management and leadership roles, which aligns with the job description. However, the lack of specific manufacturing or electrical industry experience reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing projects, which indicates strong leadership skills. However, the lack of specific manufacturing leadership experience reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job responsibilities section is missing from the provided resume data."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Management', 'Manufacturing', 'Accounting', 'Project Management', and 'Quality'. However, there is no mention of specific manufacturing skills like 'blueprints','specifications', or 'electrical equipment' which are required."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like'reliable', 'accountable', and 'consistent', which are beneficial for the role. However, the lack of specific skills related to the manufacturing industry reduces the score."
+        },
+        "tools": {
+            "score": 0.016,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['cables (fuzzy)'] | (LLM 0.4): The resume does not mention any tools or technologies that match the job description's requirements such as 'blueprints','specifications', 'conduit', etc."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'project management', 'quality assurance', and 'team supervision', which could be applicable in a manufacturing setting. However, the absence of skills directly related to manufacturing processes reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.504
+}

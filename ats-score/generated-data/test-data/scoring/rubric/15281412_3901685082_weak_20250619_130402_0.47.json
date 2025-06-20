@@ -1,0 +1,51 @@
+{
+    "resume_id": "15281412",
+    "jd_id": "3901685082",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.4,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have the required certification 'CPA' specified in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Business Administration and an A.A.S DP in Computer/Applied Science, which aligns with the job requirements. However, the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 39.2 yrs (capped to 39.2), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has extensive experience in application development and management, closely matching the job requirements. The detailed job descriptions provide clear alignment."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks some details that would enhance the alignment with the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experiences that align with the job responsibilities requiring leadership."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.333,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Excel (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Blaze Advisor.net 6.10.1', 'Microsoft C#.net 4.5 framework', and 'Technical Leadership'. However, there is a lack of specific certifications like CPA mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like 'Technical Leadership' and 'Excel', which could be considered soft skills in a broader context. However, there is no direct alignment with the soft skills specifically mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with tools like Excel, which is listed in the job description. However, there is no mention of specific tool proficiency levels."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Business object Models in XML', 'TFS Source Control', and 'Technical Leadership' are transferable to the job requirements. However, there is no explicit mention of these skills in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

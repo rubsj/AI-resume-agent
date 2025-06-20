@@ -1,0 +1,51 @@
+{
+    "resume_id": "33527446",
+    "jd_id": "3904422494",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.317,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a Certified Public Accountant certification, but it is not recent or directly related to the job requirements."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in Accounting, Mathematics, and Computer Science, which aligns with the job requirements. However, the degree is from 1980, which might not be considered current."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 43.7 yrs (capped to 40.0), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has extensive experience in accounting and programming, particularly in COBOL and AS/400, which matches the job requirements. The experience is recent and relevant."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks details in certain sections, such as responsibilities and soft skills, which could affect its overall effectiveness."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience that align with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details about responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as Accounting, General Accounting, Accounts Payable, Accounts Receivable, AS/400, Automation, Backup, Bank Reconciliation, and Programming languages like COBOL and BASIC. However, there is no mention of Spreadsheet experience, which is preferred."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are mentioned in the job description, such as Strong communication, Interpersonal skills, and Customer centered."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any specific tools or technologies that match the job requirements, such as Computerized Maintenance Management System (CMMS)."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like problem-solving, attention to detail, and adaptability, which are generally applicable across industries. However, these skills are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.454
+}

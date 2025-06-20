@@ -1,0 +1,51 @@
+{
+    "resume_id": "19936735",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.341,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires PMP certification."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has an Associate of Arts degree in Mass Communications from Lincoln College, which is not directly aligned with the job description's educational requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 24.5 yrs (capped to 24.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in Broadcast Management, Media Sales, Radio Station Programming, and On-Air Broadcast execution, which aligns with the job description's responsibilities. However, the job description focuses more on IT and business process improvement projects."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight leadership roles or achievements that would indicate strong leadership capabilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Consulting (exact)'] | (LLM 0.4): The candidate has relevant skills such as Media Consulting and Digital Content Analysis, Syndicated Development and Management, Affiliate Sales Management and Analysis, Radio and Podcasting Brand Management Development, Digital Content Delivery and Music Scheduling, Social Media Integration and SEO Development, Website Development and Consulting Services. However, there is no direct match with the required skills listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks information on soft skills that are mentioned in the job description such as Leadership, Influencing, Motivation, Negotiation, Conflict resolution, Documentation, Dissemination, Time management, Adaptability, Detail orientation, Problem solving, Teamwork, and Communication."
+        },
+        "tools": {
+            "score": 0.026,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Network (fuzzy)'] | (LLM 0.4): The candidate does not list any tools or technologies used, whereas the job description mentions specific tools like ERP, Cloud applications, Network, Cloud/compute, Security, Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like Project Management, which could be applicable in the context of IT and business process improvement projects. However, these skills are not emphasized in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.367
+}

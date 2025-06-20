@@ -1,0 +1,51 @@
+{
+    "resume_id": "27018550",
+    "jd_id": "3901950312",
+    "domain": "HR",
+    "resume_jd_similarity": 0.354,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the required or preferred certifications in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest education is a Certificate of Completion in Business Administration, which does not meet the preferred Bachelor's degree requirement."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 5.2 yrs (capped to 5.2), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in customer service and call center roles, which aligns with the job responsibilities. However, the total experience is less than the required 4 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job responsibilities require supervision and leading of improvement efforts, but the candidate's resume does not provide evidence of these responsibilities."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as customer service, call center experience, and proficiency in Microsoft Office tools. However, there is no mention of advanced SharePoint training or specific project management tools experience."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions excellent customer service skills and conflict resolution, which aligns with soft skills. However, there is no explicit mention of leadership, communication, analytical skills, research methods, problem-solving, adaptability, or cultural sensitivity."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which matches the required tools. However, there is no mention of advanced SharePoint training or specific project management tools experience."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as customer service, call center experience, and proficiency in Microsoft Office tools. However, there is no mention of specific project management tools experience or advanced SharePoint training."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.325
+}

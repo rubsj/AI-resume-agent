@@ -1,0 +1,51 @@
+{
+    "resume_id": "12518008",
+    "jd_id": "3905302212",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.369,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has certifications such as 'Management Leadership Certification' and 'Six Sigma Greenbelt certification'. While these are beneficial, they do not directly align with the required certifications listed in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Mechanical Engineering from Temple University. This education aligns with the preferred degree of 'Engineering' but lacks details about GPA or specific courses that could further enhance the match."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in various engineering roles, including Engineering Manager, Project Engineer II, and Engineer I. This experience shows leadership and project management skills, which are relevant to the job description. However, the lack of specific details about ADAS functionalities or real-time systems implementation reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate uses clear and concise language, which enhances readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as an Engineering Manager demonstrates leadership skills, which are crucial for the role. However, the lack of specific leadership achievements or metrics reduces the score slightly."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed in the job description, such as developing algorithms, implementing software components, collaborating with hardware engineers, and analyzing data. However, there is no direct mention of ADAS functionalities or real-time systems."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Product development', 'Quality Research', 'Six Sigma Green Belt', 'Solid Works', and 'Critical thinking skills'. However, there is no mention of 'Information Technology' or 'Algorithm Development', which are key skills required for the position."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Prioritization', 'Personnel management', 'Critical thinking skills', and 'Team management'. These skills are relevant to the job description, particularly the requirement for strong communication and collaboration."
+        },
+        "tools": {
+            "score": 0.182,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Training (exact)'] | (LLM 0.4): The candidate mentions proficiency in Microsoft Office and Microsoft Project, which are not directly related to the tools and technologies required for the position. The job description lists specific tools such as 'Software Tools', 'Hardware-in-the-loop (HIL) setups', and 'Model-based Design Tools'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include experience in leading teams, managing projects, and working with cross-functional teams. These skills are valuable but may not directly translate to the specific technical requirements of the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.526
+}

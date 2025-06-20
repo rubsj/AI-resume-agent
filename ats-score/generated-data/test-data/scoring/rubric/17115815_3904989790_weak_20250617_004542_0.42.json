@@ -1,0 +1,51 @@
+{
+    "resume_id": "17115815",
+    "jd_id": "3904989790",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.469,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that match the job description requirements."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): An A.A. degree in Computer Technology is mentioned, but it lacks specific details such as GPA and field of study, making it less relevant compared to the job description's preferred degree requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 4.3 yrs (capped to 4.3), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in sales and business development roles, which aligns with the job responsibilities. However, the lack of specific technical skills and tools used may reduce the score."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or achievements are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to sales and business development, which align with the job responsibilities. However, the lack of technical skills and tools used reduces the score."
+        },
+        "skills": {
+            "score": 0.352,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['C++ (substring)'] | (LLM 0.4): The candidate has relevant technical sales experience with SAP and other technologies, which aligns well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong debugging and troubleshooting skills, which align with the soft skills required. However, the lack of specific technical skills reduces the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools like Kubernetes, CI/CD environment, Docker, etc., which are required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like relationship building and cold calling are transferable but do not directly align with the technical requirements of the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.423
+}

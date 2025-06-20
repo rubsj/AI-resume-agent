@@ -1,0 +1,51 @@
+{
+    "resume_id": "26780935",
+    "jd_id": "3901942410",
+    "domain": "HR",
+    "resume_jd_similarity": 0.354,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts degree in Business Translation/French, which aligns with the education requirement. However, the degree is not in business administration or public administration, which are preferred degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 21.0 yrs (capped to 21.0), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in human resources and management, which aligns with the job responsibilities. However, the detailed job responsibilities are not fully matched by the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The summary is concise and highlights relevant skills and experience."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leading implementation of systems and training sessions, but there is no explicit mention of leadership responsibilities or supervisory roles, which are part of the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that match the job responsibilities, such as managing projects and conducting research. However, there is no direct match for responsibilities like analyzing homeless population data or ensuring compliance with laws."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate possesses strong skills in Microsoft Office proficiency, which matches the required skill set. However, there is no mention of experience with Salesforce, which is also mentioned as a tool they should be familiar with."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists strong soft skills such as communication, teamwork, and problem-solving, which align with the soft skills required for the position. However, there is no explicit mention of adaptability, which is also listed as a soft skill."
+        },
+        "tools": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft_Office (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which matches the required skills. However, there is no explicit mention of experience with Adobe Creative Suite, Facebook, or Salesforce, which are mentioned as tools they should be familiar with."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as self-starting and detail-oriented, align with the job requirements. However, there is no explicit mention of leadership or evidence-based practices, which are also mentioned as optional skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.505
+}

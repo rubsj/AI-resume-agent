@@ -1,0 +1,51 @@
+{
+    "resume_id": "28505854",
+    "jd_id": "3904941830",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.259,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, while the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Control Systems and a Bachelor's degree in Electrical Engineering, which aligns with the educational background preferred in the job description. However, the lack of specific details about GPA and the absence of a PhD may lower the score."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has extensive experience in managing teams and developing products in consumer electronics, digital TV, and industrial automation, which matches the job responsibilities. The detailed descriptions of past roles provide evidence of relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing work streams aligns with the leadership aspect required in the job description. However, the lack of explicit leadership responsibilities in the job description reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines specific responsibilities related to developing kinetic models, performing experiments, and collaborating with global research teams, which are not reflected in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has relevant skills such as Lead Development, Build teams, Mentor, Interface with customers and vendors, Architect end to end, and has experience in developing products in consumer electronics, digital TV, industrial automation, control systems. However, there is no direct match with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as strong communication, teamwork, problem-solving, ability to work independently, proactivity, and willingness to learn new skills and technologies. These skills are generally aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.5,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Matlab (exact)'] | (LLM 0.4): The candidate has experience with C, C++, JAVA, JVM, Embedded Linux, LXC, Device Drivers, and working with SoCs and RTOS, which aligns with the tools and technologies required in the job description. However, the lack of direct mention of Matlab or similar platforms reduces the score."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in leadership, project planning, and management are transferable to the role, but they are not directly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.426
+}

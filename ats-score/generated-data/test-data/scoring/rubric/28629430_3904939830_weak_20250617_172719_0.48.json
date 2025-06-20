@@ -1,0 +1,51 @@
+{
+    "resume_id": "28629430",
+    "jd_id": "3904939830",
+    "domain": "ARTS",
+    "resume_jd_similarity": 0.253,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement for a Bachelor's degree in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts and an Associate of Arts, but there is no evidence of education-specific degrees or certifications required by the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 20.6 yrs (capped to 20.6), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Creative Director and Graphic Designer, which aligns with the job responsibilities. However, the lack of direct experience in admissions or education administration reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's role as a Creative Director indicates leadership experience, but the job description focuses on leadership in admissions rather than creative direction."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly match the responsibilities listed in the job description, particularly those related to admissions and recruitment."
+        },
+        "skills": {
+            "score": 0.292,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Organizational (fuzzy)'] | (LLM 0.4): The candidate possesses skills in Adobe CS, Microsoft Office, and MySQL, which align well with the job requirements. However, the lack of specific education in education-related tools and technologies reduces the score."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-motivation, detail-orientation, and problem-solving skills align well with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.345,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Adobe CS, Microsoft Office, and MySQL, which matches some of the tools listed in the job description. However, the absence of other specified tools reduces the score."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in painting, illustration, and furniture restoration are not directly transferable to the job responsibilities described."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.478
+}

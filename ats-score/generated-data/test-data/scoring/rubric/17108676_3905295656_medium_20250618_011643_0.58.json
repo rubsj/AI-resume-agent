@@ -1,0 +1,51 @@
+{
+    "resume_id": "17108676",
+    "jd_id": "3905295656",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.309,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Bachelor of Science in Mechanical Engineering, which aligns with the job description's inferred domain of transportation. However, the degree is not directly related to the specific requirements of the job."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in mechanical engineering internships, which aligns with the job description's inferred domain of transportation. The experience includes skills like project management, design, and problem-solving, which are mentioned in the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, and the job description does not require any specific leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes skills like project management, design, and problem-solving, which align with some of the responsibilities mentioned in the job description. However, there is no direct match with the responsibilities listed."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills in AutoCAD, CAD, and SolidWorks, which are mentioned in the job description. However, there is no mention of management or manufacturing skills, which are required."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description mentions problem-solving and customer service skills, but the resume does not provide evidence of these skills."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not specify any tools or technologies required, and the resume does not mention any tools used that are relevant to the job."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like project management, design, and problem-solving, which can be considered transferable to the job. However, there is no direct match with the responsibilities listed in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.576
+}

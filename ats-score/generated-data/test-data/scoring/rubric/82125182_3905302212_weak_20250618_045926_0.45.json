@@ -1,0 +1,51 @@
+{
+    "resume_id": "82125182",
+    "jd_id": "3905302212",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.382,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate is currently enrolled in a Bachelor of Science degree in Chemical Engineering, which aligns with the required degree in the job description. However, the GPA is not provided."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as a Chemical Engineering Intern and participation in the Chemical Engineering Summer School, which aligns with the job responsibilities. However, the end date for the internship is not specified."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership roles or responsibilities in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, including developing algorithms, designing software components, collaborating with hardware engineers, conducting simulation and testing, analyzing data, staying updated with industry trends, documenting designs, and maintaining clear records. However, the candidate does not mention any experience with model-based design tools or familiarity with automotive communication protocols."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Project management, Scheduling tools, ChemCad, OAM, MES and EPI, Structural red-line revisions skills, Advanced written and conversational German, Process piping, Microsoft Office, Quality control, and Strong presentation skills. However, there is no mention of specific tools like AUTOSAR or ISO 26262 which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong problem-solving skills, effective team environment, clear communication skills, conveying complex technical concepts, multidisciplinary team collaboration, cross-functional interaction, and business anchoring. These skills align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.017,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Sensor Systems (fuzzy)', 'Training (fuzzy)'] | (LLM 0.4): No specific tools are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as project management, scheduling tools, and process improvement. However, there is no mention of specific skills related to electronics and electrical solutions, functional & non-functional requirements, or ADAS & passive safety."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.445
+}

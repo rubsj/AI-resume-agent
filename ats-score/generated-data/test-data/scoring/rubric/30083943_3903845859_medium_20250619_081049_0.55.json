@@ -1,0 +1,51 @@
+{
+    "resume_id": "30083943",
+    "jd_id": "3903845859",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.234,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has some certifications that match the job requirements, but they are not recent and do not cover all the required certifications."
+        },
+        "education": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a degree in Nursing, which is relevant to the job, but the lack of a high school diploma might be seen as a gap in education."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 39.2 yrs (capped to 39.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has extensive experience in healthcare, particularly in nursing and emergency medical services, which matches the job requirements. However, the job description does not specify any particular experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for the missing dates in some certifications."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not indicate any leadership experience or responsibilities, which is a key aspect of the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in their past roles align with some of the job responsibilities listed, such as client relationship building and sales, but not all aspects are covered."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong background in nursing, which aligns with the required skills of the job description. However, there is no mention of specific technology skills or sales experience."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions collaboration, which is one of the soft skills required, but does not provide enough detail on other soft skills like data-driven decision making and industry knowledge."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their previous roles, which contrasts with the job description's requirement for proficiency in Office 365 and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a variety of transferable skills, including patient care, documentation, and teamwork, which could be beneficial in the job role. However, these skills are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.554
+}

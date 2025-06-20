@@ -1,0 +1,51 @@
+{
+    "resume_id": "98559931",
+    "jd_id": "3902333139",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.526,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree but lacks the CPA certification, which is preferred in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree in Accounting, which is relevant to the job, but the degree is from William Paterson University, which may not be as well-known as some of the preferred institutions listed in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.5 yrs (capped to 15.5), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in accounting roles, including positions that involve financial modeling and leadership, which matches the required experience and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in mentoring and training staff indicates leadership skills, but there is no explicit mention of leading ad hoc projects or overseeing the work of others, as stated in the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes leading tax operations and processes, which aligns with the job responsibilities, but there is no explicit mention of Public Country by Country Reporting or supporting global Pillar 2 calculation."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting, A/P, and Excel, aligning well with the job's required skills. However, there is no mention of specific tools like WDesk, HFM, SAP, or OneSource."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, but their experience in leadership and communication suggests they possess these skills. However, there is no direct alignment with the soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.27,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SAP (exact)'] | (LLM 0.4): The candidate's experience does not directly mention proficiency in WDesk, HFM, SAP, or OneSource, which are key tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as attention to detail and organizational abilities, are relevant to the job, but there is no explicit mention of specific soft skills like effective communication with senior members of the organization."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.528
+}

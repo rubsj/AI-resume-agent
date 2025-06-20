@@ -1,0 +1,51 @@
+{
+    "resume_id": "25749150",
+    "jd_id": "3905370041",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.285,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description prefers candidates with PMP Certification or Scrum Master Certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts degree in Accounting, which is aligned with the preferred degree in the job description. However, the degree is from Central Connecticut, which may not be recognized by the potential employer."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 10.1 yrs (capped to 10.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting, Medicare compliance coding, hospital access, and patient financial management, which aligns with the job responsibilities. The total experience of 10.1 years exceeds the required experience of 5+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, there are some unclear sections like the education summary, which could affect the clarity of the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles in managing projects and leading initiatives, which aligns with the leadership requirements. However, there is no explicit mention of leadership facilitation or example leading."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes managing projects, leading initiatives, and working in a fast-paced environment, which aligns with the job responsibilities. However, there is no explicit mention of Scrum Master or Agile/Scrum implementation experience."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as accounting, accounts payable, accounts receivable, billing, financial statements, ICD-9, insurance, and Excel proficiency. However, there is no mention of Information Technology or ERP implementations, which are preferred skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's professional summary mentions leadership skills, which aligns with the soft skills required. However, there is no explicit mention of communication, empathy, or teamwork skills."
+        },
+        "tools": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Office (Excel, PowerPoint, Word) (fuzzy)'] | (LLM 0.4): The candidate has experience with MS Office tools like Excel, PowerPoint, and Word, which are mentioned in the job description. However, there is no explicit mention of JIRA proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as financial management, coding expertise, and insurance knowledge, which are relevant to the job responsibilities. However, there is no explicit mention of full lifecycle program management or global implementations."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.494
+}

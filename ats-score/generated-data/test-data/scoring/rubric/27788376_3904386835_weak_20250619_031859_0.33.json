@@ -1,0 +1,51 @@
+{
+    "resume_id": "27788376",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.366,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which could be beneficial for roles requiring specific technical expertise."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts degree in Arts in History and a Master of Science in Health Administration. While these degrees do not directly match the preferred degrees listed in the job description, they show a broad educational background that could be transferable to the role."
+        },
+        "experience": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Resume: 2.4 yrs (capped to 2.4), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in various roles that involve financial management, strategic planning, and project management. This experience aligns with the job responsibilities mentioned in the job description, particularly in terms of financial management and strategic planning. However, the experience does not specifically mention the use of cloud technologies or advanced data management tools."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, ensuring clarity and professionalism. The language used is appropriate for a professional document, enhancing readability and understanding."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates experience in leadership through roles such as Assistant Manager and Consultant, suggesting a level of leadership ability. However, there is no explicit mention of leadership skills or achievements that would directly align with the job description's emphasis on leadership."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions some responsibilities that align with the job responsibilities listed in the job description, such as creating annual goals and implementing new processes. However, it lacks details on how these responsibilities relate to the job's specific requirements, such as leading architecture and design or working with data warehouses."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Financial aptitude, Critical thinking proficiency, and Sound decision making abilities, which align with the job's requirement for Consulting and Information Technology skills. However, there is no mention of specific tools like AWS, GCP, Azure, etc., which are preferred but not required."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights strong skills in relationship and team building, conflict resolution, and cultural awareness, which are aligned with the soft skills required by the job description. These skills are crucial for leadership and collaboration in a consulting role."
+        },
+        "tools": {
+            "score": 0.068,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Spark (fuzzy)', 'HBase (fuzzy)'] | (LLM 0.4): The candidate's resume does not list any specific tools or technologies used in their work, which contrasts with the job description's preference for skills related to AWS, GCP, Azure, and other cloud technologies."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows a range of transferable skills, including financial management, critical thinking, and decision-making abilities. However, these skills are not explicitly linked to the job responsibilities or required tools, which limits the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.331
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "23734441",
+    "jd_id": "3905862800",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.331,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description requires a Bachelor's degree."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Accounting and a Bachelor's degree in Business Administration, which aligns well with the job requirements. However, the AA degree might not be considered relevant."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in accounting roles that match the job requirements. However, the experience lacks details on business development and client services."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate leadership experience or skills relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that align with the job description's requirements for managing client relationships and providing guidance."
+        },
+        "skills": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate possesses skills in Accounting, which aligns with the job requirements. However, there is a lack of specific skills related to Business Development and Sales, which are crucial for the position."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention soft skills such as collaboration, organization, or effective communication, which are essential for the job."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in any tools, while the job description requires proficiency in Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like attention to detail and problem-solving abilities, but they do not specifically highlight leadership or project management skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.391
+}

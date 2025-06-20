@@ -1,0 +1,51 @@
+{
+    "resume_id": "87520378",
+    "jd_id": "3901950312",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.362,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the required ones in the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Healthcare Administration, which is relevant but lacks detail about the institution and GPA."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 11.3 yrs (capped to 11.3), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare administration and marketing, including roles that demonstrate leadership and problem-solving skills. However, the job description requires at least 4 years of experience, and the candidate has only 11.3 years of total experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate uses clear and concise language throughout the document."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles such as Healthcare Marketing Specialist and Healthcare Admin Intern, which aligns with the job description's requirement for leadership skills. However, they lack explicit mention of leadership certifications or advanced training."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide any information on responsibilities that align with the job description's requirements."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Management', 'Multitasking', 'Problem-solving', 'Self-starter', and 'Leadership'. However, there is no mention of specific certifications like Six Sigma or advanced SharePoint training."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists soft skills such as 'Leadership', 'Communication', and 'Analytical', which are relevant to the job description. However, they do not explicitly state proficiency in 'Public speaking and presentation skills', 'Cross-cultural collaboration', or 'Research methods'."
+        },
+        "tools": {
+            "score": 0.31,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office Suite, which matches one of the required tools. However, they lack experience with other tools mentioned in the job description such as SharePoint, Project management tools, Lean, and Six Sigma."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'Multitasking', 'Problem-solving', and 'Self-starter', which are relevant to the job description. However, they lack specific skills like 'State of Minnesota leadership program completion' or 'Advanced SharePoint training'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.43
+}

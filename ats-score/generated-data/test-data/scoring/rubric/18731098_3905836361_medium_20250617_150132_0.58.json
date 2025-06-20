@@ -1,0 +1,51 @@
+{
+    "resume_id": "18731098",
+    "jd_id": "3905836361",
+    "domain": "HR",
+    "resume_jd_similarity": 0.323,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree but lacks specific certifications mentioned in the job description such as Certified Compensation Professional (CCP), Certified Managerial Accountant (CMA), and Certified Financial Accountant (CFA)."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Health Administration from California State University Northridge, which is relevant to the job domain. However, the Bachelors degree information is incomplete."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 23.4 yrs (capped to 23.4), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has over 23 years of experience in various HR roles, which exceeds the required minimum of 8 years. The detailed job descriptions match the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate uses clear and concise language, making the document easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervisory roles, indicating leadership capabilities. However, the resume does not provide evidence of leading teams or managing complex projects, which are key aspects of the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed in the job description, particularly in areas like financial analysis, sales compensation, and project management."
+        },
+        "skills": {
+            "score": 0.552,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, which aligns closely with the job requirements. The resume includes detailed descriptions of responsibilities that match the job description's expectations."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as analytical thinking and leadership, which are important for the role. However, the resume does not explicitly highlight skills in critical thinking, problem-solving, or trust-building."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Office (fuzzy)'] | (LLM 0.4): The candidate has experience with ADP software, which is one of the tools mentioned in the job description. However, there is no mention of experience with SAP sales performance management solution."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a range of transferable skills, including administrative support, data entry, and financial management, which could be useful in the role. However, the resume does not emphasize skills specifically related to sales compensation or incentive management."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.578
+}

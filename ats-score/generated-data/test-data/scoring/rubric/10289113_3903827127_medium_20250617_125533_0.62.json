@@ -1,0 +1,51 @@
+{
+    "resume_id": "10289113",
+    "jd_id": "3903827127",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.352,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Business Administration degree, which is relevant to the job description's inferred domain of Business Operations. However, the GPA is not provided, which could be a factor in assessing educational qualifications."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 37.2 yrs (capped to 37.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 37 years of experience, which exceeds the required experience of 5 years. The job description mentions experience in financial and accounting management, office and facilities administration, IT and security infrastructure administration, contract support, marketing and sales support, HR administration, and IT and security infrastructure administration, all of which are reflected in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's use of bullet points and clear descriptions enhances readability."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates leadership through titles held and accomplishments, such as winning achievement awards multiple times. This suggests strong leadership abilities, which are relevant to the job description's responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with many of the responsibilities listed in the job description, such as managing financial and accounting operations, overseeing IT and security infrastructure, supporting marketing and sales, and handling HR administration. However, there is no direct mention of responsibilities related to the tools specified in the job description."
+        },
+        "skills": {
+            "score": 0.676,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in sales, business development, and sales management, which aligns well with the job description's requirement for skills such as Management and Manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes accomplishments that suggest strong leadership and interpersonal skills, which are beneficial for soft skills. However, there is no explicit mention of soft skills like communication, teamwork, or problem-solving in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description lists specific tools like Wide Area Workflow (WAWF), Procurement Integrated Enterprise Environment (PIEE), Deltek Costpoint®te Time and Expense, and NAVEX Global, but the resume does not mention any proficiency or usage of these tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in sales, business development, and sales management are transferable to the job description's requirements for managing operations, financial and accounting tasks, and sales support. However, the lack of specific technical skills or knowledge about the tools mentioned in the job description reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.619
+}

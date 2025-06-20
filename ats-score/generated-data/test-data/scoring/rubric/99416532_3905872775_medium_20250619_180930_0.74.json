@@ -1,0 +1,51 @@
+{
+    "resume_id": "99416532",
+    "jd_id": "3905872775",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.369,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate possesses a Secret Clearance, matching the job's requirement, but lacks specific certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds an Associate of Science degree in Pre-Engineering, which is relevant to the job's domain but does not specify any technical or aerospace-related fields."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.0 yrs (capped to 15.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in logistics and resource management, particularly in military contexts, which closely matches the job's requirements for aircraft maintenance and resource management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in training and guiding junior soldiers indicates leadership capabilities, though the job description specifically mentions leading teams in a different context."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job's requirements, such as managing resources, directing teams, and ensuring compliance with technical data and safety procedures."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in logistics, inventory control, and customer service, which align with the job's requirement for managing resources and ensuring optimal performance."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as dedication to customer service and conflict resolution, are relevant to the job's emphasis on teamwork and service excellence."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the candidate's resume, whereas the job description mentions specific tools like Air Force directives/instructions and software like Maintenance Information System."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like management, leadership, and attention to detail are transferable and match the job's requirements for leading teams and maintaining high standards."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.741
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "18171955",
+    "jd_id": "3886840513",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.36,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor of Business Administration degree, which is relevant to the job description but lacks details such as GPA or field of study."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in sales management, branch management, and mortgage consulting, which closely matches the job responsibilities and required experience in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with clear sections and no grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in team leadership, coaching, and developing talent aligns well with the leadership requirements in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles, such as leading teams, managing budgets, and ensuring customer satisfaction, match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.72,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate possesses strong skills in management, coaching, and customer service, which align well with the job requirements. The resume also includes skills in computer knowledge, Excel, Microsoft Office, and Microsoft Outlook, which are relevant tools mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, including interpersonal communication, leadership, and customer service, are relevant to the job description, though they are not explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's skills include proficiency in Microsoft Office tools like Outlook, Lotus Notes, Excel, PowerPoint, and Word, which are aligned with the tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as approach, budget, conversion, and financial analysis, are not directly mentioned in the job description but are implied through the experience and responsibilities listed."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.675
+}

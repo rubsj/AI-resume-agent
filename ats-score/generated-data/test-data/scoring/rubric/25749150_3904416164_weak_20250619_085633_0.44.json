@@ -1,0 +1,51 @@
+{
+    "resume_id": "25749150",
+    "jd_id": "3904416164",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.28,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the job's required certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not specify any degrees in finance or related fields, which is preferred for the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 10.1 yrs (capped to 10.1), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in financial roles, particularly in accounting and healthcare billing, which aligns with the job's responsibilities of managing client portfolios and providing financial solutions."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills in their resume, but there is no evidence of leadership experience or achievements that would directly qualify them for a senior-level position."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some alignment with the job's responsibilities, such as working with client portfolios and providing financial solutions. However, there is no direct mention of the consultative sales process or working with branch partners."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as accounting, accounting-related terms, and experience in financial roles which align with the job's required skills of Business Development and Sales."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates some soft skills like teamwork and problem-solving, but there is no explicit mention of verbal and written communication skills, collaboration, or influence skills."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume, and the job description does not specify any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like leadership, which could be beneficial in a managerial role, but the level of detail provided in the resume does not fully capture the depth of these skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.444
+}

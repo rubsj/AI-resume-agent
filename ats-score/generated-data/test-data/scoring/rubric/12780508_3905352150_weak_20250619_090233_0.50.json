@@ -1,0 +1,51 @@
+{
+    "resume_id": "12780508",
+    "jd_id": "3905352150",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.394,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a certification (NMLS), but it does not directly relate to the auditing field required by the job description."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in Finance, which is not a direct match for the required degree in Accounting/Auditing or MSA/MBA."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.5 yrs (capped to 14.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that involve tasks like preparing financial statements, managing accounts payable, and working with financial systems, which aligns with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written, with no grammatical errors or formatting issues, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not indicate any leadership experience or responsibilities that would qualify them for a leadership role as an Audit Supervisor."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills such as Accounting, Accounting System, accounts payable, accruals, etc., which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as detail-oriented, improvement-focused, flexibility, motivation, and teamwork, which are aligned with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in accounting or auditing, unlike the job description which requires proficiency in Accounting/Auditing and Finance."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include accounting knowledge, financial management, and attention to detail, which can be applied across different industries."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.499
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "44476983",
+    "jd_id": "3905368524",
+    "domain": "HR",
+    "resume_jd_similarity": 0.365,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts degree in Organizational Management, Human Resources, but the GPA is not provided, which could be important for assessing academic achievement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 9.5 yrs (capped to 9.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has extensive experience in various HR roles, including HR Business Partner, Sr. HR Consultant and TA Specialist, Human Resources Consultant IV, and Principal Consultant. The experience aligns well with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as HR Business Partner and Principal Consultant, indicating leadership capabilities. However, there is no explicit mention of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles match many of the responsibilities listed in the job description, such as conducting research, drafting policies, providing technical assistance, and interpreting eligibility requirements."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Leadership development, Collaboration, Organization and efficiency, Communication, Time management, Conflict mediation, and Self-starter. However, there is no mention of Business Development or Sales, which are required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like Strong writing skills, Interpretation of SNAP policy, Proficiency in all Microsoft office programs, Ability to communicate effectively, and Strong problem-solving skills, which are aligned with the job description. However, some specific soft skills like Ability to gather information are not explicitly mentioned."
+        },
+        "tools": {
+            "score": 0.412,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['ARIES (fuzzy)', 'TEA (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Suite and various HRIS, Budget and Accounting Software and Databases, which aligns with the tools mentioned in the job description. However, specific tools like ARIES, SNAP, Medicaid, TEA are not mentioned."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Leadership development, Collaboration, and Time management, which can be applied in various roles. However, the lack of specific skills like Business Development and Sales reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.572
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "65219288",
+    "jd_id": "3903477129",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.269,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelor’s degree (fuzzy)'] | (LLM 0.5): The candidate holds a Bachelor's degree from Barry University, but the GPA is not provided, which could be a factor in assessing the educational background."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.8 yrs (capped to 19.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has significant experience in management roles, including experience in sales, operations, and safety, which aligns well with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including managing teams and overseeing operations, which aligns with the job description. However, there is no explicit mention of leadership skills related to project management or team building."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles match some of the responsibilities listed in the job description, such as managing operations, conducting analyses, and overseeing projects. However, there is no direct mention of responsibilities related to business development or strategic policy assessment."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'business development','sales','management', 'project management', and 'contract management'. However, there is no mention of specific tools like Excel or PowerBI."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as communication, collaboration, and attention to detail, which are aligned with the job description. However, there is no explicit mention of skills like data analysis or financial management."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No specific tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as problem-solving, adaptability, and leadership, are relevant to the job description. However, there is no explicit mention of skills related to agile methodologies or industry-leading practices."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.572
+}

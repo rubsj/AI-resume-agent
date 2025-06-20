@@ -1,0 +1,51 @@
+{
+    "resume_id": "14241621",
+    "jd_id": "3904393340",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.362,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the position."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The education section contains incomplete details and no degree related to the required field of software development."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.5 yrs (capped to 12.5), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and marketing, which aligns with the job responsibilities, though it does not directly match the required skills of software development."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has some experience in leadership roles, but there is no clear evidence of leadership skills relevant to software development."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles show some alignment with the job responsibilities, but lack detail on technical skills."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant experience in sales and marketing, which aligns with the required skills of software development engineering, but lacks direct technical skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as collaboration and ownership, which are beneficial for the role, but lacks specific examples of innovation and agility."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['React (fuzzy)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used, which are crucial for the position."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like leadership and communication, but these are not emphasized or detailed in the resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.44
+}

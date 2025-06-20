@@ -1,0 +1,51 @@
+{
+    "resume_id": "31169070",
+    "jd_id": "3903446537",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.27,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Master's degree in Computer Science and a Bachelor's degree in Physics, which are not directly related to the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in software development and project management, which aligns with the job responsibilities. However, the job description does not specify required experience levels."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions leadership in various contexts, but there is no clear evidence of leadership skills relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines specific responsibilities, but the resume does not provide evidence of these experiences."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Application development', 'Client server', 'CRM', and 'Leadership'. However, there are no direct matches with the job's required skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not explicitly mention soft skills like 'detail-oriented', 'creative', or 'team player'."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There are no transferable skills mentioned in the resume that could be directly applied to the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.543
+}

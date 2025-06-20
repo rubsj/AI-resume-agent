@@ -1,0 +1,51 @@
+{
+    "resume_id": "12413512",
+    "jd_id": "3901952048",
+    "domain": "ARTS",
+    "resume_jd_similarity": 0.293,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which might be a requirement for the job."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in English, which is relevant to the education domain. However, the lack of specific details about GPA and the presence of two similar degrees may reduce the score."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 12.2 yrs (capped to 12.2), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has relevant experience as a teacher, which matches the job requirements. However, the job description requires more advanced experience in fundraising and strategic initiatives, which is not evident in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no clear evidence of leadership skills or experience in the resume that align with the job's requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide any information on past responsibilities that align with the job responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.76,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Education (exact)', 'Training (exact)'] | (LLM 0.4): The candidate has relevant skills such as Teaching, lesson plans, and Microsoft Office, which match the job requirements. However, there is no mention of advanced fundraising techniques or expertise in verbal and written communication."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions some soft skills like teamwork and time management, but lacks specific examples or evidence of advanced skills like handling sensitive information discreetly."
+        },
+        "tools": {
+            "score": 0.026,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Teams (fuzzy)'] | (LLM 0.4): The resume does not mention proficiency in tools like Salesforce, Zoom, or Trello, which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like teaching and communication, but these are not aligned with the job's advanced fundraising and strategic initiative requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.437
+}

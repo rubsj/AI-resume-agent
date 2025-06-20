@@ -1,0 +1,51 @@
+{
+    "resume_id": "59777056",
+    "jd_id": "3905205286",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.346,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks specific details about the degree obtained, making it unclear if the candidate meets the minimum education requirement."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in finance and project coordination, but the job description requires specific sales experience, which is missing from the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide information on responsibilities that align with the job description's requirements."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Microsoft Office Suite Applications, MS Office Cloud experience, Reporting, Interpersonal skills, and Work with outside vendors. However, there is no mention of Salesforce, which is required."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses interpersonal and communication skills, but lacks specific soft skills like high ethical standards, dignity, respect, and genuine concern, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.345,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are mentioned in the job description, but lacks experience with Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as project management, organization, and multitasking, which are relevant to the job description. However, the lack of sales experience reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.407
+}

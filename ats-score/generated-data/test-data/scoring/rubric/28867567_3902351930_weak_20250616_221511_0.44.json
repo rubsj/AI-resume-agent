@@ -1,0 +1,51 @@
+{
+    "resume_id": "28867567",
+    "jd_id": "3902351930",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.432,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's requirement for specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a BS in Hospitality & Business Management, which is not directly related to the job description's preferred degrees but shows some foundational knowledge in business."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.5 yrs (capped to 15.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in sales roles, particularly in sales and management, which aligns with the job description's required experience. However, there is no direct mention of social media management experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership skills or experiences in the resume that would indicate the candidate's ability to lead a team or manage projects, which contrasts with the job description's emphasis on leadership."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There is no mention of responsibilities related to social media management or marketing in the resume, which contrasts with the job description's detailed list of responsibilities."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills in marketing and sales, which align with the job description's required skills. The resume also mentions experience in sales roles that could be transferable to social media management."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes soft skills like relationship selling and teamwork, which align with the job description's soft skills. However, there is no explicit mention of tech-savviness or self-motivation."
+        },
+        "tools": {
+            "score": 0.03,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Twitch (fuzzy)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used in social media management, which contrasts with the job description's list of required tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as relationship selling, territory sales, and sales closing are transferable to social media management, given the importance of engagement and community building in social media."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.442
+}

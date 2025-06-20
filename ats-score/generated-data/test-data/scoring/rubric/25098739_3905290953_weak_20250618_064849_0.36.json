@@ -1,0 +1,51 @@
+{
+    "resume_id": "25098739",
+    "jd_id": "3905290953",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.377,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education history is incomplete and does not match the required degree level or field."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as a Construction Worker, which aligns with the job responsibilities. However, the details provided do not fully cover all the required experience years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for some missing details in the education section."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, and the job description mentions leading a crew of workers."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on job responsibilities, which are detailed in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has experience as a Construction Worker, which aligns with the required skill of Business Development. However, there is no direct mention of Sales skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are mentioned in the job description such as Passionate about training and adult learning, Understanding of civil construction industry, Ability to develop structured curriculum, Strong systems mindset, Comfort with technology."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume, and the job description requires knowledge of elearning sites and video conferencing."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Painting, which could be relevant to the job responsibilities. However, these skills are not directly aligned with the required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.363
+}

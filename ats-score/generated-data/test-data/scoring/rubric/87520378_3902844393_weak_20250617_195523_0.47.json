@@ -1,0 +1,51 @@
+{
+    "resume_id": "87520378",
+    "jd_id": "3902844393",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.344,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a degree in 'Healthcare Administration' which is related to the job domain but lacks specific details like year of graduation and GPA."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 11.3 yrs (capped to 11.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare administration and marketing, which aligns with the job responsibilities. However, the experience is not detailed enough to fully match the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions being an 'Accomplished leader' in their resume, which aligns with the job requirement. However, there is no explicit mention of leadership responsibilities or achievements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information about specific responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.337,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 1}. Matched skills: ['Problem solving (substring)', 'Multitasking (exact)', 'Verbal communication (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'Medical Terminology', 'Event planning and coordination', 'Budgeting and financial management', 'Microsoft Office Suite', 'Multitasking', 'Problem-solving', 'Self-starter', 'Leadership', 'Knowledge of Medicare, Medicaid, EEOC, HIPPA, FMLA & ADA', 'Management & Marketing experience', 'Efficient under pressure', 'Cultural awareness and sensitivity', 'Strong work ethic', 'Team player with positive attitude', 'Writing and grammar knowledge', 'Detailed Oriented', 'Strong analytic skills', 'Deadline-driven'. However, there is no direct match for 'Engineering', 'Research', and 'Science' which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has soft skills like 'Communication', 'Detail-oriented', and 'Go-getter mindset' which are aligned with the soft skills required in the job description. However, there is no explicit mention of 'Professionalism' which is listed in the job description."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with tools like 'Microsoft Office Suite' which matches the required tool 'Microsoft Office'. There is no mention of other tools like 'Adobe Creative Suite', 'Facebook', 'Salesforce' which are also mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Problem-solving', 'Multitasking', and 'Deadline-driven' which are aligned with the job requirements. However, there is no explicit mention of 'Continuous improvement', 'Collaboration', and 'Organizational skills' which are listed in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.473
+}

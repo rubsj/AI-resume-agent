@@ -1,0 +1,51 @@
+{
+    "resume_id": "10464113",
+    "jd_id": "3905391795",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.392,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks formal education details that align with the preferred degrees in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.1 yrs (capped to 17.1), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in sales and customer service roles which align with the job responsibilities. However, the job description requires at least 2+ years of experience, and the resume does not explicitly state the total years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as supporting RFQs, RFPs, costing, and pricing, managing product sampling, monitoring product PCNs, assisting with product requests, developing marketing materials, ensuring timely responses to customer quality concerns, developing sales and marketing tools, providing technical assistance, and data analysis of product sales. However, some specific responsibilities mentioned in the job description are not directly aligned with the candidate's experience."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Marketing (exact)'] | (LLM 0.4): The candidate has relevant skills such as Inside and Outside Sales, Customer Service, Salesforce, Act, Goldmine CRM, Allscripts Software, Outlook, Practice Fusion Software, Appointment Setting, Cold Calling, Presenting, Closing, Client Retention, Database management, Direct Mail, Insurance, Marketing, Reporting, and Training and Support. However, there is no explicit mention of Technical aptitude or Reading mechanical drawings."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like organizational skills, communication skills, leadership, and navigating dynamic environments, which are soft skills required in the job description. However, these are not explicitly stated as soft skills in the resume."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience using Microsoft Office products like Outlook, Excel, and PowerPoint, which matches the tools required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in sales, customer service, and technology usage can be transferred to the role, but the lack of specific experience in product management and technical skills limits the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.491
+}

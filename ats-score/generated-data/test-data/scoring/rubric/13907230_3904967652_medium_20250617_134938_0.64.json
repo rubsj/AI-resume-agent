@@ -1,0 +1,51 @@
+{
+    "resume_id": "13907230",
+    "jd_id": "3904967652",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.368,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which is a requirement for the job."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Bachelor of Science degree in Construction Management, but the field of study does not directly match the job requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in construction and management, which aligns with the job responsibilities. However, the experience is limited to a few months."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume, which is a requirement for the job."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that align with the job responsibilities, such as managing documentation and maintaining equipment. However, the experience is limited and does not cover all aspects of the job."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant technical skills in AutoCAD, Microsoft Office, and quality control, which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication and problem-solving skills, which are important for the job. However, these skills are not explicitly mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the resume, which is a requirement for the job."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in communication and problem-solving are transferable to the job, but the lack of specific technical skills and certifications reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.643
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "17407184",
+    "jd_id": "3885820458",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.4,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds multiple degrees in relevant fields, including Master's and Bachelor's degrees in Education, Accounting, and Business Administration. However, there is no mention of any specific GPA or grades."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 32.5 yrs (capped to 32.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has significant experience in Accounting, Finance, and Instructional Design, which matches the required experience in Accounting/Auditing and Finance. However, the job description does not specify the required years of experience, and the resume does not explicitly state the number of years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume appears to be well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading redesigns and development of training programs, which could indicate leadership skills. However, the resume does not provide enough evidence of leadership in the context of the job description requirements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in managing projects, developing training materials, and leading redesigns aligns with some of the responsibilities listed in the job description. However, the job description requires overseeing compliance activities and ensuring institutional compliance, which is not explicitly mentioned in the resume."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in Accounting, Finance, and Business Administration, which aligns well with the required skills in Accounting/Auditing and Finance. Additionally, they have experience in Instructional Design and Project Management, which could be transferable to the responsibilities and soft skills sections."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Leadership training, Program Management, and Project Management could potentially align with the soft skills required, such as Analytical Thinking, Implementation, and Problem Solving. However, the resume does not provide enough detail on these soft skills."
+        },
+        "tools": {
+            "score": 0.052,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The resume does not list any tools or technologies used, while the job description mentions specific tools like Federal Policies, State Policies, University Regulations, University Accounting Systems, Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in Accounting, Finance, and Instructional Design could be considered transferable to the responsibilities and soft skills sections. However, the resume lacks specific details on how these skills were applied in previous roles."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.509
+}

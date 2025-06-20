@@ -1,0 +1,51 @@
+{
+    "resume_id": "12938200",
+    "jd_id": "3904361738",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.243,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed on the candidate's resume, whereas the job description requires 'Catastrophe modeling' as a preferred skill."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's and Bachelor's degree in Social Work, which is relevant to the job description's requirement for a degree in a relevant subject area. However, the specific field of study does not match the job's requirement for atmospheric science, hydrology, or geography."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 17.2 yrs (capped to 17.2), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in healthcare roles, which could be transferable to the job description's responsibilities. However, the experience does not directly align with the job's focus on product management and catastrophe modeling."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they have led projects or teams, which is not explicitly required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not detail any responsibilities that specifically match the job description's requirements for building and maintaining product development plans, engaging with clients, participating in model validation, and partnering with client-facing teams."
+        },
+        "skills": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has strong skills in customer service, problem solving, and bilingualism, which align with the job requirements. However, there is no explicit mention of product management, catastrophe modeling, or usage/interpretation of model output."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights strong customer service skills, which align with the job description's soft skills requirement. However, there is no explicit mention of collaboration, strategic thinking, client engagement, adaptability, or cross-cultural communication."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not list any tools or technologies used, while the job description mentions proficiency in Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows skills like critical thinking and problem-solving, which can be transferred to the role. However, these skills are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.355
+}

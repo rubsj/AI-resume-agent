@@ -1,0 +1,51 @@
+{
+    "resume_id": "29149998",
+    "jd_id": "3902371521",
+    "domain": "HR",
+    "resume_jd_similarity": 0.382,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an Associates of Science degree in Human Resources and Organizational Leadership, which is relevant but lacks depth compared to the required Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 9.8 yrs (capped to 9.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant work experience in Human Resources, including roles that align with the job description requirements. However, the resume could benefit from more detailed descriptions of responsibilities and achievements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job description, such as managing employee records and conducting trainings. However, there is a lack of detail on how these responsibilities were executed or the impact they had."
+        },
+        "skills": {
+            "score": 0.688,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Human Resources', 'Management', and 'Project Management'. However, there is a lack of detail in the resume regarding specific experiences and achievements in these areas."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong soft skills such as excellent communication and interpersonal skills, which are highly valued in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists a variety of transferable skills, but there is a lack of detail on how these skills have been applied in previous roles."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.526
+}

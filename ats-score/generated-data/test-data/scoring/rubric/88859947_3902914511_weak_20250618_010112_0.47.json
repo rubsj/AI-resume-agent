@@ -1,0 +1,51 @@
+{
+    "resume_id": "88859947",
+    "jd_id": "3902914511",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.349,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has some certifications like PMP and Cisco Certification, but lacks specific certifications like OSHA Safety Standards, NFPA 79 standards, and NEC which are mentioned in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education section does not provide any degree or field of study, which is required by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.8 yrs (capped to 14.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction management and project supervision, which aligns with the job responsibilities. However, there is no direct mention of experience in electrical engineering or automation systems."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, it lacks detail in certain sections like education and specific skills."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading construction teams, but lacks explicit mention of leadership roles or responsibilities in an engineering context."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions some responsibilities like managing teams and projects, but lacks specifics about designing automation systems, applying knowledge of electricity and materials, and creating electrical design drawings."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Engineering', 'Information Technology', 'Project Management', and 'Quality'. However, there is no mention of specific technologies like AutoCAD Electrical, PLC, HMI, or Fanuc Robot programming which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as technical knowledge and communication abilities, but lacks specific skills like understanding RIA Robot Safety Standards, OSHA Safety Standards, NFPA 79 standards, and NEC."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their work, unlike the job description which requires knowledge of AutoCAD Electrical, PLC, HMI, and Fanuc Robot programming."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like project management, quality assurance, and leadership, which can be applied in an engineering context. However, these skills need to be contextualized within an engineering framework."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.466
+}

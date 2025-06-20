@@ -1,0 +1,51 @@
+{
+    "resume_id": "15499825",
+    "jd_id": "3902751957",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.381,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education does not match the required degree in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in health information technology and management, which aligns with the job responsibilities. However, the job description requires specific military experience which is not present in the candidate's resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on job responsibilities, which are detailed in the job description."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'billing', 'charts', 'clarify', 'clients', 'DDS', 'diagnosis', 'documentation', 'focus', 'government regulations', 'legal','managing', 'patient privacy', 'payroll processing', 'policies', 'coding', 'protected health information', 'quality', 'quality assurance','requirement','research'. These skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills, which are important for the role as mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, while the job description lists specific tools like Microsoft Word, Excel, and PowerPoint."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as attention to detail, problem-solving, and organizational skills, which are generally applicable across industries. However, the lack of specific military experience reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.39
+}

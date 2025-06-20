@@ -1,0 +1,51 @@
+{
+    "resume_id": "27018550",
+    "jd_id": "3902371521",
+    "domain": "HR",
+    "resume_jd_similarity": 0.383,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which could be beneficial for a position requiring specific knowledge or qualifications."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Certificate of Completion in Business Administration is listed, but it lacks detail and does not specify the level of education or any advanced courses completed."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 5.2 yrs (capped to 5.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in Customer Service and HR roles, which align with the job description. However, the experience is not detailed enough to fully match the responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly match the detailed responsibilities listed in the job description, particularly those related to Organizational Change Management."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Customer Service, Communication, and Conflict Resolution, which align with the job requirements. However, there is no mention of Project Management or Human Resources-specific skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions excellent customer service skills and communication abilities, which align with the soft skills required. However, there is no explicit mention of interpersonal skills or maintaining confidentiality."
+        },
+        "tools": {
+            "score": 0.76,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate lists basic office software skills, but there is no mention of tools specifically related to Organizational Change Management or Human Resources."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as Customer Service, Communication, and Conflict Resolution, which could be applicable to the role. However, these skills are not explicitly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.478
+}

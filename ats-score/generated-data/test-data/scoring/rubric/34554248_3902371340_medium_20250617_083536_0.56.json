@@ -1,0 +1,51 @@
+{
+    "resume_id": "34554248",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.431,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['PMP Certification (fuzzy)'] | (LLM 0.5): The candidate has some certifications, but they do not include the PMP certification preferred by the job description. There is also no mention of specific HRIS system certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Business Administration in HR Management and a Bachelor of Arts degree, which are relevant to the job description. However, the lack of specific dates and GPAs may slightly reduce the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.8 yrs (capped to 15.8), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR roles, including experience in policy creation, recruitment, and management, which aligns well with the job description. The detailed job descriptions provide clear examples of relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate uses clear and concise language, making it easy to understand their qualifications and experiences."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including being an owner/chef and assistant restaurant manager, which indicates strong leadership skills. However, there is no explicit mention of leading diverse, cross-functional teams or managing projects in classic agile models."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with many of the responsibilities listed in the job description, such as project management, team management, and communication. However, there is no explicit mention of leading projects in classic agile models or establishing processes for managing scope."
+        },
+        "skills": {
+            "score": 0.448,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has relevant skills in Human Resources, Information Technology, and Project Management, which align with the job description. However, there is no mention of specific certifications like PMP or experience with Deltek, Procore, or HRIS systems."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as leadership, problem-solving, and communication, which are essential for the role. However, there is no explicit mention of critical thinking or resource planning, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.276,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['HRIS (exact)', 'ERP System (fuzzy)'] | (LLM 0.4): The candidate does not explicitly mention proficiency in Deltek, Procore, or HRIS systems, which are preferred tools in the job description. However, they have experience in using various tools and technologies in their previous roles."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as accounting, budgeting, and bookkeeping, which could be useful in the role. However, there is no explicit mention of experience with ERP systems or specific HRIS systems."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.555
+}

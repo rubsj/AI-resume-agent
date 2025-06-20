@@ -1,0 +1,51 @@
+{
+    "resume_id": "19867922",
+    "jd_id": "3902350269",
+    "domain": "HR",
+    "resume_jd_similarity": 0.372,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The MBA degree is relevant to the field of human resources, but the Bachelor of Arts degree is less specific."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 16.9 yrs (capped to 16.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in human resources, including roles as an HR Generalist and HR Staffing Coordinator, which aligns with the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership roles or responsibilities is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles overlap with the job responsibilities, particularly in managing and recruiting talent."
+        },
+        "skills": {
+            "score": 0.568,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has extensive experience in administrative duties, ADP, and Microsoft Office Suite, which matches the required skills in human resources and project management."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, but they may be inferred from the experience section."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as attention to detail, multi-tasking, and organizational skills, which are beneficial in any role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.623
+}

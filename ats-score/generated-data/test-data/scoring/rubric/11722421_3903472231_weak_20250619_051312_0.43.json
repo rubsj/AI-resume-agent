@@ -1,0 +1,51 @@
+{
+    "resume_id": "11722421",
+    "jd_id": "3903472231",
+    "domain": "DESIGNER",
+    "resume_jd_similarity": 0.358,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which is a requirement for the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has degrees in Business Administration and Fashion Design, which are not directly related to the job description's required degree in Interior Design or other fields with 30 semester hours in Interior Design."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.3 yrs (capped to 14.3), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in Technical Design, which aligns with the job description's responsibilities. However, the experience is not specifically in Interior Design."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not provide evidence of leadership skills, which is not explicitly mentioned in the job description but could be inferred from experience in managing tasks and collaborating with teams."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job description's responsibilities, particularly in managing design meetings and providing technical assistance. However, the experience is not directly in Interior Design."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Design (exact)'] | (LLM 0.4): The candidate has skills in CAD, Photoshop, and Illustrator, which are relevant to the job description's required skills in Art/Creative and Design. However, there is no mention of specific tools like AutoCAD or Space Planning Tools."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists skills like Organizational and Quality, which could align with the soft skills required in Technical Advisor and Budgeting. However, there is no direct match with the specific soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any tools used, which contrasts with the job description's required tools such as AutoCAD, Design Software, Space Planning Tools, and Technical Programs."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Photo, Photoshop, CAD, and Illustrator are transferable to the job description's required skills in Art/Creative and Design. The lack of specific tools and certifications reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.435
+}

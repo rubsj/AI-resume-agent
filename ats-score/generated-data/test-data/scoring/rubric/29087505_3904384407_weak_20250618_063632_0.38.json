@@ -1,0 +1,51 @@
+{
+    "resume_id": "29087505",
+    "jd_id": "3904384407",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.391,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not mention any certifications, while the job description requires a PES certification."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only an AA degree from Highline Community College, which is less than the preferred Bachelor's degree in Mechanical Engineering."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 13.7 yrs (capped to 13.7), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction and management, including roles as a Construction Work, Owner, and Painter/Carpenter, which aligns with the job responsibilities. However, the total experience years are more than required but less than preferred."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and assess."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills in their resume, which aligns with the job description's requirement for leadership."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not mention any specific responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills like framing, machinery, office, Windows, Microsoft, Mac, Apple, works, networking, painting, problem-solving skills, reading, scheduling, typing, computer, formatting, leadership, teaching, learning, time management, and client negotiations, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any soft skills that match the job requirements."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Project (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office, which is mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like leadership, teaching, learning, time management, and client negotiations, which could be beneficial in the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.381
+}

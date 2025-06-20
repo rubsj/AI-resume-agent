@@ -1,0 +1,51 @@
+{
+    "resume_id": "28815362",
+    "jd_id": "3904718101",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.431,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed that match the requirements specified in the job description."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Master's degree in Civil Engineering and a Bachelor's degree in Construction Technology, which are relevant to the job. However, the lack of a degree in Manufacturing or a related field may reduce the score."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in construction, which is somewhat relevant to the job description. However, the experience is not specifically in manufacturing or maintenance, which are key areas mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or experiences that align with the job description's requirement for leadership."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not detailed enough to compare directly with the responsibilities listed in the job description. The job description mentions specific tasks such as performing repairs, setting up and operating machinery, and performing preventative maintenance, which are not covered in the candidate's resume."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills relevant to manufacturing and maintenance, including proficiency in Microsoft Office, AutoCAD, and other software tools commonly used in the industry. However, there is no direct mention of experience with specific tools like Allen-Bradley PLC or pneumatics, which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide information on soft skills such as good oral and written communication, organizational and time management, mechanical aptitude, knowledge of industrial controls and pneumatics, three-phase electrical knowledge, ability to interact with employees, and ability to make decisions under pressure, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's skills do not include any of the specific tools mentioned in the job description such as Allen-Bradley PLC, hydraulics, three-phase electrical, industrial controls, pneumatics, machine tool, computer, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as project management, quality control, and leadership from their construction background. However, these skills are not directly aligned with the manufacturing and maintenance focus of the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.341
+}

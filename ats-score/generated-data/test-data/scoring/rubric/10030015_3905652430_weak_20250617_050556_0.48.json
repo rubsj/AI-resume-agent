@@ -1,0 +1,51 @@
+{
+    "resume_id": "10030015",
+    "jd_id": "3905652430",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.491,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that match the job requirements."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume lacks formal degrees in fields directly related to the job requirements, such as Transportation or Civil Engineering."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in engineering roles, which aligns with the job requirements. However, the experience is not specifically in transportation or roadway programs, leading to a lower score."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles show some overlap with the job responsibilities, particularly in managing and improving maintenance operations. However, the focus is on aerospace industry rather than transportation."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Engineering (exact)'] | (LLM 0.4): The candidate has skills in Engineering and Information Technology, which align with the job requirements. However, the lack of direct experience with Systems, Applications, and Products (SAP) Plant Maintenance and Roadway Management Systems reduces the score."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are explicitly mentioned in the resume that align with the job requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in tools like SAP Plant Maintenance or Roadway Management Systems, which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as Lean/5S, Mechanical, Electrical, and Hydraulic Testing are transferable to the job, but they do not fully align with the specific technical skills required for the position."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.484
+}

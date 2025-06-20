@@ -1,0 +1,51 @@
+{
+    "resume_id": "27120528",
+    "jd_id": "3902347252",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.378,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has an Associate Degree in Computer Networking, which is relevant to the job description, but lacks details such as GPA and graduation year, which could provide further context."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in roles such as Mortgage Banking Default Operations Specialist II and Audio-Visual Technician, which align with the job responsibilities listed in the job description. However, the lack of specific details about the job description's required experience years reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The use of bullet points and clear sections enhances readability."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles such as Manager, Customer Service and Team Leader, which align with the job description's requirement for leadership skills. However, the lack of detail about specific leadership achievements reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as coordinating initiatives, facilitating processes, and communicating effectively, which align with the job responsibilities listed in the job description. However, the lack of detail about specific responsibilities reduces the score."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate possesses a wide range of skills relevant to the job description, including Adobe, Photoshop, streamlining processes, working with attorneys, and computer networking, which align well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like customer service, decision-making, and teamwork, which are soft skills relevant to the job description. However, the lack of specific examples or quantifiable achievements reduces the score."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, whereas the job description does not explicitly require knowledge of any specific tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists transferable skills such as Excel, Ms Word, and workflow management, which are relevant to the job description. However, the lack of detail about how these skills have been applied in previous roles reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.668
+}

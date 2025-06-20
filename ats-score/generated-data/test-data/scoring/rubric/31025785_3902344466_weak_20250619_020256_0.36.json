@@ -1,0 +1,51 @@
+{
+    "resume_id": "31025785",
+    "jd_id": "3902344466",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.28,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Real Estate, Finance, and Investments from New York University, which aligns well with the job description's preferred degree requirement. The Bachelor's degree in Economics also shows a strong educational background relevant to the field."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles such as Summer Analyst, Capital Services Intern, Strategy Analyst, Consultant, and Asset Manager, which aligns with the job description's responsibilities. However, the lack of specific dates and details might slightly reduce the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for the use of commas instead of periods in some sections, which slightly affects the score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experiences, which are mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume provides some information about responsibilities, but it lacks detail and context compared to the job description's responsibilities, which are more structured and specific."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has skills in areas like 'acquisitions', 'due diligence', 'finance', 'financial modeling', etc., which align well with the job description's required skills such as 'Management', 'Manufacturing', and optional skills like 'Financial analysis'. However, there is a lack of specific technical skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions some soft skills like 'Leadership', 'Communication', and 'Collaboration', but these are not as detailed or specific as those listed in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, while the job description requires knowledge of Microsoft Office, Adobe Creative Suite, Salesforce, and other tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like'market analysis','meeting facilitation', and 'financial modeling' can be considered transferable to the job description's requirements, although they may not directly match every skill listed."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.36
+}

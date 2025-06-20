@@ -1,0 +1,51 @@
+{
+    "resume_id": "12082377",
+    "jd_id": "3904729161",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.314,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that match the job requirements."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume lacks formal education details that are typically required for a manufacturing role."
+        },
+        "experience": {
+            "score": 0.875,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales and territory management, which aligns with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.95,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'attention to detail', 'Strong interpersonal skills', 'negotiation', and'sales' which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.85,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'dependability', 'following instructions', and 'working overtime', which are essential for the job."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'business development' and 'organizational skills', but these are not as directly relevant as those in other sections."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.495
+}

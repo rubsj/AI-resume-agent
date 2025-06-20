@@ -1,0 +1,51 @@
+{
+    "resume_id": "29051656",
+    "jd_id": "3904392488",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.344,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's lack of certification requirement."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks information on degrees that match the job description's preferred educational background in quantitative fields."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.9 yrs (capped to 12.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in IT support, database administration, and Oracle database administration, which matches some of the job responsibilities but lacks specifics on Business Objects reports or analytical consulting."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume, which contrasts with the job description's emphasis on leadership."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes production support, database administration tasks, and collaboration with staff, which aligns with some responsibilities but lacks details on creating reports, gathering business requirements, and collaborating with senior analysts."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in SQL, UNIX Shell Scripting, Ksh, bash, and experience with Oracle databases, which aligns well with the job description's required skills in Business Objects, SQL, and MS tools."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions teamwork and collaboration, which aligns with the soft skills section of the job description, but lacks clear communication and autonomy."
+        },
+        "tools": {
+            "score": 0.353,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['SQL (exact)', 'R (substring)'] | (LLM 0.4): The candidate has experience with Oracle Enterprise Manager, Real Application Cluster, and other tools, which aligns with the job description's tools and technologies section, but lacks direct experience with Business Objects, PowerBI, Tableau, Alteryx, R, and Python."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide enough detail on transferable skills such as analytical skills, ability to work with various stakeholders, or experience in reporting or analytics."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.441
+}

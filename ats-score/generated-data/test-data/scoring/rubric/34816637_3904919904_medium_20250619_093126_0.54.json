@@ -1,0 +1,51 @@
+{
+    "resume_id": "34816637",
+    "jd_id": "3904919904",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.391,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The degree provided is not aligned with the required field of study in the job description."
+        },
+        "experience": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has experience in administrative roles, which aligns with the job responsibilities. However, the detailed job responsibilities in the job description are more specific than those in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that match the job responsibilities, but there is no clear alignment with the specific responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Excel', 'PowerPoint', 'Book Keeping', 'Budget Analysis', and 'Budget Development'. However, there is no mention of advanced Excel proficiency or PowerPoint design skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include 'Attention to detail' and 'Organizational skills', which align with the soft skills required in the job description. However, there is no explicit mention of a 'Strong analytical background'."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['PowerPoint (fuzzy)'] | (LLM 0.4): The candidate has experience with tools mentioned in the job description such as Excel and PowerPoint, but does not explicitly state advanced proficiency in Excel."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills are generally transferable, but there is no explicit mention of leadership skills or experience."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.54
+}

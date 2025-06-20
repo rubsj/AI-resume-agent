@@ -1,0 +1,51 @@
+{
+    "resume_id": "36170003",
+    "jd_id": "3905877410",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.367,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's lack of certification requirement."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume lacks details about the GPA, which is typically expected in a formal education section."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in account management and business development, closely matching the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions leadership roles but does not provide specifics on leadership experience, which contrasts with the job description's emphasis on leadership."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to risk management, though not as detailed as those specified in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Salesforce, Siebel, Fox, and Bullhorn CRM/ATS experience, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the resume, which contrasts with the job description's lack of soft skill requirement."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume, which contrasts with the job description's lack of tool requirement."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as sales, account management, and leadership, which are relevant to the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.651
+}

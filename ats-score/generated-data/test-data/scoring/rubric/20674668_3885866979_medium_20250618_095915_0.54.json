@@ -1,0 +1,51 @@
+{
+    "resume_id": "20674668",
+    "jd_id": "3885866979",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.344,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Computer Science, which is relevant to the IT/Software domain but lacks details about GPA or graduation year."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.3 yrs (capped to 17.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in IT roles, particularly in Drupal development and system maintenance, which closely matches the job description's required experience and skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is not explicitly mentioned, although they have managed teams in previous roles, which could be considered a form of leadership."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles, such as overseeing demand management and facilitating meetings, align with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.326,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['analytical skills (substring)', 'skills (exact)'] | (LLM 0.4): The candidate has relevant skills such as Drupal development, versioning management, and problem-solving abilities, which align with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong analytical skills and commitment to driving excellence, which are aligned with the soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.355,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Java (exact)'] | (LLM 0.4): The candidate's experience includes tools like Drupal, which aligns with the job description's required tools and technologies. However, there is no explicit mention of proficiency in ServiceNow, a key tool in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat limited in the resume, lacking specific details on Agile methodologies, Scrum, Kanban, SDLC, and other technologies mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.539
+}

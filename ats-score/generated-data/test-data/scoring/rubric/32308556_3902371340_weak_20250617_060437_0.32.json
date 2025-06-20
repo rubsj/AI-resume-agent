@@ -1,0 +1,51 @@
+{
+    "resume_id": "32308556",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.422,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description prefers candidates with a PMP Certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master of Business Administration and a BA in Entrepreneurship, which are relevant degrees. However, the education details are not fully provided, and there is no mention of any specialized courses or programs that could enhance the relevance."
+        },
+        "experience": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, but the experience is not detailed enough to show specific achievements or responsibilities that match the job description's expectations."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it could benefit from more structured and detailed sections to better align with the ATS scoring criteria."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates experience in leadership roles, but it lacks specific examples or metrics that demonstrate leadership abilities."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume lacks details about specific responsibilities that align with the job description's expectations for leading projects, managing teams, and implementing technical strategies."
+        },
+        "skills": {
+            "score": 0.488,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (fuzzy)', 'Project Management (substring)'] | (LLM 0.4): The candidate has relevant skills in Human Resource Management, Information Technology, and Project Management, which align with the job description. However, there is a lack of specific technical skills such as PMP Certification, ERP System knowledge, Deltek proficiency, Procore expertise, and HRIS systems familiarity."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists soft skills such as Leadership, Problem-solving, Communication, Critical thinking, and Organization, which are aligned with the job description. However, these skills are not quantified or supported by examples."
+        },
+        "tools": {
+            "score": 0.022,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Project management tools (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their experience, while the job description mentions proficiency in Deltek, Procore, HRIS systems, and Agile methodology."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's Skills Continued section provides additional transferable skills that are relevant to the job description, but they are not as clearly articulated or quantified as those in the main Skills section."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.315
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "98965485",
+    "jd_id": "3886464505",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.372,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which is a requirement for the position."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two degrees in Business Administration, but neither is directly related to finance or accounting, which are preferred degrees in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 30.2 yrs (capped to 30.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that involve financial management, strategic planning, and leadership, which aligns with the job responsibilities. However, the total experience is significantly higher than what is required."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, which aligns with the job description's requirement for leadership experience. However, there is no mention of specific leadership skills or achievements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities, such as financial close tasks, journal entries, and management reporting. However, there is no mention of specific responsibilities related to internal controls or Sarbanes Oxley compliance."
+        },
+        "skills": {
+            "score": 0.464,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 1, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Excel (substring)', 'communication (exact)', 'analytical (exact)'] | (LLM 0.4): The candidate has extensive experience in Strategic Planning, Marketing and Communication, Financial & Analytical Experience, Facilities Management Experience, and Leading IT related Projects & Teams, which aligns well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like interpersonal skills, communication, detail-oriented, analytical, organized, and self-motivated, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.305,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate has experience with Excel, which is mentioned as a tool in the job description, but there is no mention of specific tools like NetSuite or US GAAP."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Strategic Planning, Marketing and Communication, Financial & Analytical Experience, Facilities Management Experience, and Leading IT related Projects & Teams can be transferred to the role, but they lack specific technical skills like US GAAP knowledge or CPA certification."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.495
+}

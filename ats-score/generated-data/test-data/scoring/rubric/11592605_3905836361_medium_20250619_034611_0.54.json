@@ -1,0 +1,51 @@
+{
+    "resume_id": "11592605",
+    "jd_id": "3905836361",
+    "domain": "HR",
+    "resume_jd_similarity": 0.228,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a 'Certificate in SHRM Essentials of Human Resource Management' which is relevant but lacks certifications in financial areas like 'Certified Compensation Professional (CCP)', 'Certified Managerial Accountant (CMA)', or 'Certified Financial Accountant (CFA)'."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BA in Justice Studies and an ABA Approved Paralegal Program Certification, which shows a background in legal studies and paralegal work. However, it lacks advanced degrees or specialized certifications in finance or accounting."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 14.3 yrs (capped to 14.3), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has experience in HR roles, particularly in managing visa processes and providing advice on complex regulations, which aligns well with the job description. The experience is slightly less than the required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack details or are unclear, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through acting as an assistant director and coordinator, but lacks formal leadership qualifications or experience in leading teams specifically in sales compensation."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully match the detailed responsibilities listed in the job description, particularly in terms of financial analysis and sales compensation planning."
+        },
+        "skills": {
+            "score": 0.475,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Human Resources (substring)', 'MS Office (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'Human Resource Management', 'Excel', and 'Office' which align with the job requirements. However, there is a lack of specific technical skills like 'Financial analysis' and 'Sales compensation'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Analytical', 'Critical thinking', and 'Multitasking', which are beneficial for the role. However, the lack of specific skills like 'Trust', 'Professionalism', and 'Adherence to Core Values' might be a concern."
+        },
+        "tools": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Office (fuzzy)'] | (LLM 0.4): The candidate has experience with MS Office tools, which are mentioned in the job description. However, they lack experience with SAP sales performance management solution, which is a specific tool required for the position."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Administrative Assistant', 'Bi', and 'Special events' which can be applied in various roles. However, these skills are not as directly applicable to the specific responsibilities of the Incentive Manager position."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.535
+}

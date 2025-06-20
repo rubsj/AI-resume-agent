@@ -1,0 +1,51 @@
+{
+    "resume_id": "12780508",
+    "jd_id": "3885842626",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.386,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a certification (NMLS), but it does not directly relate to tax management."
+        },
+        "education": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's degree in Finance is relevant, but the lack of GPA makes it less impactful."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.5 yrs (capped to 14.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in accounting roles that closely match the job responsibilities, including experience in accounts payable, accruals, and financial reporting."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership roles or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like preparing financial statements and managing accounts payable, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Accounting, accounts payable, accruals, and financial reporting, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, but they have experience in teamwork and customer service, which could be considered soft skills."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as attention to detail and problem-solving, which are valuable in any accounting role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.691
+}

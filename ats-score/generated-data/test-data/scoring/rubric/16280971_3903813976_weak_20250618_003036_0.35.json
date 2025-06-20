@@ -1,0 +1,51 @@
+{
+    "resume_id": "16280971",
+    "jd_id": "3903813976",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.342,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in resume"
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): No relevant education mentioned in resume"
+        },
+        "experience": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): No relevant experience mentioned in resume"
+        },
+        "grammar_cleanliness": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Resume contains errors such as missing years in education and experience sections"
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience mentioned in resume"
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No responsibilities mentioned in resume"
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): No overlap with job description requirements"
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills mentioned in resume"
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used mentioned in resume"
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No transferable skills mentioned in resume"
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.35
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "58428843",
+    "jd_id": "3904068266",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.34,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not mention any certifications, which are required according to the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education history is not detailed enough to match the job description's requirement of a Bachelor's degree in photography or a related field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.4 yrs (capped to 20.4), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in retail and office operations, which aligns with the job description's inferred domain of retail/e-commerce. However, the experience does not specifically mention photography or related fields."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not indicate any leadership roles or responsibilities, which are not mentioned in the job description either."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines responsibilities such as capturing high-quality images, setting up and managing shoots, providing art direction, and ensuring image quality, which are not reflected in the candidate's resume."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'account reconciliation', 'administrative', 'advertising', 'benefits', 'brochures', 'communication skills', 'contracts', 'creative problem solver', 'credit', 'client', 'clients', 'customer service', 'delivery', 'documentation', 'email', 'filing', 'inventory','manage inventory levels','mark','market sales','materials','merchandising', 'office', 'MS Windows', 'office automation', 'payment processing', 'policies', 'POS', 'promotion', 'proofreading', 'purchasing', 'quick learner','record keeping','relationship building','reporting','selling', 'phone', 'transportation', 'typing speed', '50 WPM', 'workshops', 'articles'. These skills align well with the job description's required skills like 'art/creative', 'design', and 'information technology'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong organizational and communication skills, which align with the soft skills required in the job description. However, it does not explicitly state 'keen eye for detail', one of the soft skills mentioned."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions tools like 'digital photography', 'film photography', and 'photo production processes', but the candidate's resume does not provide any evidence of proficiency or use of these tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as customer service, communication, and organization, which are relevant to the job description. However, the lack of specific skills related to photography reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.387
+}

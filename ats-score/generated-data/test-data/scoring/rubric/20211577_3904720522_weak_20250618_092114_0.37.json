@@ -1,0 +1,51 @@
+{
+    "resume_id": "20211577",
+    "jd_id": "3904720522",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.269,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned match the requirements of the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest education level is only a High School Diploma, which does not meet the minimum requirement of a Bachelor's Degree."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 17.4 yrs (capped to 17.4), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in customer service and related fields, but lacks experience in dermal clinical research specifically."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not align with the responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.252,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills like Customer service, Microsoft Office Suite, and Filing, but lacks specific technical skills required for the role such as Analytic methods and Project management."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has some soft skills like Communication and Customer service, but lacks skills like Presentation and Writing, which are required for the role."
+        },
+        "tools": {
+            "score": 0.355,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office Suite, which matches the requirements listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Customer service and Microsoft Office Suite usage, which can be applied to the role, but lacks specific technical skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.373
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "13574264",
+    "jd_id": "3903444438",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.314,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Arts Degree in Business Administration and Management is listed, but it lacks details such as GPA and graduation date, making it less relevant to the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 21.5 yrs (capped to 21.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales management and business development, which aligns with the job responsibilities. However, the experience is not directly related to Azure Cloud or Agile methodologies."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary is concise and highlights relevant experiences and skills."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams and driving revenue growth, which aligns with the leadership aspect of the job description. However, there is no mention of leading Azure Cloud projects or teams."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing teams, sales, and business development align with the job responsibilities. However, there is no mention of creating user stories or collaborating with Product Owners, which are key responsibilities in the Business Analyst role."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in business development, sales management, and leadership, which aligns well with the required skills of the Business Analyst role. However, there is no direct mention of Azure Cloud or Agile methodologies, which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like leadership, mentoring, and effective communication, which are soft skills mentioned in the job description. However, there is no explicit mention of cloud native services or experience with Azure Cloud."
+        },
+        "tools": {
+            "score": 0.048,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Rally (fuzzy)'] | (LLM 0.4): No tools or technologies are listed in the candidate's resume that match the job description's required tools like Azure, Azure DevOps, JIRA, Rally, etc."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like account management, budgeting, and customer service are transferable to the Business Analyst role, but they do not directly match the job responsibilities or required tools."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.468
+}

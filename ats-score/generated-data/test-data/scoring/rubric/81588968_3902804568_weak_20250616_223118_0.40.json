@@ -1,0 +1,51 @@
+{
+    "resume_id": "81588968",
+    "jd_id": "3902804568",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.4,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The highest degree listed is a high school diploma, which does not meet the preferred degree requirement of a B.S. in Engineering or a related technical field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.2 yrs (capped to 15.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in operations and management, particularly in aviation ordnance, which is relevant to vehicle operations. However, the job description requires more specific experience in launch vehicle operations and cryogenic fluids."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume that would indicate the candidate can lead development of CONOPS and operating requirements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing and training personnel, overseeing operations, and ensuring safety align with the job responsibilities. However, there is no direct mention of leading development of CONOPS or operating requirements."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong background in operations, management, and safety, which aligns well with the required skills in vehicle operations integration and handling."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks explicit soft skills that match the job description's requirements for diligence, future-thinking, and passion for the mission."
+        },
+        "tools": {
+            "score": 0.105,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The resume does not mention proficiency in any tools or technologies listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as budgeting, documentation, and management are transferable to the role, but the candidate lacks specific skills in launch vehicle operations and cryogenic fluids."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.399
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "52979663",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.36,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which may be preferred or required by the employer."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree in Personnel and two Associate of Science degrees in Supervision and Plant and Soil Science. While these degrees are relevant to the field of Human Resources, they do not specifically match the job description's requirement for a Bachelor's degree in IT, Computer Science, or related discipline."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 29.5 yrs (capped to 29.5), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has significant experience in various HR roles, including Industrial Development Director, Environmental, Health & Safety Director, and Human Resource Manager. This experience aligns well with the job description's requirements for leading projects, managing teams, and implementing business systems."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections could be more detailed to better align with the job description."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading HR functions, managing teams, and participating in union negotiations, which indicates a level of leadership. However, the candidate's leadership skills are not as detailed as those listed in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles, such as leading HR functions, managing safety, training, and development, and participating in union negotiations, align with the job description's responsibilities. However, the candidate's responsibilities are not as detailed as those listed in the job description."
+        },
+        "skills": {
+            "score": 0.448,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has a strong background in Human Resources, Information Technology, and Project Management, which matches the job description requirements. The candidate also possesses skills in Leadership, Problem-solving, Communication, Critical thinking, Resource planning, Task scheduling, Creativity, Analytical skills, Organization, and Time management, which are essential soft skills for the role."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Leadership, Problem-solving, Communication, Critical thinking, Resource planning, Task scheduling, Creativity, Analytical skills, Organization, and Time management are relevant to the job description's soft skills section. However, the candidate's skills are not as detailed as those listed in the job description."
+        },
+        "tools": {
+            "score": 0.255,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['HRIS (exact)'] | (LLM 0.4): The candidate has experience with Deltek and Procore, which are mentioned in the job description's tools and technologies section. However, there is no mention of specific experience with HRIS systems like Paylocity or UKG, which are also listed as optional skills."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as experience in union and non-union environments, establishing networks, and managing complex projects, are relevant to the job description. However, the candidate's skills are not as detailed as those listed in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.52
+}

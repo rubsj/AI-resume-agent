@@ -1,0 +1,51 @@
+{
+    "resume_id": "17407184",
+    "jd_id": "3904422494",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.347,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds multiple degrees in relevant fields, but the lack of specific details about the years and grades makes it difficult to fully assess their educational background against the job requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 32.5 yrs (capped to 32.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has significant experience in project management, accounting, and training, which matches the job responsibilities. However, the job description requires at least 4 years of experience, and the resume does not explicitly state the total years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and evaluate. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading projects and teams suggests they have leadership skills. However, the job description does not emphasize leadership as a critical requirement, and the resume could benefit from more specific examples of leadership in action."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that match those listed in the job description, such as overseeing operations and managing personnel. However, the resume does not detail specific experiences related to monitoring equipment or working with contractors, which are key responsibilities."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting, finance, and project management, which aligns well with the job requirements. However, there is no explicit mention of manufacturing or computer literacy, which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include strong communication and interpersonal skills, which are aligned with the soft skills required by the job description. However, the resume does not provide examples of how these skills have been applied in previous roles."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions a Computerized Maintenance Management System (CMMS), but the resume does not provide any information on proficiency or use of such tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like change management, financial reporting, and leadership, which could be transferable to the new role. However, the job description does not explicitly list these skills as required, and the resume does not provide detailed examples of how these skills were used in previous positions."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.502
+}

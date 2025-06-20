@@ -1,0 +1,51 @@
+{
+    "resume_id": "10889157",
+    "jd_id": "3905300513",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.39,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume lacks details about the field of study and GPA, which are important for education qualifications."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in various roles within the food service industry, including lead cook positions and kitchen training, which aligns well with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as Lead Cook and Kitchen Trainer, which indicates leadership skills. However, there is no detailed description of leadership achievements or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles match some of the responsibilities required in the job description, such as managing kitchen staff and maintaining cleanliness. However, there is no direct mention of responsibilities related to serving, cleaning, and food preparation."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Kitchen Management skills', 'Employee management', and'very fast learner'. However, there is no mention of specific tools or technologies used in the kitchen."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions'very fast learner' as a skill, which could be considered a soft skill. However, there is no detailed explanation of how these skills are applied in a professional setting."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No tools or technologies used in the kitchen are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as leadership, communication, and problem-solving, which are essential for any food service role. However, there is no explicit mention of how these skills are applied in a food service context."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.605
+}

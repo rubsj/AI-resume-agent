@@ -1,0 +1,51 @@
+{
+    "resume_id": "30646367",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.372,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a single certification, MIOSHA Level One Certification, which is relevant but not directly aligned with the required certifications such as PMP."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education includes a B.B.A in Human Resources and General Industry Certification, which does not match the required degree in IT, Computer Science, or related discipline."
+        },
+        "experience": {
+            "score": 0.772,
+            "reason": "(Rule 0.5): Resume: 4.5 yrs (capped to 4.5), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in HR and Payroll, which significantly exceeds the required minimum of 7 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing projects indicates strong leadership skills, which are essential for the role."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, particularly in managing projects, leading teams, and facilitating change."
+        },
+        "skills": {
+            "score": 0.448,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has extensive experience in Human Resources and Payroll, which aligns with the required skills in Information Technology, Project Management, and Human Resources."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership, problem-solving, and communication, are generally aligned with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.236,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['HRIS (exact)', 'ERP System (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like ABRA, Ceridian, Crystal Reports, and PeopleSoft, which are not listed among the required tools and technologies."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as Excel, PowerPoint, and Microsoft Word, are relevant but not specifically mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.478
+}

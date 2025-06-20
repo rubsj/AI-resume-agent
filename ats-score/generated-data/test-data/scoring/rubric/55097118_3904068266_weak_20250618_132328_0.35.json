@@ -1,0 +1,51 @@
+{
+    "resume_id": "55097118",
+    "jd_id": "3904068266",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.358,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's requirement for a Bachelor's degree in photography or related field."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks formal education in photography or related fields, which is a requirement according to the job description."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 17.8 yrs (capped to 17.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in sales associate roles, which could be transferable to retail/e-commerce positions. However, there is no direct experience in photography or related fields."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is grammatically clean and free of errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume that would indicate the candidate can lead projects or teams, which is a requirement according to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There is no mention of responsibilities that align with the job description's requirements for capturing high-quality images, setting up and managing shoots, providing art direction, ensuring image quality, providing packaging consulting, and assisting with photo production."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has listed skills that align with the job description's required skills in 'Art/Creative', 'Design', and 'Information Technology'. However, there is no mention of specific tools like Digital photography or Film photography."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong interpersonal skills, which aligns with the job description's requirement for excellent communication skills. However, there is no explicit mention of a keen eye for detail."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used in photography, such as Digital photography or Film photography, which are required according to the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like time management, meticulous attention to detail, and strong problem-solving abilities are transferable to the role. However, they are not directly related to photography."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.351
+}

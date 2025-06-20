@@ -1,0 +1,51 @@
+{
+    "resume_id": "36206485",
+    "jd_id": "3902753289",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.334,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a Mississippi Teaching Certificate, which is relevant to the education domain but lacks specific certifications related to financial aid."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science in Reading, which is aligned with the education domain but does not directly match the required bachelor's degree in finance or a related field."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 18 years of teaching experience, which is highly relevant to the job description's focus on financial aid in the education sector. The experience includes roles that demonstrate strong teaching skills and adaptability to different learning environments."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and assess the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience is primarily in teaching, which may not directly translate into leadership skills relevant to managing budgets and advising students in a financial aid context."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in teaching does not directly translate into responsibilities related to managing A+ budgets, advising students on financial aid procedures, or promoting student retention, which are key responsibilities in the job description."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in teaching and learning, which aligns well with the required skills of customer service, education, and finance. However, there is a lack of direct experience in financial aid management."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in teaching indicates strong interpersonal skills, which align with the soft skills required in the job description such as communication, detail-oriented, problem-solving, patience, and empathy."
+        },
+        "tools": {
+            "score": 0.345,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are listed as required skills in the job description. However, there is no mention of Adobe Creative Suite, Facebook, Salesforce, or other tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in creating lesson plans, maintaining records, and adapting to different learning styles are transferable to the role of a financial aid advisor, particularly in terms of organizing financial aid processes and adapting to diverse student needs."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.578
+}

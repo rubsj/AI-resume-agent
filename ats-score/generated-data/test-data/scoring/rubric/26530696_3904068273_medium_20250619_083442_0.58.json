@@ -1,0 +1,51 @@
+{
+    "resume_id": "26530696",
+    "jd_id": "3904068273",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.356,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education provided does not match the requirements of the job description, which does not specify any degree or field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in customer service, which aligns with the job description. However, the experience does not specifically mention prop styling or production assistance."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume that would be relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description lists specific responsibilities such as preparing products, maintaining studio organization, inventory management, sourcing, and steaming, none of which are mentioned in the resume."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Call Center', 'Customer Service', 'Customer Care', 'Technical Support', and 'Troubleshooting'. However, there is no mention of specific tools like Photoshop or Illustrator which might be required for prop styling."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong soft skills such as 'organizational skills', 'creativity', 'ability to work under pressure', and'meeting tight deadlines'. These skills are aligned with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume that could be directly related to the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Customer Service', 'Customer Care', and 'Technical Support' which could be applicable to the job description. However, these skills are not directly related to the specific responsibilities mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.578
+}

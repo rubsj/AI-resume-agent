@@ -1,0 +1,51 @@
+{
+    "resume_id": "15850434",
+    "jd_id": "3902843667",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.445,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate possesses an Arizona Teaching Certificate and Right Response certification, which are relevant to their teaching background but do not directly correlate with corporate training."
+        },
+        "education": {
+            "score": 0.55,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's degree (fuzzy)\"] | (LLM 0.5): The candidate's educational background includes degrees in English Language Learners, Special Education, and Elementary Education, which are not directly related to the job description's requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in teaching and managing teams, which aligns with the job responsibilities. However, the experience is in the field of education rather than corporate training."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills that are specifically relevant to corporate training, such as leading teams or managing projects."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job description's requirements for designing, developing, implementing, and evaluating training programs."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Education (exact)'] | (LLM 0.4): The candidate has extensive experience in teaching and classroom management, which aligns well with the job requirements. However, there is no explicit mention of training skills, which are essential for the role."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills such as teaching, classroom management, team building, and support, which are somewhat aligned with the soft skills required for the job. However, there is no explicit mention of effective communication, interpersonal skills, or empathy."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their previous roles, which contrasts with the job description's requirement for proficiency in Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights skills like data collection, data-driven goal setting, and writing measurable goals, which could be transferable to a corporate training role. However, these skills are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.429
+}

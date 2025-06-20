@@ -1,0 +1,51 @@
+{
+    "resume_id": "29784524",
+    "jd_id": "3905300513",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.57,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed in the candidate's resume match the requirements of the job description."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education section does not provide any information that matches the requirements of the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in food service and management positions, but the details do not fully align with the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership qualities such as leading productive working environments, but there is no explicit mention of leadership skills or experience in the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like inventory management, customer service, and kitchen operations, which align with the job responsibilities. However, the job description requires specific skills in management and manufacturing that are not evident in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Quick problem solver', 'Thrives in fast-paced environment', and 'Committed team player'. However, there is no direct match for 'Management' and 'Manufacturing' which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills such as 'Courteous, professional demeanor', 'Able to work in continuously-standing position', and 'Prefer to work nights and weekends' are relevant to the job description. However, the job description also requires specific skills in management and manufacturing that are not evident in the candidate's soft skills."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills like 'Quick problem solver', 'Thrives in fast-paced environment', and 'Committed team player' are somewhat aligned with the job requirements. However, the job description also requires specific skills in management and manufacturing that are not evident in the candidate's transferable skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.499
+}

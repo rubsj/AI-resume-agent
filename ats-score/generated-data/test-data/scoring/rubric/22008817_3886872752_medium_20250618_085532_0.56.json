@@ -1,0 +1,51 @@
+{
+    "resume_id": "22008817",
+    "jd_id": "3886872752",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.335,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume that directly match the required skills in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Health Administration degree which aligns well with the job's public health domain. However, the B.A. degree does not directly relate to the required field of study."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 16.1 yrs (capped to 16.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in healthcare consulting and administration, which matches the job's requirement for managing grants and contracts. The detailed job descriptions provide clear alignment with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks some details that would make it more closely match the job description."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing projects, but there is no explicit mention of leadership roles or responsibilities that align with the job's leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job's requirements, such as financial oversight, managing contracts, and working with subcontractors. However, there is no direct mention of experience with federal grant oversight."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as financial oversight, grant administration, and working with various platforms like Grant Solutions, REDCap, and Workday. However, there is a lack of specific technical certifications mentioned."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include strong relationship building, self-motivation, teamwork, and attention to detail, which are important soft skills for the position. However, there is no explicit mention of strategic thinking or leadership."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Grant Solutions, REDCap, and Workday, which are mentioned in the job description. However, there is no explicit mention of proficiency or expertise in these tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in data analysis, project management, and financial management are transferable to the job's responsibilities. However, there is no explicit mention of experience in emergency preparedness or response."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.565
+}

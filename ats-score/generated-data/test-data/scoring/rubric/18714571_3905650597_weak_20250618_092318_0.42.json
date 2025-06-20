@@ -1,0 +1,51 @@
+{
+    "resume_id": "18714571",
+    "jd_id": "3905650597",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.305,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Pennsylvania CNA license, but no professional certification in HSE-related field as preferred in the job description."
+        },
+        "education": {
+            "score": 0.05,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not directly align with the job's preferred degree requirement in health, safety, environment, engineering, or related field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in Skilled Healthcare settings, which aligns with the job's responsibilities in promoting health, safety, and environmental awareness."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in providing primary resident care and assistance with daily living activities align with the job's responsibilities in managing health, safety, and environmental engineering controls."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills like CNA, Assisted Living, and Home Health, which align with the job's required skills in Health and Safety."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills like teamwork and customer service align with the job's soft skills in actively promoting health, safety, and environmental awareness."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the candidate's resume that match the job description's requirements."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Arts, Coaching, and Customer Service are transferable but do not directly match the job's required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.417
+}

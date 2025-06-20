@@ -1,0 +1,51 @@
+{
+    "resume_id": "33370664",
+    "jd_id": "3901997613",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.264,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate's highest education is a Bachelor's degree in Psychology, which does not match the job's requirement for a degree in Financial Services."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 19.2 yrs (capped to 19.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in case management, which aligns with the job's responsibilities. However, the job requires at least 5 years of experience, while the candidate has over 19 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which are not explicitly required for the job but could be beneficial."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not detail specific responsibilities that match the job's responsibilities listed in the description."
+        },
+        "skills": {
+            "score": 0.496,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Analyst (fuzzy)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills in case management, family and children's programs, crisis prevention intervention, child abuse clearance, discharge planning, and interpersonal skills, which align with the job's required skills in analyst, information technology, and research."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong interpersonal skills, which align with the job's soft skill requirement of analytical skills and communication skills. However, the resume lacks details on other soft skills like diligence in written documentation and time management."
+        },
+        "tools": {
+            "score": 0.047,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 2}. Matched: ['ACH (substring)', 'Wires (fuzzy)', 'Verification (fuzzy)', 'Planning (exact)'] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, whereas the job description lists several tools and technologies required for the role."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like case management, family and children's programs, crisis prevention intervention, and interpersonal skills, which could be relevant to the job. However, the resume lacks specifics on how these skills have been applied in previous roles."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.432
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "29208172",
+    "jd_id": "3901943854",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.376,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate possesses only one certification, which is not directly related to the job description's required skills or tools."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds three degrees, but none are directly related to business management or the tools mentioned in the job description. The lack of recent education or specific field of study reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 25.6 yrs (capped to 25.6), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in various roles that involve business analysis, project management, and client relations, which closely matches the job description's required experience and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but the job description does not explicitly require leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job description's responsibilities, particularly in managing tasks, organizing work, and supporting executives. However, the lack of specific details about managing tasks using Asana reduces the score."
+        },
+        "skills": {
+            "score": 0.565,
+            "reason": "(Rule 0.6): Required: {'exact': 3, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Marketing (exact)', 'Sales (exact)', 'Communication (exact)', 'Organization (substring)', 'Attention to detail (substring)'] | (LLM 0.4): The candidate has extensive experience in business analysis, account management, and business development, which aligns well with the job description's required skills. However, the lack of direct experience with Asana, Microsoft Office, and Google Workspace tools reduces the score."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in leadership, communication, and critical thinking align well with the soft skills required in the job description. However, the lack of explicit mention of self-starter attitude reduces the score."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Asana (fuzzy)'] | (LLM 0.4): The candidate lacks experience with the tools listed in the job description such as Asana, Microsoft Office, and Google Workspace."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in business analysis, account management, and problem-solving are transferable to the job description's responsibilities. However, the lack of specific technical skills like proficiency in task/project management software reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.591
+}

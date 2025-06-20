@@ -1,0 +1,51 @@
+{
+    "resume_id": "39413067",
+    "jd_id": "3904501150",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.369,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description prefers candidates with BICSI Registered Technician, RCDD, AV certifications, Security certifications, and OSHA 20 Safety certification."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an Associate of Applied Science degree in Computer Science, which is less than the preferred Bachelor's degree mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 18.2 yrs (capped to 18.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in IT consultancy and management roles, but lacks specific details about managing large cabling infrastructure projects, which is preferred in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership experience or responsibilities, although they have experience in managing projects and teams."
+        },
+        "responsibilities": {
+            "score": 0.162,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Providing technical support (fuzzy)'] | (LLM 0.5): The candidate's resume does not explicitly mention responsibilities related to managing ISP cabling installations, setting up new projects, or managing subcontractors, which are key responsibilities in the job description."
+        },
+        "skills": {
+            "score": 0.512,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Information Technology', 'Project Management', and 'Active Directory'. However, there is no mention of specific certifications like BICSI Registered Technician or RCDD which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills, which aligns with the soft skills required in the job description. However, leadership and problem-solving skills are not explicitly stated."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 2}. Matched: ['Microsoft Office (substring)', 'AV equipment (fuzzy)', 'MS Project (fuzzy)', 'Excel (substring)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office and Windows operating systems, but lacks specific knowledge of tools like RJ45 connectors, LC connectors, and MS Project which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like project planning and reporting, but lacks specific skills like OSHA 20 Safety certification and experience in a General Construction environment."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.428
+}

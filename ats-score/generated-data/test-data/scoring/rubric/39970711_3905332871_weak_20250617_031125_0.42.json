@@ -1,0 +1,51 @@
+{
+    "resume_id": "39970711",
+    "jd_id": "3905332871",
+    "domain": "HR",
+    "resume_jd_similarity": 0.431,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a PHR certification, which is relevant to the job description. However, there is no mention of any other certifications that might be preferred or required."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Human Resource Management, which aligns well with the job description. However, there is no mention of any specific degrees preferred by the employer."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 15.2 yrs (capped to 15.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, including HR & Safety Manager and Site Supervisor (HR Generalist). However, the job description requires at least 3 years of experience, and the candidate has more than 15 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or achievements that could be relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details about responsibilities, which are crucial for matching them with the job description."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has a strong set of skills relevant to the job description, including HR Strategic Planning, Training & Development, Performance Management, Organizational Development, and Project Management. However, there is no mention of Manufacturing skills which are required."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks information about soft skills, which are essential for the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have any tools or technologies listed, whereas the job description mentions proficiency in Windows, Word, Google Email, and Google Apps."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide any information about transferable skills that could be relevant to the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.417
+}

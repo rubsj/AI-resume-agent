@@ -1,0 +1,51 @@
+{
+    "resume_id": "29647215",
+    "jd_id": "3903437055",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.304,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, and none are required in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds MBA and Bachelor degrees in Business, which may be relevant for the soft skills and leadership aspects but does not directly contribute to the job responsibilities."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.8 yrs (capped to 24.8), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in Cerner implementations, which is more than the required 10 years of experience in environmental consulting."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership is not explicitly mentioned in the resume, and there are no leadership requirements in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Analyst (exact)', ', (substring)'] | (LLM 0.4): The candidate has extensive experience in Cerner implementations, which aligns with the required skills in environmental consulting, particularly in NEPA and compliance services."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the resume, and there are no soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No specific tools or technologies are mentioned in the resume that match the job description's requirements."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as documentation, integration, and project management, are relevant to the job responsibilities in environmental consulting."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.431
+}

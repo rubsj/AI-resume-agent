@@ -1,0 +1,51 @@
+{
+    "resume_id": "28867567",
+    "jd_id": "3901943425",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.262,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a BS degree in Hospitality & Business Management, which is related to the job but not directly aligned with the required Marketing or Communications degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales and management roles, particularly in customer service and sales, which aligns well with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but the job description does not explicitly require leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing campaigns, planning tests, and ensuring campaign clarity, which aligns with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has strong sales and management skills which align well with the required skills of Email Marketing Associate role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as attention to detail, collaboration, and customer engagement, which are beneficial for the role."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Asana (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Klaviyo, which is one of the required tools in the job description, but lacks experience with Asana."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include relationship selling, territory sales, and sales forecasting, which are relevant to the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.536
+}

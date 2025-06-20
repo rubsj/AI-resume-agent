@@ -1,0 +1,51 @@
+{
+    "resume_id": "29784524",
+    "jd_id": "3904419432",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.382,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires 'Food Handler' and 'Alcohol Server' certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education section is incomplete and does not provide any degree or field information, unlike the job description which requires a high school diploma or equivalent."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in food service and management, particularly in a pizza chef role, which aligns with the job description requirements. However, the experience is not detailed enough to fully match the job description's expectations."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as a manager/pizza chef indicates leadership capabilities, but the job description specifically requires 'Management' skill, which is not directly mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows they can handle responsibilities related to food and beverage service, but the details do not fully align with the job description's specific responsibilities such as knowledge of the menu, liquors, and ability to take orders."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Quick problem solver', 'Thrives in fast-paced environment', and 'Committed team player'. However, there is no direct match for 'Management' and 'Manufacturing' which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as 'Courteous, professional demeanor', 'Able to work in continuously-standing position', and 'Prefer to work nights and weekends', are generally aligned with the job description's requirements for excellent communication skills and comfort in various environments."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not mention any specific tools or technologies required, so there is no basis to evaluate the candidate's tool proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills that could be transferred to the job, such as attention to detail and teamwork, but lacks specific skills like 'Management' and 'Manufacturing' which are required."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.507
+}

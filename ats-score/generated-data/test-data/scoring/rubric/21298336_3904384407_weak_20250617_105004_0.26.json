@@ -1,0 +1,51 @@
+{
+    "resume_id": "21298336",
+    "jd_id": "3904384407",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.454,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a 'PES' certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science in Civil Engineering from University of Pittsburgh at Johnstown, which matches one of the preferred degrees in the job description."
+        },
+        "experience": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Resume: 1.0 yrs (capped to 1.0), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience as an Engineering Intern, but the total experience years do not meet the required 10 years specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or experiences, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information about responsibilities, which is a key requirement in the job description."
+        },
+        "skills": {
+            "score": 0.336,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has skills like Bluebeam, Mathcad, Microsoft Word, Excel, Project, PowerPoint, and Autocad Civil 3D, which match some of the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills, which are mentioned as optional skills in the job description."
+        },
+        "tools": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Project (fuzzy)', 'AutoCAD (exact)'] | (LLM 0.4): The candidate has experience with tools like Bluebeam, Microsoft Word, Excel, Project, PowerPoint, and Autocad Civil 3D, which match some of the tools and technologies in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills and experience can be transferred to the role, but they lack specific responsibilities and soft skills that are required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.262
+}

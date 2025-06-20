@@ -1,0 +1,51 @@
+{
+    "resume_id": "78107631",
+    "jd_id": "3904962288",
+    "domain": "ARTS",
+    "resume_jd_similarity": 0.328,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions multiple degrees but lacks specific details like years, institutions, and GPAs, making it difficult to assess the relevance to the job."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in roles like Executive Director, Head Instructor, and Chairman, which align with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume contains incomplete entries and missing details, affecting its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership experience is not explicitly mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide specific responsibilities or duties performed in previous roles."
+        },
+        "skills": {
+            "score": 0.366,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Computer (exact)', 'Organizational (fuzzy)', 'Teaching (exact)'] | (LLM 0.4): The candidate has listed skills like 'academic', 'Arts', 'Enterprise', and 'Teaching', which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools or technologies used in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Transferable skills are not explicitly mentioned in the resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.31
+}

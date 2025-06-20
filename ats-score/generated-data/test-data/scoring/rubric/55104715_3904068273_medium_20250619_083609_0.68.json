@@ -1,0 +1,51 @@
+{
+    "resume_id": "55104715",
+    "jd_id": "3904068273",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.346,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has multiple degrees in marketing-related fields, which aligns with the job description's inferred domain of consumer goods. However, the lack of specific details about the degrees' relevance to the field reduces the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales, business development, and project management, which matches the job responsibilities of preparing products for images and managing inventory."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing projects indicates some level of leadership, but there is no explicit mention of leadership roles or achievements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in sales and project management aligns with the job responsibilities of preparing products for images and managing inventory."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Office Suite, SQL, and Google Products, which are not directly mentioned in the job description but could be transferable."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's strong communication and problem-solving skills match the soft skills required, such as organizational skills and meeting tight deadlines."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are explicitly mentioned in the resume, and the job description does not specify any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like leadership and teamwork are not quantitatively assessed in the resume, but they can be inferred from the candidate's experience in leading teams and managing projects."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.676
+}

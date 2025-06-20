@@ -1,0 +1,51 @@
+{
+    "resume_id": "70667011",
+    "jd_id": "3901995712",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.387,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires either a 'Certified Fraud Examiner (CFE)' or a 'Certified Anti-Money Laundering Specialist (CAMS)' certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BS in Business Management from Guilford College and a Real Estate Broker certification, but the job description does not specify any formal education requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 24.2 yrs (capped to 24.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in various roles related to banking and mortgage lending, which aligns with the job responsibilities. However, the job description requires at least 10 years of experience, and the candidate has over 24 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The grammar cleanliness score is high because there are no obvious errors in the resume."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows leadership experience through roles such as Banking Center Manager II AVP and Mortgage Operations Manager, which aligns with the leadership requirement in the job description. However, there is no explicit mention of leadership skills or achievements in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume outlines responsibilities that match some of the job responsibilities listed in the job description, such as managing operations, leading teams, and ensuring compliance. However, the candidate does not explicitly mention developing and implementing a Fraud Risk Management framework, which is a key responsibility in the job description."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'credit', 'clients service','mortgage compliance', and'sales'. However, there is no mention of 'Finance' or 'Certified Fraud Examiner (CFE)', which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes skills like 'exceptional communication and interpersonal skills', which align with the soft skills required in the job description. However, there is no explicit mention of'strong leadership and team management abilities', another soft skill mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any tools or technologies used, whereas the job description mentions proficiency with Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights transferable skills such as 'employee relations','recruiting and retention', and 'employee development/training', which could be beneficial in the role. However, these skills are not directly aligned with the job responsibilities listed in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.487
+}

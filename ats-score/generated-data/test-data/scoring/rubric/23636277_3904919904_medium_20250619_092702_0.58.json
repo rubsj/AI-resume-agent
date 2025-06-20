@@ -1,0 +1,51 @@
+{
+    "resume_id": "23636277",
+    "jd_id": "3904919904",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.285,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a law degree and a commerce degree, which may not directly align with the job requirements. The company secretary certification is relevant to corporate roles but not necessarily to executive assistant positions."
+        },
+        "experience": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has relevant experience in accounting and finance, including experience with QuickBooks, SAP, and financial reporting. However, the job description focuses more on administrative and organizational skills rather than technical accounting knowledge."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams and coordinating projects, but the job description does not emphasize leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities related to managing calendars and handling sensitive information, which align with the job description. However, there is no clear evidence of experience in managing the day-to-day administration of the executive office or handling special projects."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has strong accounting skills relevant to the job, including experience with QuickBooks, SAP, and financial reporting tools. However, there is no mention of advanced Excel or PowerPoint skills, which are required."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong analytical skills, excellent communication, and attention to detail, which align well with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.3,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['PowerPoint (exact)'] | (LLM 0.4): The job description requires advanced Excel and PowerPoint skills, which are not mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a range of transferable skills such as bookkeeping, financial analysis, and leadership, which could be beneficial in an executive assistant role. However, these skills are not as prominently featured as those required by the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.581
+}

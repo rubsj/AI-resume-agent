@@ -1,0 +1,51 @@
+{
+    "resume_id": "16132195",
+    "jd_id": "3904720522",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.286,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate possesses certifications like CPR and first aid, which are relevant to the personal care domain but lacks specific certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is not detailed enough to match the job requirement of a Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 5.6 yrs (capped to 5.6), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in personal healthcare, including experience in administering medication, providing patient care, and managing household tasks, which aligns well with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate leadership skills or experience that align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have responsibilities that match the job description, which requires coordinating clinical studies and working with cross-functional teams."
+        },
+        "skills": {
+            "score": 0.332,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as patient-focused care, excellent interpersonal skills, and time management, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions some soft skills like communication and presentation, but lacks the advanced skills required for senior-level positions."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in tools listed in the job description such as Microsoft Office, Adobe Creative Suite, Salesforce, etc."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as time management and preparation of meals, which could be useful in a research setting."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.45
+}

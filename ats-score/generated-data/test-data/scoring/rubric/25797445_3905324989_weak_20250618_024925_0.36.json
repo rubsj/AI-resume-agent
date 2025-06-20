@@ -1,0 +1,51 @@
+{
+    "resume_id": "25797445",
+    "jd_id": "3905324989",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.31,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): An Associates Degree in Applied Science Electronics Technology is listed, but it does not specify if it aligns with the required BSEE degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 30.8 yrs (capped to 30.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in engineering and electronics, particularly in project management, robotics, and troubleshooting. However, the job description requires more specific experience with tools and technologies."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job description's requirements."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Project Management', 'Robotics', 'Electronics', and 'Troubleshooting'. However, there is no mention of specific tools like network analyzers or oscilloscopes."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No specific tools or technologies are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Delivery', 'ergonomics', 'Lighting', 'Paint', 'PLC', 'power distribution', 'producing', 'Project Management', 'Robotic systems','safety', and 'troubleshooting' are transferable to the role, but they do not directly align with the job description's specific requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.362
+}

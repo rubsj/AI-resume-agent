@@ -1,0 +1,51 @@
+{
+    "resume_id": "54101961",
+    "jd_id": "3627141928",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.389,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may be required or preferred for the role."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not match the required degree level of Bachelor's or higher."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in various roles that involve customer service, data entry, and basic office tasks, but lacks specific experience in quality assurance, production, or engineering."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors, indicating good presentation and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There are no responsibilities listed in the candidate's resume that directly match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in hardware, software, and basic IT tools like printers, monitors, routers, scanners, and cables, which align with the job requirements. However, there is no explicit mention of engineering or production skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate lists knowledge of Windows operating systems and some IT tools, which are relevant to the job description's tools and technologies section."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as customer service, data entry, and attention to detail are transferable to the role, but they do not specifically align with the job's technical requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.374
+}

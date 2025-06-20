@@ -1,0 +1,51 @@
+{
+    "resume_id": "22890839",
+    "jd_id": "3905302212",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.379,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate possesses several certifications that align with the job requirements, such as CompTIA Linux+/LPIC-1, MCSA, and CCNA. However, there are missing dates and fields which could indicate gaps in the certification history."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lacks detail and does not provide any information about the candidate's formal education, which is typically expected in a job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in IT support roles, particularly in remote support and troubleshooting across multiple platforms. However, the lack of detail in the job description makes it difficult to assess the exact relevance of past experiences."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, the lack of detail in certain sections reduces its overall effectiveness in matching the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would be relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, such as remote support and troubleshooting. However, there is no direct match with the specific ADAS functionalities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.342,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Documentation (exact)'] | (LLM 0.4): The candidate has a strong set of technical skills relevant to the job, including proficiency in various operating systems, software tools, and networking concepts. However, there is no mention of specific programming languages or tools that are required in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are generally aligned with the job requirements, including problem-solving, communication, and collaboration. However, there is no evidence of experience in cross-functional interaction or business anchoring."
+        },
+        "tools": {
+            "score": 0.243,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Training (exact)', 'Collaboration (exact)'] | (LLM 0.4): The candidate lists a broad range of tools they are proficient in, but the job description specifies only 'Software Tools' as a required skill. The candidate's skills may overlap with the required skill, but there is no explicit alignment."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a diverse set of skills that can be transferred to the role, such as hardware support, software installation, and network troubleshooting. However, these skills are not directly related to the ADAS functionalities required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.451
+}

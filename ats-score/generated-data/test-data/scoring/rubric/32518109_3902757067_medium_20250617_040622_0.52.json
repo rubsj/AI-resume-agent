@@ -1,0 +1,51 @@
+{
+    "resume_id": "32518109",
+    "jd_id": "3902757067",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.559,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has no certifications listed, but the job requires Alcohol Awareness Certification, which is missing."
+        },
+        "education": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a High School Diploma and two IT-related degrees, but the job requires a minimum of one year of experience, which is not directly reflected in the education section."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in roles that involve food service and management, which aligns with the job responsibilities. However, the specific experience does not match the required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions experience as a supervisor and trainer, but there is no detail on how they demonstrated leadership or managed teams."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities mentioned in the job description, such as serving food and beverage items, but there is no direct evidence of experience in assisting servers or managing a crew."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills like Team Player, Physically active, Out-going, Willingness to learn, and Shows Initiative which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills like professional appearance, multitasking, responsible alcohol service, communicating with guests, English language proficiency, and age requirement align well with the job requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate does not mention any specific tools or technologies used, which is a requirement in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills like leadership, problem-solving, and time management are not explicitly mentioned, which could be beneficial for the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.523
+}

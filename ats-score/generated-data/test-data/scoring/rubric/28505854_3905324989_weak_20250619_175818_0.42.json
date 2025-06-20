@@ -1,0 +1,51 @@
+{
+    "resume_id": "28505854",
+    "jd_id": "3905324989",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.349,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in Electrical Engineering and Control Systems, but the job description does not emphasize formal education."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.2 yrs (capped to 16.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in managing teams and developing products, which matches the job responsibilities. However, the job description focuses more on RF testing rather than product development."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing projects, which is a key leadership skill."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that specifically align with RF testing as described in the job description."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has extensive experience in engineering management and product development, aligning well with the job requirements. However, there is no direct mention of RF engineering skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the candidate's resume, making it difficult to assess their relevance to the job."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume that directly match the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as leadership, mentoring, and interfacing with customers and vendors are transferable to the role, but they do not directly relate to RF testing."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.417
+}

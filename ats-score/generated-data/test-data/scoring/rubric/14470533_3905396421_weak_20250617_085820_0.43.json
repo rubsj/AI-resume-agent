@@ -1,0 +1,51 @@
+{
+    "resume_id": "14470533",
+    "jd_id": "3905396421",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.461,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a CPA certification, which is relevant but not required by the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a degree in Business Management-Accounting and Bookkeeping, which aligns with the job requirements. However, the lack of specific degree years and GPA may lower the score."
+        },
+        "experience": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in various accounting roles, including positions that require skills like 'Accounting', 'Bookkeeping', 'General Ledger', and 'Office Management'. This closely matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, the lack of specific details about tools like 'Oracle' reduces the score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which are not explicitly required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like 'Accounting', 'Bookkeeping', and 'Office Management', which are aligned with the job responsibilities. However, the lack of detail on specific tools like 'Oracle' reduces the score."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'Accounting', 'Bookkeeping', 'General Ledger', 'Office Management', and 'Excel'. However, there is no mention of specific tools like 'Oracle' or 'Microsoft Office' used in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include 'Communication', 'Problem-solving', and 'Team-oriented', which are soft skills mentioned in the job description. However, the lack of detail on specific tools like 'Oracle' reduces the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like 'Oracle' and 'Microsoft Office', but the candidate's experience does not detail usage of these tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include 'Accounting', 'Bookkeeping', and 'Office Management', which can be transferred to the job. However, the lack of detail on specific tools like 'Oracle' reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.433
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "15721849",
+    "jd_id": "3904380807",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.359,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['PE (substring)'] | (LLM 0.5): No relevant certifications are listed, specifically missing PE certification which is preferred."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): An Associate of Arts degree in Mechanical Engineering is listed, but it does not meet the preferred degree requirements of a Bachelor's or Master's in Electrical Engineering."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 25.2 yrs (capped to 25.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction management and operations, including leadership roles and project management. However, there is no specific mention of electrical engineering experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership in their summary and experience, but there is no explicit mention of leadership skills that align with the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There are no responsibilities listed that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in construction management and operations, which aligns well with the required skills of senior electrical engineering roles. However, there is no direct mention of electrical engineering skills or certifications."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned that align with the required skills such as client relations, teamwork, communication, leadership, and project management."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned, which contrasts with the requirement for proficiency in Microsoft Office, AutoCAD, and electrical design software."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like leadership, project management, and attention to detail are transferable from construction management to electrical engineering roles, but they do not fully align with the specific technical skills required."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.41
+}

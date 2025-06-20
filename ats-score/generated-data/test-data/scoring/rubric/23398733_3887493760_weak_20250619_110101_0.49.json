@@ -1,0 +1,51 @@
+{
+    "resume_id": "23398733",
+    "jd_id": "3887493760",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.23,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 1.0,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The resume includes a CPC-A certification issued by the American Academy of Professional Coders, which matches the required certification for the job."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume does not provide any education that directly aligns with the job requirements, which focus on food production."
+        },
+        "experience": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The resume lacks experience in food production or related fields, which is essential for the job."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no grammatical errors or formatting issues that would detract from its readability."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume that would indicate the candidate could lead a team in a food production setting."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not demonstrate experience or skills relevant to the responsibilities listed in the job description, such as food preparation, customer service, or following recipes."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The resume lists skills such as computer systems, organized, self-starter, grammar, and communicates well, which align with the job requirements. However, there is no direct mention of management or manufacturing skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions strong communication skills and being a self-starter, which are soft skills aligned with the job requirements. However, it lacks specific skills like thorough product knowledge or ability to follow a recipe."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): There is no mention of tools or technologies used in food production, which is a requirement for the job."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like computer systems, organized, self-starter, grammar, and communicates well can be transferred from previous roles to the food production industry."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.494
+}

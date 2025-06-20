@@ -1,0 +1,51 @@
+{
+    "resume_id": "22800977",
+    "jd_id": "3901682377",
+    "domain": "ARTS",
+    "resume_jd_similarity": 0.275,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The job description does not require any specific certifications, and the candidate's certifications are not relevant to the position."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Master of Education degree in Educational Administration, which aligns with the inferred domain of Education, though the job description does not specify educational requirements."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in educational administration roles that align with the inferred domain of Education, but the job description specifies a Food Service Worker position, which does not match the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in supervising staff and leading initiatives aligns with leadership skills, though these are not directly applicable to the food service role."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines responsibilities related to food service, which do not match the candidate's experience in educational administration."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has skills in Fundraising, Multi-Task Management, Mentoring, Community Relations, and Creative Problem Solving, which are relevant to the job but not directly mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as strong interpersonal and customer service skills, excellent attention to detail, and communication skills, which are relevant to the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not mention any tools or technologies required, and the candidate's resume does not provide information on using specific tools relevant to the position."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like leadership, mentoring, and community relations are transferable from the candidate's educational administration background to the food service industry."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.544
+}

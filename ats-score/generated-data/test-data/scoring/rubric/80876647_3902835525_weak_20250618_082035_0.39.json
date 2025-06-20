@@ -1,0 +1,51 @@
+{
+    "resume_id": "80876647",
+    "jd_id": "3902835525",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.258,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate has a certification in 'cpr certified'. This matches one of the certifications required in the job description but lacks others like 'crm' mentioned in the tools and technologies section."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only completed a high school diploma, which does not meet the preferred degree requirement of a Bachelor's Degree in Business, Finance, Marketing, or Equivalent Work Experience."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 2.8 yrs (capped to 2.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in various roles that involve customer service, sales, and administrative tasks. However, none of these roles specifically align with the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities that could be relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not cover the job responsibilities listed in the job description such as executing sales plans, conducting market research, and working closely with sales management."
+        },
+        "skills": {
+            "score": 0.456,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ' (substring)'] | (LLM 0.4): The candidate has skills in 'administrative', 'basic', 'cpr certified', 'first aid', 'inventory', 'life support', 'logistics','microsoft office', 'office', 'personnel', 'fast learner','sales','statistics', 'tables', and '65 wpm'. However, there is no direct match with the required skills in the job description such as 'business development','marketing', and'sales'."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'positive, customer-focused attitude', 'professional and courteous manner', and'strong organizational, multi-tasking, and time-management skills'. These skills are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have any experience with tools mentioned in the job description such as 'crm'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'administrative', 'basic', 'inventory', 'life support', 'logistics','microsoft office', 'office', 'personnel', 'fast learner','sales','statistics', 'tables', and '65 wpm'. These skills can be transferred to the role but lack specific skills like 'business development' and'marketing' required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.388
+}

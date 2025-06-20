@@ -1,0 +1,51 @@
+{
+    "resume_id": "21512769",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.207,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the job requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not specify any degrees that match the job requirements."
+        },
+        "experience": {
+            "score": 0.683,
+            "reason": "(Rule 0.5): Resume: 9.2 yrs (capped to 9.2), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in consulting and related fields, but the job requires more than 12 years of experience, which the candidate does not explicitly state."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate leadership abilities, which are required according to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has experience in 'Consulting' and 'Information Technology', which aligns with the job requirements. However, there is no explicit mention of AWS, GCP, Azure, CDMP, MDM, DBA, SQL, SAP, TOGAF, API, CISSP, or VCP, which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate strong leadership or motivation abilities, which are required soft skills according to the job description."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Spark (fuzzy)'] | (LLM 0.4): The candidate does not list any tools or technologies used that match the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills do not match the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.238
+}

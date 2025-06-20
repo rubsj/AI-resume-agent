@@ -1,0 +1,51 @@
+{
+    "resume_id": "28803888",
+    "jd_id": "3904954839",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.344,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education details are incomplete, lacking information about the institution, degree, field, GPA, and year. The job description does not specify any required educational background."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in construction and piping engineering, which matches the job requirements. However, the experience is not detailed enough to cover all aspects of BIM technology and VDC, which are crucial for the position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of detail in certain sections reduces its overall effectiveness in matching the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they have led teams or projects, which is a requirement for the position."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, particularly in terms of coordination and management. However, there is no clear indication of leading BIM coordination efforts or managing BIM models specifically."
+        },
+        "skills": {
+            "score": 0.315,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Quality control (substring)'] | (LLM 0.4): The candidate has relevant skills in AutoCAD, welding, and piping installation, which align with the job requirements. However, there is no explicit mention of BIM technology or virtual design and construction (VDC), which are key skills for the position."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as problem-solving and communication, are generally aligned with the job requirements. However, there is no explicit mention of critical thinking or navigating ambiguity, which are important soft skills for the position."
+        },
+        "tools": {
+            "score": 0.41,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Revit (fuzzy)', 'AutoCAD (exact)'] | (LLM 0.4): The candidate has experience with AutoCAD, which is mentioned in the job description. However, there is no explicit mention of BIM tools or other technologies like Revit or Navisworks."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like time management and technical writing, but these are not directly related to the job responsibilities or required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.468
+}

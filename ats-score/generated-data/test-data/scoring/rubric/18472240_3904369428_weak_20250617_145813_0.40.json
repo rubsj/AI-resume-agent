@@ -1,0 +1,51 @@
+{
+    "resume_id": "18472240",
+    "jd_id": "3904369428",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.317,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate possesses an EPA Certified Universal certification, but it does not directly match the required FE certification leading to future PE licensure."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a GED, which may not be considered equivalent to a Bachelor's degree in Electrical Engineering as required by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.2 yrs (capped to 20.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in maintenance and repair roles that align with the job responsibilities. However, the experience lacks depth in specialized engineering software and advanced electrical engineering tasks."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions training and mentoring staff, indicating some level of leadership. However, there is a need for more detailed examples of leadership roles and achievements."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, such as training and mentoring staff. However, there is a lack of detail on how they have handled more technical responsibilities."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as'repair', 'installation', and'maintenance' which align with the job requirements. However, there is a lack of specific technical skills like 'FE', 'AutoCAD', and 'energy modeling'."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates soft skills like 'training' and'mentoring', which are aligned with the job description. However, there is a need for more specific examples of leadership and project management."
+        },
+        "tools": {
+            "score": 0.16,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like 'Revit' and 'AutoCAD', which are mentioned in the job description. However, there is no explicit mention of proficiency or usage in these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles, such as problem-solving and teamwork. However, there is a lack of emphasis on technical skills that are crucial for the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.4
+}

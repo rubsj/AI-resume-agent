@@ -1,0 +1,51 @@
+{
+    "resume_id": "34141299",
+    "jd_id": "3887493760",
+    "domain": "AGRICULTURE",
+    "resume_jd_similarity": 0.315,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lacks specific details such as degree, field, year, and GPA."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in customer service and data collection, which aligns with the job requirements. However, the experience does not cover the required skills of 'Management' and 'Manufacturing'."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide specific responsibilities that match the job description."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Customer Service', 'Data Collection', and 'Data Entry'. However, there is a lack of specific skills like 'Management' and 'Manufacturing' which are required."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'customer satisfaction', 'communication', and 'teamwork'. However, the skills do not fully align with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'administrative', 'clerical', and 'customer service'. However, these skills are not as detailed or specific as those required by the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.51
+}

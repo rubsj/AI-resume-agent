@@ -1,0 +1,51 @@
+{
+    "resume_id": "11605833",
+    "jd_id": "3905391894",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.281,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has certifications in 'Certified Computer Technician' and 'Certified Medical Supply Technician', which are relevant to the job description but not as directly aligned as skills."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelors of Science and Business in Health Care Management, which is relevant to the job description but does not specify the level of education required."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.4 yrs (capped to 15.4), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has experience in various roles related to healthcare management and IT support, which aligns well with the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide clear evidence of leadership experience or skills, which are important for the mid-senior level experience level mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles show alignment with some of the job responsibilities listed, particularly in managing resources, coordinating tasks, and providing support, but lacks details on leading diverse projects or working with cross-functional teams."
+        },
+        "skills": {
+            "score": 0.453,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)', 'Documentation (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'accounting', 'business — case', 'charts', 'hardware', 'configuration management', 'counseling', 'client', 'documentation', 'financial statements', 'graphs', 'information systems', 'information technology','market analysis','materials', 'office', 'Monitors', 'network', 'operating systems', 'peripherals', 'policies', 'publications','staffing', 'telephone', 'troubleshooting'. These skills align well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions being 'extremely customer service oriented', 'highly reliable', and having a flexible work schedule, which aligns with soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.06,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Asana (fuzzy)'] | (LLM 0.4): The candidate does not mention any specific tools used in their experience, which contrasts with the job description's requirement for familiarity with tools like Asana, JIRA, Confluence, etc."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like communication, documentation, and problem-solving are transferable to the job description's requirements, though they may not be explicitly mentioned."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.561
+}

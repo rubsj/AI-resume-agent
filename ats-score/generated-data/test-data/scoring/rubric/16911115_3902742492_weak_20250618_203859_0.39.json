@@ -1,0 +1,51 @@
+{
+    "resume_id": "16911115",
+    "jd_id": "3902742492",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.378,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No formal education is provided in the resume, which might be a requirement for the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in biomedical engineering, which aligns with the job description. However, there is no mention of direct experience in configuration management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience or skills in the resume, which might be a requirement for the job."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There is no mention of responsibilities that align with the job description, specifically managing configuration items or performing change management tasks."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills that align with the job description, including proficiency in Microsoft Office, engineering standards, OSHA regulations, and technical knowledge."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills and attention to detail, which align with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are mentioned in the job description. However, there is no mention of experience with ServiceNow CMDB modules, which is a required skill."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a variety of transferable skills such as self-starting, teamwork, and problem-solving, but these are not directly aligned with the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.392
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "55477468",
+    "jd_id": "3901948121",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.448,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Psychology, which aligns with the job description's requirement for an Associate Degree in a related field. However, the additional degrees are not specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.5 yrs (capped to 13.5), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and data analysis, which matches some of the job responsibilities. However, the job description requires more specific experience with business intelligence tools and analytics."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, whereas the job description mentions leadership as a desired skill."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like customer account forecasting and marketing program management, which align with the job responsibilities. However, the job description requires more specific responsibilities related to e-commerce and business intelligence."
+        },
+        "skills": {
+            "score": 0.564,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)', 'Excel (exact)'] | (LLM 0.4): The candidate has relevant skills like Excel, which is mentioned in the job description. However, there is no mention of Power BI, Python, or advanced statistical techniques."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills like strong communication and problem-solving match the job description's requirements. However, the job description emphasizes specific skills like detail-oriented and hands-on team player, which are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.267,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Microsoft tools like Word, Office, and Excel, which are mentioned in the job description. However, the job description also requires knowledge of specific tools like Power BI, Python, and Salsify API that are not covered in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills like time management and working under pressure are relevant but do not cover the job description's specific requirements for skills like statistical techniques and predictive modeling."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.511
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "28745844",
+    "jd_id": "3902863976",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.377,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate possesses a CPR/BLS certification, which is relevant to the healthcare domain mentioned in the job description. However, there are no other certifications that directly match the optional skills listed."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Medical Assistant Certificate and CPR/BLS certification, which are relevant to the healthcare background but do not align closely with the educational requirements specified in the job description."
+        },
+        "experience": {
+            "score": 0.504,
+            "reason": "(Rule 0.5): Resume: 6.1 yrs (capped to 6.1), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in various roles that involve administrative tasks, client management, and data management, which aligns somewhat with the job responsibilities. However, the experience does not specifically mention leadership or technical skills required in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating a high level of professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description requires leadership skills, but the candidate's resume does not provide evidence of leadership experience or achievements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines specific responsibilities such as leading technical strategy, managing projects, and serving as a technical expert, which are not reflected in the candidate's resume."
+        },
+        "skills": {
+            "score": 0.25,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched skills: ['Team management (fuzzy)', 'AI (substring)'] | (LLM 0.4): The candidate has experience in administrative support, bookkeeping, counseling, CPR, client management, customer service, data entry, data management, email usage, image presentation, internet applications, management, meeting coordination, mentoring, Microsoft Office proficiency, office management, quality assurance, and scheduling. These skills align moderately well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates skills in communication, interpersonal relations, and teamwork, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions Azure, AWS, and General AI tools, but the candidate's resume does not provide evidence of experience or proficiency with these tools."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in administrative support, bookkeeping, and customer service can be transferred to the role, but the lack of direct technical skills and experience with specific tools reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.293
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "50432401",
+    "jd_id": "3901976592",
+    "domain": "ARTS",
+    "resume_jd_similarity": 0.231,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, which are required in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education does not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.1 yrs (capped to 16.1), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in operations management and customer service, but lacks specific experience in repairing musical instruments."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership roles or responsibilities, which are not specified in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned, but not all, particularly those related to repairing musical instruments."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Account Management', 'Interpersonal Skills', 'Operations Management', and 'Public Relations'. However, there is no direct match with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Interpersonal Skills' and 'Public Relations', which are aligned with the job requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate does not mention any tools or technologies used, which are not specified in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Account Management' and 'Operations Management', which could be applicable in a repair shop setting, but not directly related to instrument repair."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.626
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "12526702",
+    "jd_id": "3904363416",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.387,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions two degrees but does not specify the field of study, which is relevant to the required bachelor's degree in business administration, marketing, or a related field."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 30.4 yrs (capped to 30.4), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in various engineering roles, which is highly relevant to the required minimum of 10 years of experience in sales and consulting."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading projects and teams indicates strong leadership skills, which is aligned with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as leading projects, managing teams, and working closely with marketing, which aligns with the job responsibilities but lacks specifics on sales-related tasks."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in electrical engineering and quality engineering, aligning well with the required skills in technology consulting and sales."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include strong leadership and communication, which align with the soft skills required, but there is no explicit mention of negotiation or engaging with C-level executives."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like problem-solving, project management, and quality improvement are transferable to the role, but the resume could benefit from more specific examples of these skills in action."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.594
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "47317494",
+    "jd_id": "3903872842",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.331,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may be required or preferred according to the job description."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in Finance and Business, which are beneficial for the role. However, the lack of specific details about the institution and year might affect the ATS's ability to match these qualifications precisely."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.1 yrs (capped to 12.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant work experience in finance-related roles, including financial aid office assistant and assistant chef positions. However, the job description requires culinary degree or related hotel experience, which is not explicitly mentioned in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors, ensuring readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume, which might be expected for a position requiring supervision and direction."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide information on responsibilities, which is crucial for matching the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as budgeting, clients, data entry, and financial management, which align with the job requirements. However, the summary field is empty, potentially missing a brief overview of the candidate's skills and experiences."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills such as attention to detail, teamwork, and flexibility are not explicitly mentioned in the resume, which are important for the job."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume, which contrasts with the job description that does not specify any required tools but mentions proficiency in software like Access, Excel, PowerPoint, and Microsoft Word."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like communication, data entry, and management, which could be relevant to the job. However, the lack of specific details and quantifiable achievements reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.431
+}

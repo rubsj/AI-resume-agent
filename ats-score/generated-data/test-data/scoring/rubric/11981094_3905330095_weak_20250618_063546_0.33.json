@@ -1,0 +1,51 @@
+{
+    "resume_id": "11981094",
+    "jd_id": "3905330095",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.334,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, and the job description requires EIT certification, which is not provided."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Computer Science and a Bachelor's degree in Electronics and Communication Engineering, which is relevant to the job's requirement for a Bachelor's degree in Mechanical Engineering or Architectural Engineering."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in software engineering and team management, but the job description does not specify any direct experience requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions leadership in the context of team management, but the job description does not require specific leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not detail responsibilities, whereas the job description outlines specific responsibilities such as conducting analyses and preparing cost estimates."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in software engineering and team management, which aligns well with the job's requirement for consulting and management skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks information on soft skills, which are important for the job's requirement for assistance, analysis, preparation, independence, direction, and collaboration."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, while the job description requires knowledge of MS Office and Revit MEP."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include leadership, problem-solving, and communication, which could be beneficial in a mechanical engineering role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.327
+}

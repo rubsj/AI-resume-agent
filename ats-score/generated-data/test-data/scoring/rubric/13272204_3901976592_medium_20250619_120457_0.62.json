@@ -1,0 +1,51 @@
+{
+    "resume_id": "13272204",
+    "jd_id": "3901976592",
+    "domain": "ARTS",
+    "resume_jd_similarity": 0.233,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A BS degree in Healthcare Administration is mentioned, but it does not directly match the education requirements specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 9.3 yrs (capped to 9.3), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in administrative roles and HR, which aligns with the job responsibilities. However, there is no direct experience in string instrument repair."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience or skills in the candidate's resume, and the job description does not require leadership."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like data entry, scheduling, and coordination, which align with the job responsibilities. However, there is no direct experience in repairing musical instruments."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in HR, benefits administration, and payroll, which align with the job requirements. However, there is no direct mention of experience with string instrument repair tools or technologies."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions being a detail-oriented person, a team player, and having excellent analytical skills, which align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed, and the job description does not specify any required tools or technologies."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like data entry, coordination, and attention to detail are transferable to the role, but the lack of specific experience in string instrument repair reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.619
+}

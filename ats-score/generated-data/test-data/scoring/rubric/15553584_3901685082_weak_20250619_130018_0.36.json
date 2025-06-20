@@ -1,0 +1,51 @@
+{
+    "resume_id": "15553584",
+    "jd_id": "3901685082",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.383,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate possesses a Certificate of Liaison Officer, but lacks the required CPA certification."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Business Administration, which is relevant to the job, but lacks a Bachelor's degree in a specific field."
+        },
+        "experience": {
+            "score": 0.346,
+            "reason": "(Rule 0.5): Resume: 3.5 yrs (capped to 3.5), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in research and administration, but lacks experience in financial consulting and leadership roles."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate leadership experience or skills relevant to the job."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have experience in responsibilities related to financial consulting and managing teams."
+        },
+        "skills": {
+            "score": 0.293,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Excel (exact)'] | (LLM 0.4): The candidate has relevant skills such as Managerial Accounting, Financial Management, and Microsoft Office tools, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has some soft skills mentioned in their resume, but lacks others that are crucial for the role."
+        },
+        "tools": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate is proficient in Microsoft Office tools, which are essential for the job."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as attention to detail and communication, which are valuable in any professional setting."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.36
+}

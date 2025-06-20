@@ -1,0 +1,51 @@
+{
+    "resume_id": "24643412",
+    "jd_id": "3906221613",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.254,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the job requirements."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds advanced degrees in Computer Science from reputable institutions, which exceeds the minimum educational requirement specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 35.5 yrs (capped to 35.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in software development and management, though the job description focuses on specific roles and responsibilities that may not be fully covered in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is professionally formatted and free of grammatical errors, indicating high cleanliness."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership roles or responsibilities is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job description, such as report preparation and compliance, but there is no direct match with the detailed responsibilities listed."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Analyst (exact)'] | (LLM 0.4): The candidate has extensive experience in programming languages and technologies listed in the job description, including SQL, HTML, ASP, MySQL, PHP,.NET, AJAX, and C#, which aligns well with the required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong technical skills and experience in various programming areas, which indirectly indicates soft skills like detail orientation and technical writing."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools used in the job description matches the tools listed in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various programming roles provides transferable skills, but the job description does not specify any particular transferable skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.487
+}

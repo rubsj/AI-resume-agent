@@ -1,0 +1,51 @@
+{
+    "resume_id": "36569713",
+    "jd_id": "3905354063",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.482,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications mentioned match the required Arizona teaching certification in Special Education."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Masters in Education and Bachelor of Education degrees, which are relevant but not specifically in Special Education."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 20 years of teaching experience, which is more than the entry-level requirement."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience is provided."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not detailed enough to match the job responsibilities listed."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has skills in 'Education', 'Training', 'Teaching', and 'Microsoft Office', which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills such as 'Compassion', 'Collaboration', 'Innovation', 'Patience', and 'Empathy' which are essential for the role."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No tools or technologies used are specified, and the job description requires specific software knowledge."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Lesson Planning', 'Time Management', and 'Self-motivated', but they lack specific skills like 'Personalized Education Plans'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.379
+}

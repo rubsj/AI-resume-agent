@@ -1,0 +1,51 @@
+{
+    "resume_id": "25935030",
+    "jd_id": "3903831325",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.375,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an Associate of Arts degree in international business, which may not be directly relevant to the job requirements."
+        },
+        "experience": {
+            "score": 0.707,
+            "reason": "(Rule 0.5): Resume: 4.9 yrs (capped to 4.9), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles that involve account management, customer service, and financial activities, which aligns well with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not list specific responsibilities that match those required in the job description."
+        },
+        "skills": {
+            "score": 0.287,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Time management (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Account management', 'Customer service', and 'Time management'. However, there is no mention of 'Finance' or 'Sales' which are required skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions soft skills like 'Customer service' and 'Time management', but lacks details on how these skills were applied in previous roles."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists skills like 'Cash handling' and 'Multi-tasking', which could be transferable to the job, but they are not explicitly mentioned as required skills in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.329
+}

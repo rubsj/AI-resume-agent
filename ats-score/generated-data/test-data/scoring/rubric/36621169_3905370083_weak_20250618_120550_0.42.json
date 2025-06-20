@@ -1,0 +1,51 @@
+{
+    "resume_id": "36621169",
+    "jd_id": "3905370083",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.379,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Q Clearance certification, which matches one of the required certifications in the job description. However, there is no mention of HRP Certification, which is also required."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree in Fashion Merchandising Management, which is close to the required Bachelor's Degree but not exactly in the field of Manufacturing."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 14.4 yrs (capped to 14.4), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in Sales and Technical Design, which shows some transferable skills related to the job responsibilities such as planning, organizing, and quality assurance. However, the experience is not directly in Manufacturing."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or experiences that demonstrate leadership skills, which are crucial for the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly match the job responsibilities listed in the job description, particularly those related to managing strategic objectives, work packages, and compliance."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Microsoft Office Suite, Adobe Creative Suite, and Ronlynn Apparel Software, which aligns with the job description's required skills in Manufacturing and Management."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are somewhat aligned with the job description's soft skills section, but they lack specific skills like leadership and conflict resolution."
+        },
+        "tools": {
+            "score": 0.411,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 2, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Adobe Creative Suite (substring)', 'Facebook (exact)'] | (LLM 0.4): The candidate is proficient in tools like Microsoft Office Suite and Adobe Creative Suite, which are mentioned in the job description's tools and technologies section."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like internet research and proficiency in Mac and PC platforms, which can be considered transferable to the role, but they are not directly related to manufacturing or management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.424
+}

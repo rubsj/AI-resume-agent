@@ -1,0 +1,51 @@
+{
+    "resume_id": "22925443",
+    "jd_id": "3905364625",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.392,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may be a requirement for the position."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Arts degree in Accounting is relevant but lacks details about GPA or any advanced degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 18.0 yrs (capped to 18.0), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in accounting roles, which aligns with the job requirements. However, the lack of detail in the job description makes it difficult to assess the relevance of the previous laboratory technician experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that match the job description's requirements."
+        },
+        "skills": {
+            "score": 0.329,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Communication (exact)'] | (LLM 0.4): The candidate has relevant skills including proficiency in Microsoft Office, excellent mathematical skills, and strong communication and organizational abilities. However, there is no mention of specific IT skills or business acumen."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong interpersonal and communication skills, which are relevant. However, there is no explicit mention of integrity, teamwork, passion for winning, or ownership and leadership."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No specific tools or technologies are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like multitasking, physical dexterity, and proficiency in lab application software are transferable but lack specific details that could enhance the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.399
+}

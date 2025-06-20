@@ -1,0 +1,51 @@
+{
+    "resume_id": "25846894",
+    "jd_id": "3885820458",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.387,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement for 'Audit Experience' in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions a Bachelor of Science degree in Accounting & Finance, but the year of graduation is not provided, which is a requirement in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 22.0 yrs (capped to 22.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including positions that require financial management and reporting, which matches the job responsibilities. However, there is no explicit mention of experience in research administration compliance, which is a key responsibility in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in certain sections reduces its overall effectiveness in matching the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not provide any information on leadership roles or achievements, which contrasts with the job description's mention of supervisory responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows a history of financial management and reporting, which aligns with some responsibilities listed in the job description. However, there is no direct evidence of experience in compliance activities related to research, which is a significant responsibility in the job description."
+        },
+        "skills": {
+            "score": 0.534,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Business (exact)', 'Financial Management (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, aligning closely with the required skills in accounting and auditing. The resume also lists specific skills like 'account reconciliation', 'financial management', and 'financial reporting' that match the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights skills such as 'analytical thinking', 'interpretation', and 'organization', which are aligned with the soft skills required in the job description. However, there is no explicit mention of 'project management', 'customer service', or 'communication' skills."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like Federal Policies, State Policies, University Regulations, University Accounting Systems, Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce, but the resume does not provide any information on proficiency or usage of these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists a variety of skills that could be transferable to the job, such as 'account reconciliation', 'financial management', and 'financial reporting'. However, there is no clear indication of how these skills specifically relate to research administration compliance, which is a critical aspect of the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.485
+}

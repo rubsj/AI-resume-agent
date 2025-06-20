@@ -1,0 +1,51 @@
+{
+    "resume_id": "55097118",
+    "jd_id": "3903817524",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.268,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, which contrasts with the job description's lack of certification requirements."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Bachelor of Arts degree in Sociology, but the field of manufacturing is not directly related, and there are no specific details about the relevance of the education to the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as a Legal Support Assistant II, which involves skills like time management, attention to detail, and problem-solving, aligning with the job responsibilities. However, the experience is in legal support rather than manufacturing."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience is provided in the candidate's resume, which contrasts with the job description's potential need for leadership qualities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on job responsibilities that match the detailed list provided in the job description."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a wide range of skills listed, including Microsoft Office proficiency, time management, attention to detail, and strong interpersonal skills, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists strong soft skills such as professionalism, maturity, and strong interpersonal skills, which are beneficial for any role, including the one described in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No mention of specific tools or technologies used in the candidate's experience or skills section, which contrasts with the job description's requirement for knowledge of welding equipment."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like time management, attention to detail, and strong interpersonal skills that could be applied in a manufacturing setting, despite the lack of direct experience."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.576
+}

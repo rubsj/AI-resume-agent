@@ -1,0 +1,51 @@
+{
+    "resume_id": "26202430",
+    "jd_id": "3903807505",
+    "domain": "HR",
+    "resume_jd_similarity": 0.315,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No specific certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor's degree in Business Administration is relevant but lacks specific details about HR or related fields."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has a strong background in HR applications and business analysis, closely matching the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly mention leadership roles or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes strategy development, program implementation, and talent acquisition, which aligns with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.608,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in HR applications and business analysis, aligning well with the required skills of Human Resources and Marketing."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills include communication, detail-oriented, go-getter mindset, collaboration, influencing, empathy, and adaptability, which are relevant to the job."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate possesses knowledge in Microsoft Office, which is listed as a required tool, but lacks specific skills in Adobe Creative Suite, Facebook, Salesforce, and other technologies mentioned."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include advanced Excel, Access, Word, Visio, Power Point, VBA, SAP HCM, Success Factors, Microsoft Project Management, Service Now, Smartsheet, Panaya, SilkRoad, and others, which may be useful in a variety of roles."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.574
+}

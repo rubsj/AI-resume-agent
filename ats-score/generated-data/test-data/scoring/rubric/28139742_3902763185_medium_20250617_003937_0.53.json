@@ -1,0 +1,51 @@
+{
+    "resume_id": "28139742",
+    "jd_id": "3902763185",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.584,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed in the resume match the required ones in the job description."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['MBA (exact)'] | (LLM 0.5): The candidate holds a Ph.D. and MBA degrees, which are preferred in the job description. However, the lack of specific details like GPA or graduation year may lower the score."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 22.7 yrs (capped to 22.7), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in various roles, including management positions, which aligns with the job requirements. However, the lack of specific details about the role's responsibilities or achievements may lower the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including 'District Manager' and 'Logistics Manager', which aligns well with the job description's requirement for leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing teams, leading projects, and ensuring compliance with policies, which aligns with the job description. However, there is no mention of owning campaigns or strategic initiatives."
+        },
+        "skills": {
+            "score": 0.346,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 2, 'fuzzy': 0}. Matched skills: ['Data Analysis (substring)', 'Leadership (exact)', 'Project Management (substring)'] | (LLM 0.4): The candidate has relevant skills including 'business management', 'leadership', 'analytical thinking', and 'project management'. However, there is no direct match for 'campaign management' or 'cross-functional collaboration'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills include 'organizational skills', 'analytical thinking', and'strategic planning', which align with the job description. However, there is no mention of 'creativity', 'innovation', or 'problem solving'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned in the resume, while the job description requires proficiency in Excel, Tableau, Salesforce, CRM, and Tableau."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'customer service', 'inventory management', and 'leadership', but lacks specific skills like 'campaign management' or 'cross-functional collaboration'."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.529
+}

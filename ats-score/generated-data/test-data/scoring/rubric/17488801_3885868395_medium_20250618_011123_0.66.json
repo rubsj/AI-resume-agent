@@ -1,0 +1,51 @@
+{
+    "resume_id": "17488801",
+    "jd_id": "3885868395",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.346,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume that match the requirements of ISO9001 and AS9100 auditing mentioned in the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A Bachelor of Science degree in Mechanical Engineering is relevant to the job, but the GPA is not provided, which reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in manufacturing engineering and management, which closely matches the job responsibilities and required experience levels."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as an Engineering Manager/Quality Manager indicates leadership skills, but there is no explicit mention of leading a team or managing drivers, which are specific to the job."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing staff, developing processes, and auditing systems, which align with the job responsibilities. However, there is no explicit mention of performing pre-trip inspections or communicating with scale houses, which are specific to the job."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has experience in manufacturing engineering and management, which aligns well with the required skills of management and manufacturing. However, there is no direct mention of project management skills, which are optional but preferred."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There are no soft skills explicitly mentioned in the resume that directly match the job requirements."
+        },
+        "tools": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate has experience with AutoCAD and Microsoft Office, which are tools that might be used in the job, but there is no mention of any specific ERP systems or knowledge of ISO9000 compliance."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like project management, quality management system implementation, production and engineering management, staff development, cost reduction, process development and documentation, process improvement/simplification, source evaluation and selection are transferable to the job, but they are not directly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.66
+}

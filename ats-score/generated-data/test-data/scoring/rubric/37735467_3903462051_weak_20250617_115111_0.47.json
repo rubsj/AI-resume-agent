@@ -1,0 +1,51 @@
+{
+    "resume_id": "37735467",
+    "jd_id": "3903462051",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.541,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists only two degrees: an Associate of Science in Computer Engineering Technology and an Automotive Mechanics certificate. Neither degree directly aligns with the required Sales or Sports Management degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 6.2 yrs (capped to 6.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales roles, including a Sales Associate position where they exceeded sales goals, provided customer service, and managed relationships. However, the experience does not specifically mention cold calling, customer meetings, or product presentations, which are part of the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The summary is concise and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like generating market information, qualifying projects, and attending tradeshows, but does not explicitly state these responsibilities."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as Inventory control procedures, Cash handling accuracy, Dispute mediation, Relationship selling, Merchandising knowledge, Sales expertise, Cash register operation, Client account management, Excellent communication skills, Market research and analysis, Product Sales, Retail merchandising expertise. However, there is no mention of Business Development or specific sales tools like Salesforce."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills, which align with the soft skills required. However, there is no explicit mention of presentation skills, collaboration, self-discipline, tenacity, technical aptitude, or motivation to learn."
+        },
+        "tools": {
+            "score": 0.06,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Salesforce (fuzzy)'] | (LLM 0.4): The resume does not list any specific tools or technologies used, such as Microsoft Office or Adobe Creative Suite, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like problem-solving, teamwork, and customer service, which are beneficial for the role. However, there is no mention of leadership or specific technical skills like Salesforce proficiency."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.467
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "76454959",
+    "jd_id": "3904367217",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.386,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which are required for the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest degree is a Bachelor of Arts in Economics from Hofstra University, which does not match the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.975,
+            "reason": "(Rule 0.5): Resume: 32.2 yrs (capped to 32.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in finance roles, including positions as a Finance Director, Finance Manager, and Senior Financial Analyst, which closely matches the job responsibilities and required experience years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.95,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leading teams, mentoring staff, and training junior colleagues, which indicates strong leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes managing projects, delegating tasks, coaching junior colleagues, reviewing work for accuracy, leading technical aspects of client work, participating in client meetings, taking ownership of issues, ensuring team follow-through, and mastering technical concepts, which aligns with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Analyst (exact)'] | (LLM 0.4): The candidate has a strong set of skills that align well with the job description, including accounting, financial modeling, financial reporting, and leadership, which are mentioned in the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include leadership, direction, and decision-making, which are soft skills mentioned in the job description. However, they lack explicit communication and teamwork skills."
+        },
+        "tools": {
+            "score": 0.132,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'Salesforce (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their experience, which contrasts with the job description's mention of tools like ProVal System and Microsoft Office."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include financial analysis, budgeting, and strategic planning, which are transferable skills mentioned in the job description. However, they lack specific skills like valuation programming and funding methods."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.518
+}

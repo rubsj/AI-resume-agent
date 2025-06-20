@@ -1,0 +1,51 @@
+{
+    "resume_id": "17103000",
+    "jd_id": "3903874340",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.34,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA and a Bachelor's degree in Electrical Engineering, which are relevant to the field of biomedical engineering but do not specifically mention any advanced degrees in the required skills section."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 20 years of experience in various engineering roles, including leadership positions, which aligns well with the required experience and responsibilities. However, the job description does not specify the required number of years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading hardware teams, managing projects, and providing career development opportunities for team members aligns well with the leadership requirements in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as developing project schedules, managing communication between teams, and leading hardware teams, which align with the job responsibilities. However, the job description does not provide a clear list of specific responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in systems engineering, project management, and leadership, which aligns well with the required skills in research program development, teaching, and mentorship. The skills also match the soft skills of innovation, collaboration, and leadership."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include leadership, communication, and cultural sensitivity, which align with the soft skills required in the job description. However, the resume does not explicitly mention all the soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.404,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is listed as a required tool in the job description. The resume does not mention other specific tools or technologies that are listed as optional skills."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in project management, risk analysis, and process improvement are transferable to the role of an assistant professor in biomedical engineering, particularly in terms of developing research programs and teaching."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.538
+}

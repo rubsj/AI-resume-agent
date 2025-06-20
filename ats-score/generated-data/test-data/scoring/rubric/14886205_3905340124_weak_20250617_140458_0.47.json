@@ -1,0 +1,51 @@
+{
+    "resume_id": "14886205",
+    "jd_id": "3905340124",
+    "domain": "HR",
+    "resume_jd_similarity": 0.353,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a certification in 'Certified Talent Management Specialist', but there is no direct match for 'Six Sigma' or 'Agile/Scrum Training/Certification'."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a B.A. in English, which may not directly align with the required degree of 'Bachelor's Degree' in Human Resources."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 21.1 yrs (capped to 21.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in HR roles, which aligns with the job title of 'Senior Business Analyst'. However, the experience is not as recent or detailed as required."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has limited evidence of leadership skills in their resume, which is a requirement for the position."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not directly match the responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Research (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'analyst', 'information technology', and'research'. However, there is no direct match for 'project management' or 'business analysis methodology'."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'effective communication' and 'attention to detail', which align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.5,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office Suite (substring)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office Suite and advanced Excel, which matches the required tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles that could be applicable to the job, but they lack specific skills mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

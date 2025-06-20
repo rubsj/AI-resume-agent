@@ -1,0 +1,51 @@
+{
+    "resume_id": "36861863",
+    "jd_id": "3902751957",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.374,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's requirement for specific Air Force roles and intelligence operations experience."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume lacks details about the field of study, which is required for the military domain."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in various roles that involve customer service and management, which aligns with the job responsibilities. However, there is no mention of military or intelligence operations experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership experience is not mentioned in the resume, which contrasts with the job description's requirement for leadership in preparing and executing military exercises."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on job responsibilities, which contrasts with the extensive list of responsibilities required in the job description."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as customer service standards, call center management, and CRM proficiency, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the resume, which contrasts with the job description's requirement for strong problem-solving ability and conflict resolution proficiency."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any tools or technologies used, which contrasts with the job description's requirement for skills in Microsoft Word, Excel, and PowerPoint."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as customer service, management, and problem-solving, which could be applicable to the military domain. However, there is no mention of specific military or intelligence operations experience."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.395
+}

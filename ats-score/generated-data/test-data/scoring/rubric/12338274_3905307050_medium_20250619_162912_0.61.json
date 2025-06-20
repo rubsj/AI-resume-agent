@@ -1,0 +1,51 @@
+{
+    "resume_id": "12338274",
+    "jd_id": "3905307050",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.392,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has an MBA in Finance, which is relevant to the job description. However, the details provided are incomplete, missing graduation years and GPAs."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 12.8 yrs (capped to 12.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in accounting roles, which matches the job description's requirement for experience in finance and accounting. The detailed job descriptions provide clear examples of responsibilities and skills used in previous positions."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are minor inconsistencies in formatting and missing details that slightly affect the score."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing projects indicates leadership potential, which is in line with the job description. However, the resume could benefit from more detailed examples of leadership roles and achievements."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume outlines responsibilities that align with the job description's expectations, such as leading cross-functional teams, driving accountability, and performing assessments. However, the lack of detail in the resume might prevent a perfect match."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as accounting, auditing, and financial management, which align with the job requirements. However, there are some discrepancies in the skill list, such as '3d', 'Adobe Illustrator', 'Adobe Photoshop', 'Pagemaker', 'Audio Editing', '2K', 'Windows 9.x', 'works', and 'Video Editing', which do not match the job description's skill set."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like influence, partnership, negotiation, and analytical capabilities, which are aligned with the job description. However, the resume lacks specific examples or quantifiable achievements that could enhance the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions proficiency in tools like Cross-functional teams, Microsoft Office suite, and others, but the candidate's resume does not mention any specific tool usage."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like accounting, auditing, and financial management can be transferred to the new role. However, the presence of unrelated skills like '3d', 'Adobe Illustrator', etc., reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.61
+}

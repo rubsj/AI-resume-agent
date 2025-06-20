@@ -1,0 +1,51 @@
+{
+    "resume_id": "49325370",
+    "jd_id": "3904720522",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.251,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a Certified Medical Office Assistant certification, which is relevant to the healthcare domain but not directly aligned with the job description's requirements."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in Medical Administration, which is not directly aligned with the job description's requirements for a role in Dermal Clinical Research."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 20.7 yrs (capped to 20.7), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in various roles that involve customer service, data management, and administrative tasks, which align well with the job description's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.1,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they have led projects or teams."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing data, conducting research, and working with cross-functional teams, which align with the job responsibilities. However, there is no direct match with responsibilities like coordinating internal and external clinical studies."
+        },
+        "skills": {
+            "score": 0.252,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as Accounts receivable, Administrative Assistant, and Microsoft Office Suite, which align with the job description's required skills of Analyst, Information Technology, and Research. However, there is a lack of specific technical skills like Statistical methods and Project management."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as Communication, Presentation, and Writing, which are mentioned in the job description's soft skills section. However, there is no evidence of Management, Innovation, or Strategy."
+        },
+        "tools": {
+            "score": 0.315,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office Suite, which matches the tools and technologies listed in the job description. However, there is no explicit mention of Adobe Creative Suite, Facebook, Salesforce, or other tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Accounts receivable, Administrative Assistant, and Medical Terminology can be transferred to the role, but they do not cover all the required skills like Statistical methods and Project management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.462
+}

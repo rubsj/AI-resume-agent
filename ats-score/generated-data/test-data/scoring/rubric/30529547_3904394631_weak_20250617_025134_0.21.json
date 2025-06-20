@@ -1,0 +1,51 @@
+{
+    "resume_id": "30529547",
+    "jd_id": "3904394631",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.486,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed, and there is no mention of any relevant certifications."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has completed some education, but none of it matches the required degree in the job description."
+        },
+        "experience": {
+            "score": 0.38,
+            "reason": "(Rule 0.5): Resume: 1.8 yrs (capped to 1.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in various roles, which could be transferable to the job responsibilities, though not directly matching the required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have experience in managing day-to-day operations related to paid marketing campaigns, overseeing financial transactions, or providing strategic financial insights for marketing initiatives."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has some skills listed, but none directly match the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills that are crucial for the role, such as strong financial analysis skills, ability to communicate financial information effectively, and experience with marketing operations."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned, and the job description requires specific tools like QuickBooks and Google Analytics."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a range of skills that could be transferred to the job, such as critical thinking, time management, and customer service."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.215
+}

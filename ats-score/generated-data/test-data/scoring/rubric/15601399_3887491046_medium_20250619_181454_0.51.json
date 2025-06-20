@@ -1,0 +1,51 @@
+{
+    "resume_id": "15601399",
+    "jd_id": "3887491046",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.287,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, while the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Electronic Engineering, which aligns with the required degree of 'Bachelors Degree in Engineering' mentioned in the job description. However, the field of study does not exactly match the inferred domain of Civil Engineering."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 25.9 yrs (capped to 25.9), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in various technical roles that involve problem-solving and management, which aligns with the job responsibilities. However, the job description specifically requires Civil Engineering experience, which is not mentioned in the candidate's resume."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information about past responsibilities related to the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.614,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Engineering (exact)', 'Excel (substring)', 'Communication (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Engineering', 'Project Management', 'Troubleshooting', and 'Communication'. However, there is no mention of specific certifications or advanced degrees required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills, which aligns with the soft skill requirement. However, the resume does not provide evidence of other soft skills like 'Strong communication skills' mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.53,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate has experience using MS Office and Excel, which matches the tools and technologies required by the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'Process Troubleshooting', 'Team Lead', and 'Scheduling', which could be applicable to the role. However, the job description does not explicitly mention these skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.505
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "23416654",
+    "jd_id": "3903832053",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.592,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate is CPA eligible but does not have a CPA certification, which is preferred in the job description. However, they have relevant experience."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a BBA in Accounting and Finance from a reputable university, which aligns well with the education requirement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 22.5 yrs (capped to 22.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 22 years of experience in various accounting roles, including senior positions, which exceeds the required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams in quality management roles, but there is no explicit mention of leadership skills in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as month end close, year end close, cash management, and supervisory roles, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and auditing, including month end close, year end close, cash management, supervision, AP/AR, acquisitions, and various software tools. The skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates strong organizational and analytical abilities, teamwork, and effective communication, which are key soft skills required for the position."
+        },
+        "tools": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate has experience with ADP Payroll, which is one of the tools mentioned in the job description, but lacks experience with other tools like NetSuite, JD Edwards, Macola, etc."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as budget preparation, financial statement analysis, and internal control, which are relevant to the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.666
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "24025053",
+    "jd_id": "3904938467",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.384,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description requires none."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Master's degree in Healthcare Administration and a Bachelor's degree in Dental Surgery, which are relevant to the job in the government domain. However, the GPA is missing, which could impact the assessment."
+        },
+        "experience": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Resume: 2.8 yrs (capped to 2.8), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has experience in project coordination, healthcare administration, and dental practice, which aligns with some responsibilities but lacks depth in executive assistant duties specifically mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not indicate any leadership experience or skills that would make the candidate suitable for a mid-senior level position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job description's responsibilities for an executive assistant."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills in accounting, budgeting, and critical thinking, which align with the job requirements. However, there is a lack of direct experience in customer service, human resources, and technical skills like Microsoft Word and Excel."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks explicit soft skills that are crucial for an executive assistant role, such as excellent organizational skills, high professionalism, and ability to work independently and in teams."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Teams (fuzzy)'] | (LLM 0.4): The resume does not mention proficiency in any specific tools, while the job description requires skills in Microsoft Office suite and other tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like critical thinking, decision making, and attention to detail, which are beneficial for any administrative role. However, the lack of specific skills like customer service and human resources diminishes the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.358
+}

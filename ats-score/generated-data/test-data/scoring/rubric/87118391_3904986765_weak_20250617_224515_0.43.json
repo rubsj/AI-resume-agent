@@ -1,0 +1,51 @@
+{
+    "resume_id": "87118391",
+    "jd_id": "3904986765",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.329,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Communications degree from West Virginia State University and George Washington High School, but the job description requires a Bachelor's degree in web development, design, marketing, or related discipline."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.2 yrs (capped to 13.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales, customer service, and management roles, which align with the job responsibilities. However, the job description specifically requires 3 years of experience, and the candidate has more than 13 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience in managing team members and coordinating with different departments, which is relevant to the job responsibilities. However, the job description does not explicitly mention leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as training employees, ensuring compliance, establishing new accounts, and managing quality assurance, which are somewhat aligned with the job responsibilities. However, the job description requires research, design, collaboration with developers, and recommendations for system features."
+        },
+        "skills": {
+            "score": 0.328,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Communication (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Art/Creative', 'Design', and 'Information Technology'. However, there is no mention of specific tools like HTML, CSS, or WordPress which are required."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Attention to Detail', 'Interpersonal and Communication', and 'Creativity', which are mentioned in the job description. However, the candidate lacks specific skills like 'Effective Communication' and 'Organization'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any specific tools or technologies used, whereas the job description requires proficiency in HTML, CSS, WordPress, Adobe Creative Suite, and MS Office."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Customer Relations', 'Customer Service', and 'Supervision', which are relevant to the job responsibilities. However, the job description requires specific skills like 'Web Development', 'HTML', and 'CSS'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.427
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "38399177",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.399,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description mentions specific certifications like 'Spark', 'Python', etc., which are beneficial but not mandatory."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Health Sciences, which is not directly related to the job description's preferred degrees in Computer Science, Engineering, Technical, Mathematics, Information Technology, Information Systems, Business, Education, Computer Engineering. The GPA is not provided, which could affect the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.2 yrs (capped to 13.2), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in management roles, including consulting, leading teams, and managing operations, which aligns well with the job responsibilities. However, the job description focuses more on IT and cloud solutions, which might not be fully covered by the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary is concise and highlights relevant experiences and skills."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, such as First Line Supervisor and Field Operations Manager, indicates strong leadership skills. This aligns well with the job description's requirement for 'Strong leadership' and 'Motivation abilities'."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like training, leading teams, and managing operations, which are somewhat aligned with the job responsibilities. However, the job description requires more specific IT and cloud solution-related responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'consulting', 'customer service', and 'team building' which align with the job's required skill set of 'Consulting' and 'Information Technology'. However, there is no explicit mention of AWS, GCP, Azure, or other technologies listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills include leadership, motivation, and communication, which are mentioned in the job description under 'Strong leadership' and 'Motivation abilities'. However, the job description also emphasizes 'High level presentation and influencing skills' which are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['HBase (fuzzy)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their experience, while the job description mentions AWS, Python, Snowflake, Hadoop, Hive, Spark, and HBase as required tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include business correspondence, coaching, consultation, content, contracts, customer service, direction, employee training, team building, leadership, meetings, mentoring, natural, personnel, policies, quality, quality assurance, recruitment, staff development, and technical assistance. These skills are generally aligned with the job responsibilities but lack specific details about IT and cloud solutions."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.441
+}

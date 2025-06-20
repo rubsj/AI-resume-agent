@@ -1,0 +1,51 @@
+{
+    "resume_id": "33135102",
+    "jd_id": "3904362397",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.364,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Administration, Finance, Management, and Information Systems, which is relevant to the finance domain but lacks details about GPA and specific courses related to finance or business operations."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.5 yrs (capped to 18.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in financial aid administration, customer service, and financial management, which closely matches the job description's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership roles or achievements are mentioned in the resume, and the job description does not require leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like counseling, financial aid management, and process improvement, which are aligned with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as budget management, client interaction, data collection, and report writing, which align well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as influencing, strategic thinking, and financial services experience, which are relevant to the job description's soft skills."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume, and the job description does not specify any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like negotiation, problem resolution, and process improvement are transferable and match the job description's expectations."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.676
+}

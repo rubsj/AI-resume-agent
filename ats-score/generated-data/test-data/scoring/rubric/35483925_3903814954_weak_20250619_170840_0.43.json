@@ -1,0 +1,51 @@
+{
+    "resume_id": "35483925",
+    "jd_id": "3903814954",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.381,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the job's preferred certification 'CPA'."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in Information System Management and Business Administration, but these do not directly align with the job's preferred degree in Accounting or Finance."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in account management and finance, including roles in healthcare IT and banking, which aligns with the job's responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership experience in managing teams, but does not provide specifics that align with the job's leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.269,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Participation in projects (fuzzy)'] | (LLM 0.5): The candidate's responsibilities in previous roles overlap with the job's responsibilities, particularly in account management and financial analysis."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'accounting', 'finance', 'CRM', and 'MS Excel', which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses some soft skills like'results-driven' and'self-starter', but lacks specific examples or quantifiable achievements."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like MS Office, SAP R/3, and SQL, which are mentioned in the job description, but lacks specific details on proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'customer support', 'project management', and 'team management' are transferable to the role, though not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.435
+}

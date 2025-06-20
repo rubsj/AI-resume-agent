@@ -1,0 +1,51 @@
+{
+    "resume_id": "39835894",
+    "jd_id": "3905302212",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.39,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Engineering (exact)'] | (LLM 0.5): The candidate holds a Bachelor of Engineering degree, which is relevant to the required degree of Engineering. However, the GPA is not provided, which could be a factor in assessing the quality of education."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in managing projects and leading teams, which aligns with the job responsibilities such as collaborating with hardware engineers and conducting simulation and testing. The experience is in analog and mixed signal layout design, which is relevant to the job."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has demonstrated leadership through managing projects and leading teams, which aligns with the job responsibilities that require collaboration and interaction with internal development teams overseas and external suppliers."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, such as developing algorithms, designing software components, and collaborating with hardware engineers. However, there is no mention of specific responsibilities related to ADAS functionalities or automotive communication protocols."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in Analog, RF, and Mixed Signal Layout Design, which aligns well with the required skills in Embedded Software Application Engineering, particularly in Real-time Systems and ADAS & Passive Safety."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong problem-solving skills and effective team environment, align with the soft skills required in the job description. However, there is no explicit mention of clear communication skills or multidisciplinary team collaboration."
+        },
+        "tools": {
+            "score": 0.022,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Training (exact)'] | (LLM 0.4): The resume does not mention any specific tools used, while the job description requires knowledge of Software Tools, Hardware-in-the-loop (HIL) Testing, Simulation Tools, Data Analysis Tools, Model-based Design Tools, and Automotive Communication Protocols."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as project management and mentoring, are relevant to the job responsibilities. However, there is no explicit mention of specific transferable skills like model-based design or AUTOSAR."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.53
+}

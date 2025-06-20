@@ -1,0 +1,51 @@
+{
+    "resume_id": "20141807",
+    "jd_id": "3903803868",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.201,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The highest degree listed is a High School Diploma, which does not align with the job description's requirements."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has experience in sales and customer service roles, which are relevant to the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles partially match the job description's requirements for operating machines and packaging products."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills like 'balance', 'book', 'database', 'Debit', 'documentation', etc., which are relevant to the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies are mentioned in the resume that match the job description's requirements."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'balance', 'book', 'database', 'Debit', etc., can be transferred from the candidate's previous roles to the new position."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.479
+}

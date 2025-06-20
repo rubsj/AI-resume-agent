@@ -1,0 +1,51 @@
+{
+    "resume_id": "26509539",
+    "jd_id": "112576855",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.394,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has some certifications mentioned in the resume, but they do not explicitly match the required CFC certification for HVAC systems."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The education details are incomplete and lack specific information about degree, field, year, and GPA, making it difficult to assess the relevance to the job requirements."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 27.3 yrs (capped to 27.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that involve managing resources, overseeing operations, and leading teams, which aligns with the job responsibilities. However, the details are not as comprehensive as those expected for a Building Engineer."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand. However, the lack of detail in certain sections reduces the overall score."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in managing and leading teams in various roles, which aligns with the leadership aspect of the job responsibilities. However, the details are not as specific or extensive as those expected for a Building Engineer."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles show some overlap with the job responsibilities, particularly in managing resources and overseeing operations. However, the details are not as detailed or specific as those expected for a Building Engineer."
+        },
+        "skills": {
+            "score": 0.616,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has experience in managing resources, materials, and personnel, which aligns with the required skills of management and manufacturing. However, there is no explicit mention of HVAC, plumbing, or electrical skills, which are crucial for the role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as communication, organization, and leadership, which are important for the role. However, there is no explicit mention of emergency response skills, which are crucial for a Building Engineer."
+        },
+        "tools": {
+            "score": 0.154,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Steam (fuzzy)', 'Email (fuzzy)'] | (LLM 0.4): The candidate has experience with some tools like forklifts and computer software, but lacks specific skills related to HVAC, plumbing, or electrical systems, which are essential for the role."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like project management, budgeting, and communication, which could be beneficial in a Building Engineering role. However, these skills are not as deeply aligned with the specific technical requirements of the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.54
+}

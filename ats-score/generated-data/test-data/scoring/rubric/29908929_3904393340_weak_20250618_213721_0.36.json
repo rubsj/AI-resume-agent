@@ -1,0 +1,51 @@
+{
+    "resume_id": "29908929",
+    "jd_id": "3904393340",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.339,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's degree is listed as 'Bachelor of Sciences' in 'Interdisciplinary Studies' from Keiser University, which does not match the required degree(s) specified in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 10.0 yrs (capped to 10.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that involve administrative tasks, human resources, and healthcare management, which aligns with the job description's responsibilities. However, the total experience years are less than the required minimum of 1 year."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not indicate any leadership experience or roles that would demonstrate leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on specific responsibilities that match the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'administrative support', 'benefits', 'billing', 'contracts', 'data base', 'documentation', 'filing', 'forms', 'home care', 'home health', 'human resources', 'HR', 'insurance','maintaining inventory','management','market','sharepoint', 'internet research', 'patient safety', 'personnel', 'policies', 'presentations', 'pricing', 'quality','research','scheduling','staffing', 'phone', 'transportation', 'travel arrangements'. These skills align well with the job description's required skills like 'engineering' and 'information technology'."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are mentioned in the job description such as 'innovation', 'collaboration', 'ownership', 'flexibility', 'communication','motivation', 'passion', 'growth','mentoring', 'inspiration', and'sharing ideas'."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['React (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, whereas the job description requires knowledge of 'typescript','react', 'graphql', 'workday's existing web infrastructure', 'amazon aws', and'scrum'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like 'administrative support', 'budget management', 'client relations', and 'contract administration', which could be beneficial in the role. However, these skills are not as closely aligned with the job description's specific requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.365
+}

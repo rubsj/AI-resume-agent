@@ -1,0 +1,51 @@
+{
+    "resume_id": "27831220",
+    "jd_id": "3904419432",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.398,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate is ServSafe certified, but the job description requires 'Food Handler' and 'Alcohol Server' certifications which are missing."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has an Associate of Arts degree in Culinary from Florida Culinary Institute, which aligns with the job description's requirement for culinary education. However, the degree is not specified as being recent or relevant to the position."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in culinary management roles, including Head Chef, Executive Chef, Sous Chef, and Kitchen Manager, which aligns well with the job description's requirements for food and beverage service experience. The experience is also recent and relevant."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written, with no grammatical errors or typos."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership roles such as Head Chef and Executive Chef, indicating leadership experience. However, the resume lacks specific details on leadership achievements or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines specific responsibilities such as food and beverage service, knowledge of the menu, and liquor knowledge, which are not present in the candidate's resume."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in 'budget', 'cost control', 'costing', 'customer satisfaction','special events', 'inventory','meetings', 'pricing', 'profit', 'quality', 'quality control','recruitment','safety','selling','sales','scheduling'. However, the job description requires 'Management' and 'Manufacturing' skills which are missing."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong attention to safe food handling procedures, which aligns with the soft skill of'safety'. However, the resume lacks information on communication skills, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not specify any tools or technologies required, so there is no comparison."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes skills such as 'customer satisfaction', 'quality control', and 'team leadership', which could be transferable to the role. However, the resume lacks specific details on how these skills have been applied in previous roles."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.513
+}

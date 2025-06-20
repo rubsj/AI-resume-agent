@@ -1,0 +1,51 @@
+{
+    "resume_id": "13393401",
+    "jd_id": "3903462084",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.374,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not mention any certifications, including CPA, which is required for this position."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's degree in accounting or finance (fuzzy)\"] | (LLM 0.5): The candidate's education does not include a Bachelor's degree in Accounting or Finance, which is required for this position."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 11.8 yrs (capped to 11.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in managing portfolios, leading teams, and performing audits, which aligns with the job responsibilities. However, the specific experience in Multi Employer Benefit Plan Audit is missing."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including Chief Operating Officer and Vice President, which aligns with the leadership requirement in the job description. They also mention team building and collaboration."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not provide details on their responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.83,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 3, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Business Development (substring)', 'Sales (exact)', 'Communication (exact)', 'Leadership (exact)', 'Mentoring (exact)', 'Project management (substring)'] | (LLM 0.4): The candidate has strong skills in Business Development and Sales, which match the required skills in the job description. Additionally, they have experience in leadership and team building, which aligns with the soft skills required."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills and leadership, which align with the soft skills required. However, they do not explicitly state experience in mentoring, which is mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in tools such as Microsoft Office, Adobe Creative Suite, Facebook, Salesforce, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as project management and strategic planning, but these are not directly aligned with the specific job responsibilities mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.474
+}

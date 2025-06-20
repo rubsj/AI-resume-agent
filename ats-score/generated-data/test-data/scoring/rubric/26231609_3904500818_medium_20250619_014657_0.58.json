@@ -1,0 +1,51 @@
+{
+    "resume_id": "26231609",
+    "jd_id": "3904500818",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.393,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description requires knowledge of regulatory/compliance and risk management."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's and Master's degree in Business Administration and Professional Accounting, which matches the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.875,
+            "reason": "(Rule 0.5): Resume: 16.9 yrs (capped to 16.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in finance management, financial analysis, and auditing, but the job description requires more specific experience in data analytics and the financial services industry."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams and projects, which aligns with the leadership requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, but there is no mention of specific data analytics tasks or experience in the financial services industry."
+        },
+        "skills": {
+            "score": 0.58,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Analyst (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in financial analysis, accounting, auditing, and Excel proficiency, which aligns well with the job's requirement for data analytics and financial expertise. However, the lack of specific skills in SQL, Python, Qlik Sense, Tableau, and Power BI reduces the score."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership, attention to detail, and communication aligns well with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Tableau (exact)'] | (LLM 0.4): The candidate lacks experience with the tools specified in the job description such as SQL, Python, Qlik Sense, Tableau, and Power BI."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as financial modeling, budgeting, and forecasting, which are relevant to the job description. However, the lack of specific technical skills reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.58
+}

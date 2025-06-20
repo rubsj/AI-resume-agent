@@ -1,0 +1,51 @@
+{
+    "resume_id": "44476983",
+    "jd_id": "3901947621",
+    "domain": "HR",
+    "resume_jd_similarity": 0.339,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts degree in Organizational Management, Human Resources, which is relevant to the job description. However, the GPA is not provided, which could be a factor in assessing the quality of education."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 9.5 yrs (capped to 9.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 9 years of experience in various HR roles, including HR Business Partner, Sr. HR Consultant, and Human Resources Consultant IV, which closely matches the required experience level of 5+ years. The detailed job descriptions in the resume highlight skills and responsibilities that are aligned with the job responsibilities mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's experience is clearly presented, and the use of bullet points enhances readability."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles such as HR Business Partner and Sr. HR Consultant, which indicates leadership skills. However, the job description requires more specific leadership skills like managing and coaching a diverse team, which are not explicitly mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as performance management, talent planning, and benefits, which are aligned with the job responsibilities. However, the job description requires more specific skills like sales and management, which are not explicitly mentioned in the resume."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, which aligns well with the job description's requirement for Human Resources skills. The resume also mentions leadership development, collaboration, organization, and communication skills, which are relevant to the job responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights soft skills such as leadership development, collaboration, organization, and communication, which are aligned with the soft skills required in the job description. However, the job description also requires skills like relationship building, customer service, and professionalism, which are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not mention any specific tools or technologies required, and the resume does not list any tools used."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like leadership development, collaboration, organization, and communication, which can be transferred to the new role. However, the job description requires specific skills like sales and management, which are not explicitly mentioned in the resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.636
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "23522150",
+    "jd_id": "3904419712",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.339,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lacks specific details about degree, field, GPA, and graduation year, making it difficult to assess relevance to the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 6.8 yrs (capped to 6.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in roles that involve customer service, sales, and administrative tasks, which aligns with some responsibilities in the job description. However, there is no direct match with the required experience in collision estimation."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job responsibilities section does not have any content in the provided resume."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Professional and friendly', 'Careful and active listener', 'Multi-tasking', 'Neat, organizational skills', 'Problem solver', 'Quick', 'Reception', 'Sales', 'Self-starter', 'Tandem', 'Telecommunication', 'phone', 'Time management'. However, there is no direct match with required skills like 'Management' and 'Manufacturing'."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Strong work ethic', 'Good written communication', and 'Excellent communication skills', which align with the soft skills required in the job description. However, there is no mention of 'Strong sales orientation' specifically."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Professional and friendly', 'Careful and active listener', 'Multi-tasking', 'Neat, organizational skills', 'Problem solver', 'Quick', 'Reception', 'Sales', 'Self-starter', 'Tandem', 'Telecommunication', 'phone', 'Time management' can be transferred to the role, but there is no direct match with the required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.451
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "99416532",
+    "jd_id": "3903477129",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.347,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description requires a Bachelor's degree, which is not provided."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an Associate of Science degree, which is lower than the required Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.0 yrs (capped to 15.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in logistics and management, including roles that involve inventory control, customer service, and transportation logistics. However, there is no direct experience in business development or sales."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as being in charge of a team of peers, which aligns with the job description's requirement for office leadership."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, such as managing and accounting for military munitions, but there is no mention of strategic policy assessment or program development."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Inventory Control, Customer Service, and Transportation Logistics, which align with the job requirements. However, there is no mention of Business Development or Sales, which are required skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like Dedication to customer service, which aligns with soft skills required for the job. However, there is no mention of communication, data analysis, financial management, or other soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned, and the job description requires proficiency in Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as conflict resolution, leadership, and management, which are relevant to the job. However, there is no mention of agile methodologies, project management, or lean agile approaches."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.446
+}

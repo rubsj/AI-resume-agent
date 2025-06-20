@@ -1,0 +1,51 @@
+{
+    "resume_id": "14206561",
+    "jd_id": "3902357642",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.303,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a degree in Business Administration, but the year of graduation is not specified, which is a requirement for the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in various roles that align with the job description requirements, particularly in technical and administrative areas. However, there is no direct mention of experience in recruitment or sales, which are key responsibilities for the position."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership skills or experiences in the candidate's resume that align with the job description requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There is no mention of responsibilities related to managing the end-to-end recruitment process, business development, or building relationships with senior executives, which are key responsibilities for the position."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate possesses relevant skills such as 'Microsoft Office', 'Outlook', 'PowerPoint', 'network', 'networking', 'Operating Systems', 'Oracle', and 'budget'. However, there is no mention of 'Business Development' or 'Sales', which are required skills for the position."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There are no soft skills mentioned in the candidate's resume that align with the job description requirements such as 'ambitious', 'people person','sociable', etc."
+        },
+        "tools": {
+            "score": 0.485,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['CRM systems (fuzzy)', 'Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience using tools like 'Microsoft Office', 'Oracle', and 'GymPass', which are mentioned in the job description. However, there is no mention of specific CRM systems or recruitment technologies."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'documentation', 'inspection', 'logistics', and'supervision', which could be useful in a recruitment role. However, these skills are not directly aligned with the job description requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.431
+}

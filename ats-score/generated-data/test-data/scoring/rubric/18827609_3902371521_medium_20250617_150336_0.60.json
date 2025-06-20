@@ -1,0 +1,51 @@
+{
+    "resume_id": "18827609",
+    "jd_id": "3902371521",
+    "domain": "HR",
+    "resume_jd_similarity": 0.396,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Business Administration and Psychology, which aligns well with the job requirements. However, the degree is from a different institution than the preferred one mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.66,
+            "reason": "(Rule 0.5): Resume: 3.1 yrs (capped to 3.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, particularly in recruitment and onboarding, which aligns with the job requirements. However, the total experience is less than the required 5 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate uses appropriate language and formatting for a professional resume."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading university programs and events, but there is no clear demonstration of leadership in change management or organizational transformation."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully align with the job responsibilities listed in the job description. There is a lack of detail on change management activities and the ability to lead and support stakeholders."
+        },
+        "skills": {
+            "score": 0.728,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Project Management (substring)'] | (LLM 0.4): The candidate has relevant skills such as Recruiting, Onboarding, Project Management, Event Planning, Employee Relations, Teamwork/Collaboration, Training and Development, Public Speaking, Social Media Marketing, ADP, Workday, Microsoft Office Suite, ADP Benefits, Branding, Budget, Oral Communication, Competitive, Email, Employee Relations, Event Planning, Focus, Hiring, HRIS, HR, Leadership, Marketing, MS Excel, Microsoft Office Suite, Product Manager, Project Management, Public Speaking, Recruiting, researching, strategy, Teamwork, workshops, written. However, there is a lack of depth in some areas compared to the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions excellent interpersonal and communication skills, which align with the soft skills required. However, there is no explicit mention of maintaining confidentiality, which is a critical soft skill for this role."
+        },
+        "tools": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate has experience with ADP, Workday, Microsoft Office Suite, and ADP Benefits, which aligns with the job requirements. However, there is no mention of specific tools or technologies beyond these."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as project management, event planning, and communication, which are relevant to the job requirements. However, there is a lack of depth in demonstrating how these skills specifically relate to change management."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.603
+}

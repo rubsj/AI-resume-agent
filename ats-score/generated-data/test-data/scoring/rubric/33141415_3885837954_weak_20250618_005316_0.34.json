@@ -1,0 +1,51 @@
+{
+    "resume_id": "33141415",
+    "jd_id": "3885837954",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.4,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which is a requirement for the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree in IT - Web Multimedia and Animation, which is relevant but not directly aligned with the job description's preferred degrees."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 25.3 yrs (capped to 25.3), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in construction, property maintenance, and painting, which shows adaptability and transferable skills but lacks direct experience in web development."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that match the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in web development, HTML, XHTML, CSS, XML, scripting languages, JavaScript, ASP.NET, ActionScript 3.0, PHP, and programming languages like Visual Basic, C#, Java, which aligns well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions excellent problem-solving skills, fast learning, teamwork, and attention to detail, which aligns well with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.047,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['IES (substring)'] | (LLM 0.4): The candidate does not mention proficiency in any specific tools mentioned in the job description such as EnergyPlus, eQuest, EnergyPro, IES, AutoCAD, Revit MEP, Rhino, SketchUp, and Lumion."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in construction, property maintenance, and painting demonstrates transferable skills that could be applied to web development, but the lack of direct experience in web development reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.343
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "26695839",
+    "jd_id": "3903848245",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.282,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The MBA and MA degrees provide a good foundation in business administration and public policy, but they do not specifically mention engineering or IT, which are required for the position."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 17.7 yrs (capped to 17.7), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in business administration and healthcare, but the job description requires experience in mechanical design and development, which is not directly mentioned in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as coordinator and grant writer, which aligns with the soft skills section. However, there is no direct evidence of leadership in the context of mechanical design and development."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on responsibilities related to the job description's responsibilities such as leading design and development CAD work streams, creating 3D CAD designs, participating in design reviews, and verifying CAD models."
+        },
+        "skills": {
+            "score": 0.284,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Risk management (fuzzy)'] | (LLM 0.4): The candidate has a strong background in business administration and management, which aligns well with the required skills of engineering and information technology. However, there is no direct mention of CAD modeling or additive manufacturing technologies."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, which aligns with some soft skills like instilling trust and decision quality. However, the resume lacks specifics on communication skills, critical thinking, and other soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.008,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Milling (fuzzy)'] | (LLM 0.4): The resume does not list any tools or technologies used, whereas the job description mentions Solid Works, PDM, Oracle Agile PLM software, and others that are essential for the role."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like attention to detail, problem-solving, and critical thinking are transferable from the candidate's previous roles to the job requirements. However, there is no evidence of experience in CAD modeling or ISO9000, FDA requirements, or additive manufacturing technologies."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.408
+}

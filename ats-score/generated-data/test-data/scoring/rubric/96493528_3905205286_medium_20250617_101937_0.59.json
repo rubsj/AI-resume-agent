@@ -1,0 +1,51 @@
+{
+    "resume_id": "96493528",
+    "jd_id": "3905205286",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.415,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, which contrasts with the optional skill 'Bachelor's degree' mentioned in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's Degree and a Master's degree, which is close to the required education level of 'High School graduate/GED' but lacks specific details like graduation year."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in various roles that involve sales, relationship building, and credit analysis, which aligns with the job description's required experience of '3 years sales experience' and preferred degree of 'Bachelor's degree'."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in managing teams and departments, which is relevant to the job description's emphasis on leadership. However, there is no explicit mention of leading cross-functional teams or managing remote teams."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job description's responsibilities of 'call out on leads and set up businesses with credit card transaction solutions' and'represent Fiserv values'. However, there is no direct mention of generating revenue growth."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills including 'Credit Analysis', 'Microsoft office', 'Relationship Building', and 'Sales'. These align closely with the required skills of 'Business Development' and 'Sales' in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly stated, but the 'Accomplishments' section suggests a high ethical standard and respect for others, which aligns with the soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate's experience includes proficiency in Microsoft Office, which matches the tool requirement in the job description. However, there is no explicit mention of Salesforce or Adobe Creative Suite."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include leadership, as evidenced by managing teams and departments, which is relevant to the job description's emphasis on teamwork and collaboration."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.59
+}

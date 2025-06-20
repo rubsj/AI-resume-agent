@@ -1,0 +1,51 @@
+{
+    "resume_id": "15602094",
+    "jd_id": "3904393377",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.248,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications, which could be beneficial for a position requiring specific knowledge or skills."
+        },
+        "education": {
+            "score": 0.167,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Science (exact)'] | (LLM 0.5): The candidate's education is listed as current and incomplete, which may not meet the expectations of the job description that requires formal qualifications."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 30 years of experience in IT consultancy and leadership roles, which is highly relevant to the job description seeking experience in business development and sales."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail or clarity, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing projects aligns well with the leadership requirements of the job description. However, there is no explicit mention of managing remote teams or client interactions, which are mentioned in the soft skills section."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines specific responsibilities related to sales and business development, but the candidate's experience does not detail these responsibilities."
+        },
+        "skills": {
+            "score": 0.337,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Communication (exact)'] | (LLM 0.4): The candidate has extensive experience in IT consultancy and leadership roles, which aligns well with the required skills of business development and sales. However, there is no mention of specific tools like Salesforce, Zoom Info, or LinkedIn, which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists strong communication skills, which aligns with the soft skills required in the job description. However, there is no explicit mention of results-focused mindset, customer relationship management, or ability to work collaboratively."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in any specific tools such as Salesforce, Zoom Info, or LinkedIn, which are preferred in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in database design, problem-solving, and communication align with transferable skills needed for the job. However, there is no clear indication of how these skills specifically relate to the job responsibilities outlined in the description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.452
+}

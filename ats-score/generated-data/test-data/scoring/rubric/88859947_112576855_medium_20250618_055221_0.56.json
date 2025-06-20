@@ -1,0 +1,51 @@
+{
+    "resume_id": "88859947",
+    "jd_id": "112576855",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.32,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications like 'CFC' and 'Trade certifications', but lacks the specific 'Trade certifications' mentioned in the job description."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate is currently pursuing education, which does not match the requirement of having completed a degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.8 yrs (capped to 14.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in managing construction teams and projects, which aligns well with the job requirements. However, the lack of specific details about managing buildings or physical plants reduces the score slightly."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership skills indicated by their experience in managing construction teams, but lacks explicit leadership responsibilities mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing construction projects, but lacks specific responsibilities related to maintaining buildings and grounds, which is a key responsibility of the job."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Management', 'Manufacturing', 'HVAC', 'Steam', 'Gas', 'Electrical', 'Plumbing', 'Word processing', 'Spreadsheets', 'Email', 'Building systems', and 'Emergency response'. However, there are no direct matches for 'Supervision' and 'Trade certifications' which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Excellent communication', 'Proficient oral and written communication', and 'Good organizational and time management'. However, there is no mention of 'Leadership' or 'Emergency response' skills."
+        },
+        "tools": {
+            "score": 0.357,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 2}. Matched: ['Steam (fuzzy)', 'Email (fuzzy)', 'Supervision (exact)'] | (LLM 0.4): The candidate has experience with tools like 'Word processing', 'Spreadsheets', 'Email', and 'Building systems', but lacks specific experience with 'HVAC', 'Steam', 'Gas', 'Electrical', 'Plumbing', and 'Emergency response' which are crucial for the job."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Management', 'Manufacturing', and 'Supervision', but lacks specific skills like 'Trade certifications' and 'Emergency response' which are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.564
+}

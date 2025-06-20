@@ -1,0 +1,51 @@
+{
+    "resume_id": "18368613",
+    "jd_id": "3904068266",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.328,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a B.B.A in Business Management, Management Information Systems, and Business Intelligence, which is relevant to the job description's inferred domain of retail/e-commerce. However, the GPA is not provided, which could be a factor in assessing the level of education."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.2 yrs (capped to 15.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Sales Consultant, which aligns with the job description's responsibilities such as capturing high-quality images, setting up and managing shoots, and ensuring image quality. The experience also includes skills like 'account penetration', 'adaptability', and 'account relationships', which are beneficial for the role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. This contributes positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or achievements, which contrasts with the job description's requirement of having 'leadership' as a skill or responsibility."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions responsibilities like 'increasing territory sales', 'building relationships', and 'developing business performance', which align with the job description's responsibilities such as capturing high-quality images and providing art direction. However, there is no direct match with the job description's specific responsibilities like 'ensuring image quality' or 'providing packaging consulting'."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as'sales','marketing strategies','multi-tasking', and'sales skills', which align well with the job description's required skills like 'Art/Creative', 'Design', and 'Information Technology'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions soft skills like 'competitive', 'adaptable', and 'confident clinical expertise', which align with the job description's soft skills requirement of 'excellent communication skills' and 'keen eye for detail'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions tools like 'Digital photography', 'Film photography', and 'Photo production processes', but the candidate's resume does not mention any specific tool usage."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions transferable skills like 'account penetration', 'adaptability', and 'account relationships', which could be beneficial in a retail/e-commerce environment. However, there is no direct match with the job description's specific transferable skills like 'art direction' or 'photo production processes'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.452
+}

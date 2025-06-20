@@ -1,0 +1,51 @@
+{
+    "resume_id": "36625776",
+    "jd_id": "3905285673",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.322,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required certifications of CPCU and CIC."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in Business Administration and Health Services Administration, but the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.7 yrs (capped to 28.7), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare consulting, provider relations, and managed care, closely matching the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in managing teams, directing staff, and leading committees, demonstrating strong leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as leading teams, managing performance, and attracting talent, which aligns with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has extensive experience in network development, provider relations, and managed care, which aligns well with the required skills of the position."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like leadership, strategic planning, and client relationship management, which are essential for the role."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like financial management, contract negotiations, and process improvement are transferable to the position, but the lack of specific details reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.522
+}

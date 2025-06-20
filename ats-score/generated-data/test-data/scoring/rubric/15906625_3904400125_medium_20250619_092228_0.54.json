@@ -1,0 +1,51 @@
+{
+    "resume_id": "15906625",
+    "jd_id": "3904400125",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.368,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree in Accounting, which is relevant to the position, but the GPA is not provided."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, demonstrating proficiency in areas such as financial statements, bank reconciliations, and tax preparation."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not exactly match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting and bookkeeping, which aligns well with the required skills of the position."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses some soft skills, such as being a flexible team player, but does not explicitly mention all the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.404,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft WORD (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Word, Excel, and other software tools listed in the job description, indicating familiarity with the required technology."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like financial statement analysis and tax return filing, which could be beneficial in the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.537
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "15581242",
+    "jd_id": "3903842936",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.376,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Science degree in Biology is listed, but the GPA is missing, which is a key metric for academic achievement."
+        },
+        "experience": {
+            "score": 0.686,
+            "reason": "(Rule 0.5): Resume: 11.6 yrs (capped to 11.6), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales, IT, and consulting, but the job titles do not exactly match the required experience in product management and innovation."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through university/community organizations, but the job description requires more specific leadership skills related to managing a team, conducting personnel duties, and leading strategic product roadmaps."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as strong customer service experience, advanced mathematical aptitude, and technical skills with computers and other technologies. However, there is no mention of specific tools like Apple CRM, SAP Inventory Management, iOSdm Hub & Jamf, which are required."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership roles within university/community organizations, which aligns with the soft skills required, but lacks detail on other soft skills like strategic thinking, decision making, risk assessment, compliance, supervision, and accountability."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like staff mentoring and development, motivated and self-driven business acumen, and strong customer service experience are transferable, but lack specific details that could match the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.452
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "13836471",
+    "jd_id": "3885866979",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.313,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate has one certification, but it is older than the required experience years specified in the job description."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's degree is in Computer System Engineering, which is relevant to the IT field, but the degree is from a Colombian institution, which may not be recognized by the potential employer."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.5 yrs (capped to 24.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in IT management roles, which exceeds the required experience years specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through supervising employees in previous roles, but there is no mention of leadership responsibilities in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles match several responsibilities listed in the job description, such as requirements gathering, quality assurance, and continuous improvement."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has extensive experience in IT roles, including network administration, software installation, and technical support, which aligns well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in technical assistance, troubleshooting, and collaboration align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.292,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['.Net (substring)'] | (LLM 0.4): The candidate has experience with tools like Windows Server, Active Directory, and ServiceNow, which aligns with the tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in budget planning, network administration, and technical support are transferable to the role, but there is no mention of specific skills related to the ServiceNow platform."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.566
+}

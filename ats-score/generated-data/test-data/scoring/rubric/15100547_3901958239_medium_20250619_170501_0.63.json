@@ -1,0 +1,51 @@
+{
+    "resume_id": "15100547",
+    "jd_id": "3901958239",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.275,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a J.D. degree, which is relevant to the job description's inferred domain of transportation. However, the degree is in Law, not directly related to transportation."
+        },
+        "experience": {
+            "score": 0.791,
+            "reason": "(Rule 0.5): Resume: 11.8 yrs (capped to 11.8), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in legal roles, which could be transferable to the job responsibilities involving compliance and documentation. However, the job description focuses on transportation-specific tasks."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience in managing teams, but the context is not directly related to the transportation industry's leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes legal responsibilities such as negotiating plea deals, which do not directly align with the job responsibilities in the transportation sector."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in legal research and writing, which are relevant to the job responsibilities requiring knowledge of regulations and documentation. However, there is no direct match with the required skills listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as interpersonal and communication abilities, are relevant to the job responsibilities involving customer interaction and teamwork."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, which are not required or preferred in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, like customer service and file management, can be applied to the job responsibilities requiring attention to detail and customer satisfaction."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.631
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "17823436",
+    "jd_id": "3904363631",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.302,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the job requirements."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Bachelor of Engineering degree in Information Technology from University of Mumbai, which is relevant to the job. However, the GPA is not provided, which could be a factor in assessing the quality of education."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 5.1 yrs (capped to 5.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in roles that involve project management, documentation, and software implementation, which aligns with the job responsibilities. The detailed job descriptions provide evidence of relevant skills and experiences."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is generally well-written and free of grammatical errors. However, some sections are incomplete or contain commas instead of full sentences, which affects the clarity and professionalism of the document."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information about specific responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant technical skills such as C++, Core Java, and Oracle databases, which align with the job requirements. However, there is no mention of consulting or general business skills, which are also required."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any soft skills that align with the job requirements."
+        },
+        "tools": {
+            "score": 0.324,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['R (substring)'] | (LLM 0.4): The candidate has experience with tools such as Rational Rose, MS Visio, and Oracle SQL Developer, which are mentioned in the job description. However, the job description also requires knowledge of Microsoft Excel, R, Python, and multiple software and system-based applications, which are not explicitly mentioned in the candidate's experience."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a range of skills that can be transferred to the job, including programming languages, database knowledge, and software development tools. However, the lack of specific soft skills and responsibilities reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.412
+}

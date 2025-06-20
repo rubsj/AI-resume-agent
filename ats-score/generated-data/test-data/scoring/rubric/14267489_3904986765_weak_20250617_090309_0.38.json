@@ -1,0 +1,51 @@
+{
+    "resume_id": "14267489",
+    "jd_id": "3904986765",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.545,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lists multiple degrees but does not specify any field of study that aligns with the required degree in the job description."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Resume: 9.0 yrs (capped to 9.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and customer service, but the job description requires specific skills in web development and design, which are not clearly demonstrated in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details about responsibilities that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.432,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 2, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Design (substring)', 'HTML (exact)', 'MS Office (substring)', 'Communication (exact)'] | (LLM 0.4): The candidate has a wide range of skills listed, including Adobe, Photoshop, billing, brochures, C, cashier, clerical, closing, communication skills, credit, customer service, data entry, designing, fax machine, forms, inspects, inventory levels, letters, materials, math, merchandising, access, mail, money, Microsoft Office, MS Office, works, multi-tasking, multitasking, object-oriented programming, office machines, packaging, personnel, copiers, POS, pricing, printer, quick learner, maintaining files, sales, shipping, supervision, troubleshooting, typing skills, weighing, cash handling, shipping and receiving, professional and friendly, careful, active listener. However, there is no specific emphasis on HTML or CSS, which are key skills for this role."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has strong soft skills such as communication, organization, prioritization, and being a professional and friendly active listener. These skills are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.37,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['HTML (exact)', 'MS Office (substring)'] | (LLM 0.4): The candidate has experience with tools like Salesforce.com, TapScan, HTML, and Adobe Creative Suite, which are mentioned in the job description. However, they lack experience with WordPress, CSS, and other technologies specifically mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as customer service, communication, and organization, which could be applicable in a digital marketing role. However, these skills are not directly linked to the specific requirements of the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.377
+}

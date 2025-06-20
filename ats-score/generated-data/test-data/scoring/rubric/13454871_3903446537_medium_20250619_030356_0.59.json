@@ -1,0 +1,51 @@
+{
+    "resume_id": "13454871",
+    "jd_id": "3903446537",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.244,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The degree and field of study are relevant to the job, but the GPA is not provided."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has significant experience in Oracle manufacturing and distribution, which matches the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions leadership experience, but there is no evidence that these experiences align with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description lists responsibilities, but the resume does not provide any evidence of meeting these responsibilities."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Oracle manufacturing and distribution applications, which aligns with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description mentions soft skills such as detail-oriented, creative, and team player, but the resume does not provide evidence of these skills."
+        },
+        "tools": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate has experience with tools like Toad, Data Load, Visio, SQL, SQL Developer, and MS Office Suite, which are relevant to the job."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not mention any transferable skills that could be applied to the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.586
+}

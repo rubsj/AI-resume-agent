@@ -1,0 +1,51 @@
+{
+    "resume_id": "35468363",
+    "jd_id": "3904419432",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.334,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed in the resume match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume does not provide enough information to assess education against the job description requirements."
+        },
+        "experience": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The resume does not provide enough information to assess experience against the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume contains grammatical errors and unclear sections."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience listed in the resume matches the job description requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide enough information to assess responsibilities against the job description requirements."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): No skills listed in the resume match the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills listed in the resume match the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools listed in the resume match the tools and technologies in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No transferable skills listed in the resume match the job description requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.264
+}

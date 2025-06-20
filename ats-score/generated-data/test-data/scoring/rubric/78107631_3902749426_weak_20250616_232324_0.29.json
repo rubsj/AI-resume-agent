@@ -1,0 +1,51 @@
+{
+    "resume_id": "78107631",
+    "jd_id": "3902749426",
+    "domain": "ARTS",
+    "resume_jd_similarity": 0.436,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists degrees but lacks specific details such as field of study, GPA, and graduation dates which are required by the job description."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Resume: 51.5 yrs (capped to 40.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in education and leadership roles, but the job description requires specific years of experience and a bachelor's degree in a related field."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is formatted correctly and appears to be free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not provide evidence of leadership skills or experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide information on responsibilities that match those listed in the job description."
+        },
+        "skills": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills listed under 'INTERESTS' which align with the job's soft skills requirements, but lacks specific skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's 'INTERESTS' section contains activities that demonstrate soft skills such as teamwork, accountability, and communication, which align with the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies are listed in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not explicitly list transferable skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.295
+}

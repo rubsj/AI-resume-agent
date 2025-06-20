@@ -1,0 +1,51 @@
+{
+    "resume_id": "10466208",
+    "jd_id": "3901950008",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.485,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.188,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['BA (substring)'] | (LLM 0.5): The candidate's education does not match the required degree level of 'BA' or 'BS in Business' specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in pharmaceutical sales and account management, which aligns with the job description's responsibilities. However, the exact years of experience are not provided."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership roles or responsibilities in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like customer service, account management, and sales, which align with the job description's responsibilities. However, there is no mention of specific responsibilities related to government billing/invoicing."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Account Management', 'acquisitions', 'ADMINISTRATIVE', 'contracts', 'clientele', 'customer satisfaction', etc., which align well with the job description's required skills of 'Administrative' and 'Analyst'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like 'Strong, independent problem solving and decision-making skills', 'Attention to detail', and 'Ability to prioritize and multi-task', which align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like 'Account Management', 'decision making', and 'customer satisfaction' are transferable to the job description's responsibilities, but they lack specific skills related to government billing/invoicing."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.491
+}

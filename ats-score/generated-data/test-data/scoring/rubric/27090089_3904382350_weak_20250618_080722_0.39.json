@@ -1,0 +1,51 @@
+{
+    "resume_id": "27090089",
+    "jd_id": "3904382350",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.357,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed in their resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in Early Childhood Education/Elementary Education, Language, Literature, Communication and Theater Arts, Social Science, which does not match the requirements of the job description that mentions a Bachelor's degree in a field related to purchasing or supply chain."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in administrative roles, event planning, and customer service, which aligns with some responsibilities in the job description. However, there is no direct match with the required experience years or specific job responsibilities mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership positions or experiences that would indicate leadership skills relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details about specific responsibilities that align with the job description."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in 'Account management', 'Administrative support', 'Program Management', 'Advertising', 'Marketing materials', 'Meeting Planning', 'Microsoft Office', 'Personnel Program Planning', 'Recruitment', 'Research', 'Sales', 'Supervising and training', 'Symposium Planning', 'Travel arrangements', and 'Planning workshops'. The job requires skills in 'Purchasing' and 'Supply Chain', which the candidate possesses. There is overlap in skills such as 'Microsoft Office' and 'Planning workshops' which are mentioned in both the resume and job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills in communication, detail-oriented work, problem-solving, and teamwork, which are soft skills mentioned in the job description. However, these skills are not quantified or detailed in the resume."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is one of the tools mentioned in the job description. However, they do not have experience with Salesforce or Adobe Creative Suite, which are also mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as account management, administrative support, program management, advertising, marketing materials, meeting planning, personnel program planning, recruitment, research, sales, supervising and training, symposium planning, travel arrangements, and planning workshops. These skills could potentially be applied in the role described in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.385
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "14886205",
+    "jd_id": "3901950312",
+    "domain": "HR",
+    "resume_jd_similarity": 0.206,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a 'Certified Talent Management Specialist' certification, but it does not match the required 'Six Sigma Green or Black Belt certification' or 'State of Minnesota leadership program completion'."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only a B.A. in English, which may not align with the required Bachelor's degree in a field related to human services or management."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 21.1 yrs (capped to 21.1), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR and management roles, particularly in recruitment and talent management. However, the experience lacks depth in the specific areas mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading groups and managing teams, but lacks specific leadership qualifications like 'State of Minnesota leadership program completion'."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'HR', 'Leadership', 'Management', and 'Project management tools experience'. However, there is a lack of specific technical skills like 'Six Sigma Green or Black Belt certification' or 'Advanced SharePoint training'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Leadership', 'Communication', and 'Analytical'. However, they lack specific skills like 'Public speaking and presentation skills' or 'Cross-cultural collaboration'."
+        },
+        "tools": {
+            "score": 0.31,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office and other tools, but lacks specific experience with 'Advanced SharePoint training' or 'Project management tools'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles that could be applicable to the job, but they lack specific skills like 'Data analysis and synthesis' or 'Business process evaluation'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.49
+}

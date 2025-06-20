@@ -1,0 +1,51 @@
+{
+    "resume_id": "14871762",
+    "jd_id": "3904966746",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.324,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications mentioned match the job description's required certifications."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Master of Science degree in Information Systems and a Bachelor of Engineering in Information Science, which are relevant fields but do not directly match the job description's required degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 4.8 yrs (capped to 4.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles such as Business Development Executive and Delivery Lead, which align with the job description's responsibilities. However, the experience does not explicitly mention the required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description requires leadership skills, which are not explicitly mentioned in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description lists specific responsibilities that the candidate's experience does not cover."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Business Development, BI, Client, delivery, ERP, inspection, Inventory, Java, Team Development, Director, Excel, Process Control, profit, Project management, Python, Statistical Analysis, Vendor Management, and SQL, which align well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description mentions soft skills like Mentorship, Leadership, Delegation, Problem-solving, Communication, Attention to detail, Time management, Adaptability, Prioritization, Teamwork, and Empathy, which are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies listed match the job description's required tools and technologies."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like Business Development, BI, Client, delivery, ERP, inspection, Inventory, Java, Team Development, Director, Excel, Process Control, profit, Project management, Python, Statistical Analysis, Vendor Management, and SQL can be considered transferable to the job description's responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.415
+}

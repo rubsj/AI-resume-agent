@@ -1,0 +1,51 @@
+{
+    "resume_id": "19147947",
+    "jd_id": "3904068266",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.323,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education details are not provided in a clear format, making it difficult to assess relevance to the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 9.2 yrs (capped to 9.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales, warehouse management, and shipping/receiving, which aligns with the job description's requirements. However, the details are not as specific as those in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for the lack of clarity in the education section."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not explicitly mentioned, but some overlap with the job description's responsibilities such as managing shoots and ensuring image quality. However, there is no mention of art direction or packaging consulting."
+        },
+        "skills": {
+            "score": 0.336,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Dependable', 'Learns new job assignments quickly', and '8+ years of warehouse, shipping, receiving, manufacturing, distribution, and 2+ years of sales experience'. However, there is no direct match with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Excellent communication skills' and 'Keen eye for detail', which are aligned with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any tools or technologies used, unlike the job description which requires knowledge of digital and film photography, among others."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as adaptability, process improvement, and cost reduction, which could be beneficial in the role. However, these are not directly stated in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.408
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "23190306",
+    "jd_id": "3904730188",
+    "domain": "APPAREL",
+    "resume_jd_similarity": 0.421,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the required skills or qualifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an Associates Degree in Business Management and is currently pursuing another Business Management degree. However, the degrees do not align with the required Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 8.1 yrs (capped to 8.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in retail operations and management, but the job description requires at least 5 years of experience in a senior product management role, which is not evident from the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not explicitly mention leadership skills, but the candidate's experience shows leadership in managing teams and directing operations."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not align with the job responsibilities listed in the job description, which require setting product vision, collaborating with various teams, building a strategic roadmap, and leveraging data for decision-making."
+        },
+        "skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Excel (exact)'] | (LLM 0.4): The candidate has skills in 'excel', which matches the required skill 'Excel'. However, there is no evidence of proficiency in 'Information Technology', 'Product Management', or 'Project Management'."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate self-starter attitude, comfort with ambiguity, attention to detail, or fast-paced environment skills, which are mentioned in the soft skills section of the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used by the candidate match the required skills such as Hadoop, Rules-based systems, Machine Learning, Computer Vision, or 3D visualization."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like leadership, managing, and customer service, which could be relevant to the job, but they are not specifically mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.34
+}

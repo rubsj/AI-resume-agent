@@ -1,0 +1,51 @@
+{
+    "resume_id": "12377803",
+    "jd_id": "3905300178",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.246,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires specific certifications like CISSP, CISM, AWS Certified DevOps Engineer Professional, and Microsoft Certified: Azure DevOps Engineer Expert."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has multiple degrees in leadership-related fields, but lacks specific technical degrees required for DevOps Engineering."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 22.6 yrs (capped to 22.6), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in business development and account management, which is relevant to DevOps Engineering, but lacks direct experience in DevOps or cybersecurity."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight leadership roles or achievements that would indicate strong leadership skills, which are important for DevOps Engineering."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities required for DevOps Engineering, such as architecting secure automation solutions, integrating security measures, automating security tasks, conducting security assessments, and leading incident response."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Accounting', 'Sales', 'Business Development', and 'Database' which align with the job requirements for DevOps Engineering."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills mentioned in the job description such as problem-solving, mentorship, teamwork, adaptability, and attention to detail."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in tools like GitLab CI, Jenkins, CircleCI, Python, Bash, Ruby, Perl, Ansible, Terraform, Chef, Puppet, Prometheus, Grafana, ELK stack, which are essential for DevOps Engineering."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like networking, marketing, and progress, which could be beneficial in a DevOps role, but they lack the depth and specificity required for the position."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.318
+}

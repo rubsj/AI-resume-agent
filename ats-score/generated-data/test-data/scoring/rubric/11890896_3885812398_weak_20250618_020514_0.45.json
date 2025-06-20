@@ -1,0 +1,51 @@
+{
+    "resume_id": "11890896",
+    "jd_id": "3885812398",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.294,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Decision Sciences and a Bachelor's degree in Mathematical Engineering, which are relevant to the job requirements. However, the job description prefers a Bachelors degree in mechanical, electrical or industrial engineering."
+        },
+        "experience": {
+            "score": 0.73,
+            "reason": "(Rule 0.5): Resume: 3.8 yrs (capped to 3.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in roles that involve data analysis and operations management, which align with the job requirements. However, the job description requires at least 5 years of experience, while the candidate has less than 5 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary provides a clear overview of their qualifications."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as being a Senior Engineering Manager and Operational Excellence Lead. However, the job description does not emphasize leadership as a key requirement."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume lists responsibilities that align with some of the job responsibilities mentioned in the job description, such as managing customer accounts and providing technical support. However, there is no direct match for responsibilities like participating in tread mold design reviews or conducting tire building and curing process studies."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills in 'Management' and 'Data Analysis', which align with the job requirements. However, there is no explicit mention of 'Manufacturing' skill, which is preferred."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not explicitly mention soft skills required by the job description, such as teamwork, communication, and problem-solving abilities."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like Bandag retread products, processes, and equipment, but the resume does not list any experience or proficiency with these tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as data analysis, operations management, and leadership, which can be applied in the role. However, the lack of specific technical skills related to retread processes limits the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.452
+}

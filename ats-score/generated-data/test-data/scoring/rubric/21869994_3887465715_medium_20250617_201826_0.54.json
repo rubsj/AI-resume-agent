@@ -1,0 +1,51 @@
+{
+    "resume_id": "21869994",
+    "jd_id": "3887465715",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.377,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has two degrees, one in Healthcare Administration and another in Culinary Arts. While the degree in Culinary Arts aligns with the job domain, the Healthcare Administration degree does not directly match the required education for the position."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles such as Assistant Chef, SBA-Kitchen, Restaurant Cook, and Cook, which align with the job responsibilities. However, the total experience is less than the required 2 years."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership skills or experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like leading and training staff, resolving customer complaints, and managing inventory, which align with the job responsibilities. However, there is no direct match for specific responsibilities like 'Lead and inspire the front-of-house team' or 'Supervise daily operations'."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Exceptional listener and communicator', 'Computer-literate', and 'Resourceful team player'. However, there is no direct match for 'Management' and 'Manufacturing' skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists soft skills such as 'Leadership', 'Passion', 'Exceptional guest experiences', 'Service', 'Attention to detail', 'Hospitality', 'Promptness', 'Effectiveness', 'Collaboration', 'Communication', 'Feedback', 'VIP management', 'Inventory management', 'Stock control', 'Problem-solving', 'Decision-making', 'Flexibility', and 'Stress management'. These skills are generally aligned with the job description, but there is no direct match for specific soft skills like 'Leadership' or 'Promptness'."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No tools or technologies are listed in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like 'Exceptional listener and communicator', 'Computer-literate', and 'Resourceful team player', which could be considered transferable. However, there is no direct match for specific transferable skills like 'Leadership' or 'Promptness' mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.541
+}

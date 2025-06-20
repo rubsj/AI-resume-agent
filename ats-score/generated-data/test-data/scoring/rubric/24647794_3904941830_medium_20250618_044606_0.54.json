@@ -1,0 +1,51 @@
+{
+    "resume_id": "24647794",
+    "jd_id": "3904941830",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.396,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications listed match the required or preferred degrees in the job description."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Electrical Engineering and a Bachelor's degree in the same field from a reputable university, which aligns well with the job description's requirement for a PhD in chemical engineering or related fields."
+        },
+        "experience": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has relevant experience in engineering internships, but the details provided do not directly match the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills in managing a team and contributing to SPCC plans, but there is no explicit mention of leadership in the context of the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly align with the specific responsibilities listed in the job description, such as developing and validating kinetic models using Matlab."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Analyst (fuzzy)', 'Research (exact)', ' (substring)'] | (LLM 0.4): The candidate has a strong set of skills relevant to the job description, including proficiency in Matlab, which is mentioned in the tools and technologies section. However, there is no direct match for 'Analyst' skill."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication and teamwork skills, which align with the soft skills required in the job description. However, there is no explicit mention of problem-solving or ability to work independently."
+        },
+        "tools": {
+            "score": 0.62,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Matlab (exact)'] | (LLM 0.4): The candidate has experience with Matlab, which is mentioned in the tools and technologies section of the job description. However, there is no direct match for other tools mentioned."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in electronics, digital signal processing, and computer systems are transferable to the chemical engineering domain, given the overlap in technical skills. However, there is no direct match for the specific job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.538
+}

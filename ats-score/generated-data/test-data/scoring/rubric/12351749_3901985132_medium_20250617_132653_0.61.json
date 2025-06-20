@@ -1,0 +1,51 @@
+{
+    "resume_id": "12351749",
+    "jd_id": "3901985132",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.297,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned, which could be beneficial for roles requiring specific industry qualifications."
+        },
+        "education": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A Master's degree in Data Analytics provides a strong foundation in the field, though the BBA in Finance does not directly correlate with the manufacturing sector."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): Experience in sales roles demonstrates strong communication and customer service skills, which are transferable to any industry. However, the lack of manufacturing-specific experience reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided, which could be important for roles requiring management or team coordination."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines responsibilities related to food processing, which do not match the candidate's experience or skills."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has strong skills in data analysis and modeling, which align well with the manufacturing domain's need for quality control and process optimization. However, the lack of direct manufacturing-specific skills reduces the score."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills, which align well with the soft skills required for the role."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed, which could be crucial for roles requiring specific software proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like teamwork, positivity, and flexibility are transferable across industries but lack specific manufacturing-related skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.612
+}

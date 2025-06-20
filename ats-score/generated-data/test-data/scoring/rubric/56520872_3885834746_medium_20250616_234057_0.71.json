@@ -1,0 +1,51 @@
+{
+    "resume_id": "56520872",
+    "jd_id": "3885834746",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.462,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has certifications like 'BLS' and 'CNOR', but the latter is incomplete. The presence of certifications adds value, but the missing date for CNOR reduces the score."
+        },
+        "education": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds advanced degrees in Nursing and Nurse Educator, which are directly related to the job title and responsibilities. The education history is comprehensive and relevant."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has extensive experience in various nursing roles, including RN, RN Supervisor, and RN Case Manager, which aligns closely with the job description's responsibilities. The experience is detailed and relevant."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The formatting is professional, making the information easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles such as RN Supervisor and RN Case Manager, indicating leadership skills. However, the job description does not emphasize leadership as a key requirement."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that match the job description, such as managing patient care, scheduling appointments, and handling insurance verification. However, the job description mentions specific responsibilities like working at the reception desk and handling financial transactions, which are not explicitly mentioned in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'acute care', 'billing', 'Case management', 'charts', 'chemotherapy', 'closing', 'coaching', 'Client', 'clients', 'discharge planning', 'insurance', 'director','meetings', 'presenting', 'quality', 'Quest','reporting','supervising', 'telecommunication', 'wound care'. These skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include soft skills like 'coaching', 'teamwork', and 'communication', which are essential for the role. However, the job description does not provide clear indicators of these skills in the candidate's experience."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not specify any tools or technologies required, so there is no direct comparison."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like 'telecommunication', 'presentation', and 'quality' can be transferred to the job, but the lack of specific examples in the experience section reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.711
+}

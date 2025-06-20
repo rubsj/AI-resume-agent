@@ -1,0 +1,51 @@
+{
+    "resume_id": "23416654",
+    "jd_id": "3902866668",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.36,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required NMLS certification for the position."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): Bachelor's degree in Accounting and Finance from University of North Alabama is relevant to the finance domain but lacks specific details like GPA or graduation year."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 22.5 yrs (capped to 22.5), JD requires: 2.0 yrs. | (LLM 0.5): Experience includes roles that are relevant to finance and accounting, but the job description requires only 2 years of experience, which is less than the candidate's total experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership experience is not explicitly mentioned in the resume, though some roles indicate potential leadership qualities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as month end close, year end close, cash management, supervision, AP/AR, and Excel proficiency, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like initiative, flexibility, effective communication, organization, critical thinking, and attention to detail are mentioned in the resume, aligning with the soft skills required."
+        },
+        "tools": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 4, 'substring': 0, 'fuzzy': 0}. Matched: ['Outlook (exact)', 'Word (exact)', 'Excel (exact)', 'PowerPoint (exact)'] | (LLM 0.4): The candidate lists proficiency in Microsoft Office tools including Outlook, Word, Excel, PowerPoint, which are essential for the role."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as month end close, year end close, cash management, supervision, AP/AR, and Excel proficiency are transferable to the new role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.581
+}

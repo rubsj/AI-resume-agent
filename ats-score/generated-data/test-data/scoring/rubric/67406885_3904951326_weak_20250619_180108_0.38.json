@@ -1,0 +1,51 @@
+{
+    "resume_id": "67406885",
+    "jd_id": "3904951326",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.383,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description mentions AWS, Google Cloud Platform, Azure, CDMP, MDM, DBA, SQL, SAP, TOGAF, API, CISSP, VCP as required certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's or College Degree in Computer Science, Engineering, Technical, Mathematics, Information Technology, Information Systems, Business, Education, or Computer Engineering (fuzzy)\"] | (LLM 0.5): The candidate has a Bachelor's degree in Mechanical Engineering, which does not directly match the required degrees of 'Bachelor's or College Degree in Computer Science, Engineering, Technical, Mathematics, Information Technology, Information Systems, Business, Education, or Computer Engineering'."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 14.3 yrs (capped to 14.3), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in various engineering roles, which aligns with the job responsibilities of providing thought leadership on architecture and design, collaborating with the application development team, defining technical principles, and high-level presentations. However, the specific experience in cloud solutions and data warehousing is not mentioned."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is grammatically clean and professionally formatted."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing projects aligns with the leadership aspect of the job description. However, the lack of explicit leadership roles or achievements in the context of cloud solutions reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing projects, leading teams, and providing strategic direction align with the job responsibilities of providing thought leadership, collaborating with the application development team, defining technical principles, and high-level presentations."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in 'acquisitions', 'billing', 'clients', 'Explorer', 'Win', 'PHD', 'progress','record keeping', 'routing' which align with the required skills of 'Business Development' and 'Sales'. However, there is no direct match with 'Spark', 'Python', 'Analytical products offered as a service', 'Hive', 'SQL', 'Understanding of marketing metrics', 'Data integration', 'Industry trends' as mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills section is empty, while the job description mentions 'High level presentation and influencing skills to convey strategy and roadmaps for the Clients'."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Azure (fuzzy)', 'CISSP (fuzzy)'] | (LLM 0.4): The candidate does not have experience with tools like AWS, Google Cloud Platform, Azure, CDMP, MDM, DBA, SQL, SAP, TOGAF, API, CISSP, VCP, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'acquisitions', 'billing', 'clients', 'Explorer', 'Win', 'PHD', 'progress','record keeping', 'routing' can be transferred to the role of a Senior Cloud Solutions Lead, considering the need for business development and sales skills. However, the lack of specific cloud-related skills reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.38
+}

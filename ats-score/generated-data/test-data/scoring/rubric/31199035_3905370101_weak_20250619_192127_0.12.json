@@ -1,0 +1,51 @@
+{
+    "resume_id": "31199035",
+    "jd_id": "3905370101",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.302,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section contains multiple entries for the same degree from the same institution, which is redundant and unclear."
+        },
+        "experience": {
+            "score": 0.27,
+            "reason": "(Rule 0.5): Resume: 2.4 yrs (capped to 2.4), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in retail roles, which aligns with the job description's requirement for sales experience. However, the experience is limited and does not demonstrate advanced leadership or strategic planning."
+        },
+        "grammar_cleanliness": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The summary field is empty, and there are formatting issues with the education section."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on any responsibilities that match the job description's requirements."
+        },
+        "skills": {
+            "score": 0.099,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['self-starter (substring)'] | (LLM 0.4): The candidate has listed skills that align with some required skills in the job description such as 'cashier' and 'customer services', but lacks specific finance-related skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of any tools or technologies used in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks clear examples of transferable skills that could be applied in a commercial finance role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.119
+}

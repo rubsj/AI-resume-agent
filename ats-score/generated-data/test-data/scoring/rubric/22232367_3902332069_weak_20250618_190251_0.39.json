@@ -1,0 +1,51 @@
+{
+    "resume_id": "22232367",
+    "jd_id": "3902332069",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.369,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job's requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not match the job's requirement for a PhD."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 26.1 yrs (capped to 26.1), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in various roles that involve data analysis and system support, which aligns with the job's responsibilities. However, the job requires more specialized experience in computer vision and machine learning."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership positions or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job's responsibilities, which require expertise in algorithm development, software implementation, and model training for complex 3D computer vision applications."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Analyst (exact)'] | (LLM 0.4): The candidate has extensive experience as an analyst and possesses skills like SQL, database management, networking, and software configuration, which align well with the job's requirement for an analyst role."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight soft skills that are explicitly mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Python (exact)'] | (LLM 0.4): The candidate does not have experience with Python, Pytorch, or Tensorflow, which are key tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as customer support, documentation, and quality assurance, which could be beneficial in a research setting."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.385
+}

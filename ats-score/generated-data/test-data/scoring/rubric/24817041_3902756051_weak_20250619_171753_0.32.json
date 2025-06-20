@@ -1,0 +1,51 @@
+{
+    "resume_id": "24817041",
+    "jd_id": "3902756051",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.393,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description prefers candidates with a CPA certification."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Masters of Science in Accounting from Texas A&M Commerce and a Bachelor of Business Administration in Accounting from Baylor University, both of which align well with the job requirements."
+        },
+        "experience": {
+            "score": 0.62,
+            "reason": "(Rule 0.5): Resume: 2.7 yrs (capped to 2.7), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience as an Accountant, but the job description requires more seniority and specific responsibilities that are not fully covered in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for the missing summary section."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not indicate any leadership roles or responsibilities, which are preferred in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions some responsibilities related to financial reporting and accounting tasks, but it lacks details on advanced responsibilities like'supporting Reinsurance accounting', 'preparing monthly and quarterly data validations', and 'contributing interpretation and advice on technical subjects'."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'account reconciliations', 'accounting system', 'accounts payable', 'process payroll', and'spreadsheets'. However, there is no mention of proficiency in 'Insurance', 'Reinsurance', 'Microsoft Office', 'Excel', 'Teams', 'Outlook', which are preferred skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention soft skills such as 'technical', 'analytical', 'problem-solving', 'organizational', 'deadline-driven', 'accountability', 'customer focus', 'collaboration', and 'team player', which are important for the role."
+        },
+        "tools": {
+            "score": 0.05,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate does not mention proficiency in any tools listed in the job description such as 'Microsoft Office', 'Excel', 'Teams', 'Outlook', 'PeopleSoft', 'Oracle Analytics', 'Workiva', 'Alteryx', 'Tableau', 'Profisee', 'SQL', 'Snowflake'."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'account reconciliations', 'accounting system', 'accounts payable', 'process payroll', and'spreadsheets', but lacks specific skills like 'Insurance', 'Reinsurance', and 'PeopleSoft' mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.32
+}

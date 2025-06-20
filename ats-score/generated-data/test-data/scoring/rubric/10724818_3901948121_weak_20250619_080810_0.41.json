@@ -1,0 +1,51 @@
+{
+    "resume_id": "10724818",
+    "jd_id": "3901948121",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.335,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is listed but does not match the required degree level ('Associate Degree') specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 18.7 yrs (capped to 18.7), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and executive assistance roles, which aligns with the job responsibilities. However, the job description requires at least 1 year of experience with business intelligence and analytics tools, which is not explicitly mentioned in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, which the job description suggests is important."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume includes some responsibilities that align with the job responsibilities, such as managing calendars and coordinating tasks. However, it lacks details on specific responsibilities related to data analysis and business growth."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Analyst', 'Sales', 'Calendaring', and 'Travel Arrangements'. However, there is no mention of specific tools like Excel, Power BI, Python, etc., which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong communication skills, which aligns with the soft skills required in the job description. However, it lacks explicit mention of problem-solving skills and other soft skills like 'detail-oriented' and 'hands-on team player'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not list any specific tools they are proficient in, while the job description mentions proficiency in Excel, Power BI, Python, and other tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills like 'Microsoft Office Suite', 'Calendaring', and 'Critical Thinking', which can be transferred to the role. However, it lacks specific skills related to data analysis and business intelligence tools."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.415
+}

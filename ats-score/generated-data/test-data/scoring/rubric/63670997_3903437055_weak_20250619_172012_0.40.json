@@ -1,0 +1,51 @@
+{
+    "resume_id": "63670997",
+    "jd_id": "3903437055",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.267,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, and there are no specific certifications required in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists two degrees, but they do not directly align with the required degree of BS in Environmental Science specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 27.1 yrs (capped to 27.1), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in marketing communications, which is aligned with the job responsibilities of providing services such as NEPA, Cultural Resources, Natural Resources, Compliance, Restoration, and GIS. However, the experience does not specifically mention environmental consulting or the required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume appears to be well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership roles or achievements in the resume that would indicate leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job responsibilities listed in the job description do not match the candidate's experience or skills."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Research (exact)', ', (substring)'] | (LLM 0.4): The candidate has extensive experience in marketing communications, which aligns well with the required skills of analyst, information technology, and research in the job description. The skills listed also match the tools and technologies mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the resume or job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools and technologies like NEPA, Clean Up program, Project Management Plan, etc., but these are not listed in the candidate's experience."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as leadership, marketing communications, and research are transferable and align with the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.401
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "12820557",
+    "jd_id": "3904415588",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.36,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide any information about degrees that match the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 13.8 yrs (capped to 13.8), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in Sales and Customer Service, but lacks experience in Strategic Leadership, P&L Ownership, or other key responsibilities mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which is crucial for the role of Director, Operations."
+        },
+        "responsibilities": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.268,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Merchandising (exact)'] | (LLM 0.4): The candidate has skills in Computer Proficiency, Client Relations, and Retail Sales, which align with the job requirements. However, there is no explicit mention of Strategic Leadership, Financial Acumen, or P&L Ownership."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as Customer-Obsession and Self-Starter, which are aligned with the job requirements. However, there is no explicit mention of Inspirational Team Leader or Dynamic Environment."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office, which is one of the tools required in the job description. However, there is no mention of Salesforce or Adobe Creative Suite."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Problem-Solving and Effective Sales, but lacks skills in areas such as Executive Presence or Relationship Management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.405
+}

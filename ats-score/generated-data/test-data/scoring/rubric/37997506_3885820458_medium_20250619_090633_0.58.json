@@ -1,0 +1,51 @@
+{
+    "resume_id": "37997506",
+    "jd_id": "3885820458",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.393,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA and a B.A. in Accounting, which are relevant to the job description that requires a Bachelor's degree in Business Administration or Accounting."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 7.6 yrs (capped to 7.6), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 7 years of experience in accounting roles, which closely matches the required experience of 5 years in the job description. Their experience includes responsibilities such as financial reporting, budgeting, and compliance, which are aligned with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, there are no specific details about the candidate's ability to handle complex tasks or manage multiple projects simultaneously, which could be considered a strength in the context of the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership positions or responsibilities, which contrasts with the job description's mention of managing staff and serving as a key resource to campus regarding research administration compliance areas."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed in the job description, such as financial reporting, budgeting, and compliance. However, they lack experience in specific areas like audit coordination, conflict of interest, intellectual property, institutional review boards, export controls, effort, or other policies."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and auditing, which aligns well with the required skills of the job description. They have experience with various accounting systems and software, which matches the tools listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as analytical thinking, interpretation, implementation, problem-solving, organization, project management, customer service, communication, relationship building, collaboration, and adaptability. These skills are relevant to the job description but are not as extensively detailed in the resume compared to the job responsibilities."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with accounting systems and software like QuickBooks, Sun system, and Peachtree Accounting, which are similar to the tools mentioned in the job description. However, they lack experience with specific tools like Microsoft Office, Adobe Creative Suite, Facebook, Salesforce, Federal Policies, State Policies, University Regulations, University Accounting Systems, and University Policies."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as advanced Excel with pivot tables, lookups, references, and consolidation, are relevant to the job description's requirement for proficiency in Microsoft Office tools."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.578
+}

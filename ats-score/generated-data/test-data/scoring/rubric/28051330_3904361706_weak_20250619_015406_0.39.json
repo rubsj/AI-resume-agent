@@ -1,0 +1,51 @@
+{
+    "resume_id": "28051330",
+    "jd_id": "3904361706",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.364,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the requirements of the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education does not align with the required degree in actuarial science or finance."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Resume: 6.3 yrs (capped to 6.3), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has experience in management and customer service, which aligns with some responsibilities mentioned in the job description. However, the experience is not specifically in reinsurance or actuarial work."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills that align with the job description's requirement for leading teams or managing accounts."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the detailed responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'customer service', 'customer satisfaction','sales', and'management'. However, there is no mention of specific actuarial skills required in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills that are explicitly mentioned in the job description, such as 'problem-solving','multiple project management', and 'effective communication'."
+        },
+        "tools": {
+            "score": 0.14,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['R (substring)'] | (LLM 0.4): No mention of proficiency in tools like R, Python, or MS Office suite, which are required skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'customer service', 'customer satisfaction', and'management' can be transferred from the candidate's previous roles to the role of an actuary, but they are not directly related to actuarial work."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.389
+}

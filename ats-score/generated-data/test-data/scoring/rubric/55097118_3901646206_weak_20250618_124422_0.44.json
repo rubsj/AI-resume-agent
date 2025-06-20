@@ -1,0 +1,51 @@
+{
+    "resume_id": "55097118",
+    "jd_id": "3901646206",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.308,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts degree in Sociology and an Arts degree, which do not directly align with the required degrees in the job description. The high school diploma is not considered relevant for this position."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 17.8 yrs (capped to 17.8), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in legal support and sales, which can be transferred to the retail/design industry. However, the experience does not specifically mention design-related tasks or responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is grammatically clean and free of obvious errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership roles or responsibilities in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions skills that could align with some responsibilities listed in the job description, such as customer service and problem-solving. However, there is no direct mention of responsibilities like scheduling design appointments or managing customer projects."
+        },
+        "skills": {
+            "score": 0.298,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 2, 'fuzzy': 1}. Matched skills: ['Retail/Sales (substring)', 'Interpersonal Skills (substring)', 'Microsoft Office Suite (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as Microsoft Office proficiency, time management, attention to detail, strong problem-solving abilities, and interpersonal skills. However, there is a lack of specific technical skills like Salesforce or Online Design Appointment Scheduler."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights strong interpersonal skills, which aligns with the soft skills required in the job description. There is also a mention of being professional and mature, which is another soft skill."
+        },
+        "tools": {
+            "score": 0.26,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft Office Suite (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are mentioned in the job description. However, there is no explicit mention of using tools like Salesforce or Online Design Appointment Scheduler."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows skills that can be transferred to the retail/design industry, such as time management and attention to detail. However, there is a lack of specific skills related to design or sales in the context of the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.436
+}

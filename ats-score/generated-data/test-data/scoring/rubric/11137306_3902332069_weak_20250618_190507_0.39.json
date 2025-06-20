@@ -1,0 +1,51 @@
+{
+    "resume_id": "11137306",
+    "jd_id": "3902332069",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.353,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may be a concern given the high-level nature of the position requiring a PhD."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in Electronics and Avionics, but lacks formal education in Computer Vision or Machine Learning."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 8.2 yrs (capped to 8.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in Avionics and Electronics, but lacks experience in Computer Vision or Machine Learning, which are key areas for this position."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership skills are not mentioned, which could be important for managing teams or projects."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The responsibilities listed do not match those required for the position, focusing on Avionics rather than Computer Vision tasks."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in Avionics and Electronics, which aligns well with the required skills in Computer Vision and Machine Learning. However, there is no direct mention of Python, Pytorch, or Tensorflow skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not mentioned, which could be crucial for collaboration and communication in a research setting."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used in Computer Vision or Machine Learning are mentioned."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Wiring Troubleshooting, Electronic Component repairs, and Interpretation of schematics are transferable to Computer Vision, but lack depth in specific technical skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.386
+}

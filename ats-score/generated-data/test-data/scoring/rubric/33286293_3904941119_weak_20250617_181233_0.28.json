@@ -1,0 +1,51 @@
+{
+    "resume_id": "33286293",
+    "jd_id": "3904941119",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.226,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required or preferred ones in the job description."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has degrees in fields related to finance and economics, but the lack of specific details about the institutions' reputations and the missing GPA in one degree reduces the score."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in investment banking and financial analysis, which aligns with the job responsibilities. However, the lack of specific details about the roles and responsibilities reduces the score slightly."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership activities are not directly related to the job responsibilities or required skills."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any responsibilities listed that directly match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.472,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'CIA (substring)'] | (LLM 0.4): The candidate has relevant skills such as financial modeling, financial accounting, and Microsoft Office proficiency, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills that are explicitly mentioned in the job description, such as strong communication and problem-solving abilities."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used by the candidate are mentioned, and the job description requires knowledge of IIA standards, IAD policies and procedures, and AML."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like public speaking and proficiency in Spanish, which could be beneficial in a team setting or for international clients, but these are not directly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.278
+}

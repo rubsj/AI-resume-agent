@@ -1,0 +1,51 @@
+{
+    "resume_id": "37818861",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.375,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.111,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Engineering (exact)', 'Business (exact)'] | (LLM 0.5): The education section does not provide any degree or field that matches the required bachelor's or college degree in computer science, engineering, technical, mathematics, information technology, information systems, business, education, or computer engineering."
+        },
+        "experience": {
+            "score": 0.688,
+            "reason": "(Rule 0.5): Resume: 8.1 yrs (capped to 8.1), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in project management, consulting, and leadership roles. However, the job description requires more than 12 years of experience, which is not provided in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is grammatically clean and free of errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly state leadership experience or achievements that align with the job description's requirement for leadership abilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not detail responsibilities that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Consulting (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Consulting', 'inventory control', and 'project management'. However, there is no mention of specific technologies like AWS, GCP, Azure, etc., which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention soft skills such as strong leadership and motivation abilities, which are required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, which are preferred in the job description such as AWS, Python, Snowflake, Hadoop, Hive, Spark, and HBase."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as budgeting, inventory control, and project management. However, these skills are not aligned with the specific tools and technologies mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.308
+}

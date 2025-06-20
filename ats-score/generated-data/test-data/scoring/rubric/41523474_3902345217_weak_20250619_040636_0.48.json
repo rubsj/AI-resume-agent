@@ -1,0 +1,51 @@
+{
+    "resume_id": "41523474",
+    "jd_id": "3902345217",
+    "domain": "HR",
+    "resume_jd_similarity": 0.399,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the candidate's resume that match the job description's requirement for HR certification (e.g., PHR, SHRM-CP)."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): An MBA degree is mentioned, but it lacks specific details like GPA or field of study, which could better align with the job description's preference for a Bachelor's degree in Human Resources, Business Administration, or related experience."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 1.2 yrs (capped to 1.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate's experience includes roles that closely match the job description's responsibilities, such as HR Executive duties related to job descriptions, training, and development activities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or roles are mentioned in the candidate's resume that would directly align with the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.416,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['PTO management (fuzzy)'] | (LLM 0.5): The candidate's responsibilities align with the job description's responsibilities, such as payroll processing, compliance, benefits administration, and employee support."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has listed skills in Computer skills, SPSS Software, MS Office, Internet & E-mail operations, Professional management skills, Meeting objectives, Identifying problems, Effective communication skills, Thriving in deadline-driven environments, and Excellent team-building skills, which align well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, including strong communication and interpersonal skills, attention to detail, and discretion handling sensitive information, match the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.62,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (exact)', 'MS Office (substring)'] | (LLM 0.4): The candidate has experience with tools like MS Office, which matches the job description's tool requirements, but lacks specific mention of Paycom software proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as computer skills and key management skills, are relevant but could be more specifically aligned with the job description's advanced Excel knowledge and analytics requirement."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.477
+}

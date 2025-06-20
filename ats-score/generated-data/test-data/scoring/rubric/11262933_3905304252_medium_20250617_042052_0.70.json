@@ -1,0 +1,51 @@
+{
+    "resume_id": "11262933",
+    "jd_id": "3905304252",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.45,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has certifications like 'Certification as Nursing Assistant' and 'MLS Real Estate School', but these are not directly related to the job description."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education includes an Associates Degree in Applied Science, Criminal Justice, which does not match the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 7.1 yrs (capped to 7.1), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles such as 'Lead Ops Representative', 'Treasury Services Advisor', and 'Account Receivable', which align well with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for some missing punctuation and unclear dates."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates some leadership experience through roles like 'Lead Ops Representative', but there is no explicit mention of leadership responsibilities in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job responsibilities listed in the description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'account management', 'cash management', 'customer service', and 'data entry' which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Leadership', 'Cross-functional collaboration', and 'Analytical thinking', which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, unlike the job description which requires proficiency in Microsoft Office, Excel, Access, PowerPoint, Lotus notes, Outlook, and 10 key."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Data entry', 'customer service', and 'communication', which can be applied across different industries."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.696
+}

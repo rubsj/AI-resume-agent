@@ -1,0 +1,51 @@
+{
+    "resume_id": "12251115",
+    "jd_id": "3904363416",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.372,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a CO State industry certification which is relevant but not specified in the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not align with the required degree of Bachelor's in business administration, Marketing, or a related field."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 24.5 yrs (capped to 24.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in the industry, particularly in roles that involve managing operations, sales, and staff, which matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing operations and staff demonstrates leadership capabilities, which aligns with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like leading operations, managing staff, and sales activities, which align with the job responsibilities. However, there is no mention of specific sales strategy development or engagement with C-level executives."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Consulting', 'Training employees', and 'Sales'. However, there is no direct match for 'Information Technology' skill mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include strong leadership and communication, which align with the soft skills required. However, there is no explicit mention of engaging with C-level executives."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Excel proficiency, operations management, and sales, which could be beneficial in a sales role. However, these skills are not directly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.579
+}

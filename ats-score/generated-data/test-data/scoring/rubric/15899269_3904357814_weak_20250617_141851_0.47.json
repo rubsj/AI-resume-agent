@@ -1,0 +1,51 @@
+{
+    "resume_id": "15899269",
+    "jd_id": "3904357814",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.251,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts in Psychology and Social Work, but lacks a Bachelor's degree in Education, which is preferred by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in teaching and social work, which aligns with the job responsibilities. However, the experience does not explicitly mention the required skills like 'Consulting' and 'Education'."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership experience or skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like guiding students through the admissions process, which aligns with the job responsibilities. However, the experience does not explicitly mention all the required skills."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in 'discharge planning', 'lesson plans', 'evaluate patients', and'supervision', which align with the job's required skill set of 'Consulting', 'Education', and 'Sales'. However, there is no direct match for 'Sales' skill."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions involvement in leadership roles and activities, which could indicate strong soft skills like engagement and trust-building. However, there is no explicit mention of all the soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with MS Office, which is one of the tools mentioned in the job description. However, there is no explicit mention of proficiency in other tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their teaching and social work experience, such as communication and collaboration. However, these skills are not explicitly aligned with the job's required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.468
+}

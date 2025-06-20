@@ -1,0 +1,51 @@
+{
+    "resume_id": "34303500",
+    "jd_id": "3905370101",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.5,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed that match the job requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree in Leadership & Cultural Studies, which is not directly related to the job requirements. The Nursing degree is not provided, so it cannot be evaluated."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.0 yrs (capped to 13.0), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in sales roles, particularly in sales director positions, which aligns with the job requirements. However, the experience is not detailed enough to fully assess the fit."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills that are required by the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide specific responsibilities that match the job description's requirements."
+        },
+        "skills": {
+            "score": 0.584,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)', 'relationships (exact)'] | (LLM 0.4): The candidate has relevant skills in Sales and Microsoft Office, which align with the job requirements. However, there is no mention of finance-specific skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention soft skills that are required by the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate mentions using Ubersmith and other software, but these are not listed as required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like customer satisfaction, building relationships, and planning, which could be beneficial in a commercial finance role. However, these skills are not directly aligned with the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.403
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "62555739",
+    "jd_id": "3905839178",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.29,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume, which contrasts with the requirement for a College degree in Hospitality."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Computer Aided Drafting and Design (CADD) Associate Degree and an Advance Diploma, but neither matches the required Hospitality degree."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 8.8 yrs (capped to 8.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in customer service roles, which aligns well with the job responsibilities. The experience also includes leadership aspects, such as managing a call center and leading a team."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing a call center, but there is no clear evidence of leadership in a restaurant setting."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some responsibility in managing teams and ensuring customer satisfaction, but it lacks specifics related to restaurant management and culinary operations."
+        },
+        "skills": {
+            "score": 0.616,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills like AutoCAD, AutoCAD Civil 3D, Adobe Illustrator, and AutoCAD Inventor Pro, which align with the job requirements. However, there is no mention of specific manufacturing skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong verbal communication and teamwork, which align with soft skills required for the job. However, there is no explicit mention of computer literacy or flexibility."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Word (exact)'] | (LLM 0.4): The candidate does not list proficiency in Microsoft Excel, PowerPoint, or Word, which are tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like critical thinking, decision-making, and customer service, but they lack specific skills in management and manufacturing."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.505
+}

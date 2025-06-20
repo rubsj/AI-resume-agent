@@ -1,0 +1,51 @@
+{
+    "resume_id": "14449423",
+    "jd_id": "3885820458",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.362,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and there is no mention of any required certifications in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Computer Science and a Diploma in Accounting, which are relevant to the required degree of Bachelor's Degree. However, the dates of education are not aligned with the required experience years."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 18.0 yrs (capped to 18.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in Accounting roles, including positions as a Staff Accountant and Financial Aid Accounting Administrator, which aligns with the job responsibilities. However, the total experience years exceed the required experience years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership experience or skills in the resume, and the job description does not require leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing property tax cycles, providing support for tax engagements, and coordinating with administration associates, which aligns with some of the job responsibilities. However, there is no explicit mention of responsibilities related to audit coordination, conflict of interest, intellectual property, or institutional review boards."
+        },
+        "skills": {
+            "score": 0.46,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in Accounting, Tax Accounting, and Management, which aligns well with the required skills of Accounting/Auditing and Finance. They also possess skills in Microsoft Office, which is mentioned in the tools and technologies section."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills include Analytical Thinking, Interpretation, Implementation, Policy Development, Problem Solving, Organization, Project Management, Customer Service, Communication, Relationship Building, Collaboration, Adaptability, and Technological Savvy, which aligns with the soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate possesses skills in Microsoft Office, which is mentioned in the tools and technologies section. However, there is no explicit mention of proficiency in Adobe Creative Suite, Facebook, Salesforce, or other tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include experience in managing projects, working with databases, and handling complex tasks, which aligns with the job responsibilities and soft skills mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.514
+}

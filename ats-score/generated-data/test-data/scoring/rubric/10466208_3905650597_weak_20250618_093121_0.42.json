@@ -1,0 +1,51 @@
+{
+    "resume_id": "10466208",
+    "jd_id": "3905650597",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.246,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications mentioned in the resume match the preferred certification in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not mention any degree in health, safety, environment, engineering, or related field, which is required according to the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in pharmaceutical sales and account management, which is somewhat relevant to the job description's responsibilities but lacks specifics on health and safety."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership roles or responsibilities are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in the resume do not fully align with the job description's responsibilities, particularly in terms of health, safety, and environmental management."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Account Management', 'acquisitions', 'ADMINISTRATIVE', 'contracts', 'clientele', 'customer satisfaction', etc., which align well with the job description's required skills like 'Training Delivery', 'Balances stakeholders', 'Collaborates', 'Demonstrates self-awareness', 'Optimizes work processes', etc."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like 'open and clear communicator', 'collaborative and hardworking style', and 'top launch organizational skills', which are somewhat aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Account Management', 'acquisitions', 'ADMINISTRATIVE', 'contracts', 'clientele', 'customer satisfaction', etc., can be transferred from the pharmaceutical industry to the health and safety domain."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.421
+}

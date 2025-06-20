@@ -1,0 +1,51 @@
+{
+    "resume_id": "23398733",
+    "jd_id": "3905300513",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.262,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume includes a CPC-A certification issued by the American Academy of Professional Coders, which matches the required certification in the job description."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume does not provide any education that directly aligns with the job description requirements."
+        },
+        "experience": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The resume lacks experience that directly aligns with the job description requirements, particularly in the field of food service."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating a high level of professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume that would align with the job description's requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not list responsibilities that match the job description's required responsibilities in food service."
+        },
+        "skills": {
+            "score": 0.536,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The resume lists skills like 'computer systems', 'organized','self starter', 'grammar', and 'communicates well', which are relevant to the job description's required skills of 'Management' and 'Manufacturing'. However, there is no direct match for these skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume mentions soft skills like 'organized' and 'communicates well', but these do not directly correspond to the job description's required soft skills."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): The resume does not mention any tools or technologies used, which are not required or preferred in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as'self starter' and 'organized' can be considered transferable to the role, although they are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.42
+}

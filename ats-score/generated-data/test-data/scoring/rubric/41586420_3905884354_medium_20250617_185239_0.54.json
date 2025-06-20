@@ -1,0 +1,51 @@
+{
+    "resume_id": "41586420",
+    "jd_id": "3905884354",
+    "domain": "APPAREL",
+    "resume_jd_similarity": 0.359,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the candidate's resume that match the requirement of 'Local licensing' for the job."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['High School (substring)'] | (LLM 0.5): The candidate has a Bachelors of Commerce degree, but the job description prefers a High School diploma."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in retail management roles, including Store Keeper, Store Manager, and Category Management Incharge, which aligns with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience as a Team Leader and Store Manager, but there is no explicit mention of leading a team or managing employees in the context of asset protection."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like maintaining store safety, monitoring customer behavior, and conducting investigations, which align with the job responsibilities. However, there is no mention of direct experience with emergency response or legal testimony."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Management', 'Inventory', 'Logistics', and 'Merchandising'. However, there is no mention of specific certifications like 'Local licensing' required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like 'customer service', 'train employees', and 'Supervising', which align with the soft skills required. However, there is no explicit mention of skills like 'Safety', 'Dealing with aggression', or 'Patience'."
+        },
+        "tools": {
+            "score": 0.248,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Customer service tools (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Excel, MS Office, Word, and MIS, which are similar to the tools listed in the job description. However, there is no explicit mention of 'Retail management software' or 'Surveillance cameras'."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Internet applications', 'Inventory', and 'Logistics', which are relevant to the job. However, there is no explicit mention of skills like 'Decision making' or 'Flexibility'."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.536
+}

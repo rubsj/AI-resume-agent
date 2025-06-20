@@ -1,0 +1,51 @@
+{
+    "resume_id": "27788376",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.375,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a Bachelor of Arts degree in Arts in History and a Master of Science degree in Health Administration. The degrees are relevant but the GPA is not provided."
+        },
+        "experience": {
+            "score": 0.47,
+            "reason": "(Rule 0.5): Resume: 2.4 yrs (capped to 2.4), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Consultant, Assistant Manager / HIPAA Privacy and Security Officer, and Planning Assistant. However, the experience is not as recent or extensive as required by the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide details about leadership skills which are required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details about responsibilities which are required in the job description."
+        },
+        "skills": {
+            "score": 0.324,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Team building (substring)'] | (LLM 0.4): The candidate has relevant skills such as Financial aptitude, Sourcing vendors for medical supplies, Critical thinking proficiency, Sound decision making abilities, Cultural awareness and sensitivity, Microsoft Office proficiency, Confident public speaking, Relationship and team building skills, and Conflict resolution. However, there is no mention of ERP implementation, systems integrations, infrastructure implementations, technical solutions, client success, consultant success, project organization, project planning, cost estimation, project oversight, project monitoring, project control, client communication, issue resolution, conflict management, technical requirement gathering, negotiation, time management, deadline adherence, multiple project management, priority adjustment, detail orientation, problem solving, and team building skills which are required."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like Leadership, Influencing, Motivation, Negotiation, Conflict resolution, Documentation, Dissemination, Time management, Adaptability, Detail orientation, Problem solving, Teamwork, and Communication which are mentioned in the job description. However, there is no mention of specific soft skills like Active communication with appropriate client contacts to resolve any issues."
+        },
+        "tools": {
+            "score": 0.247,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools which are mentioned in the job description. However, there is no mention of other tools like ERP, Cloud applications, Network, Cloud/compute, Security, Adobe Creative Suite, Facebook, Salesforce which are required."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Financial aptitude, Sourcing vendors for medical supplies, Critical thinking proficiency, Sound decision making abilities, Cultural awareness and sensitivity, Microsoft Office proficiency, Confident public speaking, Relationship and team building skills, and Conflict resolution. However, these skills are not as specific or relevant as required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.32
+}

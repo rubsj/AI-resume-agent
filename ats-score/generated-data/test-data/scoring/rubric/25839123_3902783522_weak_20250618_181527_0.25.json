@@ -1,0 +1,51 @@
+{
+    "resume_id": "25839123",
+    "jd_id": "3902783522",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.315,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the job description's requirement for 'Lean certification' and 'Six Sigma certification'."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's Degree in Sociology and Justice Studies, which is relevant to the job description's inferred domain of Business Operations, but lacks a High School Diploma or equivalent certification as explicitly mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.46,
+            "reason": "(Rule 0.5): Resume: 2.1 yrs (capped to 2.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant work experience in sales and customer service roles, but lacks experience in process management or manufacturing, which are key areas mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which are crucial for the Manager, Process Management position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide any evidence of having fulfilled responsibilities similar to those listed in the job description, such as creating, validating, executing, and improving business processes."
+        },
+        "skills": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has some relevant skills listed, including 'excellent customer service' and 'customer service experience', but lacks specific technical skills required by the job description such as 'Management' and 'Manufacturing'."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions 'Great communication skills' and 'excellent customer service', which align with some of the soft skills required by the job description like 'Strong leadership skills', 'Effective communication', and 'Influence partners'. However, they lack specific details about how these skills were applied in their past roles."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any tools or technologies they are proficient in, whereas the job description mentions proficiency in Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes 'customer service experience', 'customer service', and'multi-tasking', which can be considered transferable skills relevant to the job description. However, they lack specific technical skills and certifications required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.247
+}

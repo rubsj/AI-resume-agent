@@ -1,0 +1,51 @@
+{
+    "resume_id": "33135102",
+    "jd_id": "3905304252",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.383,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Administration, Finance, Management, and Information Systems, which is relevant to the finance domain but lacks specific details about GPA."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.5 yrs (capped to 18.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in financial aid administration, customer service, and financial management, which closely matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading work teams and initiatives, indicating leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities, such as leading initiatives, planning, and influencing dialogue."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as budget management, client interaction, data collection, financial management, and report writing, which align well with the job responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading work teams and collaborating with others, which are soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like problem resolution, process improvement, and workflow analysis are transferable to the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.706
+}

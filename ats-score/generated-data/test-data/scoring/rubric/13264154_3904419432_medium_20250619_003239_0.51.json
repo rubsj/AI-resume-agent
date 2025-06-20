@@ -1,0 +1,51 @@
+{
+    "resume_id": "13264154",
+    "jd_id": "3904419432",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.323,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires 'food handler' and 'alcohol server' certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is only listed as an 'associate of arts' degree in culinary and pastry arts, which does not match the required degree level or field of study specified in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in roles such as chef instructor, assistant pastry chef, and banquet chef, which aligns with the job description's focus on food service and catering. However, the job description specifically mentions'server' position, which is not directly matched by the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description mentions leadership skills indirectly through the requirement of'management' and'manufacturing' skills, but the candidate's resume does not provide evidence of leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines specific responsibilities related to food and beverage service, but the candidate's resume does not provide details on these responsibilities."
+        },
+        "skills": {
+            "score": 0.632,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'photoshop', 'arts', 'budgeting', 'costing', 'desktop publishing', 'english', 'health and safety standards', 'illustrator', 'inventory','microsoft word', 'quality','research','restaurant operations','retail','safety','sales','some spanish','supervision', 'team player', 'time-management', 'work — flow', 'written communication'. However, there is no direct match for'management' and'manufacturing' which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists skills such as 'excellent communication skills', 'articulate speech', and 'comfortable working in both indoor and occasional outdoor environments', which align with the soft skills required in the job description. However, the candidate does not explicitly mention having completed F&B service training, which is mentioned in the 'about you' section of the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not specify any tools or technologies required, so there is no comparison to be made here."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'team player', 'time-management', and 'written communication', which could be applicable to the job. However, the job description also requires specific skills like'management' and'manufacturing', which are not present in the candidate's resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.505
+}

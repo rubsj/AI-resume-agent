@@ -1,0 +1,51 @@
+{
+    "resume_id": "41910253",
+    "jd_id": "3902787435",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.329,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications, whereas the job description prefers candidates with a Bachelor's degree or equivalent experience."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is listed as a Healthcare Management BBA from American InterContinental University, which does not match the preferred degree of a Bachelor's degree in the job description."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 23.4 yrs (capped to 23.4), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in a Healthcare Associate role, which is relevant to the job description. However, the job description requires more than 6 years of experience, and the candidate has only been in their current role since February 2002."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is free of grammatical errors and is well-organized, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills that align with the job description's requirement for experience working with/advising senior organizational leadership."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that align with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as EPIC, Microsoft Office Suite, Healthcare Systems, Insurance/Billing, and Sorian Scheduling, which align well with the job requirements. However, there is no mention of specific certifications or advanced degrees that might be preferred by the employer."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong leadership and communication skills, which align with some of the soft skills required in the job description. However, they do not explicitly state proficiency in critical thinking, strategic planning, or handling confidential information."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate lists proficiency in Microsoft Office Suite, which is one of the tools mentioned in the job description. However, they do not mention proficiency in Adobe Creative Suite, Facebook, Salesforce, or other tools that may be required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes a section detailing transferable skills, which is positive. However, these skills are not as detailed or specific as those required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.39
+}

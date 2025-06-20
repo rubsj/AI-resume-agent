@@ -1,0 +1,51 @@
+{
+    "resume_id": "26671167",
+    "jd_id": "3905332871",
+    "domain": "HR",
+    "resume_jd_similarity": 0.392,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the required ones in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a High School Diploma and a Pre-Nursing Major degree, but the latter is incomplete and lacks GPA details, which may not meet the preferred degree requirements."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 11.8 yrs (capped to 11.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles that involve customer service, administration, and coordination, which aligns with the job responsibilities. However, the experience is not directly related to manufacturing."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience that would qualify the candidate for a leadership role within the context of the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the responsibilities listed in the job description, such as handling customer service and coordination tasks. However, there is no evidence of experience in working with community-based organizations or driving referrals for community services."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Professional and friendly', 'Exceptional multi-tasker', and 'Delivers exceptional customer service'. However, there is no mention of specific manufacturing skills which are required."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Professional and friendly', 'Careful and active listener', and 'Engaging personality', which align well with the job requirements. However, there is no explicit mention of 'Professional writing' or 'Time management'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in Windows, Word, Google Email, or Google Apps, which are required tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'Computer knowledge and skills', 'Neat, clean and professional appearance', and 'Reliable team worker'. However, these skills are not directly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.506
+}

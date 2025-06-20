@@ -1,0 +1,51 @@
+{
+    "resume_id": "18484846",
+    "jd_id": "3904922783",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.394,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a high school diploma and some college education, but no degree directly related to healthcare or the job requirements. This meets the minimum qualifications but does not fully align with the preferred skills."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in various roles, particularly in sales and healthcare management, which aligns well with the job responsibilities. The experience shows leadership and problem-solving skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles in sales and healthcare management, indicating leadership skills. However, the lack of specific leadership achievements reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing staff, handling customer inquiries, and performing administrative tasks, which align with the job responsibilities. However, the lack of direct experience with SNAP benefits reduces the score."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a wide range of skills including administrative functions, clerical tasks, and basic patient care, which align well with the job requirements. However, the lack of specific technical skills like ASCS or WMS reduces the score."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong soft skills such as relationship building, communication, and organization, which are important for the job. However, the lack of specific examples or quantifiable achievements reduces the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools or technologies used in the resume, and the job description does not require specific tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like customer service, sales, and administrative abilities, which could be applied to the job. However, the lack of direct experience with the specific job responsibilities reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.622
+}

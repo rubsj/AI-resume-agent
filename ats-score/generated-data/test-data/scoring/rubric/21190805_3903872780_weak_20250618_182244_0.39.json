@@ -1,0 +1,51 @@
+{
+    "resume_id": "21190805",
+    "jd_id": "3903872780",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.3,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Arts degree is mentioned, but the field of study is not specified, which may not align with the required degree in Supply Chain Management or Business."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.3 yrs (capped to 16.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in administrative and customer service roles, including non-profit experience, which is relevant. However, the job description requires 5 years of experience specifically in procurement and fulfillment for aerospace products, which is not clearly stated in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume that aligns with the job description requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Customer Service', 'Customer Care', 'Fundraising', 'Marketing Materials', and 'Customer Satisfaction'. However, there is no mention of specific tools like SAP or Microsoft Office Suite which are required."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Negotiation', 'Communication', 'Analytical', 'Problem-solving', and 'Self-motivated' are present in the resume, but they are not directly linked to the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned in the resume that match the required tools like SAP or Microsoft Office Suite."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as 'Customer Service', 'Customer Care', 'Fundraising', and 'Marketing Materials' can be transferred from the candidate's previous roles to the role described in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.393
+}

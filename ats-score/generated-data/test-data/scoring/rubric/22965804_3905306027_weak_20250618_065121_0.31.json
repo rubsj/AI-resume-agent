@@ -1,0 +1,51 @@
+{
+    "resume_id": "22965804",
+    "jd_id": "3905306027",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.292,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in resume"
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): Bachelor's degree in International Business does not align with JD requirements"
+        },
+        "experience": {
+            "score": 0.234,
+            "reason": "(Rule 0.5): Resume: 0.8 yrs (capped to 0.8), JD requires: 3.0 yrs. | (LLM 0.5): Experience is brief and lacks detail, does not match JD requirements"
+        },
+        "grammar_cleanliness": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Resume contains formatting errors and incomplete sentences"
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership experience not mentioned in resume"
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No responsibilities listed in resume"
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): Limited skills listed, no direct match with required skills in JD"
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills not explicitly stated in resume"
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used mentioned in resume"
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Transferable skills not identified in resume"
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.309
+}

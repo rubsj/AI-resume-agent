@@ -1,0 +1,51 @@
+{
+    "resume_id": "20141807",
+    "jd_id": "3905209238",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.307,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.05,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['High school diploma / GED (fuzzy)'] | (LLM 0.5): The highest degree listed is a High School Diploma, which does not match the required education level of Bachelor's or higher."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.7 yrs (capped to 15.7), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales roles, particularly in a financial context, which aligns with the job description. However, the total experience years exceed the preferred range."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the detailed list of responsibilities required by the job description."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has skills in 'Debit', 'documentation','sales', and 'phone', which align with the required skill set of sales operations. However, there is no evidence of advanced skills like 'Business Development' or 'Excel' as mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies are listed in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'balance', 'book', 'database', and 'inventory', which could be useful in sales operations. However, these skills are not as specific as those required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.385
+}

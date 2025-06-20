@@ -1,0 +1,51 @@
+{
+    "resume_id": "38663892",
+    "jd_id": "3903477129",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.346,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, which contrasts with the job description's lack of certification requirement."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Bachelor’s degree (substring)'] | (LLM 0.5): The candidate holds a Bachelor's Degree in Human Services from University of Phoenix, which is aligned with the job description's preferred degree of Bachelor's. However, the degree does not directly match the field of study required for the job."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 8.2 yrs (capped to 8.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in budget management, administration, and analysis roles, which aligns with the job description's responsibilities. The experience is slightly less detailed than what the job description requires."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume, which contrasts with the job description's potential need for leadership."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities mentioned in the job description, such as budget management and analysis, but lacks details on specific responsibilities like sales or business development."
+        },
+        "skills": {
+            "score": 0.355,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Excel (exact)'] | (LLM 0.4): The candidate possesses relevant skills such as accounting, administrative duties, analyst, Army, budgets, budgeting, financial management, forecasting, and proficiency in Microsoft Office tools like Excel, PowerPoint, and Word. These align closely with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include communication, attention to detail, and teamwork, which are soft skills mentioned in the job description. However, there is no explicit mention of leadership or strategic policy assessment."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate is proficient in Microsoft Office tools such as Excel, PowerPoint, and Word, which matches the job description's tool requirement."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, administrative duties, and budgeting are transferable to the job description's responsibilities, but the lack of specific technical skills like Salesforce proficiency reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.553
+}

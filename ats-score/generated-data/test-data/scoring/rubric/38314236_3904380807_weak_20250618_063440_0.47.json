@@ -1,0 +1,51 @@
+{
+    "resume_id": "38314236",
+    "jd_id": "3904380807",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.378,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['PE (substring)'] | (LLM 0.5): No certifications are listed in the resume, while the job description requires a PE certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a BS in Mechanical Engineering, which is not directly related to the job description requirements. The GPA is missing, which could be important for the employer."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 18.9 yrs (capped to 18.9), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in engineering supervision and product design, but lacks experience in electrical engineering, which is required by the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly state any leadership roles or responsibilities that align with the job description requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have responsibilities listed that match the job description requirements."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Engineering (exact)'] | (LLM 0.4): The candidate has relevant skills in Ansys, AutoCAD, and Solidworks, which are mentioned in the job description. However, the lack of specific electrical engineering skills reduces the score."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not list any soft skills that align with the job description requirements."
+        },
+        "tools": {
+            "score": 0.62,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'AutoCAD (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Office, AutoCAD, and Solidworks, which are mentioned in the job description. However, there is no mention of electrical design software."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in leadership, attention to detail, and problem-solving, which are mentioned in the job description. However, these skills are not specifically highlighted in the resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.467
+}

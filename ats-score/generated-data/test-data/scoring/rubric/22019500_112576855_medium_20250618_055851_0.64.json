@@ -1,0 +1,51 @@
+{
+    "resume_id": "22019500",
+    "jd_id": "112576855",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.345,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate possesses certifications relevant to the job, such as CFC, which indicates proficiency in HVAC systems."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds a technical degree in Telecommunications and a high school diploma, which are foundational but not directly aligned with the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 35.9 yrs (capped to 35.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 30 years of experience in construction and engineering management, which is highly relevant to the responsibilities of a Building Engineer."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is professionally formatted and free of grammatical errors, enhancing readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in supervising teams and managing projects demonstrates leadership capabilities, which are essential for the role."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows a strong background in managing physical plant and overseeing maintenance projects, which matches the responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.696,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in telecommunications and construction, which aligns well with the required skills of managing physical plant and coordinating maintenance projects."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication and leadership, are generally aligned with the job requirements, but there is no explicit mention of them in the resume."
+        },
+        "tools": {
+            "score": 0.383,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 1}. Matched: ['Steam (fuzzy)', 'Computer (exact)', 'Supervision (exact)'] | (LLM 0.4): The candidate's experience includes managing various tools and technologies used in construction and telecommunications, though the job description does not explicitly list these tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in management, manufacturing, and telecommunications are transferable to the role of a Building Engineer, despite not being listed specifically in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.64
+}

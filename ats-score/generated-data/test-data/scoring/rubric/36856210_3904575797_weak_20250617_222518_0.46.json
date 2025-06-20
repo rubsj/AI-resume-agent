@@ -1,0 +1,51 @@
+{
+    "resume_id": "36856210",
+    "jd_id": "3904575797",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.387,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires specific certifications such as PCNSA, PCNSE, etc., which could be beneficial for the role."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only an Associate of Science degree in Electronic Engineering, which is less than the preferred Bachelor's Degree mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 26.4 yrs (capped to 26.4), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in Information Technology and Systems Engineering, which matches the job responsibilities. However, the total experience years exceed the required minimum but are not specified as being within the last 5 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some details like the end date of the education section are missing, which could affect the clarity of the candidate's timeline."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or experiences, which are preferred qualifications in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to network security, system design, and implementation, which align with the job responsibilities. However, there is no explicit mention of leading team projects or contributing to security solutions development, which are preferred qualifications."
+        },
+        "skills": {
+            "score": 0.772,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Engineering (exact)', 'Information Technology (substring)'] | (LLM 0.4): The candidate has extensive experience in Information Technology and Enterprise platforms, aligning closely with the job description's required skills. The resume also mentions skills like Active Directory, Hardware Engineering, and Red Hat Enterprise Linux, which are relevant to the job responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like Decisive, Collaborative, and Domain, which are soft skills aligned with the job description. However, there is no explicit mention of advanced problem-solving skills, excellent communication, or time management, which are preferred qualifications."
+        },
+        "tools": {
+            "score": 0.016,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Cisco (fuzzy)'] | (LLM 0.4): The candidate does not mention any specific tools or technologies used in their experience, whereas the job description lists several tools like Palo Alto, AWS, Cisco, etc., that are essential for the role."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes skills like Project tracking, Hardware and software upgrade planning, and Product requirements documentation, which are transferable skills relevant to the job responsibilities. However, there is no explicit mention of specific technical skills like network security management tools or cloud-based network security architecture."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.46
+}

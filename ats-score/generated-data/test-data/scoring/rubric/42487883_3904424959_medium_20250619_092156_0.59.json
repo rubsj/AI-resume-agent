@@ -1,0 +1,51 @@
+{
+    "resume_id": "42487883",
+    "jd_id": "3904424959",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.259,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds two bachelor's degrees but does not specify GPAs, which could indicate academic performance."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has extensive experience in accounting roles, demonstrating proficiency and growth over time, which aligns well with the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide specific responsibilities that match the job description's detailed list of administrative tasks."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as account reconciliation, financial modeling, variance analysis, corporate G&A and COGS accounting, cash forecasting, capitalization and fixed assets management, analytical reasoning, effective time management, superior research skills, intermediate Excel skills, inventory accounting, and proficiency in various accounting software and tools."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills and teamwork, which are soft skills relevant to the job description."
+        },
+        "tools": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate lists proficiency in various accounting software and tools, which matches the job description's requirement for familiarity with these technologies."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in accounting roles provides transferable skills, but the lack of direct administrative responsibilities reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.591
+}

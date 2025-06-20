@@ -1,0 +1,51 @@
+{
+    "resume_id": "27120528",
+    "jd_id": "3904361706",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.402,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed in the candidate's resume match the job description's requirement for 'Certifications'."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has an Associate Degree in Computer Networking, which is relevant to the job description's inferred domain of Finance/Insurance. However, the additional education entry seems incomplete or incorrect."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 18.2 yrs (capped to 18.2), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles that involve customer service, problem solving, and communication, which align with the job description's responsibilities and soft skills. The experience also includes roles that require attention to detail and process improvement, which are beneficial for the role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, there are minor inconsistencies in the formatting and completeness of the education section."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles like 'Manager, Customer Service' and 'Team Leader', but these roles do not specifically relate to the job description's responsibilities or required skills in actuarial analysis."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some alignment with the job description's responsibilities, particularly in roles that involve client interaction and process improvement. However, there is no direct evidence of experience in actuarial analysis or specific financial services."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills like 'Customer Service', 'problem solving', and 'communication', which align with the job description's required skills of 'Accounting/Auditing', 'Analyst', and 'Consulting'. However, there is a lack of specific technical skills like 'R' or 'Python' mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights skills like 'Customer Service', 'problem solving', and 'communication', which are aligned with the job description's soft skills. There is a slight discrepancy in the number of soft skills mentioned compared to the job description."
+        },
+        "tools": {
+            "score": 0.14,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['R (substring)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, whereas the job description requires proficiency in 'R', 'Python', and 'MS Office suite'."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various roles demonstrates transferable skills such as 'customer service', 'problem solving', and 'communication', which can be applied in the finance/insurance industry. However, there is a lack of specific financial or actuarial knowledge."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.564
+}

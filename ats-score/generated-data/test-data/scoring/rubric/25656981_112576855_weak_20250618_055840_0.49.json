@@ -1,0 +1,51 @@
+{
+    "resume_id": "25656981",
+    "jd_id": "112576855",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.36,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications like 'OSHA Certified 10 Hours' and 'ICC Residential Class C Certification IRC', but lacks the specific certification 'CFC' required by the job description."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate's education information is incomplete and does not match the required degree level specified in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 17.9 yrs (capped to 17.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction management and general contracting, which aligns well with the job responsibilities. However, the experience is not detailed enough to fully match the specific roles and responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, it lacks details in certain sections, such as specific dates and descriptions of responsibilities."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles in managing personnel and subcontractors, which aligns with the job responsibilities. However, there is no explicit mention of leadership skills in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job responsibilities, particularly in managing construction projects and overseeing field operations. However, there is no direct mention of responsibilities related to emergency response or interfacing with vendors."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has relevant skills such as'management', 'budgets','scheduling', and 'construction' which align with the job requirements. However, there is a lack of specific skills like 'HVAC', 'Steam', and 'Electrical' mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are somewhat aligned with the job requirements, including communication and leadership. However, there is no explicit mention of computer competency or working knowledge of building codes and regulations."
+        },
+        "tools": {
+            "score": 0.197,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 2}. Matched: ['Steam (fuzzy)', 'Email (fuzzy)', 'Computer (exact)'] | (LLM 0.4): The candidate has some tools and technologies knowledge, but lacks specific skills related to HVAC, plumbing, and computer proficiency mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as problem-solving and customer relationship building, which could be beneficial in a building engineering role. However, these skills are not directly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.489
+}

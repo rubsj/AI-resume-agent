@@ -1,0 +1,51 @@
+{
+    "resume_id": "12251115",
+    "jd_id": "3902843672",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.356,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a CO State industry certification, which is relevant but not as recent as required by the job description."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not align closely with the required degrees in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.5 yrs (capped to 24.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in operations management, which matches the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership roles or achievements that match the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align well with the job responsibilities listed in the job description, but there is no direct mention of program development and management."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Management', 'Manufacturing', 'Training employees', and 'Operations management'. However, there is a lack of specific tools and technologies mentioned."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like 'Training employees' and 'Staff management', which are related to soft skills, but lacks explicit soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are listed in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Management', 'Training employees', and 'Operations management', but these are not as explicitly stated as required in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.615
+}

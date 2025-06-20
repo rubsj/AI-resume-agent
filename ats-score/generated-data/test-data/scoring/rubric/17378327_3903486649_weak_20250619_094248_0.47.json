@@ -1,0 +1,51 @@
+{
+    "resume_id": "17378327",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.363,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed match the required or preferred ones in the job description."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education does not align with the job description requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.7 yrs (capped to 17.7), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and customer service, which matches the job responsibilities. However, the lack of specific IT and supply chain experience reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in managing sales and customer service, indicating some leadership qualities, but lacks experience in leading the Instock function."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows leadership in managing sales and customer service, but lacks experience in leading the Instock function specifically."
+        },
+        "skills": {
+            "score": 0.336,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as communication, sales, and phone proficiency, but lacks specific IT and supply chain skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like self-starter, organized, and customer-centric philosophy, which are aligned with the job description."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Excel (fuzzy)'] | (LLM 0.4): The candidate does not have any experience with Excel, SQL, or process improvement techniques, which are mentioned as required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): While the candidate has transferable skills like communication and problem-solving, they do not cover all the specific skills required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.468
+}

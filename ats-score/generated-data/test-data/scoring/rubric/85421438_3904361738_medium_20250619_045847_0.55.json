@@ -1,0 +1,51 @@
+{
+    "resume_id": "85421438",
+    "jd_id": "3904361738",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.361,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Marketing and General Management, which is relevant to the job. However, the lack of specific details about the GPA may affect the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 13.0 yrs (capped to 13.0), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has relevant experience in digital marketing, including experience with Google Analytics, which matches the job requirements. The experience also shows a progression in responsibilities and skill development."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the use of commas in dates and the lack of detail in some sections may slightly affect the score."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership roles, such as Project Leader, which aligns with the job requirements. However, the lack of specific details about leadership experience may lower the score."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with some of the responsibilities listed in the job description, such as engaging with clients and managing projects. However, there is no direct mention of product development or model validation."
+        },
+        "skills": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Analyst (fuzzy)'] | (LLM 0.4): The candidate has strong skills in advertising, analytics, and digital marketing, which align well with the job requirements. However, there is no mention of catastrophe modeling or accounting skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like customer service experience, leadership, and collaboration, which are relevant to the job. However, the lack of specific skills like strategic thinking or cross-cultural communication may lower the score."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Google Analytics, which is relevant, but lacks experience with other tools mentioned in the job description such as Salesforce and Adobe Creative Suite."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like project management and sales, which could be beneficial in the role. However, the lack of specific skills like catastrophe modeling or accounting may lower the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.546
+}

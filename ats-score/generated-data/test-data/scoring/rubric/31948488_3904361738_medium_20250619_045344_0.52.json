@@ -1,0 +1,51 @@
+{
+    "resume_id": "31948488",
+    "jd_id": "3904361738",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.334,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelor’s degree in relevant subject area such as atmospheric science, hydrology, geography, etc. (fuzzy)'] | (LLM 0.5): The candidate holds a Bachelor's degree in Business Administration, which is relevant to the job description's preferred degree requirement. However, the degree is not from a recognized institution or with a specified GPA, which may limit its relevance."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 12.2 yrs (capped to 12.2), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has significant experience in finance management and accounting technician roles, which directly aligns with the job responsibilities and required experience years. The detailed job descriptions provide clear evidence of relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The grammar and formatting are clean, enhancing the overall presentation."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which contrasts with the job responsibilities that require leadership in product development and client engagement."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job responsibilities listed, particularly in areas like product development, client engagement, and solution introduction. However, there is no direct evidence of experience in model validation or partnership with client-facing teams."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Analyst (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the required skills of product management, catastrophe modeling, and interpreting model outputs. The candidate's skills also include proficiency in Microsoft Office tools, which is beneficial for the role."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights collaboration and strategic thinking, which aligns with the soft skills required. However, there is no explicit mention of adaptability, cross-cultural communication, or client engagement beyond the provided summary."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which matches the tools required in the job description. However, the job description also mentions Adobe Creative Suite, Facebook, Salesforce, and other tools that the candidate does not explicitly mention having experience with."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, auditing, analyst roles, consulting, and process improvement are transferable to the job responsibilities. However, the lack of specific experience in catastrophe modeling and usage of catastrophe models reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.522
+}

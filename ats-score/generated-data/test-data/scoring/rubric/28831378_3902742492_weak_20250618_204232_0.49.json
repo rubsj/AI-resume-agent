@@ -1,0 +1,51 @@
+{
+    "resume_id": "28831378",
+    "jd_id": "3902742492",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.281,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): There is no mention of any certifications that match the requirements of the job description."
+        },
+        "education": {
+            "score": 0.55,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelor of Arts or Bachelor of Science Degree (fuzzy)'] | (LLM 0.5): The candidate holds a Bachelor of Science in Electrical Engineering, which is aligned with the required degree. However, the GPA is not specified, which may not meet the expectations of the employer."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in various roles related to engineering and technical support, including working as an engineering technician and instrument technician. This experience aligns with the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience or skills in the candidate's resume, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing CI, performing audits, and facilitating reviews, which align with the job responsibilities listed in the job description. However, there is no mention of experience with CM tracking or change management systems."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a Bachelor of Science in Electrical Engineering, which aligns with the required degree of a Bachelor of Arts or Bachelor of Science Degree. However, there is no mention of active TS/SCI clearance or Agile methodology, which are specific skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions strong verbal and written communication skills, which align with the soft skills mentioned in the job description. The candidate also mentions being detail-oriented and able to multitask, which are additional soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with MS Product Suite tools like Word, Excel, and SharePoint, which are mentioned in the job description. However, there is no mention of experience with ServiceNow CMDB modules, which is another tool mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills such as maintenance, documentation, and troubleshooting, which are transferable skills mentioned in the job description. However, there is no mention of experience with Agile methodology or CM data base experience."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.487
+}

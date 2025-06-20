@@ -1,0 +1,51 @@
+{
+    "resume_id": "35492909",
+    "jd_id": "3901993765",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.344,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Professional Accountancy and a Bachelor of Science degree in Accounting and Economics, which aligns well with the required education level of MSc. However, the specific field of study does not match exactly with the preferred degree of Engineering or Information Technology."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 10.0 yrs (capped to 10.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in tax accounting, bookkeeping, and accounting services, which aligns with the job responsibilities. However, the lack of experience in data analytics and insight generation initiatives is a minor mismatch."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is generally well-written and free of grammatical errors. However, the summary field is empty, which could affect readability and clarity."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership experience through affiliations and interests, but does not provide details on leadership roles or achievements that align with the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on past responsibilities that align with the job responsibilities listed in the job description, such as leading data analytics initiatives, managing comprehensive analytics strategy, designing valuable data products, constructing models/data applications, generating insights, designing visualizations, engaging with stakeholders, and presenting data-driven insights."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as QuickBooks, CCH ATX, Microsoft Office Suite, accounting, administrative, bookkeeping, and has experience in tax compliance and preparation. However, there is no mention of Python, SQL, Tableau, or advanced statistical methods which are preferred skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership and volunteer experience, but lacks specific soft skills such as technical and communication skills, problem-solving, business acumen, data enthusiasm, quantitative problem solving, artistry, collaboration, stakeholder engagement, presentation skills, digestible information creation, professional behavior, productivity, and cross-functional team work."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, while the job description specifically requires knowledge of Python, SQL, Tableau, and MDLC best practices."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as accounting, administrative, bookkeeping, and financial analysis, which can be applied in a data science role. However, the lack of specific skills like predictive modeling, time series forecasting, text mining, and data engineering reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.428
+}

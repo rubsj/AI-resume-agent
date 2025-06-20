@@ -1,0 +1,51 @@
+{
+    "resume_id": "37735467",
+    "jd_id": "3886877053",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.519,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has completed two degrees, but they do not match the required degree in the job description."
+        },
+        "experience": {
+            "score": 0.793,
+            "reason": "(Rule 0.5): Resume: 6.2 yrs (capped to 6.2), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and retail, which aligns with the job description. However, the experience does not specifically mention the required tools and technologies listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in training new hires and managing sales teams, which indicates leadership skills. However, the job description requires specific digital marketing leadership skills that the candidate does not possess."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed in the job description, but not all. The candidate has experience in managing sales teams and achieving sales targets, which is relevant, but lacks experience in developing digital strategic roadmaps and leading digital marketing campaigns."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Inventory control procedures, Cash handling accuracy, Dispute mediation, Relationship selling, Merchandising knowledge, Sales expertise, Cash register operation, Client account management, Excellent communication skills, Market research and analysis, Product Sales, Retail merchandising expertise. However, there is no mention of specific tools like Salesforce, Pardot, WordPress, etc., which are required in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses some soft skills such as Excellent communication skills, Relationship selling, and Customer-centric, which are aligned with the job description. However, the candidate lacks advanced skills in specific tools and technologies mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.06,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Salesforce (fuzzy)', 'Craft (fuzzy)'] | (LLM 0.4): The candidate does not have any experience with the tools mentioned in the job description such as Salesforce, Pardot, WordPress, etc."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as Inventory control procedures, Cash handling accuracy, Dispute mediation, and Relationship selling, which can be applied in a digital marketing role. However, these skills are not directly related to digital marketing tools and technologies."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.551
+}

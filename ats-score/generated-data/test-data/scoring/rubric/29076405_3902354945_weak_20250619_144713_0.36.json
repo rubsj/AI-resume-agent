@@ -1,0 +1,51 @@
+{
+    "resume_id": "29076405",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.332,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the job description's requirement for PMP certification."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education does not provide a degree in fields relevant to the job description's required experience in Management Consulting and Engineering."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.5 yrs (capped to 15.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in Leasing and Property Management, which aligns with the job description's required experience in Project Management. However, the total experience years do not meet the minimum requirement."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with clear sections and grammatically correct sentences. There are no obvious errors in formatting or language usage."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities that align with the job description's requirement for leading multiple efforts in a portfolio or program simultaneously."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job description's required responsibilities in defining business cases, managing project budgets, and overseeing project work."
+        },
+        "skills": {
+            "score": 0.326,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched skills: ['Client communication (fuzzy)', 'Problem solving (substring)'] | (LLM 0.4): The candidate has relevant skills in Customer Service, Leasing, Property Management, Marketing, Sales, and Customer Satisfaction, which align with the job description's required skills in Consulting, Information Technology, and Project Management."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like Communication, Teamwork, and Problem Solving, which align with the job description's required soft skills in Leadership, Influencing, Motivation, Negotiation, Conflict Resolution, Documentation, Dissemination, Time Management, Adaptability, Detail Orientation, and Written Communication. However, the candidate lacks skills in Client Communication, Issue Resolution, and Conflict Management."
+        },
+        "tools": {
+            "score": 0.047,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['ERP (substring)'] | (LLM 0.4): No tools or technologies used by the candidate match the job description's required tools like ERP, Cloud applications, Network, Security, Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills in Customer Service, Leasing, and Property Management can be transferred to the role, but lack specific skills in Technical Solutions, Client Success, and Project Organization."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.361
+}

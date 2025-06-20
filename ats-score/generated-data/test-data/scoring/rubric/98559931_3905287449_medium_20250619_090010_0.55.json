@@ -1,0 +1,51 @@
+{
+    "resume_id": "98559931",
+    "jd_id": "3905287449",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.271,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which might be a concern if the job requires specific qualifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Science degree in Accounting from William Paterson University is relevant, but the GPA could be higher to match the job's educational requirement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.5 yrs (capped to 15.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has significant experience in accounting and finance roles, particularly in payroll and accounts receivable, which matches the job's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which might be important for a role requiring strategic relationship management."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job's focus on relationship management and sales, but there is no direct mention of business development or marketing skills."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting, finance, and administrative tasks, aligning well with the job requirements. However, there is no mention of specific tools or technologies used."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like attention to detail, interpersonal communication, and leadership are relevant, but the lack of specific soft skills like negotiation or closing skills might be a drawback."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the resume, which contrasts with the job's requirement for proficiency in Microsoft Office and other software."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as data entry, Excel proficiency, and organizational abilities are transferable, but they do not directly match the job's specialized skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.551
+}

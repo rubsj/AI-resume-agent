@@ -1,0 +1,51 @@
+{
+    "resume_id": "30646367",
+    "jd_id": "3901942410",
+    "domain": "HR",
+    "resume_jd_similarity": 0.4,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a single certification, which is relevant but not as prominent as the required skills."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a B.B.A in Human Resources, which is relevant to the job description but lacks specific details about the institution and GPA."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 4.5 yrs (capped to 4.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has a strong history of experience in HR and payroll roles that closely match the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly highlight leadership roles or responsibilities, which are important in managing staff and overseeing programs."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities, particularly in managing projects and conducting research."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in HR and payroll, which aligns well with the required skills of managing projects and conducting complex research and analyses for homelessness initiatives."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are generally aligned with the job description, though there is no explicit mention of communication, teamwork, leadership, problem-solving, or adaptability in the resume."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience includes tools like ABRA, Ceridian, and PeopleSoft, which are similar to the tools mentioned in the job description but not as detailed."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as conflict resolution, process invoices, and Microsoft Office proficiency, which are relevant but not explicitly stated in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.566
+}

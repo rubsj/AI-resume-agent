@@ -1,0 +1,51 @@
+{
+    "resume_id": "26425074",
+    "jd_id": "3901948121",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.214,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not match the job requirements, which prefer an Associate Degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.9 yrs (capped to 14.9), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and business development, particularly in health care facilities, which aligns with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities listed."
+        },
+        "skills": {
+            "score": 0.564,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', 'Excel (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Account Management', 'Business Development', and 'CRM Systems', which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills that are explicitly mentioned in the job description, such as 'Detail-oriented', 'Hands-on team player', and 'Strong communication'."
+        },
+        "tools": {
+            "score": 0.047,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate does not have any tools listed that match the job requirements, such as Excel, Power BI, Python, etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Account Management' and 'Business Development', but lacks specific skills like 'Excel', 'Power BI', and 'Statistical techniques' mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.384
+}

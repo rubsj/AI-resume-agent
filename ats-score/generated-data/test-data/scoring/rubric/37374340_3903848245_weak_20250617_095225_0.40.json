@@ -1,0 +1,51 @@
+{
+    "resume_id": "37374340",
+    "jd_id": "3903848245",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.42,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed in the resume."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only a High School Diploma and Some College education, which do not match the required degrees in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.9 yrs (capped to 16.9), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in 'Healthcare Senior Outreach Specialist' and 'Administrator' roles, which align with the job responsibilities of 'Principal Mechanical Designer'. However, the experience is in healthcare rather than mechanical design."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership qualities in the resume, but these are not directly related to the job responsibilities of a 'Principal Mechanical Designer'."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in the resume partially match the job responsibilities listed in the job description. The candidate has experience in counseling, intake, and administrative tasks, but lacks experience in CAD modeling and design development."
+        },
+        "skills": {
+            "score": 0.247,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Communication skills (substring)'] | (LLM 0.4): The candidate has relevant skills in 'Confidential data protection', 'Data entry', 'Scheduling clients for evaluations for Managed Long Term Care Intake', 'Submission of Medicaid applications for clients', 'Intake and submission of Pool Trust for Long Term Care clients', and 'Excellent Communication skills'. However, the job description requires skills in 'Engineering' and 'Information Technology', which are not mentioned in the resume."
+        },
+        "soft_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has soft skills like 'Excellent Communication skills', 'Reliable and trustworthy', and 'Friendly, positive attitude', which are relevant to the job description. However, the candidate lacks skills in 'Instills Trust', 'Courage', 'Decision Quality', 'Plans and Aligns', 'Cultivates Innovation', and 'Optimizes Work Processes'."
+        },
+        "tools": {
+            "score": 0.008,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Milling (fuzzy)'] | (LLM 0.4): The candidate does not have any tools or technologies listed in the resume that match the required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Decision-making', 'Team management', and 'Recordkeeping and data input', which could be applicable to the job description. However, the candidate lacks skills in 'MS Office applications', 'CAD modeling functions', and 'Design best practices'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.395
+}

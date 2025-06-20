@@ -1,0 +1,51 @@
+{
+    "resume_id": "18484846",
+    "jd_id": "3902806582",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.318,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description prefers a master's degree in public health, public administration, or a closely related field."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a high school diploma, a bachelor's degree, and a certificate in nursing, but no master's degree or advanced education in public health, which is preferred by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 41.0 yrs (capped to 40.0), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has extensive experience in various roles, particularly in sales and healthcare management, which aligns well with the job responsibilities. However, the required experience is only 2 years, and the candidate has over 40 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the resume lacks details in some sections, such as specific achievements or responsibilities, which could improve clarity."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership skills or experiences that demonstrate leadership. The job description requires leadership skills, particularly in project management and strategy/plan development."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing sales teams, building customer relationships, and handling administrative tasks, which align with the job responsibilities. However, the job responsibilities also include specific skills like project management and strategy/plan development, which are not explicitly mentioned in the resume."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a wide range of skills listed, including administrative functions, basic skills, benefits, charts, clerical tasks, CRM, client management, and more. These align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like leadership, management, communication, and teamwork, which align with the soft skills required. However, the job description emphasizes leadership and management skills more strongly than what is shown in the resume."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is listed as a required tool in the job description. However, the job description also mentions Salesforce, Adobe Creative Suite, Facebook, and other tools that are not mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from previous roles, such as customer service, sales, and management, which could be relevant to the job responsibilities. However, the job description requires specific skills like project management and strategy/plan development, which are not fully covered by the resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.52
+}

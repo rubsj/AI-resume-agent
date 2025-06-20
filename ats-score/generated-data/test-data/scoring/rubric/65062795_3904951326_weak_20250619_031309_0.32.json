@@ -1,0 +1,51 @@
+{
+    "resume_id": "65062795",
+    "jd_id": "3904951326",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.375,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume that match the job's required certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Computer Engineering and a Bachelor's degree in Information Technology, which are related to the job's preferred degrees but do not specify the required field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.5 yrs (capped to 13.5), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in supply chain consulting and software development, which aligns with the job's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any responsibilities listed that match the job's responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in supply chain principles, warehouse management, and end-to-end warehouse systems, which align with the job's requirement for business development and sales skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned in the resume that match the job's soft skills."
+        },
+        "tools": {
+            "score": 0.05,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SQL (exact)'] | (LLM 0.4): No tools or technologies used by the candidate are listed that match the job's required tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as analytical and problem-solving skills, which are relevant to the job's responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.318
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "34594746",
+    "jd_id": "3902787435",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.31,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the job description's requirements."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks specific details about the candidate's education, such as degree names and graduation dates, making it difficult to assess its relevance to the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.0 yrs (capped to 12.0), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has relevant experience in customer service and collections, which aligns with the job responsibilities of leadership communications and campaign development."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience or skills in the resume that would indicate the candidate's ability to lead communications and campaigns effectively."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job responsibilities, particularly in campaign development and leadership communications, but there is no direct mention of project management or accountabilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a wide range of skills relevant to the job description, including call center operations, customer service, and medical terminology, which align well with the required skills of marketing, public relations, and writing/editing."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are somewhat aligned with the job description's requirements, including communication and detail-oriented skills, but lacks specific examples of strategic orientation and handling confidential information."
+        },
+        "tools": {
+            "score": 0.345,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office, which matches the job description's requirement for Microsoft Office, but lacks specifics on Adobe Creative Suite, Facebook, Salesforce, and other tools mentioned."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as customer service, sales, and collections, which can be applied to the job responsibilities of campaign development and leadership communications."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.45
+}

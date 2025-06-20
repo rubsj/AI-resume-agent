@@ -1,0 +1,51 @@
+{
+    "resume_id": "12022566",
+    "jd_id": "3902755339",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.25,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed that match the job requirements."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in Industrial Engineering and Chemical Engineering, which are relevant to the job domain. However, the total years of experience do not match the mid-senior level requirement."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in manufacturing, production supervision, and quality assurance, which aligns with the job responsibilities. However, the experience does not specifically mention project coordination or team leadership."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on past responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.532,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Project Management (substring)'] | (LLM 0.4): The candidate has relevant skills in Project Management and Information Technology, which align with the job requirements. However, there is no mention of specific certifications or tools used."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills such as leadership experience, attention to detail, and communication abilities are not explicitly stated in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No specific tools or technologies are mentioned that match the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Quality Assurance, Supply Chain, and Lean Manufacturing are transferable to the job, but they are not directly linked to the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.41
+}

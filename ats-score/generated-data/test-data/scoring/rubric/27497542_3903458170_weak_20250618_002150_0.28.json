@@ -1,0 +1,51 @@
+{
+    "resume_id": "27497542",
+    "jd_id": "3903458170",
+    "domain": "DESIGNER",
+    "resume_jd_similarity": 0.321,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires an E.I.T. certification."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in Business Administration, which does not match the required degree of B.S. in Electrical Engineering."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 12.6 yrs (capped to 12.6), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in sales and customer service, which aligns with the job responsibilities of coordinating with other engineering disciplines and providing excellent customer service. However, the experience is not directly related to electrical engineering or design."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume that would be relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on preparing one-line diagrams or solving installation problems with electrical systems, which are key responsibilities of the position."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Microsoft Office tools, which are mentioned in the job description. However, there is no mention of specific engineering software proficiency or knowledge of codes and standards required for the position."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong motivation and organization, which aligns with the soft skills required for the position. However, there is no explicit mention of working well as part of a project team or taking ownership of assignments."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have any experience with the tools mentioned in the job description such as AutoCAD MEP, COMCheck, and Revit."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in customer service and sales, but these are not directly applicable to the specific job responsibilities of an electrical designer."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.282
+}

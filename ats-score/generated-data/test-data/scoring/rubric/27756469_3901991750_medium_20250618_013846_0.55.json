@@ -1,0 +1,51 @@
+{
+    "resume_id": "27756469",
+    "jd_id": "3901991750",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.306,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume that directly match the job description's requirement for industry certification or trade school training."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds degrees in Accounting and Finance, Aerospace Engineering, and a Master of Science in Aerospace Engineering, which are relevant to the job description's inferred domain of aerospace."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 33.5 yrs (capped to 33.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has a history of managing accounting and engineering functions in various roles, which directly matches the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience managing teams of engineers and other staff, which indicates leadership skills that are relevant to the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as layout, fabrication, assembly, modification, and repair of components, which align with the job responsibilities but not all details are matched."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has extensive experience in management and manufacturing, aligning closely with the job requirements. The resume also lists proficiency in various accounting and technical software, which is beneficial for the role."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as attention to detail, communication, teamwork, and proficiency in Microsoft Office, are aligned with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.293,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Ovens (fuzzy)', 'Crane (fuzzy)'] | (LLM 0.4): The candidate's skills include proficiency in software like Quickbooks, Peachtree, JDE, Great Plains, LabView, Matlab, Access, Excel, and Word, which are similar to the tools listed in the job description but not exactly matching."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not explicitly stated in the resume, making it difficult to assess how well they match the job description's requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.552
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "18328743",
+    "jd_id": "3901960706",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.337,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The education details provided do not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 34.6 yrs (capped to 34.6), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and marketing, which aligns with the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership experience is not mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not mention specific responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.616,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has skills in accounting, advertising, AS400, balance, Bookkeeping, Computer literate, Human Relations, Management Training, marketing, market, MS Excel, Microsoft Word, Persuasive, and sales, which aligns with the required skills of management and manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.1,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like computer literacy, bookkeeping, and human relations, which could be transferable to the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.435
+}

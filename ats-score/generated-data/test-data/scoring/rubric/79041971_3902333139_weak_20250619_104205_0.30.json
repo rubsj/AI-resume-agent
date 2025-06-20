@@ -1,0 +1,51 @@
+{
+    "resume_id": "79041971",
+    "jd_id": "3902333139",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.355,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a CPA certification."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education information is incomplete and does not match the required degree level of Bachelors or Masters in Taxation."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.7 yrs (capped to 16.7), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has experience as a Store Manager, which aligns with the job description's responsibilities. However, the education and certification sections do not meet the requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are essential for the job description's responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not explicitly mentioned in their resume, making it difficult to compare against the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.388,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as Assistant Manager, customer satisfaction, excellent customer service, inventory, reconciling, recruiting, sales, and employee training, which align with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not list any soft skills, whereas the job description requires strong analytical and problem-solving capability, prioritization, leadership, and effective communication."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in tools like WDesk, HFM, SAP, or OneSource, which are required skills according to the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as managing a team, developing processes, and leading initiatives, which are relevant to the job description's responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.298
+}

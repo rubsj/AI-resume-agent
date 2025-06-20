@@ -1,0 +1,51 @@
+{
+    "resume_id": "20736486",
+    "jd_id": "3886872752",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.353,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a Certified Nursing Assistant certification, which is relevant but does not match the required certifications listed in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a GED and a Certified Nursing Assistant certificate, which are relevant to healthcare but do not match the preferred degree requirements. The expected Associate of Applied Science degree is not yet completed."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 25.8 yrs (capped to 25.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare and administrative roles, particularly in medical business office operations and patient care, which aligns well with the job description. However, the experience is not as recent or extensive as required."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, there are some inconsistencies in the formatting and missing details in certain sections."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate leadership experience or skills that are specifically aligned with the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job responsibilities, particularly in managing patient care and administrative tasks. However, there is a lack of experience in financial oversight and reporting for federal grants."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as strong interpersonal skills, patient relations, and administrative operations, which align well with the job requirements. However, there is a lack of specific technical skills like federal grant oversight and administration."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills that are highly valued in the job description, such as strong relationship building, self-motivation, teamwork, problem-solving, and attention to detail. However, there is a lack of experience in strategic thinking and leadership."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Grant Solutions (fuzzy)', 'Workday (exact)'] | (LLM 0.4): The candidate does not have experience with the tools mentioned in the job description such as Grant Solutions, REDCap, and Workday."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles, such as appointment scheduling, documentation procedures, and customer service, which could be applicable in the new position. However, these skills need to be further developed to match the job requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.536
+}

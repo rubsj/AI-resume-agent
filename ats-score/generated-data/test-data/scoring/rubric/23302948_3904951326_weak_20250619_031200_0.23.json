@@ -1,0 +1,51 @@
+{
+    "resume_id": "23302948",
+    "jd_id": "3904951326",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.28,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the job requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Ph.D. in Civil Engineering, which is not directly related to the job requirements. However, they have an M.S. in Petroleum Engineering and a B.S. in Chemistry, which are more relevant."
+        },
+        "experience": {
+            "score": 0.463,
+            "reason": "(Rule 0.5): Resume: 3.9 yrs (capped to 3.9), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in reservoir engineering, which aligns with the job requirements. However, the job requires more senior-level experience and specific skills like business development and sales."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not provide evidence of leadership skills or experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Pressure and rate transient analyses, Decline curve analysis, Volumetrics and material balance, Economic analysis, and Enhanced oil recovery techniques. However, there is no direct match for business development or sales skills required by the job."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not list any soft skills that match the job requirements."
+        },
+        "tools": {
+            "score": 0.055,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['AWS (substring)', 'Azure (fuzzy)'] | (LLM 0.4): The candidate does not have any tools or technologies listed that match the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as project management, history-matching, and production forecasting, but these are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.23
+}

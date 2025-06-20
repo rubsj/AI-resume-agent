@@ -1,0 +1,51 @@
+{
+    "resume_id": "16702198",
+    "jd_id": "3901950312",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.234,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a single certification relevant to the job, but it does not match any of the preferred certifications listed in the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is not directly related to the job requirements, lacking the necessary degree or field of study."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.3 yrs (capped to 24.3), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has a long history of sales and account management experience, particularly in healthcare settings, which matches the job's requirement for supervisory and project management roles."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading initiatives and teams, but the job description requires more specific leadership skills, such as Six Sigma certification or advanced SharePoint training."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job's responsibilities, such as leading improvement efforts and consulting with units, but there is no direct match with supervising staff or managing a project portfolio."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in key account management, product expertise, and training, which aligns well with the job's requirement for management and manufacturing skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership and communication, are generally aligned with the job's requirements, though they may not be explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.16,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Project management tools (fuzzy)'] | (LLM 0.4): The candidate's experience does not specifically mention proficiency in Microsoft Office, SharePoint, or other project management tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like problem-solving and adaptability, which are beneficial for the job, although they are not explicitly mentioned in the resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.49
+}

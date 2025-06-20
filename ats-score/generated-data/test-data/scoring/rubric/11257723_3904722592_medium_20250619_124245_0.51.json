@@ -1,0 +1,51 @@
+{
+    "resume_id": "11257723",
+    "jd_id": "3904722592",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.275,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume lacks specific details about the degree obtained, which might be relevant for the automotive industry."
+        },
+        "experience": {
+            "score": 0.55,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has experience in various roles related to claims management, which aligns with the job responsibilities. However, the lack of detail in the job description makes it difficult to assess the exact relevance."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills in the resume, which might be important for managing a team of technicians."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines responsibilities related to automotive repair and maintenance, while the resume focuses on claims management. There is no overlap in responsibilities."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Claims file management processes', 'Litigation resolution', 'Strong interpersonal and communication skills', 'Self-directed', 'Team player', 'Critical thinker', 'Coverage analysis', 'Customer service', 'presentations', 'litigation management', 'claim investigations', 'time management'. These skills align well with the job responsibilities requiring technical knowledge and soft skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions 'Strong interpersonal and communication skills', 'Self-directed', 'Team player', 'Critical thinker', which are relevant soft skills for any job. However, there is no direct alignment with the job responsibilities."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No mention of specific tools or technologies used in the resume, which could be crucial for the automotive industry."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Claims file management processes', 'Litigation resolution', 'Customer service', 'time management' can be transferred from claims management to automotive repair scenarios."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.508
+}

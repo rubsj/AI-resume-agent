@@ -1,0 +1,51 @@
+{
+    "resume_id": "10889157",
+    "jd_id": "3902782993",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.32,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lacks details about the field of study and GPA, which are typically required for a job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in various roles within the culinary industry, including lead cook positions and kitchen management responsibilities, which aligns with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership qualities or specific leadership-related achievements in the resume."
+        },
+        "responsibilities": {
+            "score": 0.403,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Maintain cleanliness (substring)'] | (LLM 0.5): The candidate's experience includes responsibilities such as assisting in food & beverage service, maintaining cleanliness, and managing staff, which are aligned with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Knowledge of Mother Sauces', 'Produce orders', 'Knife Skills', 'Menu organization', 'Kitchen Management skills', 'Employee management', and 'Scheduling management'. However, there is no mention of specific tools or technologies used."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like'very fast learner' and 'Employee management', but does not explicitly mention 'communication', 'teamwork', and 'adaptability' as stated in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in kitchen management, employee management, and scheduling management can be considered transferable to the role, but they lack specific details that might be required for the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.632
+}

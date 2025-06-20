@@ -1,0 +1,51 @@
+{
+    "resume_id": "31454430",
+    "jd_id": "3901999609",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.382,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed in the resume match the requirements of the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not align with the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.6 yrs (capped to 3.6), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience as a sales representative, which matches the job description's requirement for experience in retail."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership roles or achievements in their resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the detailed job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as'sales', 'customer- and service-oriented', and 'customer- and service-oriented'. However, the lack of specific technical skills like Tableau or SQL reduces the score."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists soft skills like 'customer- and service-oriented' and 'team player', which are relevant to the job description. However, the lack of specific soft skills required by the job description reduces the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not have any tools or technologies listed in their resume that match the job description's requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'customer service' and'sales', but lacks specific skills like 'analytic techniques' and 'data insight capabilities' mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.385
+}

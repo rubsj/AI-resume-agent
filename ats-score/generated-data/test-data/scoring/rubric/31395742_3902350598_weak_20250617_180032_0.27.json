@@ -1,0 +1,51 @@
+{
+    "resume_id": "31395742",
+    "jd_id": "3902350598",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.242,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which are preferred but not required."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is only an Associate of Applied Science degree, which is lower than the preferred Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 8.8 yrs (capped to 8.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in IT and security roles, which align with the job responsibilities. However, the total experience years do not meet the required 3-5 years."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership experience or skills, which are not explicitly mentioned in the job description but could be relevant."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not mention any specific responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Active Directory, asset management, and hardware, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate soft skills that are mentioned in the job description, such as self-motivation and navigating multiple priorities."
+        },
+        "tools": {
+            "score": 0.035,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['IFS (exact)'] | (LLM 0.4): The candidate does not list any tools or technologies used, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not highlight any transferable skills that are mentioned in the job description, such as business development and sales."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.272
+}

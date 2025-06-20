@@ -1,0 +1,51 @@
+{
+    "resume_id": "26908066",
+    "jd_id": "3904720636",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.29,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): A Bachelor's degree in Business Administration is mentioned, but no GPA is provided, which could impact the relevance to the job."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has extensive experience in recruitment and project management, particularly in financial services and healthcare sectors, which matches the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including being a senior healthcare recruiter and a project manager, which aligns with the job's leadership requirement."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities listed in the job description, such as leading emergency preparedness efforts and ensuring continuity of critical business processes."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'agency', 'budget', 'business plan', 'client', 'clients', 'customer satisfaction', 'databases', 'financial', 'financial advisor', 'forecasting', 'hiring', 'Leadership','managing','market', 'office', 'enterprise', 'networking', 'Pricing','recruiting','recruitment', 'Sales','sourcing strategy', 'Staffing'. These skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Leadership', 'Cooperation', 'Commitment', 'Strategic Thinking', 'Passion', 'Collaboration', and 'Growth Mindset', which are mentioned in the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.4): No specific tools or technologies are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'cold calling', 'passive sourcing', 'full cycle recruitment', 'project management','relationship management', 'CRM and ATS systems', 'budget planning and management', 'team management', and 'implementation of new ideas/service' are transferable and relevant to the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.612
+}

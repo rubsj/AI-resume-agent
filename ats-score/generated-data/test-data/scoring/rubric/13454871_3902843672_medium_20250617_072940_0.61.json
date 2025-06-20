@@ -1,0 +1,51 @@
+{
+    "resume_id": "13454871",
+    "jd_id": "3902843672",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.532,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Technology degree in Instrumentation Engineering, which is relevant to the field but lacks specific details such as GPA or graduation year."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.9 yrs (capped to 14.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in consulting roles with a focus on Oracle manufacturing and distribution applications, which matches the required experience and skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume appears well-written and free of grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership experience in a startup context, which may not directly align with the leadership skills required for the job."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description does not specify any responsibilities, so there is no comparison."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Manufacturing (exact)'] | (LLM 0.4): The candidate has extensive experience in Oracle manufacturing and distribution applications, which aligns well with the required skills in manufacturing and management."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills and accomplishments, which could be considered soft skills, but they are not explicitly aligned with the soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate lists proficiency in tools like Toad, Data Load, Visio, SQL, SQL Developer, and MS Office Suite, which are useful but not explicitly mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in project management, data conversion, and system administration are transferable skills that match the job description's requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.611
+}

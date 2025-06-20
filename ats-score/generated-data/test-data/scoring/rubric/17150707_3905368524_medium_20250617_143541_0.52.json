@@ -1,0 +1,51 @@
+{
+    "resume_id": "17150707",
+    "jd_id": "3905368524",
+    "domain": "HR",
+    "resume_jd_similarity": 0.398,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that match the job description's requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks specific details about the field of study, which is not a requirement but could be beneficial."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.3 yrs (capped to 17.3), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles that involve policy research, drafting, and interpretation, which matches the job description's responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience is mentioned in the resume that matches the job description's requirements."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job description's responsibilities, such as managing benefits programs, conducting research, and providing technical assistance."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in HRIS, benefits administration, and HR processes, which aligns well with the job description's requirement for research, drafting, and interpreting policies."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like strong writing and problem-solving abilities, which are mentioned in the job description, though not all are explicitly stated."
+        },
+        "tools": {
+            "score": 0.412,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'ARIES (fuzzy)'] | (LLM 0.4): The candidate has experience with ADP, PeopleSoft, and SAP, which are tools mentioned in the job description, but not all are explicitly listed."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in customer support, administrative tasks, and process improvement are transferable to the job description's requirements, but they are not as directly aligned as other sections."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.517
+}

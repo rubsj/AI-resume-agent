@@ -1,0 +1,51 @@
+{
+    "resume_id": "25315791",
+    "jd_id": "3905209238",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.389,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job description requirements."
+        },
+        "education": {
+            "score": 0.05,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['High school diploma / GED (fuzzy)'] | (LLM 0.5): The highest degree listed is a High School Diploma, which does not meet the minimum requirement of a Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.9 yrs (capped to 3.9), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in sales associate and customer service roles, which aligns with the job responsibilities. However, the total experience years do not meet the required 2 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No specific responsibilities from the candidate's resume match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills in sales, customer service, and sales associate roles, aligning well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills mentioned in the resume match the job requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in Microsoft products or any other tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like customer service, sales, and communication, which could be beneficial in the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.397
+}

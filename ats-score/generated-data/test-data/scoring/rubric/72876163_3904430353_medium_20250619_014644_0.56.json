@@ -1,0 +1,51 @@
+{
+    "resume_id": "72876163",
+    "jd_id": "3904430353",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.335,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the job description's requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds advanced degrees in relevant fields, but the lack of specific degree information may not fully satisfy the job description's preference for STEM fields."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.8 yrs (capped to 19.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has significant experience in IT management and technical support, which closely matches the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is professionally formatted and free of grammatical errors, enhancing readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing teams and setting objectives indicates leadership capabilities, though not specifically in a data science context."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some aspects of responsibility for data management and system administration, but not specifically in data science or machine learning."
+        },
+        "skills": {
+            "score": 0.368,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)'] | (LLM 0.4): The candidate has extensive experience in IT management and technical skills relevant to data science, such as system administration and software licensing, which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong leadership and communication skills, which are essential for collaboration and presenting findings."
+        },
+        "tools": {
+            "score": 0.39,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['R (substring)', 'Spark (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Windows, Linux, and various software applications, which are relevant to the job description's tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills transferable to data science, such as project management and technical problem-solving, but lacks direct experience in data modeling and machine learning."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.564
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "24230851",
+    "jd_id": "3905284556",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.336,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed in the resume match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not match the required degree of 'Bachelor's degree in information systems, cybersecurity, or business management'."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.1 yrs (capped to 14.1), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Customer Service Supervisor and Representative, which aligns with the job responsibilities of managing and providing support in cybersecurity and identity and access management."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not explicitly mention leadership experience or skills that are typically required for a Cybersecurity Architect position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not detail specific responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.528,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)', ', (substring)'] | (LLM 0.4): The candidate has skills in 'administrative', 'customer service', 'Avaya', 'budget', 'Conflict Resolution', 'Microsoft Office','supervisory', 'Time Management', which align with the required skills of 'Engineering' and 'Information Technology'. However, there is no direct match with 'ForgeRock' or 'NIST standards'."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks soft skills that are typically required for a Cybersecurity Architect position, such as 'analytical thinking', 'problem-solving', and 'communication'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any tools or technologies used, which are required in the job description such as 'NIST standards', 'ForgeRock', and 'Microsoft Office 365 (O365)'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'teamwork', 'attention to detail', and 'adaptability' which could be beneficial in a Cybersecurity role, but these are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.369
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "15601399",
+    "jd_id": "3904941830",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.355,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications listed in the candidate's resume match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Electronic Engineering, which is close to the required field of study in chemical engineering but not exact."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has experience in leading operations, training, and troubleshooting, which aligns with the job responsibilities. The experience is in electronics and semiconductor fabrication, which is somewhat relevant to chemical engineering."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading operations and training, which indicates leadership skills. However, there is no explicit mention of leadership roles or responsibilities in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in leading operations, training, and troubleshooting aligns with some of the responsibilities listed in the job description. However, there is no direct match for developing and validating kinetic models using Matlab or similar platforms."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Excellent communication', 'Inspecting', 'Team Lead','modems', 'processes', 'Scheduling', 'Technician', 'Trainer', 'Troubleshooting'. However, there is no direct match for 'Analyst' and 'Information Technology' mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Excellent communication', 'Team Lead', and 'Problem-solving' align with the soft skills required in the job description. There is no direct match for 'Strong communication' and 'teamwork' mentioned specifically."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools or technologies used in the candidate's resume matches the required tool 'Matlab' or similar platforms in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Inspecting', 'Scheduling', and 'Troubleshooting' can be transferred to the role, although they are not directly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.451
+}

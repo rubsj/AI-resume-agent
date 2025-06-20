@@ -1,0 +1,51 @@
+{
+    "resume_id": "39855211",
+    "jd_id": "3902742492",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.377,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description requires an Active TS/SCI Clearance with Polygraph."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate only has a GED, which does not match the required degree of Bachelor of Arts or Bachelor of Science Degree."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as an Engineering Technician and Warehouse Worker, which aligns with some of the job responsibilities. However, the experience lacks detail on IT-related skills and knowledge of MS Product Suite and ServiceNow CMDB modules."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide evidence of managing CI within a large-scale enterprise or facilitating Government and contract reviews/boards approving RFCs, which are key responsibilities of the job."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a variety of skills listed, including installation, customer service, and mechanical repair, which align with the job requirements. However, there is no mention of Agile methodology or CMDB experience, which are optional but preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists strong verbal and written communication skills, which align with the job requirements. However, there is no evidence of detail-oriented or ability to multitask in a fast-paced environment."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention proficiency in MS Product Suite (Word, Excel, SharePoint) or ServiceNow CMDB modules, which are required tools for the job."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like planning, troubleshooting, and mechanical repair that could be transferable to the role, but they lack specific skills like Agile methodology and CMDB experience."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.342
+}

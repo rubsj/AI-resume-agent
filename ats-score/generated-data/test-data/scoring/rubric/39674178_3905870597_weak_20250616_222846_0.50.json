@@ -1,0 +1,51 @@
+{
+    "resume_id": "39674178",
+    "jd_id": "3905870597",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.527,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks details about the institution name, degree, field of study, GPA, and graduation year, which are missing information compared to the job description's preferred degree requirement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.2 yrs (capped to 28.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, including federal accounting, which matches the job description's required experience and skills. The detailed descriptions of past roles provide evidence of leadership and financial management abilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, some sections lack clarity or detail, which could affect the ATS's ability to accurately match the candidate to the job description."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, such as supervisor and resource officer, indicates strong leadership skills. However, the resume could benefit from more detailed examples of leadership achievements."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with many of the responsibilities listed in the job description, such as preparing and updating grant financial reports, coordinating delegate agency grant budgets, and leading subordinate accounting staff. However, there is no explicit mention of leading subordinate staff or coordinating budgets in the resume."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the job description's required skills. However, there is no mention of proficiency with specific accounting software or technologies listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong soft skills, including advanced accounting knowledge, working supervisor over a small accounting staff, and professional communication with internal and external contacts. However, the resume does not explicitly mention interpretation of general accounting principles and financial procedures, designing and implementing computerized accounting systems and internal controls, or annual wage survey coordination."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, while the job description lists proficiency with accounting software, data management software, and Oracle-based applications as optional skills."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat aligned with the job description, particularly in areas like accounting, financial management, and leadership. However, there is no mention of proficiency with specific tools or technologies, previous experience with vendors, or experience with federal and state grant funding."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.498
+}

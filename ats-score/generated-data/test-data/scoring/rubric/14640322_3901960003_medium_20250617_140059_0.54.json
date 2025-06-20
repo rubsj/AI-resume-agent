@@ -1,0 +1,51 @@
+{
+    "resume_id": "14640322",
+    "jd_id": "3901960003",
+    "domain": "HR",
+    "resume_jd_similarity": 0.322,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the candidate's resume, which contrasts with the job description's lack of certification requirements."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds an MBA in Human Resources and Finance and a Bachelor of Science in Physics Honours, which aligns with the job description's inferred domain of Human Resources but does not specify the degree level preferred."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 9.4 yrs (capped to 9.4), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has over 9 years of experience in HR roles, including experience in Talent Acquisition, Onboarding, Documentation, Vendor Management, and Microsoft Office, which matches the job description's required experience of 6+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which contrasts with the job description's expectation of leadership qualities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's responsibilities, such as building relationships, serving as a point of contact, partnering with leadership, leading policies, supporting employee relations, and maintaining records, but the job description provides more detail on specific responsibilities."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has relevant skills such as Talent Acquisition, Onboarding, Documentation, Vendor Management, and Microsoft Office, which align well with the job description's required skills of Administrative, General Business, and Human Resources."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses some soft skills like being service-oriented and acting fast, which align with the job description's soft skills, but lacks the depth of alignment provided in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in any specific tools, whereas the job description mentions BambooHR and ADP as required tools."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as communication, problem-solving, and teamwork, are not explicitly mentioned but can be inferred from their experience and skills, aligning with the job description's expectations."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.537
+}

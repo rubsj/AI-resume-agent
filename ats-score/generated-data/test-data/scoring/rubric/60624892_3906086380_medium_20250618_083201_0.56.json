@@ -1,0 +1,51 @@
+{
+    "resume_id": "60624892",
+    "jd_id": "3906086380",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.299,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be a concern given the importance of certifications in the job description."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds advanced degrees in relevant fields and has a high GPA, indicating a strong educational background that matches the preferred degrees in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.8 yrs (capped to 20.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare management and operations, but lacks specific details about experience in signal analysis or algorithm development, which are key responsibilities in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, particularly in operations and management, which aligns well with the job description's emphasis on leadership."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has experience in leadership roles and operational management, but does not explicitly mention responsibilities related to signal analysis or algorithm development, which are central to the job description."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in operational management, which aligns well with the required experience in managing a team and implementing solutions. However, there is a lack of specific technical skills mentioned in the resume that directly match the required tools and technologies listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses self-starter and cross-functional team collaboration skills, which are beneficial for the role. However, there is no explicit mention of analytical thinking, problem-solving, or troubleshooting skills, which are crucial soft skills for the position."
+        },
+        "tools": {
+            "score": 0.14,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['C# (substring)'] | (LLM 0.4): There are no mentions of proficiency in Python, C#, or Java, which are required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a broad range of transferable skills such as business operations, client development, and program development, but lacks specific technical skills that are essential for the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.557
+}

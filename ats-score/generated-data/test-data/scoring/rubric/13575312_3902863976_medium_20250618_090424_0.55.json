@@ -1,0 +1,51 @@
+{
+    "resume_id": "13575312",
+    "jd_id": "3902863976",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.311,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a Project Management Professional (PMP) certification, which is relevant to the job responsibilities but does not directly address the required skills in engineering or the optional skills in leadership."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Finance and a Bachelor's degree in Computer Science, which are relevant to the education requirements but do not directly align with the required skills in engineering or the optional skills in leadership."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 26.8 yrs (capped to 26.8), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in various roles that demonstrate expertise in project management, application development, and systems integration, closely matching the required experience and skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing projects and teams demonstrates leadership skills, but there is no explicit mention of leading a team in a healthcare context or managing remote teams."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows leadership in project management and strategic planning, which aligns with some of the job responsibilities. However, there is no explicit mention of leading digital transformation efforts or serving as a technical expert."
+        },
+        "skills": {
+            "score": 0.33,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched skills: ['Team management (fuzzy)', 'AI (substring)'] | (LLM 0.4): The candidate has extensive experience in application design, development, and testing, which aligns well with the required skills in engineering and information technology. However, there is no direct mention of cloud technologies, AI, or machine learning, which are optional skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary indicates strong leadership and communication skills, which align with the soft skills required. However, there is no explicit mention of interpersonal skills or team management."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Azure (fuzzy)'] | (LLM 0.4): There is no mention of specific tools or technologies used in the candidate's experience, which contrasts with the requirement for proficiency in Azure, AWS, and General AI."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in application design, development, and testing are transferable to the role, but there is no explicit mention of cloud technologies, AI, or machine learning."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.55
+}

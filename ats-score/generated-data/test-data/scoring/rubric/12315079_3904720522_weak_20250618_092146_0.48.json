@@ -1,0 +1,51 @@
+{
+    "resume_id": "12315079",
+    "jd_id": "3904720522",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.218,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is only listed as a B.A. in Marketing, which does not match the required Bachelor's Degree in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 19.0 yrs (capped to 19.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales management, business development, and account management, which aligns with the job's responsibilities. However, the job description requires specific experience in dermal clinical research, which is not mentioned in the candidate's resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume demonstrates strong leadership skills through their role as Director of National Sales, which aligns with the job description's requirement for leadership."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities, which contrasts with the job description that outlines specific responsibilities related to clinical research."
+        },
+        "skills": {
+            "score": 0.624,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Analyst (fuzzy)', 'Research (exact)', 'Communication (exact)', 'Management (exact)'] | (LLM 0.4): The candidate has extensive experience in leadership, communication, business operations, client account management, budgeting, negotiations, employee relations, market research, customer-oriented skills, Microsoft products, customer CRM, GPO and IDN targeting, vendor and distributor relations, national and regional business development, and sales management, which aligns well with the job's required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as communication, presentation, writing, management, innovation, and strategy, which aligns with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.02,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Salesforce (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, which contrasts with the job description that lists specific tools like Microsoft Office, Adobe Creative Suite, Salesforce, etc."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights skills that can be transferred to the role, such as leadership, communication, and sales management, but lacks specifics on clinical research knowledge."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.476
+}

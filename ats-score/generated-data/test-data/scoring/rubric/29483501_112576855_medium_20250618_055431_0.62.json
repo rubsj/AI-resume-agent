@@ -1,0 +1,51 @@
+{
+    "resume_id": "29483501",
+    "jd_id": "112576855",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.341,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate possesses certifications relevant to the job, such as CFC, but lacks specific certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds advanced degrees in Business Administration and Biology/Psychology, which are relevant to the job but may not be directly related to building management."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 39.1 yrs (capped to 39.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 30 years of experience in facilities planning, design, and construction, which significantly exceeds the required minimum experience of 5 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is evident from their roles in directing teams and planning processes, which is relevant to the job."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities, particularly in managing and overseeing projects, training staff, and handling emergencies."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in facilities planning, design, and construction, which aligns well with the required skills of managing and overseeing projects in a building management context."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication and leadership, are relevant to the job, although they may not have been directly emphasized in the resume."
+        },
+        "tools": {
+            "score": 0.274,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Steam (fuzzy)', 'Building systems (fuzzy)'] | (LLM 0.4): The candidate's experience includes managing various tools and technologies relevant to building management, such as HVAC, plumbing, and computer systems, though not all are explicitly listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as budget development and project management, are applicable to the job but may not be highlighted specifically in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.621
+}

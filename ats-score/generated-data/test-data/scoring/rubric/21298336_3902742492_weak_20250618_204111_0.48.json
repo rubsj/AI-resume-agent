@@ -1,0 +1,51 @@
+{
+    "resume_id": "21298336",
+    "jd_id": "3902742492",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.235,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelor of Arts or Bachelor of Science Degree (fuzzy)'] | (LLM 0.5): A Bachelor of Science degree in Civil Engineering from University of Pittsburgh at Johnstown is mentioned, but the job description requires only a Bachelor's degree, which could be in any field."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as an Engineering Intern, which aligns with the job responsibilities of managing CIs and performing audits. However, the experience is limited to three internships."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities, such as managing CIs and facilitating reviews. However, there is no direct match with the responsibility of managing and helping improve CM processes and procedures."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills like Bluebeam, Mathcad, Microsoft Word, Excel, Project, PowerPoint, and Autocad Civil 3D, which align well with the required skills of MS Product Suite tools. However, there is no mention of Agile methodology or CMDB experience."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong verbal and written communication and being detail-oriented, match the requirements of the job description."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with MS Product Suite tools like Word, Excel, and SharePoint, which matches the required tools in the job description. There is no mention of ServiceNow CMDB modules."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not explicitly mentioned, but they have experience in spreadsheets, estimating, drilling logs, and concrete pours, which could be useful in a configuration management role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.477
+}

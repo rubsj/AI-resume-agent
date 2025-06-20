@@ -1,0 +1,51 @@
+{
+    "resume_id": "35325329",
+    "jd_id": "3902756488",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.284,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has several certifications listed, but none directly match the specific tools and technologies required in the job description such as SAP or barcode scanners."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education does not provide any direct relevance to the job description, which focuses on manufacturing and material handling."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in IT leadership roles, which aligns with the job description's focus on material handling operations."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, which is relevant to the job description's focus on managing material handling operations."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully align with the specific responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills that align well with the job description, including Agile, ITIL, and Project Management, which are mentioned as required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not mention soft skills, and there are no soft skills listed in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['SAP (fuzzy)'] | (LLM 0.4): The job description mentions specific tools like SAP, barcode scanners, etc., which are not present in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as process improvement and project management, which could be applicable to the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.59
+}

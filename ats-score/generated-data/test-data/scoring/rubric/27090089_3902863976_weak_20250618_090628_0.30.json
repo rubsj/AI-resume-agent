@@ -1,0 +1,51 @@
+{
+    "resume_id": "27090089",
+    "jd_id": "3902863976",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.293,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed in the resume match the requirements of the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not match the required degree of a bachelor's or master's degree in a relevant technical field."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Resume: 25.5 yrs (capped to 25.5), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in administrative roles, which aligns with some of the job responsibilities. However, there is no direct match with leading technical strategies or serving as a technical expert."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have experience in leadership roles that would indicate they can lead development and implementation of technical strategies."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.25,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched skills: ['Team management (fuzzy)', 'AI (substring)'] | (LLM 0.4): The candidate has experience in administrative support, program management, and meeting planning, which aligns with the required skills of engineering and information technology. However, there is no direct match with strategy/ planning or cloud technologies."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills do not match the exceptional leadership, communication, interpersonal skills, and teamwork required by the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used by the candidate match the requirements of Azure, AWS, or General AI."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as account management, marketing materials, and planning workshops, which could be useful in a leadership role. However, these skills are not directly related to data engineering."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.297
+}

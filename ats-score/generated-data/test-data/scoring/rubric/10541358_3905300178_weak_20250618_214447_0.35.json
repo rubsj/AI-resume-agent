@@ -1,0 +1,51 @@
+{
+    "resume_id": "10541358",
+    "jd_id": "3905300178",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.327,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires at least one certification from the list provided."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has completed a high school diploma and an associate's degree in business administration. While these are educational achievements, they do not align closely with the required degrees in computer science, engineering, information technology, or related fields."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 14.5 yrs (capped to 14.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles such as Business Development Regional Manager, Social Media and PR Manager, and Teacher/Receptionist. However, the experience lacks specific details related to cybersecurity, automation, and devops, which are key areas mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. The candidate uses clear and concise language, making it easy to understand their qualifications and experiences."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading a junior leadership program, which indicates leadership skills. However, there is no explicit mention of leadership in the context of technology or devops."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed in the job description, such as developing marketing strategies, managing inventory, and providing administrative support. However, there is a lack of emphasis on cybersecurity, automation, and devops-related responsibilities."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in 'administrative', 'administrative support', 'ad', 'advertising', 'back — up', 'Budgets', 'business development', 'conflict resolution', 'content', 'cost reduction', 'client', 'customers', 'delivery', 'email', 'forms', 'human resources', 'image', 'inventory management', 'leadership','management','marketing strategies','marketing','meetings', 'excel spreadsheets', 'excel','microsoft office applications', 'office', 'powerpoint', 'windows 8', 'windows', 'windows xp', 'online marketing','search engines', 'operating systems', 'personnel', 'pivot tables', 'policies', 'pos', 'presentations', 'pr', 'problem solving', 'profit and loss', 'promotional materials', 'public relations', 'quality', 'quickbooks','receptionist','recruiting','recruitment','reporting','spreadsheets','strategy', 'telephone', 'answering phones'. However, there is a lack of direct overlap with the required skills in the job description such as 'engineering', 'information technology', 'cybersecurity', 'devops', 'automation','security', 'ci/cd pipelines', 'nist guidelines','soc2 compliance', 'identity and access management (iam)','monitoring', 'incident response','secure coding practices', and 'devsecops methodologies'."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills include problem-solving, teamwork, adaptability, attention to detail, and mentorship. These skills are generally aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.017,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Ansible (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, whereas the job description lists several tools like GitLab CI, Jenkins, CircleCI, Python, Bash, Ruby, Perl, Ansible, Terraform, Chef, Puppet, Prometheus, Grafana, ELK stack, among others."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as project management, communication, and leadership. However, these skills are not specifically tied to the technical requirements of the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.348
+}

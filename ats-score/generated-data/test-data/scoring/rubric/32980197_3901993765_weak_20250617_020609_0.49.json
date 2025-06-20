@@ -1,0 +1,51 @@
+{
+    "resume_id": "32980197",
+    "jd_id": "3901993765",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.434,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which might be a requirement for the job."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor's degree is present, but the GPA is missing, which could be important for the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 23.4 yrs (capped to 23.4), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in banking and finance roles, including positions that involve managing teams and handling complex operations. However, the job description requires more specific experience in data science and analytics."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as Assistant Operations Manager and Item Fraud Coordinator, which aligns well with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, particularly in terms of managing teams and processes. However, there is no explicit mention of leading data analytics initiatives or generating insights."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate possesses relevant skills such as 'banking', 'account reconciliation', and 'balance', which align with the job requirements. However, there is a lack of specific technical skills like Python or SQL."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as 'team leader', 'communication', and 'problem-solving', match the job requirements. However, there is no explicit mention of 'technical and communication skills', 'business acumen', or 'data enthusiasm'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention proficiency in tools like Python, SQL, Tableau, or MDLC best practices, which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'account reconciliation', 'balance', and 'customer service' are transferable to the job, but the candidate lacks specific technical skills and experience in data science."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.488
+}

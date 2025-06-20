@@ -1,0 +1,51 @@
+{
+    "resume_id": "25328428",
+    "jd_id": "3901911210",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.335,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has certifications like BLS CPR, Phlebotomy, EKG, AED certification, but lacks details on dates issued, which could be crucial for the role."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lacks specific details such as degree, field, institution name, year, and GPA, making it difficult to assess the candidate's educational background."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as a Home Healthcare Technician and Admitting Clerk, which aligns with the job responsibilities. However, the lack of specific dates and detailed job descriptions reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate leadership skills or experiences that align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not provide information on how they have fulfilled the job responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills like Clinical training, Strong medical ethic, Enthusiastic caregiver, etc., which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions soft skills like Communication, Detail-oriented, Problem-solving, Adaptability, which are aligned with the job requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any tools or technologies used in their experience, which is a requirement in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like Patient care technician, Admitting clerk, which can be transferred to the new role. However, the lack of detail in the experience section reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.381
+}

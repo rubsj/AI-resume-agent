@@ -1,0 +1,51 @@
+{
+    "resume_id": "14225422",
+    "jd_id": "3905332871",
+    "domain": "HR",
+    "resume_jd_similarity": 0.381,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Industrial Psychology and a Bachelor's degree in Psychology, which could be beneficial for the job requiring knowledge of State and Federal employment laws and ability to handle employee relations. However, the lack of graduation year and GPA makes it less clear how relevant these degrees are."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 40.2 yrs (capped to 40.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has significant experience in HR roles across different industries, including manufacturing, which matches the job's requirements. The detailed job descriptions show a strong track record of managing HR functions, including payroll, benefits, and employee relations, which are key responsibilities of the position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise, adhering to best practices in resume writing."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in HR management roles suggests leadership capabilities, but the job description does not explicitly require leadership skills. The candidate's experience in managing HR functions and teams could be seen as a form of leadership, but it is not a primary focus of the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in managing HR functions, including payroll, benefits, and employee relations, closely matches the responsibilities outlined in the job description. However, the job description focuses more on community-based services and client support, which may not be directly reflected in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in human resources, which aligns well with the job's requirement for management and manufacturing skills. The resume mentions proficiency in Excel, Word, PowerPoint, and experience with specific HRIS systems like Ceridian, which are relevant tools mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in professional writing, oral communication, personal organization, attention to detail, and time management are relevant to the soft skills required in the job description. However, the job description emphasizes community engagement and client support, which may not be fully covered by the candidate's experience."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience with Excel, Word, PowerPoint, and specific HRIS systems like Ceridian aligns with the tools mentioned in the job description. However, there is no explicit mention of proficiency in Windows, Google Email, or Google Apps, which are also listed as required tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing HR functions across different industries provides transferable skills that could be applied to the job description's focus on community-based services. However, the lack of specific experience in community services and client support limits the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.595
+}

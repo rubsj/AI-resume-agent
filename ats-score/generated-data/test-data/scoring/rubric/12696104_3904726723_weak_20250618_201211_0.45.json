@@ -1,0 +1,51 @@
+{
+    "resume_id": "12696104",
+    "jd_id": "3904726723",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.356,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education does not align with the job requirements, which seem to require specific technical skills related to web design."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Resume: 3.2 yrs (capped to 3.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has some sales experience, but lacks direct experience in web design or retail design, which are key aspects of the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not align with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as good communication, self-motivation, and adaptability, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions good communication and self-motivation, which are soft skills that align with the job requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in any of the tools listed in the job description, such as Adobe Photoshop or macOS."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like time management and adaptability, which could be useful in a web design role, though they lack specific technical skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.451
+}

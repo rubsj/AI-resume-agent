@@ -1,0 +1,51 @@
+{
+    "resume_id": "24799301",
+    "jd_id": "3885804880",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.331,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not mention any certifications, while the job description requires FINRA Licenses - Series 63, Series 79, SIE."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions a B.S. in Business Administration Accounting from the University of Cincinnati, but the job description prefers a Bachelor's degree specifically in finance or a related field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 28.5 yrs (capped to 28.5), JD requires: 3.0 yrs. | (LLM 0.5): The resume provides relevant experience as an Accountant, which aligns with the job description's requirements. However, the total experience years exceed the preferred experience years mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not mention any leadership roles or achievements, which could be beneficial for an Investment Banking Associate position."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks details on specific responsibilities that match the job description's responsibilities in investment banking, such as preparing financial models, conducting business due diligence, and creating client presentations."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The resume lists relevant skills such as accounting, CPA, local area network, Peachtree Accounting, Reporting, and Web site, which align well with the job description's required skills in finance and sales."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not highlight soft skills such as strong analytical and quantitative skills, knowledge of general accounting and finance principles, strong written and oral presentation skills, ability to work independently, strong work ethic, attention to detail, and passion for excellence, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, whereas the job description requires knowledge of financial modeling and proficiency in spreadsheet and word processing software programs."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lists skills like accounting, CPA, local area network, Peachtree Accounting, Reporting, and Web site, which can be considered transferable to the role of an Investment Banking Associate, given the relevance to finance and accounting."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.318
+}

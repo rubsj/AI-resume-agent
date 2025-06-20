@@ -1,0 +1,51 @@
+{
+    "resume_id": "39247950",
+    "jd_id": "3903462084",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.228,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a CPA or CPA eligibility."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Engineering degree, which is not directly related to the job requirements in accounting. The GPA is not provided, which could be a factor in assessing educational fit."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.8 yrs (capped to 3.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in software engineering, particularly in web and windows applications, which aligns with some aspects of the job description. However, the experience lacks specific details on auditing or accounting-related tasks."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate any leadership experience or skills that would be relevant to the senior position in accounting."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities related to leading teams, managing engagements, or performing audits, which are key responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.57,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)', 'Technical (exact)'] | (LLM 0.4): The candidate has relevant skills in.NET, ASP.NET, C#, and SQL, which align with the job requirements. However, there is no mention of specific certifications or advanced skills in auditing or project management."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention soft skills such as client service, communication, leadership, mentoring, analytical skills, technical proficiency, auditing expertise, project management, problem-solving, or attention to detail."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any tools or technologies used in accounting or auditing, which are required according to the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in programming languages and technologies that could be applicable in an accounting firm, but these are not directly aligned with the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.355
+}

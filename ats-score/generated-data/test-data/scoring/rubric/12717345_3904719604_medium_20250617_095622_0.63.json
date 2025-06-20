@@ -1,0 +1,51 @@
+{
+    "resume_id": "12717345",
+    "jd_id": "3904719604",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.423,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a 'ServSafe certified' certification, which is relevant but not explicitly mentioned as required in the job description."
+        },
+        "education": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has an 'Associate of Arts' degree in 'Culinary Arts', which is aligned with the job description's inferred domain of'restaurant' but does not match the required education level."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in various roles within the restaurant industry, including 'Executive Chef', 'Line Chef', and 'Line Cook', which directly matches the job description's requirements for experience in the restaurant sector."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in hiring, training, and supervising staff aligns with leadership skills, but the job description does not explicitly require leadership."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing daily operations, overseeing staff, and catering events, which align with the job description's responsibilities for a bartender, though the role is different."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as'strong communication skills','special events','multi-tasking', 'pricing', 'purchasing', 'quality', 'devoted to sustainability', and'multi-ethnic cuisines'. These align well with the job description's required skill of 'Management' and preferred skill of 'Manufacturing'."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'experience in and passion for consumer service', 'willingness to learn new skills', and 'attitude of flexibility', which are relevant to the job description's soft skills requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the candidate's resume, and the job description does not specify any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include 'communication','multi-tasking', and 'attention to detail', which could be beneficial in a bartending role but are not specifically mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.629
+}

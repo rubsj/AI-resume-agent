@@ -1,0 +1,51 @@
+{
+    "resume_id": "40987524",
+    "jd_id": "3902844077",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.399,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lacks details about the field of study and GPA, making it difficult to assess its relevance to the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 28.2 yrs (capped to 28.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant sales experience, including roles in sales management and operations, which matches the job description requirements. However, the resume does not provide specifics on the candidate's experience with digital advertising platforms or tools mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of detailed information in certain sections reduces the overall score."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as store manager, which is relevant. However, the resume does not provide details on leadership achievements or specific leadership skills that align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job responsibilities outlined in the job description do not match the candidate's experience, as the candidate's experience is more focused on sales and operations rather than the strategic planning and response creation required for the position."
+        },
+        "skills": {
+            "score": 0.354,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)', 'sales (exact)'] | (LLM 0.4): The candidate has extensive sales experience, which aligns well with the required skills of sales and business development. However, there is no mention of specific tools or technologies used in the resume."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions some soft skills such as attention to detail and teamwork, but does not provide examples or evidence of these skills in action, which is crucial for the job description's emphasis on project management and collaboration."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used in previous roles, which contrasts with the job description's requirement for familiarity with tools like Comscore, Quantcast, Looker, etc."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as sales, customer service, and leadership, which are relevant to the job description. However, the lack of specific technical skills or tools knowledge reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.393
+}

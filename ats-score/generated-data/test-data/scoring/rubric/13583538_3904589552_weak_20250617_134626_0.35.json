@@ -1,0 +1,51 @@
+{
+    "resume_id": "13583538",
+    "jd_id": "3904589552",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.342,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has multiple degrees listed, but none of them directly match the preferred degree of a Bachelor's degree in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in various roles that involve administrative tasks and customer service, which aligns with the job responsibilities. However, the experience is not directly related to accounting or nonprofit operations."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-formatted, free of grammatical errors, and easy to read."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience or skills in the candidate's resume, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on specific responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.287,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched skills: ['Organizational skills (substring)', 'Problem-solving (substring)'] | (LLM 0.4): The candidate has listed skills like 'People skills', 'enthusiastic people person', 'problem-solving', and 'organizational skills', which align well with the required skills in the job description such as 'Accounting/Auditing', 'Administrative', and 'Analyst'. However, there is no direct match for specific technical skills mentioned in the tools and technologies section."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions soft skills like 'Responsibility', 'Positivity', and 'Organization', which are aligned with the soft skills required in the job description. However, there is no explicit mention of skills like 'Decision-making', 'Teamwork', or 'Communication', which are also mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.019,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Email (fuzzy)', 'Printer (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or software used, while the job description lists several tools and technologies required for the role."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights skills that can be transferred to the job, such as 'People skills', 'problem-solving', and 'organizational skills'. However, these skills are not directly mentioned in the job description, and there is no evidence of specific transferable skills that are required for the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.35
+}

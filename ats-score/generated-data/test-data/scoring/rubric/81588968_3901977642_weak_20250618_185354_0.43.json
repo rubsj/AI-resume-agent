@@ -1,0 +1,51 @@
+{
+    "resume_id": "81588968",
+    "jd_id": "3901977642",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.331,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which contrasts with the requirement for a B.S. or B.A. degree."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume only lists a high school diploma, lacking the required bachelor's degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.2 yrs (capped to 15.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in management and operations, particularly in aviation ordnance, which aligns with the job responsibilities. However, the total experience years exceed the required 5+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no direct evidence of leadership skills in the context of training and certification programs, which is a key aspect of the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows leadership in project planning, scheduling, and team management, which aligns with the job responsibilities. However, there is no explicit mention of leading training programs or certification processes."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has a strong set of skills including accounting, blueprint, budgeting, business correspondence, and computer knowledge, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks evidence of soft skills such as inclusion, teamwork, trust, and positive relationships, which are important for the job."
+        },
+        "tools": {
+            "score": 0.051,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'Scheduling (fuzzy)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used, unlike the job description which requires proficiency in Microsoft Office and other software."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like management, budgeting, and communication are transferable but lack depth in relation to the job's specific requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.429
+}

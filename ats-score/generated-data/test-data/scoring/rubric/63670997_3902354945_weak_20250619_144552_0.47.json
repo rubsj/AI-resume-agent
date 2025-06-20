@@ -1,0 +1,51 @@
+{
+    "resume_id": "63670997",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.384,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description requires a PMP certification."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Administration, which is relevant to the field of management consulting and engineering. However, the lack of specific details about GPA or field of study may reduce the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 27.1 yrs (capped to 27.1), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in managing marketing communications campaigns, which aligns with the job responsibilities of defining business cases and project statements of work. However, the job description does not specify the level of detail required in project management experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing marketing communications campaigns can be seen as leadership qualities. However, the job description requires more specific leadership skills such as client communication and issue resolution."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in managing marketing communications campaigns can be transferred to project responsibilities such as identifying stakeholders and establishing project organizations. However, the job description requires more detailed project management skills."
+        },
+        "skills": {
+            "score": 0.324,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Negotiation (substring)'] | (LLM 0.4): The candidate has extensive experience in marketing communications, which aligns well with the required skills of project management and business process improvement. However, there is no direct mention of project management tools or technologies."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in developing marketing strategies and managing teams can be seen as leadership qualities. However, the job description emphasizes soft skills such as negotiation, conflict resolution, and communication."
+        },
+        "tools": {
+            "score": 0.113,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Network (substring)', 'Facebook (exact)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used in previous roles, whereas the job description lists several tools such as ERP, Cloud applications, Network, Security, Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in marketing communications can be seen as transferable to project management, but the job description requires specific skills in project management and technology integration."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

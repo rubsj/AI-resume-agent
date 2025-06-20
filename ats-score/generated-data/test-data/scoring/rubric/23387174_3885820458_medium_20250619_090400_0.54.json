@@ -1,0 +1,51 @@
+{
+    "resume_id": "23387174",
+    "jd_id": "3885820458",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.327,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which contrasts with the optional skill of 'Audit Experience' in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's Degree (fuzzy)\"] | (LLM 0.5): The resume lists only a Bachelor's degree in Accounting, which meets the minimum educational requirement but lacks detail about the institution and GPA."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.1 yrs (capped to 19.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that match the job responsibilities described in the job description. The detailed job history shows a progression in responsibilities and skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, the summary section could be more concise and the total experience years section is unclear."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume, which contrasts with the job description's potential need for supervisory responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as compliance activities, policy development, and audit coordination, which align with the job responsibilities. However, the job description mentions more specific responsibilities related to research administration compliance."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the required skills of the job description. However, there is no mention of specific auditing skills, which could be a slight mismatch."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include some soft skills like Analytical Thinking, Implementation, and Communication, which are relevant to the job description. However, there is no explicit mention of Project Management, Customer Service, or Relationship Building."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used in their work, which contrasts with the job description's requirement for knowledge of Federal Policies, State Policies, University Regulations, University Accounting Systems, Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Accounting, Financials, and Budgeting are transferable to the job description's requirements. However, there is no explicit mention of specific auditing skills or experience."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.536
+}

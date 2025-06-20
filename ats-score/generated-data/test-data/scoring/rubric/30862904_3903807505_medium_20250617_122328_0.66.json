@@ -1,0 +1,51 @@
+{
+    "resume_id": "30862904",
+    "jd_id": "3903807505",
+    "domain": "HR",
+    "resume_jd_similarity": 0.496,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds certifications in Human Resource Management, which is relevant but not as directly applicable as the required degree."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has advanced degrees in relevant fields, indicating a strong educational background in Human Resources and Law, which is beneficial for the role."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 30 years of experience in various HR roles, demonstrating a deep understanding and proficiency in the field."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, especially as a Director, indicates strong leadership capabilities."
+        },
+        "responsibilities": {
+            "score": 0.403,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Talent Acquisition (substring)'] | (LLM 0.5): The candidate's responsibilities align with the job description, particularly in areas like strategy development, program implementation, and talent acquisition."
+        },
+        "skills": {
+            "score": 0.848,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'Marketing (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in Human Resources and Recruitment, which aligns well with the job requirements. The skills listed match those needed for the position."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in communication, detail-oriented work, adaptability, and collaboration are relevant to the job requirements."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience does not specifically mention proficiency in Microsoft Office, Adobe Creative Suite, Facebook, or Salesforce, which are tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like change management, process improvement, and project management are transferable to the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.662
+}

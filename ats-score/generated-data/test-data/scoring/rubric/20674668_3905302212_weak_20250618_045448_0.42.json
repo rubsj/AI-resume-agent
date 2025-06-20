@@ -1,0 +1,51 @@
+{
+    "resume_id": "20674668",
+    "jd_id": "3905302212",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.384,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume that directly match the job description requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks information about the degree obtained, which is required in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in Information Technology, which aligns with the job description requirements. However, the resume does not explicitly mention experience in Embedded Software Application Engineering."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume that directly match the job description requirements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job description requirements, such as developing algorithms and collaborating with hardware engineers. However, there is no explicit mention of responsibilities related to ADAS functionalities."
+        },
+        "skills": {
+            "score": 0.337,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Problem-solving (substring)'] | (LLM 0.4): The candidate has relevant skills in Information Technology, Algorithm Development, Real-time Systems, and ADAS & Passive Safety, which align with the job description requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as strong problem-solving abilities and effective communication, which are aligned with the job description requirements."
+        },
+        "tools": {
+            "score": 0.017,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['ADAS Technologies (fuzzy)', 'Training (fuzzy)'] | (LLM 0.4): No tools or technologies used are mentioned in the resume that directly match the job description requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as managing multiple concurrent projects and problem-solving, which could be beneficial in the role. However, these skills are not explicitly mentioned in relation to the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.417
+}

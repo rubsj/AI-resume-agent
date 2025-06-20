@@ -1,0 +1,51 @@
+{
+    "resume_id": "24416961",
+    "jd_id": "3905287301",
+    "domain": "AGRICULTURE",
+    "resume_jd_similarity": 0.281,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Technology Project Management and an MBA, which could be relevant to the job, but the lack of specific details about the degrees' relevance to the field reduces the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 35.2 yrs (capped to 35.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has significant experience in project management, particularly in the pharmaceutical industry, which matches the job's requirement for experience in the agricultural and consumer economics field. However, the job description does not specify industry experience as a requirement."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading projects and teams aligns with the job's requirement for leadership skills. However, the job description does not provide a detailed list of leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing projects and implementing workflows, which aligns with the job's responsibilities. However, the job description does not specify specific responsibilities."
+        },
+        "skills": {
+            "score": 0.397,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Project Management (substring)', 'Communication (substring)', 'Education (exact)'] | (LLM 0.4): The candidate has extensive experience in project management, which aligns well with the job's requirement for project management skills. The resume also mentions proficiency in various tools and technologies listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong communication and leadership skills, which are aligned with the soft skills required in the job description. However, the job description does not provide a comprehensive list of soft skills."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft Office (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Project, Project Server, SharePoint, and Office, which are tools mentioned in the job description. However, there is no mention of Adobe Creative Suite, Facebook, Salesforce, databases, or research platforms."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in project management, leadership, and communication can be transferred to the role, but the job description does not explicitly list these as transferable skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.51
+}

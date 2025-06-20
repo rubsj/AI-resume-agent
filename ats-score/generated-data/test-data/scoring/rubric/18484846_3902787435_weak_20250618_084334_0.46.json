@@ -1,0 +1,51 @@
+{
+    "resume_id": "18484846",
+    "jd_id": "3902787435",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.375,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not match the job description's requirement for a Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 41.0 yrs (capped to 40.0), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales and leadership roles, which aligns with the job description's responsibilities. However, the total experience years do not meet the minimum requirement of 6 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as Director and Branch Manager, which aligns with the job description's responsibilities. However, there is no specific mention of experience working with/advising senior organizational leadership."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes managing teams and leading sales efforts, which aligns with some of the responsibilities listed in the job description. However, there is no specific mention of developing strategies for focused fundraising/campaign initiatives, which is a key responsibility."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a wide range of skills listed, including administrative functions, basic skills, benefits, charts, clerical tasks, CRM, client management, and more. However, the skills are not directly aligned with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include communication, organizational abilities, and relationship building, which align with some of the soft skills listed in the job description. However, there is no mention of exceptional verbal and written communication skills, deep knowledge of marketing and communications, or strategic and problem-solving orientation."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is listed as a required tool in the job description. However, there is no mention of Adobe Creative Suite, Facebook, or Salesforce, which are also required tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include administrative functions, clerical tasks, and customer service, which could be transferable to the role. However, these skills are not directly aligned with the job description's required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.457
+}

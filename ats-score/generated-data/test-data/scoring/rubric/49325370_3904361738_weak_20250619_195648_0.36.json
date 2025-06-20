@@ -1,0 +1,51 @@
+{
+    "resume_id": "49325370",
+    "jd_id": "3904361738",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.289,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires none."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in Medical Administration, which does not align with the required degree in atmospheric science, hydrology, geography, etc."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 20.7 yrs (capped to 20.7), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in administrative roles, but lacks experience in product management, catastrophe modeling, and interpreting model outputs specifically mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating a high level of professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are not explicitly mentioned in the job description but could be inferred from the experience section."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not align with the job responsibilities listed in the job description, such as building and maintaining product development plans, supporting R&D leadership, engaging with clients, participating in model validation, and partnering with client-facing teams."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Product management', 'Catastrophe modeling', and 'Usage and interpretation of catastrophe model output'. However, there is no direct match for 'Accounting/Auditing' and 'Consulting' which are listed as optional skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills do not match the soft skills listed in the job description, such as collaboration, strategic thinking, client engagement, adaptability, and cross-cultural communication."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is listed as a required tool in the job description. However, there is no mention of Adobe Creative Suite, Facebook, Salesforce, or other tools listed as optional skills."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'excellent interpersonal skills', 'CPR', and 'filing', which could be relevant in an insurance/finance context. However, these skills are not directly aligned with the job responsibilities or required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.365
+}

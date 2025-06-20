@@ -1,0 +1,51 @@
+{
+    "resume_id": "25162378",
+    "jd_id": "3904059851",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.389,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have the required certification 'active Series 7 license' mentioned in the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Bachelor of Science degree in Business Management Marketing, but the field of study does not match the job description's domain 'financial investments'."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has experience in banking operations and golf facility management, which aligns with the job responsibilities of supporting internal and external customers and providing complex support services. However, the experience years do not meet the required 6+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership roles in managing operations and teams, but does not provide specifics on leadership experience in the financial investments domain."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions responsibilities such as managing branch operations, customer service, and technical support, which aligns with the job responsibilities. However, the details provided are not as comprehensive as those in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'approach', 'banking', 'brochures', 'budget', 'catalogs', 'direct marketing', 'Event Management','marketing management', 'negotiation','sales', and 'web server'. However, there are no specific tools mentioned in the resume."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks specific soft skills mentioned in the job description such as 'adept at diffusing situations' and 'able to translate information in a way the client would understand'."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, which is a requirement in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows transferable skills like project management, marketing, and sales, which could be beneficial in the financial investments domain. However, the lack of specific tools and certifications reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.513
+}

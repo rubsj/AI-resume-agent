@@ -1,0 +1,51 @@
+{
+    "resume_id": "69155584",
+    "jd_id": "3905843754",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.359,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not list any certifications, while the job description requires a Bachelor's degree in marketing, business, or a related field."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has listed two degrees but lacks the required Bachelor's degree in marketing, business, or a related field mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 15.1 yrs (capped to 15.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant work experience in sales and customer service, which aligns with the job responsibilities. The experience is detailed and shows achievements that could be beneficial for the role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate has used appropriate language and formatting."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience, which are required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on past responsibilities that align with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Motivated Seller, Customer Service Oriented, Attention to Detail, Quick Learner, and Persuasive Communicator, which align with the required skills of the job description. However, there is no mention of specific certifications or tools used."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists soft skills such as Strong communication and presentation skills, Leadership and team management skills, and Highly organized, which are aligned with the soft skills required in the job description. However, the details provided are not as comprehensive as those in the job description."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['email (fuzzy)'] | (LLM 0.4): The job description mentions specific tools like email, SMS/push, and social marketing, but the candidate's resume does not indicate proficiency or use of these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes transferable skills like Attention to Detail, Quick Learner, and Persuasive Communicator, which are relevant to the job description. However, the lack of specific certifications and tools used limits the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.414
+}
