@@ -1,0 +1,51 @@
+{
+    "resume_id": "16203589",
+    "jd_id": "3904390372",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.676,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that match the job description's requirements."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor's degree in Interior Design is mentioned, but it does not directly match the job description's requirement for a degree in Engineering or related field."
+        },
+        "experience": {
+            "score": 0.714,
+            "reason": "(Rule 0.5): Resume: 10.9 yrs (capped to 10.9), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has experience in project management and construction, which aligns with the job description's requirements. However, the total experience years exceed the preferred experience years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, such as Project & Construction Manager, indicates strong leadership skills, which align with the job description's requirements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing project schedule, budget, and staff, which align with the job description's responsibilities. However, there is no mention of experience with preconstruction operations."
+        },
+        "skills": {
+            "score": 0.483,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Management (exact)', 'bid-build (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as Auto CAD, Project Management, and Leadership, which align well with the job description's requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong interpersonal skills and leadership abilities, which align with the job description's soft skills. However, there is no mention of advanced interpersonal skills or negotiation abilities."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the resume that match the job description's requirements."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Time Management, Complex Problem Solving, and Active Listening are mentioned, which can be considered transferable. However, there is no mention of specific skills like Project Risk Identification or Managing Personnel Resources."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.505
+}

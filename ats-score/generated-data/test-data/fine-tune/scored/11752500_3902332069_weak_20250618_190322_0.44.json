@@ -1,0 +1,51 @@
+{
+    "resume_id": "11752500",
+    "jd_id": "3902332069",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.387,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks information about the field of study and GPA, which are crucial for a PhD-level position."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 29.0 yrs (capped to 29.0), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has significant experience in various roles related to maintenance and repair of aircraft systems, which is relevant to the job's focus on complex 3D computer vision applications."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams, which is beneficial for a role that requires managing a small focused team."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities show strong alignment with the job's focus on algorithm development, model training, and research, particularly in the context of aerospace and defense applications."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in Avionics Systems, Electrical Components, Aircraft Instruments, Troubleshooting, Problem Resolution, and Maintenance Management, which aligns well with the job's requirement for Computer Vision Research skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in Python, Pytorch, or Tensorflow, which are essential tools for the job."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Process Change and Implementation, Goal Attainment, and Quality Assurance are transferable to the job's emphasis on innovation and meeting high standards."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.44
+}

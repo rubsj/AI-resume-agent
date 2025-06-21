@@ -1,0 +1,51 @@
+{
+    "resume_id": "27246366",
+    "jd_id": "3905306842",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.466,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Construction Management Technology but lacks the Professional Engineer (PE) license, which is preferred for the role."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Construction Management Technology, which is relevant to the job title but does not match the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience as a Senior Construction Manager, which closely matches the job responsibilities of managing engineering activities at a power generating plant."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles in managing a team of workers, which aligns with the job responsibilities. However, there is no mention of on-going technical direction or on-call availability."
+        },
+        "responsibilities": {
+            "score": 0.364,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Outage/Project Management (fuzzy)'] | (LLM 0.5): The candidate's experience includes responsibilities like outage/project management, project budget management, and technical support, which align with the job responsibilities. However, there is no mention of long-term maintenance strategies or capital budget development."
+        },
+        "skills": {
+            "score": 0.325,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Project Management (substring)'] | (LLM 0.4): The candidate has experience in project management, which aligns with the job's requirement for engineering activities. However, there is no explicit mention of IT skills, which are also required."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions strong organizational skills and self-motivation, which align with the soft skills required. However, there is no mention of interpersonal skills or conflict resolution."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): There is no mention of proficiency with computer business tools, personal computers, software applications, PLCs, distributed control systems, industrial electrical switchgear, circuit breakers, or transformers, which are required tools for the job."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in construction management can be transferred to engineering activities, particularly in project management and technical support. However, there is no mention of troubleshooting resources or system equipment failure analysis."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.478
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "14790629",
+    "jd_id": "3902805516",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.484,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): No education information found in resume. | (LLM 0.5): No education details are provided in the resume, and the job description does not specify any required educational background."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 21.5 yrs (capped to 21.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in management and customer support, which aligns with the job's responsibilities and required experience. However, the job description does not explicitly state the required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams, which aligns with the job's leadership requirement. However, the job description specifies leadership in tank production, which is not directly mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes managing teams and ensuring product quality, which aligns with the job's responsibilities. However, the job description provides more detailed responsibilities that the candidate does not explicitly cover."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Marketing (exact)'] | (LLM 0.4): The candidate has experience in customer service, which aligns with the job's requirement for marketing and customer service skills. However, there is no explicit mention of marketing or public relations skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates skills in customer service, communication, and teamwork, which align with the soft skills required. However, the job description lists additional soft skills such as continuous improvement and driving complex projects that are not fully covered in the resume."
+        },
+        "tools": {
+            "score": 0.38,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is mentioned in both the resume and job description. The job description also mentions specific tools like Primavera (P6), Open Plan, and MS Project, but the candidate's experience does not directly correlate with these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in customer support and management provides transferable skills, but the job description requires specific skills in marketing and public relations that are not evident in the resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.505
+}

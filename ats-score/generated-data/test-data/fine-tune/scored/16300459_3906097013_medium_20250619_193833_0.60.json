@@ -1,0 +1,51 @@
+{
+    "resume_id": "16300459",
+    "jd_id": "3906097013",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.275,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications mentioned match the job requirements."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds a Master's degree in Finance, which is relevant to the job, but only has a Bachelor's degree in International Economics and Trade, which is less directly related."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 2.4 yrs (capped to 2.4), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in finance-related roles, including Financial Editor Assistant, Customer Manager Assistant, and Accounting Assistant, which align with the job responsibilities. However, the experience is limited to a few years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as District Manager, but the job description does not emphasize leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities listed in the job description, such as managing location teams and assisting with financial management, but there is no direct match for all responsibilities."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has relevant skills such as Customer Service, General Business, and Project Management, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like strong customer service, ability to handle conflict, and communication skills, which are soft skills listed in the job description. However, these are not explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.81,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 3, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)', 'Word (exact)', 'PowerPoint (exact)'] | (LLM 0.4): The candidate is proficient in Microsoft Word, Excel, PowerPoint, and Prezi, which are tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as attention to detail, problem-solving, and adaptability, which are not explicitly mentioned in the job description but could be inferred from their experience."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.596
+}

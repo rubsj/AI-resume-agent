@@ -1,0 +1,51 @@
+{
+    "resume_id": "23155093",
+    "jd_id": "3903845346",
+    "domain": "HR",
+    "resume_jd_similarity": 0.662,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Management & Organizational Leadership, but the GPA is not specified."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 25.6 yrs (capped to 25.6), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in various roles that align with the job responsibilities, including HR Manager, Office Operations Manager, and Customer Support Manager."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervising, mentoring, and leading teams, which indicates strong leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as preparing reports, supporting business functions, and managing teams, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.648,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Analyst (fuzzy)', 'Research (substring)'] | (LLM 0.4): The candidate has relevant skills such as Management, Administrative Support, Coach, Human Resources, Leadership, Team Lead, Mentor, and Excellent Communication Skills, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong business acumen, understanding of organizational structure, stakeholder management, and communication skills, which are aligned with the soft skills required."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No specific tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Project Management, Project Lead, and Researching are mentioned in the resume, which can be transferred to the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.582
+}

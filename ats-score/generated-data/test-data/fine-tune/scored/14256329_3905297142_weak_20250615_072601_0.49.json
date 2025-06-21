@@ -1,0 +1,51 @@
+{
+    "resume_id": "14256329",
+    "jd_id": "3905297142",
+    "domain": "HR",
+    "resume_jd_similarity": 0.55,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate does not mention any certifications, which are required according to the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BSc in Human Resource Management from University College of the Caribbean, but there is no information about the second degree or field, which is mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has relevant experience in HR services, recruitment, and customer service, which matches the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, which is a requirement for the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like recruitment, onboarding, and working with systems, which aligns with the job responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.724,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)', 'Management (exact)', ' (substring)'] | (LLM 0.4): The candidate possesses a wide range of skills relevant to the job description, including Human Resource Management, Benefits, Claims, Contracts, Databases, Documentation, File, HR, Increase, Induction, Packaging, Recruiting, Security, Accounts And, Cash, CSR, Customer Service, Dispatch, Faxing, Filing, Loans, Payroll, Receptionist, Retail Sales, Vouchers, Confident, Excel, Microsoft Word, Presentation Skills, Proactive, Self Motivated, Telephone, Word. These skills align well with the required skills of the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions soft skills such as being confident, proactive, self-motivated, and having good communication skills, which are beneficial for the role."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any tools or technologies used, while the job description requires knowledge of Oracle and LATS."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in administration, customer service, and management are transferable to the job responsibilities listed in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.494
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "26202430",
+    "jd_id": "3903423651",
+    "domain": "HR",
+    "resume_jd_similarity": 0.517,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume lacks specific details about the candidate's educational achievements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 8.6 yrs (capped to 8.6), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR roles, particularly in business analysis and system applications, aligning well with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership skills are not explicitly mentioned, but their experience in project management suggests some level of leadership capability."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Business Partnering (fuzzy)'] | (LLM 0.5): The candidate's responsibilities cover most aspects of the job description, but there is no mention of direct talent management or generalist experience."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has a comprehensive set of skills relevant to the job, including advanced Excel, SAP HCM, and various HR tools."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are generally aligned with the job description, but there is no explicit mention of high energy or influence across all levels and regions."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate possesses proficiency in Microsoft Office Suite, which matches the requirement in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in problem-solving, attention to detail, and operations management are transferable to the job, though they may not be directly stated."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.586
+}

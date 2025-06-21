@@ -1,0 +1,51 @@
+{
+    "resume_id": "47470864",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.422,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required or preferred ones in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an Associates Degree in Business Administration/Human Resources and a certificate program in Essentials of Human Resource Management, which is relevant but lacks depth compared to the preferred bachelor's degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.5 yrs (capped to 15.5), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that involve human resources and administration, aligning with the job responsibilities. However, the total experience years do not meet the required 7+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams, as seen in the role of Assistant Manager and Call Center Manager. However, there is no explicit mention of leading projects or managing complex systems."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job description, such as managing teams and achieving milestones. However, there is no explicit mention of project planning, execution coordination, or tracking."
+        },
+        "skills": {
+            "score": 0.448,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has relevant skills in Human Resources, Information Technology, and Project Management, aligning with the job description. However, there is a lack of specific technical skills like PMP Certification or ERP System knowledge."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership, problem-solving, communication, and critical thinking, align with the job description. The skills are mentioned in the resume, indicating proficiency."
+        },
+        "tools": {
+            "score": 0.022,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP System (fuzzy)'] | (LLM 0.4): No mention of using Deltek, Procore, HRIS systems, or any other tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like clerical, administrative, and customer service skills, which are relevant to the job description. However, there is a lack of detail on how these skills specifically relate to the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.454
+}

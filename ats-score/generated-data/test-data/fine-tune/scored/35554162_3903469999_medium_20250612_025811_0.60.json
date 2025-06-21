@@ -1,0 +1,51 @@
+{
+    "resume_id": "35554162",
+    "jd_id": "3903469999",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.668,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description prefers candidates with a Bachelor's degree."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA and a BBA in Accounting, which are relevant degrees for the job. However, the specific institutions and GPAs are not provided, which could be beneficial for a more detailed assessment."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.6 yrs (capped to 28.6), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in various accounting roles, which matches the required experience level of 2 years. The detailed job responsibilities and tasks performed are closely aligned with those expected in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand. However, some details such as dates and specific achievements could be more clearly presented to enhance clarity."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is not explicitly mentioned in the resume, although they have team lead responsibilities and project management experience. This is less than the required experience level of 2 years for leadership roles."
+        },
+        "responsibilities": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's job responsibilities, such as performing general accounting activities, preparing financial statements, and reconciling accounts, closely match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.493,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and auditing, which aligns well with the job requirements. They possess skills in Oracle Accounting, Dun and Bradstreet Financial Reporting, Microsoft Office, and Bank Of America CashPro, which are relevant tools mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong written and verbal communication skills, attention to detail, and critical thinking skills, which are essential soft skills for the job. However, there is no explicit mention of proficiency in working under deadline pressure or following instructions, which are also mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.78,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'Excel (fuzzy)', 'Oracle (exact)'] | (LLM 0.4): The candidate's experience with Oracle Accounting, Microsoft Office, and Bank Of America CashPro matches the tools and technologies required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's accomplishments, such as automating processes and implementing new systems, demonstrate transferable skills that could be valuable in the role. However, these are not explicitly stated as required skills in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.599
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "17150707",
+    "jd_id": "3902860720",
+    "domain": "HR",
+    "resume_jd_similarity": 0.314,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest education is a B.S. in Business from Western Michigan University, which does not match the preferred degree of Human Resources."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in HR roles, particularly in HRIS, benefits administration, and shared services, which aligns with the job responsibilities. However, the experience is not as recent or closely aligned with the specific tools and technologies required."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience or skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles overlap with the job responsibilities, such as providing customer support, managing benefits, and conducting interviews. However, there is no mention of sales skills, which are required."
+        },
+        "skills": {
+            "score": 0.368,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate possesses relevant skills such as 'administrative', 'ADP', 'Benefits', 'counseling', 'client', 'customer support', 'Documentation', 'forms', 'HRIS', 'human resource', 'HR', 'law', 'Director','market', 'Microsoft Office', 'payroll', 'PeopleSoft', 'personnel', 'policies', 'processes','reporting','researching','research', 'SAP', 'technical support'. These skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as excellent communication and interpersonal skills, align well with the job responsibilities. However, there is no explicit mention of building relationships with candidates and internal managers."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, such as Workday, which is required for the position."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like administrative, customer support, and process management, which could be useful in a Talent Acquisition role. However, these skills are not as closely aligned with the specific job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.425
+}

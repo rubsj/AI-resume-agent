@@ -1,0 +1,51 @@
+{
+    "resume_id": "10100240",
+    "jd_id": "3904585176",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.739,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a CSHO certification, which is relevant to the job description's emphasis on safety and compliance."
+        },
+        "education": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a High School Diploma and a CSHO certification, which do not directly match the job description's requirement for specific degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.2 yrs (capped to 3.2), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Carpenter Apprentice and Construction Worker, which aligns well with the job description's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are important in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as interpreting construction drawings, managing projects, and ensuring safety, which align well with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as carpentry techniques, construction drawing interpretation, and safety and compliance, which align well with the job description's required skills of Management and Manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions a strong work ethic and motivation to learn, which could be considered soft skills relevant to the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools are mentioned in the candidate's resume that directly match the job description's 'Required Tools' section."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in cabinetry material prep, new construction and renovation, and drywalling are transferable skills that could be beneficial in the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.616
+}

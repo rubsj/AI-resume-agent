@@ -1,0 +1,51 @@
+{
+    "resume_id": "11441764",
+    "jd_id": "3901942183",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.664,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Accounting and a Master of Business Administration, which aligns with the required degree in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 15.0 yrs (capped to 15.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in financial management, accounting, and budget preparation, which matches the job requirements. However, the job description requires at least 5 years of experience, while the resume shows more than 15 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not mention any leadership roles or responsibilities, which are part of the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide information on the candidate's responsibilities, which are detailed in the job description."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'accounting', 'financial management', 'budget preparation', and 'financial reporting'. However, there is no mention of specific tools like SAP or MS Dynamics used in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks soft skills that are mentioned in the job description, such as attention to quality and accuracy."
+        },
+        "tools": {
+            "score": 0.102,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['SAP (exact)', 'JD Edwards (substring)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used, whereas the job description lists several tools like SAP, MS Dynamics 365, etc., that the candidate may need to be proficient in."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes transferable skills like 'account reconciliation', 'accounting', and 'financial management', which are relevant to the job description. However, the job description also mentions specific tools and technologies that are not covered in the resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.42
+}

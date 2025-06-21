@@ -1,0 +1,51 @@
+{
+    "resume_id": "36434348",
+    "jd_id": "3905302212",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.412,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which may be a drawback compared to candidates who have relevant certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds Master's and Bachelor's degrees in Management Information Systems and Information and Decision Sciences, respectively, which are relevant to the job requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in IT management, system analysis, and software development, but the job description requires more specific experience in embedded software and ADAS functionalities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. This contributes positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading IT support and application development operations, which indicates strong leadership skills. However, there is no explicit mention of leadership in the context of embedded software engineering."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, particularly in terms of algorithm development, software component design, and collaboration with hardware engineers. However, there is no explicit mention of responsibilities related to ADAS functionalities or real-time systems."
+        },
+        "skills": {
+            "score": 0.412,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 3, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)', 'Problem-solving (substring)', 'Communication Skills (substring)'] | (LLM 0.4): The candidate has extensive experience in Information Technology, Algorithm Development, Real-time Systems, and has relevant skills in Software Tools, Hardware-in-the-loop (HIL) Testing, Data Analysis, and Documentation, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong communication skills, leadership, and problem-solving abilities, which are important soft skills for the role. However, there is no explicit mention of skills related to cross-functional interaction or business anchoring."
+        },
+        "tools": {
+            "score": 0.292,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 1}. Matched: ['Software Development Tools (fuzzy)', 'Disability (exact)', 'Training (exact)'] | (LLM 0.4): The candidate has experience with various tools mentioned in the job description such as Software Tools, Hardware-in-the-loop (HIL) setups, Simulation Tools, Data Analysis Tools, Model-based Design Tools, Automotive Communication Protocols, and Software Development Tools. However, there is no explicit mention of experience with specific tools like AUTOSAR or ISO 26262."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas such as project management, application development, and system integration, which could be beneficial in an embedded software engineering role. However, these skills are not directly aligned with the job requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.514
+}

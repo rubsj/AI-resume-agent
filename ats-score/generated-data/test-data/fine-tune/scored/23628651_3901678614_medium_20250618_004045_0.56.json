@@ -1,0 +1,51 @@
+{
+    "resume_id": "23628651",
+    "jd_id": "3901678614",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.285,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education does not align with the job requirements, which focus on food service and manufacturing."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in leadership roles, particularly in education, which can be transferred to food service supervision. However, there is no direct experience in food service or manufacturing."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including managing teams and initiatives, which is relevant to food service supervision."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not mention any responsibilities related to food service supervision or manufacturing."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills in'management' and'marketing', but lacks'manufacturing'. The resume includes skills like 'project management', 'client relations', and 'public relations' which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as'strong communication', 'interpersonal skills', and 'attention to detail', which are required for the job."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume that align with the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'project management', 'client relations', and 'public relations' can be transferred from education to food service supervision, but lack specific skills like'meal preparation' or 'cooking'."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.565
+}

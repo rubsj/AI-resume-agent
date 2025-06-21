@@ -1,0 +1,51 @@
+{
+    "resume_id": "10466208",
+    "jd_id": "3904369515",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.511,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Arts degree in Business Administration and Public Relations is mentioned, but the institution and year are unspecified, which may limit its relevance to the job description."
+        },
+        "experience": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate's experience includes roles that involve sales, account management, and customer service, which align with the job description's responsibilities. However, the lack of specific dates makes it less impactful."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for some unspecified dates and missing details."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions being a 'Representative of the year 2003' and having 'Leadership' skills, but there is no detailed information about leadership roles or achievements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job description's responsibilities, particularly in areas like account management, customer service, and sales. However, there is no direct match with the specific responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Account Management', 'acquisitions', 'ADMINISTRATIVE', 'contracts', 'clientele', 'customer satisfaction', etc., which align well with the job description's required skills of 'Business Development' and 'Sales'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like 'communication', 'organization', and 'problem-solving', which align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Account Management', 'acquisitions', and 'customer satisfaction' are transferable to the job description's requirements, but the lack of detail in the resume reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.487
+}

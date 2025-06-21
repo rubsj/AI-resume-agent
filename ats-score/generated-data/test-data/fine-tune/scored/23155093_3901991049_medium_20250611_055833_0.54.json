@@ -1,0 +1,51 @@
+{
+    "resume_id": "23155093",
+    "jd_id": "3901991049",
+    "domain": "HR",
+    "resume_jd_similarity": 0.702,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, which may be preferred by the employer."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Management & Organizational Leadership, but the lack of specific GPA information and additional degrees may not fully meet the expected educational background."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 25.6 yrs (capped to 25.6), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR management roles, closely matching the required experience and responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including team leading and mentoring, which aligns with the job description's expectations, but the lack of detailed achievements may lower the score."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with most of the responsibilities listed in the job description, though there are some discrepancies in terms of specific tasks and tools used."
+        },
+        "skills": {
+            "score": 0.512,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has experience in management, administrative support, coaching, and excellent communication skills, which align well with the required skills of the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in communication, teamwork, and leadership are aligned with the soft skills required, but the lack of specific examples or quantifiable achievements may lower the score."
+        },
+        "tools": {
+            "score": 0.352,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 3}. Matched: ['Compensation COE (fuzzy)', 'MS Excel (fuzzy)', 'MS PowerPoint (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are mentioned in the job description, but lacks experience with more specialized HR solutions."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a range of transferable skills, including management, administrative support, and mentoring, but the lack of specific examples or recent application may affect the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.537
+}

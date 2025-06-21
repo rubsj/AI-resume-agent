@@ -1,0 +1,51 @@
+{
+    "resume_id": "30563572",
+    "jd_id": "3905834076",
+    "domain": "HR",
+    "resume_jd_similarity": 0.663,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a SPHR Certification, which is relevant to the job description's certification requirement."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a B.S. in Business Administration from California State University, which is aligned with the job description's educational background requirement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.1 yrs (capped to 17.1), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has over 17 years of experience in HR Management and Business Partnership, which matches the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in strategic business partnership and change management indicates leadership capabilities that align with the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's expectations for leading HRBP capabilities, managing employee relations, and supporting talent strategies."
+        },
+        "skills": {
+            "score": 0.648,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', ', (substring)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, Strategy/Planning, and Employee Relations, aligning closely with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as being detail-oriented and self-motivated, are relevant to the job description's expectations for collaborative leadership and strong advisory roles."
+        },
+        "tools": {
+            "score": 0.62,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): The candidate's skills include Excel, Outlook, PowerPoint, MS Word, Oracle, and PeopleSoft, but these are not explicitly mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, like change management and coaching, are applicable to the job description's requirements for organization effectiveness and leadership."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.712
+}

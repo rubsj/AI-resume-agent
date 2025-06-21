@@ -1,0 +1,51 @@
+{
+    "resume_id": "19336728",
+    "jd_id": "3904925694",
+    "domain": "HR",
+    "resume_jd_similarity": 0.365,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the required or preferred degrees or skills for the position."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelors of Art in Organizational Leadership from Cleveland State University, which is relevant to the human resources aspect of the job, but lacks the advanced degree preferred by the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 20.8 yrs (capped to 20.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in various roles that demonstrate administrative skills and leadership, which align with some of the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in owning and operating a retail store, which demonstrates leadership skills, but lacks formal leadership training or experience in youth employment programs."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job responsibilities, particularly in managing projects and providing administrative support, but lacks direct experience in developing policies, overseeing data collection, and coordinating with stakeholders."
+        },
+        "skills": {
+            "score": 0.284,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Training (exact)'] | (LLM 0.4): The candidate has relevant skills such as administrative support, repairs, and spreadsheet proficiency, which align with the job's requirement for project management and strategy/planning."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-reported skills include leadership, communication, and problem-solving, which align with the soft skills required for the position."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of specific tools or technologies used in the candidate's resume matches those listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in administrative support, repairs, and spreadsheet proficiency can be transferred to the role, but lack depth in project management and strategic planning."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.438
+}

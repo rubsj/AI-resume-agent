@@ -1,0 +1,51 @@
+{
+    "resume_id": "61322296",
+    "jd_id": "3904367325",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.668,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's requirement for a BA degree."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): An Associate of Applied Science in Culinary Arts from NEW YORK RESTAURANT SCHOOL is relevant but lacks the bachelor's degree specified in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.4 yrs (capped to 15.4), JD requires: 1.0 yrs. | (LLM 0.5): The candidate's experience as a Sous Chef and previous roles demonstrate a strong background in food service management, closely matching the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is professionally formatted and free of grammatical errors, enhancing its readability and appeal."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in mentoring and training suggests leadership capabilities, though the resume could benefit from more explicit leadership achievements."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with many of the job responsibilities listed, particularly in leadership, customer service, and operations management."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in culinary arts and management, aligning closely with the job description's required skills in management and manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like mentoring, training, and leadership are present but could be more explicitly linked to soft skills such as communication and collaboration."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume, which contrasts with the job description's requirement for specific tools and technologies."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like physical fitness and food preparation are transferable but lack explicit alignment with the job description's focus on management and financial performance."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.642
+}

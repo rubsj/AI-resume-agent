@@ -1,0 +1,51 @@
+{
+    "resume_id": "87118391",
+    "jd_id": "3901937918",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.664,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, whereas the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Communications degree from West Virginia State University and George Washington High School, but lacks a Bachelor's degree which is preferred in the job description. The lack of GPA information also reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 13.2 yrs (capped to 13.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales, city management, and corporate travel consultancy, which aligns well with the job responsibilities. The detailed job descriptions provide evidence of relevant skills and experiences."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, the use of commas instead of decimal points for years of experience and the lack of clear dates can slightly reduce the score."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in managing teams, but the job description does not explicitly require leadership skills. The lack of specific examples or achievements in leadership roles reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing accounts, customer service, and sales, which align with the job responsibilities. However, the lack of detail on specific responsibilities related to DAS products reduces the score slightly."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as'sales', 'customer relations', and 'communication'. However, there is no mention of specific certifications or advanced degrees which could be beneficial for the role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as communication, detail-oriented, and customer service, which are aligned with the job requirements. However, the lack of specific examples or quantifiable achievements reduces the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, whereas the job description requires knowledge of CRM tools and Microsoft Office."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like leadership, teamwork, and problem-solving, which are relevant to the job. However, the lack of specific examples or quantifiable achievements reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.554
+}

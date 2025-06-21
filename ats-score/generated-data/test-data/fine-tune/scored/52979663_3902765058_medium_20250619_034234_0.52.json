@@ -1,0 +1,51 @@
+{
+    "resume_id": "52979663",
+    "jd_id": "3902765058",
+    "domain": "HR",
+    "resume_jd_similarity": 0.299,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume that directly match the job description's requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has relevant degrees in Personnel and Supervision, but lacks specific details about GPA or graduation dates, which could have enhanced the match."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 29.5 yrs (capped to 29.5), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in various HR roles, including Industrial Development Director and Environmental, Health & Safety Director, which aligns with the job description. However, the lack of detail about specific responsibilities may lower the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, which enhances the overall impression."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as Industrial Development Director and Environmental, Health & Safety Director, which aligns with the job description. However, the lack of detailed responsibilities may lower the score."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume provides some responsibilities that align with the job description, such as managing HR functions and leading training teams. However, there is a lack of detail about specific responsibilities related to leave management and disability services."
+        },
+        "skills": {
+            "score": 0.536,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'HRIS (exact)'] | (LLM 0.4): The candidate has a strong background in Human Resources, which matches the required skills in the job description. The education in Personnel and Supervision also aligns with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like critical thinking, communication, problem-solving, adaptability, and empathy, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.15,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['HRIS (exact)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, which contrasts with the job description's requirement for proficiency in HRIS, Applicant Tracking Systems, and Payroll Systems."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like finance, functional management, and quality assurance, which could be beneficial in the role. However, the lack of specific examples or metrics may lower the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.523
+}

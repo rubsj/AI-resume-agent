@@ -1,0 +1,51 @@
+{
+    "resume_id": "52979663",
+    "jd_id": "3901945484",
+    "domain": "HR",
+    "resume_jd_similarity": 0.375,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume that match the job description's requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has multiple degrees in relevant fields, but the lack of specific details such as GPA or graduation dates may affect the ATS's ability to fully evaluate their educational background."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has significant experience in Human Resources, which aligns with the job description. However, there is a lack of direct experience in Business Development and Sales, which are also key areas of focus for the position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy for an ATS to process and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, particularly in HR and safety, which aligns with the job description. However, there is a lack of detail on how these experiences demonstrate leadership qualities specifically relevant to the position."
+        },
+        "responsibilities": {
+            "score": 0.312,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Identifying top talent (fuzzy)'] | (LLM 0.5): The candidate's experience includes responsibilities related to Human Resources, which aligns with the job description. However, there is a lack of direct experience in the specific responsibilities listed in the job description, such as conducting phone interviews and preparing candidates for meetings."
+        },
+        "skills": {
+            "score": 0.608,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'Sales (exact)'] | (LLM 0.4): The candidate has a strong background in Human Resources, which matches the required skills of the job description. However, there is a lack of direct experience in Business Development and Sales, which are also required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates strong soft skills such as teamwork and cultural fit, which align with the job description's requirements. However, there is a lack of specific examples or evidence of skills like personality, grit, and persistence."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any specific tools or technologies they have used in their previous roles, which contrasts with the job description's requirement for proficiency in Insight Global's internal database and other tools."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as problem-solving and negotiation, which are relevant to the job description. However, there is a lack of direct experience in sales behaviors and other specific skills mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.533
+}

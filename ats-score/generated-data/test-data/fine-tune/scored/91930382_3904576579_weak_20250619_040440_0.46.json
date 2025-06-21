@@ -1,0 +1,51 @@
+{
+    "resume_id": "91930382",
+    "jd_id": "3904576579",
+    "domain": "HR",
+    "resume_jd_similarity": 0.396,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which is a requirement in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Human Resources, which aligns with the preferred degree in the job description, but lacks details such as GPA and graduation year."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.5 yrs (capped to 14.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, including recruitment and employee relations, which matches the job responsibilities. However, the resume does not explicitly state the number of years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions some responsibilities aligned with the job description, such as recruitment and employee relations, but lacks detail on specific responsibilities like engagement plans and compliance with employment laws."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills relevant to the job, including ATS tools like Bullhorn, LinkedIn, and Indeed, which are mentioned in both the resume and job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like communication and leadership, which are part of the soft skills required in the job description. However, there is no explicit mention of negotiation or critical thinking."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Bullhorn, LinkedIn, and Indeed, which are mentioned in the job description. However, there is no mention of HRIS or other technologies specifically called out in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes skills like attention to detail and systems analysis, which are transferable skills mentioned in the job description. However, there is no explicit mention of content expertise or customer focus."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.464
+}

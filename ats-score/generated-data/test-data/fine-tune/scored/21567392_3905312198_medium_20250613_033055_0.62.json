@@ -1,0 +1,51 @@
+{
+    "resume_id": "21567392",
+    "jd_id": "3905312198",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.729,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a PMP certification, which is relevant to the job, but lacks other certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education includes a Bachelor of Arts in Petroleum Engineering and a Building Construction Trades Certificate, which may not directly match the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 23.5 yrs (capped to 23.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in construction management, including project coordination, safety management, and leadership, which closely matches the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates leadership through their experience in managing teams and overseeing multiple projects, which is crucial for the job."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, including managing field teams, analyzing drawings, and coordinating with clients."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as Construction safety, Project management, and Technical support, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as effective communication and leadership, which are essential for the role."
+        },
+        "tools": {
+            "score": 0.03,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Project (fuzzy)'] | (LLM 0.4): The candidate does not mention proficiency in tools like MS Project, Microsoft Office, Gantt schedule creation, etc., which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles that could be beneficial in the new position, but there is room for improvement in matching specific tools and technologies."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.62
+}

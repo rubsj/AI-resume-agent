@@ -1,0 +1,51 @@
+{
+    "resume_id": "19616406",
+    "jd_id": "3905368524",
+    "domain": "HR",
+    "resume_jd_similarity": 0.54,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the job's requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions a certificate in HR, but lacks specific details such as field of study or completion date, making it less clear how it aligns with the job's educational requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 20.2 yrs (capped to 20.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate's experience in HR management closely matches the job's requirement for experience in policy development and implementation. The detailed job responsibilities are reflected in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail or clarity, which could affect its effectiveness in matching the job requirements."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience or skills in the resume that would indicate the candidate's ability to mentor or lead teams, which is a requirement for the job."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that closely match the job's responsibilities, such as policy analysis and implementation, though there is no direct mention of the specific tasks listed in the job description."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has extensive experience in HR, which aligns well with the job's requirement for policy interpretation and analysis. The skills listed are relevant to the job responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates strong problem-solving and communication skills, which are essential for the job. However, there is no explicit mention of the soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.048,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ARIES (fuzzy)'] | (LLM 0.4): The resume does not mention proficiency in tools such as ARIES, SNAP, Medicaid, TEA, which are required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows skills that can be transferred to the job, such as administrative support and benefit administration, but there is no explicit mention of the specific skills listed in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.542
+}

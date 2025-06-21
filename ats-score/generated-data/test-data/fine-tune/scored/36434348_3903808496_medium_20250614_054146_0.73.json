@@ -1,0 +1,51 @@
+{
+    "resume_id": "36434348",
+    "jd_id": "3903808496",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.59,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications, which may be preferred by the employer according to the job description."
+        },
+        "education": {
+            "score": 0.975,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds advanced degrees in Management Information Systems and Information and Decision Sciences, which are directly relevant to the job description's inferred domain of Information Technology."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 29.8 yrs (capped to 29.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in IT management and application development, but the job description specifies a required experience range of 4-7 years, and the candidate has over 29 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.95,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as an Information Technology Manager and Co-Founder demonstrates leadership skills, which are important for the role."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's requirement to translate business requirements into applications and collaborate with team members, but there is no mention of specific responsibilities related to cloud services or microservices containerization."
+        },
+        "skills": {
+            "score": 0.94,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in.Net Framework, C#, and Web Services, which aligns well with the job description's required skills. The resume also mentions proficiency in other relevant technologies such as SQL Server and Agile methodologies."
+        },
+        "soft_skills": {
+            "score": 0.85,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights strong communication skills, leadership, and strategic planning, which are beneficial soft skills for the role."
+        },
+        "tools": {
+            "score": 0.387,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 2, 'fuzzy': 2}. Matched: ['C# (substring)', 'Database (exact)', 'web application development (fuzzy)', 'SQL Server (substring)', 'Oracle (exact)', 'React (fuzzy)'] | (LLM 0.4): The candidate's skills include some tools mentioned in the job description such as.Net Framework, C#, and SQL Server, but there are gaps in alignment with other specified tools like Docker, OpenShift, and Azure DevOps."
+        },
+        "transferable_skills": {
+            "score": 0.65,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as project management and system administration, but these are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.727
+}

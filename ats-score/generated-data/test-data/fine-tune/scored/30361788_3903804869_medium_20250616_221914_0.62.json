@@ -1,0 +1,51 @@
+{
+    "resume_id": "30361788",
+    "jd_id": "3903804869",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.434,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a CFO certification, but it is unclear if it is relevant to the job description. The certification is mentioned without a specific date, which reduces its relevance."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a BBA in Accountancy, which is relevant to the job description. However, the GPA is not provided, which could affect the assessment."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.7 yrs (capped to 14.7), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in accounting roles that align closely with the job responsibilities listed in the job description. The experience shows proficiency in various accounting tasks and demonstrates a strong background in school fund accounting."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and other sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are mentioned in the job description. Leadership is crucial for the role of Universal Banker III."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that match those listed in the job description, such as performing accounts payable duties and assisting with financial statements. However, there is no direct alignment with the responsibility of making referrals and selling bank products and services."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has skills in finance and sales, which align well with the job requirements. However, there is no mention of advanced computer skills, which could be beneficial for the role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong teamwork skills and continuous initiative for process improvement, which align with the soft skills required by the job description. However, there is no explicit mention of strong sales and customer service skills."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not explicitly mention proficiency in Microsoft Office, which is required by the job description. However, given the nature of the role, it can be assumed that the candidate has basic computer skills."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in creative problem solving and working well with others are transferable to the role. However, there is no mention of skills specifically related to lending and assessing financial needs, which is required by the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.625
+}

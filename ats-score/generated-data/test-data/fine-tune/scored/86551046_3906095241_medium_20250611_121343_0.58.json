@@ -1,0 +1,51 @@
+{
+    "resume_id": "86551046",
+    "jd_id": "3906095241",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.677,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires 'ServSafe certification'."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education details are not provided, making it impossible to compare against the job requirement of unspecified degrees."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 11.4 yrs (capped to 11.4), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Senior Sous Chef, Sous Chef, Kitchen Supervisor, and Banquet Cook, which aligns well with the job responsibilities. The experience includes leadership roles and achievements that match the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including managing multiple staff members and improving operational metrics, which aligns well with the job description's emphasis on leadership."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities mentioned in the description, such as creating an enhanced dining experience, adjusting recipes, and supervising staff. However, the candidate's responsibilities are more focused on culinary operations rather than nutrition optimization."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills like 'Highly Focused and Driven', 'High Volume Production Capability', 'High Profile Events', and 'Reliable' which align well with the required skill of 'Management'. However, there is no mention of 'Manufacturing' skill as per the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions 'Reliability' as a soft skill, which aligns with the job description. However, the candidate does not explicitly mention other soft skills like 'Teamwork' or 'Communication', which might be expected based on the job responsibilities."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate does not list any tools or technologies used, whereas the job description does not specify any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include leadership, culinary expertise, and attention to detail, which are relevant to the job. However, the lack of specific skills like 'Nutrition Knowledge' or 'Customer Service' may limit the alignment with the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.581
+}

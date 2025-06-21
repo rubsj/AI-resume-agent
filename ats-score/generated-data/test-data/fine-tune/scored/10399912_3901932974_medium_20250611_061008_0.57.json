@@ -1,0 +1,51 @@
+{
+    "resume_id": "10399912",
+    "jd_id": "3901932974",
+    "domain": "HR",
+    "resume_jd_similarity": 0.667,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may be a concern given the preference for a Bachelor's degree in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree from Montclair State University, which matches the minimum educational requirement. However, the GPA is not provided, which could be a factor in assessing the candidate's academic achievement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 4.9 yrs (capped to 4.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that align with the job responsibilities, particularly in HR-related positions. The experience spans over four years, which meets the required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some details such as GPA and specific job responsibilities are missing, which could affect the clarity of the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume, which is a key requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as HRIS database management, employee relations, and talent acquisition, which align with the job responsibilities. However, there is no direct mention of partnership with the Talent Acquisition team or leading HR transformation projects."
+        },
+        "skills": {
+            "score": 0.608,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (exact)', 'Human Resources (substring)'] | (LLM 0.4): The candidate has relevant skills in Administrative, Human Resources, and Data Entry, which align with the job requirements. However, there is no mention of SAP proficiency, which is optional but preferred."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include administrative support, auditing, and clerical tasks, which are aligned with the soft skills required. However, there is no explicit mention of collaborative entrepreneurial spirit or high ethical standards."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['HRIS systems (fuzzy)'] | (LLM 0.4): The candidate lists proficiency in Microsoft Office and PeopleSoft, which are mentioned as tools in the job description. However, there is no explicit mention of HRIS systems or other specific tools required by the job."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in typing, documentation, and customer service are transferable to the job, but there is no explicit mention of leadership or strategic planning skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.571
+}

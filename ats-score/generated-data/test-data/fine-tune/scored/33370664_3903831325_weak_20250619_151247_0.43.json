@@ -1,0 +1,51 @@
+{
+    "resume_id": "33370664",
+    "jd_id": "3903831325",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.353,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned match the job requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not specify any degree in finance or related fields, which is required for the job."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 19.2 yrs (capped to 19.2), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has relevant experience in case management, which is a key requirement for the job. However, the experience is not directly aligned with the finance domain required for the position."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not align with the job responsibilities listed in the description."
+        },
+        "skills": {
+            "score": 0.647,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Sales (exact)', 'Interpersonal skills (substring)'] | (LLM 0.4): The candidate has relevant skills in finance, sales, and case management, which align with the job requirements. However, there is a lack of specific technical skills like Microsoft Excel proficiency and understanding of FAR, JTR, and DCAA."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses some soft skills like interpersonal skills and communication, which are beneficial but not as strong as those required by the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools or technologies used in the candidate's experience matches those required by the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like problem-solving and customer service, which could be useful in the finance domain but are not as strongly emphasized as required by the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.432
+}

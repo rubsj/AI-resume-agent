@@ -1,0 +1,51 @@
+{
+    "resume_id": "23914451",
+    "jd_id": "3905291352",
+    "domain": "HR",
+    "resume_jd_similarity": 0.722,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a Senior Professional in Human Resources (SPHR) certification, which is relevant but not required for the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree in Wildlife and Fisheries Science, which does not match the required degree of a Bachelor's degree in Human Resources or a related field."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.9 yrs (capped to 28.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in various HR roles, including Human Resource Manager, HR Generalist, Front End Supervisor, Customer Service Technical Trainer, and Bakery Manager. This aligns well with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership skills or experiences, unlike the job description which requires mid-senior level experience."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job description's responsibilities, such as managing onboarding, providing HR policy guidance, and handling associate relations issues. However, there is no mention of specific responsibilities related to Workday or the annual Intern Program."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Associate Relations', 'Asset Protection', 'Succession Planning', 'Customer Service', and 'Retail Sales'. However, there is no mention of specific tools like Excel or Workday."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Executive presence', 'Judgment', and 'Resourcefulness', which are aligned with the job description. However, there is no mention of specific soft skills like 'Quick learning' or 'Strong customer-service mindset'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their work, unlike the job description which requires proficiency in Excel, PowerPoint, and Workday."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Time Management', 'Budgets', and 'Project Management', which are relevant to the job description. However, there is no mention of specific transferable skills like 'Workday processing' or 'Data management'."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.504
+}

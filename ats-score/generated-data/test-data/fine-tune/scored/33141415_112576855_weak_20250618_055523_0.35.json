@@ -1,0 +1,51 @@
+{
+    "resume_id": "33141415",
+    "jd_id": "112576855",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.21,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required or preferred certifications in the job description."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Science degree in IT - Web Multimedia and Animation from Kaplan University, which is relevant but not directly aligned with the job's educational requirements."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 25.3 yrs (capped to 25.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in construction, property maintenance, and painting, which shows adaptability and transferable skills to the building management field, though not directly related to building engineering."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no obvious grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are explicitly mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No specific responsibilities are listed that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has relevant skills in web development, HTML, XHTML, CSS, XML, scripting languages, JavaScript, ASP.NET, ActionScript 3.0, PHP, and programming languages like Visual Basic, C#, Java, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are explicitly mentioned in the resume that align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Steam (fuzzy)', 'Email (fuzzy)'] | (LLM 0.4): No tools or technologies used are explicitly mentioned, and none match the required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as problem-solving, learning ability, teamwork, and proficiency in various programming languages are transferable to the role, but they are not directly stated in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.352
+}

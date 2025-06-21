@@ -1,0 +1,51 @@
+{
+    "resume_id": "30563572",
+    "jd_id": "3901956374",
+    "domain": "HR",
+    "resume_jd_similarity": 0.656,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a SPHR certification, which is relevant to the job description. However, the certification is only mentioned from 2010-present, lacking a clear expiration date."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a B.S. in Business Administration and an SPHR certification, but the GPA is not provided, which could indicate a lack of academic achievement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.1 yrs (capped to 17.1), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has extensive experience as an HR Manager and Senior Human Resources Generalist, with detailed descriptions that align well with the job responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The formatting is consistent and professional."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows leadership in various aspects of HR management, but there is no explicit mention of leadership skills or achievements that align specifically with the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes many responsibilities that match those listed in the job description, such as overseeing the employee lifecycle, managing employee relations, and leading compensation and benefits administration. However, there is no direct mention of the specific tools or technologies required by the job."
+        },
+        "skills": {
+            "score": 0.96,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate possesses a wide range of skills relevant to the job description, including strategic business partnership, employee relations, talent management, and change management. The skills listed align closely with the required responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates strong soft skills, such as detail-oriented, self-motivated, and excellent written and verbal communication. These skills are relevant to the job description, but they are not quantified or elaborated upon."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions Workday as a tool, but the candidate's resume does not mention any specific tools or technologies used in their roles."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section lists a variety of transferable skills that could be beneficial in the role, such as Excel proficiency, project management, and strategic planning. However, these skills are not directly tied to the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.709
+}

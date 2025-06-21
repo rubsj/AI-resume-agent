@@ -1,0 +1,51 @@
+{
+    "resume_id": "26202430",
+    "jd_id": "3901942410",
+    "domain": "HR",
+    "resume_jd_similarity": 0.28,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a BBA degree, which aligns with the preferred degrees listed in the job description. However, the GPA is not provided, which could impact the assessment."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 8.6 yrs (capped to 8.6), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR consulting, people analytics, and business system applications, closely matching the job responsibilities and required experience years. The detailed descriptions of past roles indicate strong skills in project management and data analysis."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail or clarity, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates leadership through roles such as HRIS Business Analyst and Business System Applications Analyst, but there is no explicit mention of leadership responsibilities or achievements that directly align with the job description's requirement for leadership."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities listed in the job description, particularly in terms of coordinating projects, analyzing data, and overseeing programs. However, there is no direct mention of supervising staff or maintaining networks of community partners, which are specific responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['project_management (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in HR applications and business analysis, aligning well with the required skills of information technology and project management. However, there is no explicit mention of proficiency in federal, state, or local programs, which could be beneficial for the role."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights strong soft skills such as communication, teamwork, leadership, problem-solving, and adaptability, which are essential for the role. These skills are evident from the detailed descriptions of past roles and accomplishments."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate possesses skills in Microsoft Office, which is one of the tools mentioned in the job description. However, there is no explicit mention of Adobe Creative Suite, Facebook, or Salesforce, which are also listed as tools the company uses."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in advanced Excel, Access, Word, Visio, Power Point, VBA, SAP HCM, Success Factors, Microsoft Project Management, Service Now, Smartsheet, Panaya, SilkRoad, and other tools show transferable skills that could be valuable in the role. However, there is no explicit mention of proficiency in federal, state, or local programs, which could be beneficial for the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.574
+}

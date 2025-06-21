@@ -1,0 +1,51 @@
+{
+    "resume_id": "15602094",
+    "jd_id": "3905290848",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.325,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, which may be preferred or required by the employer."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is not detailed enough to assess its relevance to the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 32.8 yrs (capped to 32.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has a long history of IT and software development experience, which matches the required experience level in the job description. The job description mentions managing a team and developing proposals, which the candidate's experience covers."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description requires leadership skills, but the candidate's experience does not provide evidence of leadership in the context of stormwater management or construction bidding."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines specific responsibilities related to stormwater management and construction bidding, which are not reflected in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in IT and software development, which aligns well with the required skills in the job description. However, there is no mention of specific tools or technologies that match the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists excellent communication skills, which aligns with the soft skills required in the job description. However, there is no mention of leadership or teamwork skills, which are also important in this role."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate does not list any specific tools or technologies they are proficient in, which contrasts with the job description's requirement for familiarity with stormwater-related construction bid packages."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a range of skills that could be transferable to the role, such as problem-solving and project management. However, these skills are not specifically aligned with the job description's requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.575
+}

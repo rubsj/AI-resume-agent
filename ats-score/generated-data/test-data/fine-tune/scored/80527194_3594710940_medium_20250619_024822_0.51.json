@@ -1,0 +1,51 @@
+{
+    "resume_id": "80527194",
+    "jd_id": "3594710940",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.204,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description requires MS or PhD degrees."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two Associate degrees, which aligns with the minimum education requirement. However, the job description prefers MS or PhD degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.2 yrs (capped to 12.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in various fields such as finance, sales, and marketing, which matches some of the responsibilities listed in the job description. However, the job description requires more specialized experience in scientific consulting."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating strong attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience in the candidate's resume, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to project management and client interaction, which aligns with the job description. However, the job description requires more specific responsibilities related to scientific consulting."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Microsoft Office, which matches the required tools in the job description. However, there is no mention of specific certifications or advanced degrees, which could potentially increase the score."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include communication and problem-solving, which aligns with the soft skills listed in the job description. However, the job description also mentions insatiable curiosity and self-starter qualities, which are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.615,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Facebook (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Office, Adobe Creative Suite, Facebook, and QuickBooks, which matches the tools listed in the job description. There is no mention of Salesforce, but this does not significantly affect the score."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, financial analysis, and project management are transferable to the job description, but they lack specific skills in scientific consulting and information technology."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.507
+}

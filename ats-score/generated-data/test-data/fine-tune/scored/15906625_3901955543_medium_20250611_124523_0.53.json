@@ -1,0 +1,51 @@
+{
+    "resume_id": "15906625",
+    "jd_id": "3901955543",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.653,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not mention any certifications, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree in Accounting, which is relevant to the job description. However, the details provided do not specify the GPA or the institution's reputation, which could be beneficial for a more precise match."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in accounting, which is more than the required experience range of 1 to 3 years specified in the job description. The detailed job history shows a progression of responsibilities that aligns well with the job responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, it could benefit from additional details and quantifiable achievements to enhance its effectiveness."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which may be important for certain roles within the finance department."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes tasks such as month-end close, account reconciliations, and technical accounting assistance, which aligns with the job responsibilities. However, the candidate's experience does not cover all aspects of the job responsibilities, such as business integration activities and oversight of documentation and testing of internal controls."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'CPA (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting and bookkeeping, which aligns well with the required skills of the job description. The resume also lists proficiency in various software tools used in finance and accounting, such as QuickBooks, Fixed Asset Solutions, and HOST Software, which matches the tools and technologies mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any soft skills, whereas the job description suggests a strong sense of integrity, belief in making a positive impact, passion for mission, and commitment to having fun as desirable traits."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's skills section mentions proficiency in Microsoft Office, QuickBooks, and other software tools that are listed in the job description. However, there is no explicit mention of Netsuite, which is one of the tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section lists a variety of accounting-related skills that can be transferred to the role, but it lacks detail on specific soft skills or leadership abilities that might be required for the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.531
+}

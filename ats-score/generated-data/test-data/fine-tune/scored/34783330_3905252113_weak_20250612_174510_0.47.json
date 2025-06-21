@@ -1,0 +1,51 @@
+{
+    "resume_id": "34783330",
+    "jd_id": "3905252113",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a relevant AAS degree in Finance from DeKalb College, but lacks a Bachelor's degree in Accounting or Finance, which is preferred by the job description. The GPA is not provided for the Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 17.3 yrs (capped to 17.3), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that involve accounting and finance tasks, such as managing accounts, preparing financial reports, and handling financial transactions. However, the job description requires at least 3 years of experience, and the candidate has over 17 years of experience, which exceeds the requirement."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, the summary section could be more concise and tailored to the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership experience or skills, whereas the job description does not require any specific leadership qualifications."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions responsibilities that align with the job description, such as maintaining accounts, preparing financial reports, and managing financial transactions. However, the job description requires more detailed responsibilities related to GAAP, internal controls, and documentation of accounting procedures, which are not mentioned in the candidate's resume."
+        },
+        "skills": {
+            "score": 0.354,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills in Accounting, Finance, and Microsoft Office, which align well with the job requirements. However, there is no mention of specific tools like Microsoft Business Central 365 or Dynamics, which are preferred."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes soft skills like strong work ethic, self-motivation, adaptability, and collaboration, which align well with the job description. However, the candidate does not explicitly mention critical thinking, problem-solving skills, or organizational skills, which are preferred by the job description."
+        },
+        "tools": {
+            "score": 0.06,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Excel (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies, whereas the job description prefers candidates who are proficient in Microsoft Business Central 365 or Dynamics and Microsoft Office 365."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists transferable skills like accounting, finance, and financial statements, which align with the job description. However, the job description also prefers skills like statutory accounting regulations, GAAP, and organizational skills, which are not mentioned in the candidate's resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.474
+}

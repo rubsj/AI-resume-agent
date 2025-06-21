@@ -1,0 +1,51 @@
+{
+    "resume_id": "22019500",
+    "jd_id": "3904989951",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.653,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume lacks formal education in fields relevant to the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 35.9 yrs (capped to 35.9), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction and telecommunications, which matches the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written, but there are minor grammatical errors and unclear sections."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through managing teams and technicians, but there is no mention of leadership skills or achievements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.72,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in construction and telecommunications, aligning well with the required skills of Management and Manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses some soft skills such as communication and prioritization, but lacks details on computer skills and scheduling software proficiency."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like project management and technical knowledge, but these are not as detailed or specific as those in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.556
+}

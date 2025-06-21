@@ -1,0 +1,51 @@
+{
+    "resume_id": "19090468",
+    "jd_id": "3906086380",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.508,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate possesses certifications that are relevant to the job, such as Deploy Hadoop Cluster, but lacks specific certifications mentioned in the job description like Python or C#."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in Accounting and Computer Science, which does not directly match the preferred degrees listed in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 30.2 yrs (capped to 30.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has significant experience in various IT roles, particularly in healthcare and technology consulting, which closely matches the job's experience requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leading teams and mentoring, which is part of the job's responsibilities, but there is no explicit mention of leadership in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles show a strong focus on system administration and technical support, which aligns with the job's responsibilities but lacks details on research and development."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in system administration, Linux, and Unix, which aligns well with the job's requirement for IT technology and management skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates self-starter qualities and cross-functional team collaboration, which are aligned with the soft skills required by the job."
+        },
+        "tools": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['C# (substring)', 'Java (exact)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies that align with the job's requirements for Python, C#, or Java."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include analytical thinking, problem-solving, and troubleshooting, which are relevant to the job's requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.622
+}

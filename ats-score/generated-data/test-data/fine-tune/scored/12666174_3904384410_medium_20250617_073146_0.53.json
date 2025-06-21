@@ -1,0 +1,51 @@
+{
+    "resume_id": "12666174",
+    "jd_id": "3904384410",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.416,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, whereas a Professional Engineer (PE) license is preferred in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree in Civil Engineering, which is relevant but not specifically in Mechanical Engineering or Architectural Engineering with Mechanical emphasis, as preferred in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 32.7 yrs (capped to 32.7), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 30 years of experience in construction and project management, which is significantly more than the required 10 years. The experience is particularly relevant given the focus on scheduling and project management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some details could be more aligned with the job description, such as specific skills and experiences."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing teams and projects is relevant to the leadership skills required in the job description. However, there is no mention of previous team coordination and project management experience, which is preferred."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, such as coordinating work, assessing and designing systems, establishing client relations, and participating in meetings. However, there is no mention of mechanical lead role or reviews with governing agencies, which are part of the responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in scheduling and project management, which aligns well with the required skills of a Senior Mechanical Engineer. However, there is no mention of HVAC or plumbing system design, which is a key skill for this position."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as client relations and participation in meetings, align with the soft skills required in the job description. However, there is no mention of mechanical lead role or reviews with governing agencies, which are part of the responsibilities."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with MS Office, which is listed as a required tool in the job description. However, there is no mention of specific tools like Trane TRACE or manufacturer selection software, which are preferred."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as managing, negotiating, and using MS Project, are relevant to the job description. However, there is no mention of specific skills related to HVAC or plumbing systems, which are crucial for this position."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.53
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "17252448",
+    "jd_id": "3904384430",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.327,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has no certifications listed, but the job description requires a Professional Engineer (PE) license, which is a key certification for the role."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's and Bachelor's degree in Civil Engineering, which is relevant to the job description's preferred degrees in Building Engineering."
+        },
+        "experience": {
+            "score": 0.415,
+            "reason": "(Rule 0.5): Resume: 2.3 yrs (capped to 2.3), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in construction project management and site supervision, which aligns with the job responsibilities. However, the total experience is less than the required 10 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing teams and maintaining safety culture indicates strong leadership skills, which align with the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing submittals, coordinating plans, analyzing proposals, and monitoring operations, which align with some of the job responsibilities. However, there is no direct match with leading data center/mission critical projects."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as project scheduling, estimating, budget planning, value engineering, contract coordination, and OSHA safety requirements, which align well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions leadership and project management skills, which align with the soft skills required in the job description. However, there is no explicit mention of meeting organization, code compliance, or teamwork."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office, AutoCAD, Revit, and electrical design software, which matches the tools and technologies required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary includes skills like national level tennis championship and coaching, which are not directly transferable to the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.393
+}

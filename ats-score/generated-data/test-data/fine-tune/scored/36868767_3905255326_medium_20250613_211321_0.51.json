@@ -1,0 +1,51 @@
+{
+    "resume_id": "36868767",
+    "jd_id": "3905255326",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.493,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may be a requirement for the position."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds multiple degrees in relevant fields, including psychology and criminal justice, which align well with the job requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in healthcare settings, particularly in administrative roles and counseling positions. However, the job description prefers IT-specific experience, which is not fully covered."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the provided resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, but not all, especially those requiring specific IT skills."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'customer', 'health care provider', and 'information technology'. However, there is no mention of proficiency in SQL or Python, which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong soft skills such as customer focus, multitasking, and decision-making abilities, which are important for the role."
+        },
+        "tools": {
+            "score": 0.404,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 3, 'substring': 0, 'fuzzy': 0}. Matched: ['ADP (exact)', 'Access (exact)', 'Excel (exact)'] | (LLM 0.4): The candidate has experience with ADP and other tools mentioned in the job description, but not with SQL databases, Python, or other advanced technologies."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like attention to detail, adaptability, and teamwork, which are valuable in any IT role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.511
+}

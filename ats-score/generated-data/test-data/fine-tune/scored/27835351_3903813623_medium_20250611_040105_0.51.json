@@ -1,0 +1,51 @@
+{
+    "resume_id": "27835351",
+    "jd_id": "3903813623",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.733,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the candidate's resume that directly correspond to the job description's certification requirements."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate only holds a high school diploma, which does not meet the minimum educational requirement of a degree in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 10.4 yrs (capped to 10.4), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in maintenance and construction, which matches several responsibilities outlined in the job description. However, the total experience years do not fully align with the required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate they can lead a team or manage projects."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that match some of the job responsibilities listed in the job description, but not all. There is no direct match for every responsibility."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in maintenance and construction, which aligns well with the job requirements. The skills listed match many of the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in teamwork, communication, and interpersonal skills align with the soft skills required in the job description. However, there is no explicit mention of these soft skills in the resume."
+        },
+        "tools": {
+            "score": 0.328,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Hoists (fuzzy)', 'Preventive maintenance tools (fuzzy)'] | (LLM 0.4): The candidate possesses skills in using various tools, which aligns with some of the tools and technologies listed in the job description. However, there is no explicit mention of specific tools or technologies used."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in mechanical repair, troubleshooting, and basic math are transferable to the job responsibilities. However, there is no explicit mention of these skills in the context of the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.505
+}

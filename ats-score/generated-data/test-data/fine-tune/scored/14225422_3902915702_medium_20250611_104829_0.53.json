@@ -1,0 +1,51 @@
+{
+    "resume_id": "14225422",
+    "jd_id": "3902915702",
+    "domain": "HR",
+    "resume_jd_similarity": 0.738,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No specific certifications are mentioned in the resume that match the job description's requirement for CAphr or PHR certification."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds Master's and Bachelor's degrees in Industrial Psychology and Psychology, respectively, which are relevant to the field but do not directly match the job description's preferred degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 40.2 yrs (capped to 40.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has significant experience in human resources across different industries and roles, which closely matches the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): While the candidate has experience in leadership roles, the job description does not explicitly mention leadership as a requirement, so the score reflects the relevance of the candidate's experience in this area."
+        },
+        "responsibilities": {
+            "score": 0.409,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Maintains organizational charts (fuzzy)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with many of the job description's responsibilities, particularly in areas like employee relations, benefits administration, and compliance."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in human resources, including roles as HR Manager and Generalist, which aligns well with the job description's responsibilities and required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as being organized and an effective communicator, are relevant to the job description's soft skills section."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate is proficient in tools like Excel, Word, PowerPoint, Ceridian HRIS, Paychex, and ADP payroll systems, which are mentioned in the job description's tools and technologies section."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, including experience in managing personnel, conducting performance evaluations, and maintaining policies, are aligned with the job description's responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.531
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "28867567",
+    "jd_id": "3886445573",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.65,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job description."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a BS degree in Hospitality & Business Management, which is relevant to the retail domain. However, the GPA is not provided, which could be a factor in assessing the quality of education."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has relevant experience in sales and management roles, particularly in retail settings. The detailed job descriptions show a strong track record of sales achievement and customer service, which aligns with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams in previous roles, but the level of responsibility and specific leadership skills are not fully detailed in the resume."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job responsibilities listed in the job description, indicating a good fit for the position."
+        },
+        "skills": {
+            "score": 0.72,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has a strong background in sales and management, which matches the required skills of the job description. The resume includes specific examples of sales achievements and leadership roles that demonstrate proficiency in the required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as empathy and collaboration, which are mentioned in the job description. However, there is no explicit mention of resilience or optimism in the resume."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the resume, which may be a requirement for the job description."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as relationship selling and territory growth, are aligned with the job description requirements. The resume provides examples of how these skills have been applied in previous roles."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.643
+}

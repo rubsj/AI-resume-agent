@@ -1,0 +1,51 @@
+{
+    "resume_id": "91431878",
+    "jd_id": "3902751957",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.491,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Mechanical Engineering from a reputable university, which aligns well with the job requirements. However, there are additional degrees listed that do not seem relevant to the job."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant work experience as an Aviation Maintenance Technician, which directly aligns with the job requirements. The experience also includes leadership roles and responsibilities that are beneficial for the position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, such as being a head Body Bearer and Silent Drill Team leader, indicates strong leadership abilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines specific responsibilities related to military exercise debriefing and intelligence operations, which are not covered in the resume."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Quality Assurance of aircraft parts and subsystems, Determining aircraft airworthiness, and experience in troubleshooting and repairing aircraft engines, auxiliary power units, propellers, rotor systems, power train systems, and associated airframe and systems-specific electrical components."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['PowerPoint (fuzzy)'] | (LLM 0.4): No tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, such as being a head Body Bearer and Silent Drill Team leader, demonstrates transferable skills that could be valuable in the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.493
+}

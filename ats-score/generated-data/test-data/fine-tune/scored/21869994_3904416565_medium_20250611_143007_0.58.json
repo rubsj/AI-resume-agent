@@ -1,0 +1,51 @@
+{
+    "resume_id": "21869994",
+    "jd_id": "3904416565",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.685,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Bachelor's degree in Healthcare Administration and an Associate's degree in Culinary Arts, which aligns with the job description's domain but does not specify any culinary-related degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in various roles related to food service, including cooking and kitchen management, which aligns with the job description's responsibilities. However, the total experience years do not match the entry-level requirement."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.362,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Assists the Executive Chef and Sous Chef with tasks. (fuzzy)'] | (LLM 0.5): The candidate's experience includes responsibilities such as food preparation, service, sanitation, and safety procedures, which align with the job description's responsibilities. However, there is no explicit mention of assisting the Executive Chef and Sous Chef."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Exceptional listener and communicator', 'Computer-literate', and 'Resourceful team player'. However, there is no mention of specific management or manufacturing skills required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions soft skills like 'Exceptional listener and communicator', 'Computer-literate', and 'Resourceful team player', which align with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in problem-solving and customer service are transferable to the job description's requirements, but there is no mention of specific management or leadership skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.585
+}

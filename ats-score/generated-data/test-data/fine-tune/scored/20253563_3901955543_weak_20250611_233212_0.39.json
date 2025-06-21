@@ -1,0 +1,51 @@
+{
+    "resume_id": "20253563",
+    "jd_id": "3901955543",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.698,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications, which are preferred but not required in the job description."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a relevant education background with degrees in Accounting from both National Education Center and University of Kerala. However, the specific years and GPAs are missing, which could be crucial for assessing the candidate's academic achievements."
+        },
+        "experience": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate's work experience is detailed and includes responsibilities that align with the job description, such as conducting analysis, increasing sales, monitoring databases, and handling cash receipts. The lack of specific dates may affect the assessment."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand. However, some sections lack detail, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not indicate any leadership roles or responsibilities, which are not explicitly required in the job description but could be beneficial."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in their previous role overlap with the job responsibilities listed in the description, such as month-end close, maintaining the general ledger, creating account reconciliations, and assisting with technical accounting. However, there is no direct mention of specific responsibilities like business integration activities or external audit participation."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has listed skills that closely match the required skills in the job description, including 'accounting', 'accounting system', 'accounts payable', 'accounts receivable', 'auditing', 'bank reconciliations', 'cash receipts', 'documentation', 'E - mail', 'financial','mail', 'payables', 'personnel', 'processes','maintain files', 'phone', 'treasury', 'written', and 'yearend'. These skills are essential for the role of Staff Accountant."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description lists soft skills such as integrity, impact, mission, and fun, but the candidate's resume does not provide evidence of these traits."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions proficiency in MS Office and Netsuite, but the candidate's resume does not explicitly mention these tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes a statement about being results-oriented, client-focused, and proficient in areas of expertise, which can be considered transferable skills. However, the lack of specific examples or quantifiable achievements reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.392
+}

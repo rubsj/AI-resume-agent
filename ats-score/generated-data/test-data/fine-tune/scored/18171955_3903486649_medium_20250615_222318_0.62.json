@@ -1,0 +1,51 @@
+{
+    "resume_id": "18171955",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.421,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Business Administration degree, which is relevant to the job description's inferred domain of Retail and Operations. However, the GPA is not provided, which could indicate a lack of academic achievement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.3 yrs (capped to 21.3), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales management, which directly matches the job description's requirement for leading and overseeing inventory functions. The detailed job descriptions in the resume provide evidence of the candidate's ability to manage teams, improve processes, and drive strategic initiatives, which are key responsibilities in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's use of bullet points and clear headings enhances the readability of the document."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in team leadership, including managing direct and indirect reports, aligns with the job description's requirement for leading and overseeing inventory functions. The candidate's accomplishments, such as managing successful sales teams and mentoring others, further support this score."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the responsibilities listed in the job description, such as leading teams and improving customer experience. However, there is no direct match for responsibilities like driving cross-functional strategic initiatives or enhancing supply chains and operational excellence."
+        },
+        "skills": {
+            "score": 0.436,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has extensive experience in sales management, which aligns well with the required skills of leading and overseeing inventory functions. The skills listed in the resume match many of the required skills in the job description, such as Excel proficiency, which is mentioned as a tool and technology requirement."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as being a self-starter and having strong organizational skills, align with the soft skills required in the job description. However, there is no explicit mention of data extraction and analytical capabilities, which is a required skill."
+        },
+        "tools": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are mentioned as required tools in the job description. However, there is no explicit mention of SQL or Process Improvement Techniques, which are also mentioned as optional skills and tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as managing teams, improving processes, and driving strategic initiatives, align with the job description's requirements. However, there is no explicit mention of specific technical skills like SQL or Six Sigma, which are mentioned as optional skills in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.617
+}

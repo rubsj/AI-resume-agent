@@ -1,0 +1,51 @@
+{
+    "resume_id": "16804396",
+    "jd_id": "3902843621",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.518,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education only includes an Associate of Applied Science in EMT/Paramedic, which does not match the educational requirements specified in the job description."
+        },
+        "experience": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in various roles that involve customer service, leadership, and food service, but lacks experience in technology solutions, project execution, and POS content management, which are key requirements for the job."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, the content does not fully align with the job description's requirements."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership skills through various job titles and responsibilities, but does not provide concrete examples or achievements that demonstrate leadership in a technology or restaurant management context."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that align with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.342,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has skills like conflict resolution, cost control, and excellent customer service, which align with the job requirements. However, there is no mention of specific technical skills required for the position."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like leadership, teamwork, and communication, which are soft skills aligned with the job requirements. However, it lacks specifics on how these skills have been applied in previous roles."
+        },
+        "tools": {
+            "score": 0.12,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched: ['POS (substring)', 'Back of House (substring)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, whereas the job description requires proficiency in POS, digital platforms, data analysis tools, and other restaurant technologies."
+        },
+        "transferable_skills": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills like fast learning and goal-driven attitude, which can be considered transferable skills. However, they lack depth and context compared to the detailed requirements in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.333
+}

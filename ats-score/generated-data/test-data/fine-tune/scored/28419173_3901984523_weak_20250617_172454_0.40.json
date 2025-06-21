@@ -1,0 +1,51 @@
+{
+    "resume_id": "28419173",
+    "jd_id": "3901984523",
+    "domain": "HR",
+    "resume_jd_similarity": 0.281,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that match the job description's requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a BS in Business Management and AS degrees in Human Resource Management and Accounting Assistant, which are relevant but not at the bachelor's level required by the job description."
+        },
+        "experience": {
+            "score": 0.54,
+            "reason": "(Rule 0.5): Resume: 3.8 yrs (capped to 3.8), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has experience in administrative roles that involve coordination, planning, and organization, which align with the job responsibilities. However, the total experience years do not meet the minimum requirement of 10+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities that align with the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that specifically match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.451,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (fuzzy)', 'Communication (exact)'] | (LLM 0.4): The candidate has relevant skills such as Human Resources, Training, Communication, Presentation, Leadership, Relationship Management, and Microsoft Office, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses some soft skills like Communication, Leadership, and Organization, which are mentioned in the job description's soft skills section. However, they lack skills in Business and Strategic Acuity, Integrity, and other specified areas."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Workday and Microsoft Office, which are mentioned in the job description's tools and technologies section."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as coordination, planning, and organization, which can be applied across different industries. However, they lack specific skills mentioned in the job description like Workday proficiency."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.398
+}

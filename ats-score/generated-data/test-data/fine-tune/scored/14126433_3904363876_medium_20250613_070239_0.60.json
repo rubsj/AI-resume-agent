@@ -1,0 +1,51 @@
+{
+    "resume_id": "14126433",
+    "jd_id": "3904363876",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.661,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate possesses a CPA certification, which is listed as a required skill in the job description. However, the description does not specify if additional certifications are preferred or required."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Business Administration and a Bachelor's degree in Finance, which are relevant to the job description's preferred degrees. The lack of specific GPA information may slightly affect the alignment."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 20.3 yrs (capped to 20.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in various accounting roles, which directly matches the job description's required experience level. The detailed job descriptions provide clear evidence of relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism. However, the lack of specific details in certain sections could slightly affect the overall impression."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in supervising teams and performing ad-hoc requests suggests some leadership qualities, but there is no explicit mention of leadership in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's outlined responsibilities, particularly in managing accounting operations, preparing financial statements, and overseeing budgeting processes. However, there is no direct mention of leading the annual budgeting process or coordinating with external auditors."
+        },
+        "skills": {
+            "score": 0.651,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (exact)', 'CPA (exact)', 'Financial reporting (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting, financial analysis, and financial reporting, which aligns well with the job description's required skills. However, there is no mention of GAAP knowledge or advanced Excel proficiency, which could be considered a slight mismatch."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong analytical skills and effective communication, match the job description's soft skills section. However, there is no explicit mention of demonstrated leadership qualities or high integrity and ethical standards."
+        },
+        "tools": {
+            "score": 0.54,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['QuickBooks (exact)', 'SAP (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Excel, QuickBooks, and SAP, which are mentioned in the job description's tools and technologies section. However, there is no explicit mention of Oracle or other specified tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as accounting reconciliation and financial reporting, are aligned with the job description's required skills. However, there is no direct mention of GAAP knowledge or advanced Excel proficiency."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.604
+}

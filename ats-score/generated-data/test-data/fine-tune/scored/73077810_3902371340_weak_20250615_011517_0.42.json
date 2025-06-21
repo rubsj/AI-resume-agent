@@ -1,0 +1,51 @@
+{
+    "resume_id": "73077810",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.477,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description prefers candidates with a PMP certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Administrative Science and an AA degree in Liberal Arts, but lacks a Bachelor's degree in IT, Computer Science, or related discipline as preferred by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 9.2 yrs (capped to 9.2), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles that align with the job responsibilities, but lacks specific details about managing major business system implementation projects or experience with Deltek, Procore, or HRIS systems."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but lacks specific details on leading diverse, cross-functional teams or managing projects in classic agile models."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned, but lacks details on leading projects from requirements definition through deployment or managing projects in classic agile models."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Human Resources, Information Technology, and Project Management, which align with the job description. However, there is no mention of specific certifications like PMP or experience with Deltek, Procore, or HRIS systems."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as leadership, problem-solving, and communication, which are aligned with the job description. However, there is no mention of critical thinking, resource planning, or time management."
+        },
+        "tools": {
+            "score": 0.055,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['HRIS (exact)'] | (LLM 0.4): The candidate does not have any tools or technologies listed, while the job description mentions proficiency in Deltek, Procore, HRIS, and Agile methodology."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like ADP, benefits, and HRIS, but lacks specific skills in ERP systems, Deltek, Procore, or HRIS systems as mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.424
+}

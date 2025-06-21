@@ -1,0 +1,51 @@
+{
+    "resume_id": "25150191",
+    "jd_id": "3905653565",
+    "domain": "HR",
+    "resume_jd_similarity": 0.474,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be a concern given the required experience and skills in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA and a Bachelor's degree, which aligns with the preferred degrees mentioned in the job description. However, the GPA is not provided, which could be a point of consideration."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 11.3 yrs (capped to 11.3), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR, sales, customer service, and education, which matches the job responsibilities. However, the total experience years do not meet the required experience years specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The formatting is clean and professional."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes roles that demonstrate leadership, such as HR Contact Center Specialist and Admissions Representative. However, there is no explicit mention of leadership skills or achievements that align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job responsibilities, such as providing consultation and managing employee relations. However, the total experience does not meet the required experience level."
+        },
+        "skills": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Management (exact)'] | (LLM 0.4): The candidate has a strong set of skills that align well with the job description, including HR expertise, business acumen, and management skills. The resume also mentions proficiency in MS Office Suite, which is relevant to the tools and technologies section."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership, clear communication, and inclusive environment, match the soft skills required in the job description. However, there are no specific examples or quantifiable achievements provided."
+        },
+        "tools": {
+            "score": 0.254,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Team player (fuzzy)', 'Clear (fuzzy)'] | (LLM 0.4): The candidate's skills include some tools and technologies mentioned in the job description such as HR analytics and MS Office Suite. However, there are gaps in alignment with specific tools like JLL's HR strategy and local policies and practices."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like data entry, database management, and phone etiquette are transferable but may not directly align with the specific tools and technologies mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.518
+}

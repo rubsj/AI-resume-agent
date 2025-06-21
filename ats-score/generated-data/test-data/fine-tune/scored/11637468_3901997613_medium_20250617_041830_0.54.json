@@ -1,0 +1,51 @@
+{
+    "resume_id": "11637468",
+    "jd_id": "3901997613",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.504,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, while the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate has a BBA in Accounting and a Commercial Lending Certificate, which are relevant to the financial services domain but lack detail about the institution and graduation year, which could be crucial for assessing the level of education."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 29.7 yrs (capped to 29.7), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in the financial services industry, particularly in commercial lending and business banking, which aligns with the job description's requirement for experience in the financial services domain. However, the job description specifies a minimum of 5 years of experience, and the candidate's total experience is 29.7 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, which is important for the job description's emphasis on professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing lending officers and leading different functions indicates leadership skills, which align with the job description's requirement for leadership. However, the job description also requires specific leadership skills like 'Project Planning Skills', which are not mentioned in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing lending officers, portfolios, and business development align with the job description's responsibilities of analyzing and documenting business requirements. However, the job description's responsibilities are more focused on technology and operations aspects, which are not covered in the candidate's resume."
+        },
+        "skills": {
+            "score": 0.496,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Analyst (fuzzy)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Commercial Lending', 'Credit Analysis', and 'CRM' which align with the job description's required skills of 'Analyst', 'Information Technology', and 'Research'. However, there is no direct match for 'Operations' skill mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Analytical Skills', 'Communication Skills', and 'Time Management', which are aligned with the job description's soft skills requirements. However, the job description also requires skills like 'Multiple Business Functions' and 'Project Planning Skills', which are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.032,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Payments (exact)', 'ACH (substring)'] | (LLM 0.4): The job description mentions tools like 'Financial Services', 'Product Delivery', and 'Operations', but the candidate's resume does not mention any specific tools or technologies used in their roles."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as 'Leadership', 'Credit', and 'Sales', are relevant to the job description's requirements. However, the job description also requires specific skills like 'Impact Analysis', 'Transition Process', and 'Business Requirements Delivery', which are not covered in the candidate's resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.535
+}

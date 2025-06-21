@@ -1,0 +1,51 @@
+{
+    "resume_id": "61579998",
+    "jd_id": "3902742492",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.464,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume that match the required 'Active TS/SCI Clearance with Polygraph' in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks specific details about the field of study and GPA, which are typically required in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate's experience includes roles that involve managing teams, budgets, and schedules, which aligns with the job responsibilities. However, there is no direct mention of experience in configuration management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume appears well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing large teams and projects indicates leadership capabilities, though the job description does not explicitly require leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There is no direct mention of responsibilities related to managing configurations or change management in the resume."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in technical management, software development, and system architecture, which aligns well with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong communication and detail orientation, align well with the requirements in the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like MS Project, Jira, and others, but the job description specifically requires knowledge of MS Product Suite (Word, Excel, SharePoint) and ServiceNow CMDB modules, which are not explicitly mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like technical management, software development, and system architecture are transferable to the role, but the specific focus on configuration management is lacking."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.433
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "50222417",
+    "jd_id": "3902828887",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.703,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a CPA certification, which is required by the job description, but lacks other specific certifications mentioned."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Finance Management and IT, which is relevant to the job description, but lacks a Bachelor's degree in Accounting as explicitly stated."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 4.8 yrs (capped to 4.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including staff accountant, finance consultant, and senior accountant, which closely matches the job description's responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly mention leadership experience, which could be crucial for the Assistant Controller position."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's expectations, including financial statement preparation, budgeting, and financial analysis."
+        },
+        "skills": {
+            "score": 0.466,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 2, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)', 'Financial Reporting (substring)', 'Financial Modeling (substring)', 'US GAAP (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, auditing, financial reporting, financial planning, and financial modeling, which aligns well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, but they demonstrate detail-oriented work through their resume, which is aligned with the job description's requirement for detail-oriented candidates."
+        },
+        "tools": {
+            "score": 0.374,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Financial Modeling Tools (fuzzy)', 'Excel (exact)'] | (LLM 0.4): The candidate has experience with tools like QuickBooks, Excel, and ADP and Payroll, which are mentioned in the job description, but lacks experience with ERP systems and financial modeling tools."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as problem-solving, passion for the mission, and strategic thinking, which are beneficial for the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.572
+}

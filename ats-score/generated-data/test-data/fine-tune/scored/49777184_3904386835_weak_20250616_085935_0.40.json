@@ -1,0 +1,51 @@
+{
+    "resume_id": "49777184",
+    "jd_id": "3904386835",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.511,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the required ones for the position."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts degree in Psychology, which may not be directly related to the required field of Computer Science or Engineering."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.4 yrs (capped to 12.4), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles such as Management Consultant, Engagement and Operations Coordinator, and President, which align with the responsibilities of the position. However, the experience is not detailed enough to fully assess the fit."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's role as a President indicates strong leadership capabilities, which is a requirement for the position. However, there is no explicit mention of leadership in other roles or specific leadership achievements."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not explicitly match the responsibilities listed in the job description, such as providing thought leadership on High-Level Architecture and Design, designing and building data solutions, and leading business intelligence platform development."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Training and development', 'Process improvement strategies', 'Project management', and 'Leadership/communication skills'. However, there is no mention of specific technical skills like AWS, GCP, Azure, etc., which are required for the position."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong leadership and motivation abilities, which are aligned with the soft skills required for the position. However, these skills are not quantified or detailed in the resume."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Spark (fuzzy)'] | (LLM 0.4): The candidate does not list any tools or technologies used in their experience, which is crucial for the position requiring knowledge of AWS, Python, Snowflake, Hadoop, Hive, Spark, and HBase."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'Process improvement', 'Data organization', and 'Project management', but these are not directly linked to the specific technical or analytical skills needed for the position."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.399
+}

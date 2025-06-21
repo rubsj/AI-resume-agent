@@ -1,0 +1,51 @@
+{
+    "resume_id": "24548333",
+    "jd_id": "3905302028",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.4,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree in Business, which aligns with the preferred degree requirement. However, there is no specific degree in Finance, which is required."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 6.2 yrs (capped to 6.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in sales and business planning, which aligns with the job responsibilities. The experience is in the pharmaceutical industry, which may not be directly related but could transferable skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume that match the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There are no responsibilities listed that match the job responsibilities required by the job description."
+        },
+        "skills": {
+            "score": 0.736,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Sales (exact)', ' (substring)'] | (LLM 0.4): The candidate has skills in Business Planning, which is relevant to the job requirements. However, there is no mention of Finance or Salesforce, which are also required skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There are no soft skills listed that match the job requirements."
+        },
+        "tools": {
+            "score": 0.26,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Salesforce (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office and Adobe Creative Suite, which are tools mentioned in the job description. However, there is no mention of Facebook or Salesforce, which are also required tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills such as leadership and driving, which could potentially transfer to the role. However, there are no direct matches to the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.461
+}

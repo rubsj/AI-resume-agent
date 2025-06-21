@@ -1,0 +1,51 @@
+{
+    "resume_id": "20082776",
+    "jd_id": "3884994037",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.501,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, which contrasts with the job description's lack of certification requirements."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor of Science degree in Accounting, which is relevant to the job description's domain of Finance. However, the mention of an Associate degree might not be necessary for the position."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 23.5 yrs (capped to 23.5), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has a total of 23.5 years of experience in accounting, which exceeds the required 6+ years specified in the job description. The experience is also aligned with the job responsibilities mentioned."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The information is presented clearly and logically."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities, which contrasts with the job description's lack of leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as coordinating with operations and accounting teams, which aligns with the job description's requirement for coordinating with teams globally. However, the lack of detail about specific responsibilities might not fully match the job description's expectations."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the job description's requirement for working closely with accounting and finance teams. The skills listed are relevant to the responsibilities mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions soft skills like attention to detail and problem-solving, which are relevant to the job description's requirement for influencing business decisions effectively. However, the lack of specific examples or quantifiable achievements might not fully match the job description's expectations."
+        },
+        "tools": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate has experience with various accounting software tools, which is relevant to the job description's requirement for working with accounting systems. However, the lack of specific tools mentioned may not fully match the job description's expectations."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in financial statement analysis, bank reconciliations, and full cycle month and year-end close are transferable to the job description's requirement for working closely with the accounting and finance teams. However, the lack of detail about specific projects or achievements might not fully match the job description's expectations."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.705
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "29087505",
+    "jd_id": "3905312198",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.763,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not mention any certifications, while the job description requires PMP certification and Universal EPA certification."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is listed as AA in General from Highline Community College without a specific year, which does not match the job requirement of a degree."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 13.7 yrs (capped to 13.7), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in construction and managing projects, which aligns with the job description's requirements for managing construction activities and overseeing project plans."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions serving as a leader and instructor of new sub-contractors, which aligns with the leadership requirement in the job description. However, there is no explicit mention of managing teams or facilitating project planning."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing field teams, assembling estimates, and tracking resources, which align with the job responsibilities. However, there is no explicit mention of managing contracts, obtaining permits, and negotiating terms."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills like framing, machinery, office, Windows, Microsoft, Mac, Apple, works, networking, painting, problem-solving skills, reading, scheduling, typing, computer, formatting, leadership, teaching, learning, time management, and client negotiations, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership and teaching skills, which align with the soft skills required in the job description. However, there is no explicit mention of strong decision-making skills, effective communication, resourcefulness, attention to detail, teamwork, and negotiation."
+        },
+        "tools": {
+            "score": 0.323,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['MS Project (fuzzy)', 'Word (substring)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office, Windows, and Excel, which are mentioned in the job description's tool requirements. However, there is no explicit mention of MS Project, Gantt schedule creation, PowerPoint, and Word."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include time management, client negotiations, and leadership, which align with the job requirements. However, there is no explicit mention of project management skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.554
+}

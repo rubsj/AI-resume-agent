@@ -1,0 +1,51 @@
+{
+    "resume_id": "11020140",
+    "jd_id": "3902843672",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.498,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's requirement for specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in Computer Science, which aligns with the job description's preferred degrees, though the specific field of study does not match exactly."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 30.9 yrs (capped to 30.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate's experience spans over three decades, providing a strong foundation in various roles and technologies, which aligns with the required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in project leadership roles aligns with the job description's requirement for leadership skills, though the description does not emphasize leadership specifically."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's focus on learning and development, particularly in managing programs and contributing to learning solutions."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Manufacturing (exact)'] | (LLM 0.4): The candidate has extensive experience in various technologies and environments, aligning closely with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in management, manufacturing, and organizational skills are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description mentions specific tools like Documentum, but the resume does not list any certifications or experience with these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various roles provides transferable skills, but the job description does not explicitly mention any transferable skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.623
+}

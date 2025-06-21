@@ -1,0 +1,51 @@
+{
+    "resume_id": "55712978",
+    "jd_id": "3903468972",
+    "domain": "AGRICULTURE",
+    "resume_jd_similarity": 0.236,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications listed match the job requirements."
+        },
+        "education": {
+            "score": 0.775,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds advanced degrees in relevant fields such as PhD and MSc in biotechnology and biophysics, which are highly valued in the agricultural industry."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in research and teaching, which is relevant to the job, but lacks direct experience in seed production and agriculture-specific roles."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading a research lab, which indicates strong leadership skills, but the context is not directly related to the agricultural industry."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have experience in the responsibilities required for the job, such as field operations, seed management, and safety protocols."
+        },
+        "skills": {
+            "score": 0.376,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has a strong skill set relevant to agriculture, including expertise in biotechnology, research, and specific technologies like HPLC and ELISA, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not possess soft skills mentioned in the job description, such as strong communication and teamwork abilities."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies listed match the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in research, leadership, and education, which could be applicable in the agricultural sector, but they lack specific agricultural knowledge and experience."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.434
+}

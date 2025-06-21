@@ -1,0 +1,51 @@
+{
+    "resume_id": "11704150",
+    "jd_id": "3902938559",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.228,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a High School Diploma, an Associate of Science degree, and an expected Associate of Applied Science degree. The job description requires a Bachelor's Degree, so there is a mismatch in educational level."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 9.1 yrs (capped to 9.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in Home Health Care Provider roles, which could be relevant to the job description. However, the experience is not detailed enough to assess if it aligns with the required responsibilities in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, some sections lack detail and clarity, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information about specific job responsibilities that align with the responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.264,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Communication (exact)'] | (LLM 0.4): The candidate has skills in 'Friendly professional demeanor', 'Safety awareness', 'Well-organized', 'Detail oriented', 'Adaptive hands-on learner', 'JLG manlift operations', 'Hands-on experience with CAM software', 'Interpersonal, written, and verbal communication', 'Works well independently or with team', 'Company confidentiality', 'Capable of heavy lifting'. However, there is no direct match with the required skills in the job description such as 'Analyst', 'Information Technology', 'Research', 'Statistical Methods', 'Communication' which are mentioned as preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions 'Good Communication Skills' under their soft skills, which matches one of the soft skills required in the job description. However, the resume lacks detail on how these skills were demonstrated in previous roles."
+        },
+        "tools": {
+            "score": 0.165,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['R (substring)', 'STATA (fuzzy)'] | (LLM 0.4): The candidate does not have any tools or technologies listed that match the required tools in the job description such as 'R', 'R Studio', 'SAS', 'STATA'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like 'Friendly professional demeanor', 'Safety awareness', 'Well-organized', 'Detail oriented', 'Adaptive hands-on learner', 'JLG manlift operations', 'Hands-on experience with CAM software', 'Interpersonal, written, and verbal communication', 'Works well independently or with team', 'Company confidentiality', 'Capable of heavy lifting'. These skills can be transferred to the role but do not directly match the specific skills required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.371
+}

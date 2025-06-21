@@ -1,0 +1,51 @@
+{
+    "resume_id": "14062078",
+    "jd_id": "3906086380",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.457,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the required skills or tools mentioned in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Diploma, A.S., and BSN degrees, which are relevant to the job's requirement for a minimum of a Bachelor's degree in a related field. However, the specific field of study does not directly match the preferred degrees listed."
+        },
+        "experience": {
+            "score": 0.83,
+            "reason": "(Rule 0.5): Resume: 4.8 yrs (capped to 4.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in various roles that involve patient care and medical administration, which aligns with the job's responsibilities. However, the experience does not specifically mention proficiency in the tools and technologies listed."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and providing training demonstrates leadership skills, although the job description does not explicitly require leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes managing teams and providing training, which aligns with some of the responsibilities listed. However, the experience does not cover all aspects of the responsibilities, particularly those related to research and system requirements definition."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Research (exact)'] | (LLM 0.4): The candidate has relevant skills in 'emergency medicine', 'patient care', and'medical terminology', which align with the job's requirement for 'Information Technology', 'Management', and 'Research'. However, there is no direct match for 'Python', 'C#', or 'Java' as specified in the tools and technologies section."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-motivation, ability to communicate with diverse teams, and attention to detail align well with the soft skills required. The skills in 'analytical thinking', 'problem-solving', and 'troubleshooting' are also present."
+        },
+        "tools": {
+            "score": 0.14,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['C# (substring)'] | (LLM 0.4): The candidate's skills do not include proficiency in Python, C#, or Java, which are mentioned as tools and technologies required for the job."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'oral communication', 'written communication', and 'teamwork' are transferable to the job, but the lack of specific technical skills reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.545
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "17775916",
+    "jd_id": "3905306627",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.705,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Commerce degree is mentioned, but the GPA is missing, which is important for assessing academic achievement."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 7.1 yrs (capped to 7.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in finance roles, including budgeting, forecasting, and financial management, which aligns with the job description. However, the job description requires at least 5 years of experience, while the resume shows only 7.1 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it could be improved by adding more quantifiable achievements and specific examples."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervising teams, which indicates leadership skills. However, the resume could provide more detail on leadership achievements or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, including financial planning, financial reporting, and cost management. However, the job description mentions specific responsibilities like reducing manufacturing costs and managing expenses related to capital expenditures, which are not explicitly stated in the resume."
+        },
+        "skills": {
+            "score": 0.696,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Analyst (fuzzy)', 'Finance (exact)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'accounting', 'budgeting', 'financial management', and 'forecasting'. However, there is no mention of specific tools like ERP manufacturing systems or Business Intelligence reporting software."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as communication and leadership, which are essential for the role. However, the resume lacks details on how these skills have been applied in previous roles."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, unlike the job description which requires knowledge of ERP manufacturing systems and Business Intelligence reporting software."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like bookkeeping, financial analysis, and project management, which are relevant to the job description. However, the resume could benefit from more detailed examples of how these skills were utilized in past experiences."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.542
+}

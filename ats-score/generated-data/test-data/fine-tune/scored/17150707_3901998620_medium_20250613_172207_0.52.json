@@ -1,0 +1,51 @@
+{
+    "resume_id": "17150707",
+    "jd_id": "3901998620",
+    "domain": "HR",
+    "resume_jd_similarity": 0.549,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a B.S. in Business, which is relevant to the job, but the GPA is not provided, which could indicate a lack of academic achievement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.3 yrs (capped to 17.3), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has extensive experience in various HR roles, including HRIS, benefits administration, and project management, which closely matches the job requirements. The current position is still active, indicating ongoing relevance."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.393,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Documentation (exact)', 'Testing (exact)'] | (LLM 0.5): The candidate's responsibilities align with the job description, particularly in terms of providing customer support, managing HR processes, and ensuring compliance with HR regulations. However, there is no mention of leading assessments or implementing HR technology."
+        },
+        "skills": {
+            "score": 0.361,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'IT (substring)', 'Documentation (exact)'] | (LLM 0.4): The candidate has a strong background in HRIS, benefits administration, and HR processes, which aligns well with the job requirements. However, there is no mention of Workday HCM technology, which is a key skill in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication and leadership, are relevant to the job description. However, there is no explicit mention of influencing decision-making processes or clear articulation of ideas."
+        },
+        "tools": {
+            "score": 0.3,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office and PeopleSoft, which are mentioned in the job description, but lacks experience with Workday, a critical tool for the position."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like administrative expertise, customer support, and project management, which are beneficial for the role. However, there is no evidence of advanced degrees or specific focus areas."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.523
+}

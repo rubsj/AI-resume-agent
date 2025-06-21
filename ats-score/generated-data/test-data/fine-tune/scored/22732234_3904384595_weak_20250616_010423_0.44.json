@@ -1,0 +1,51 @@
+{
+    "resume_id": "22732234",
+    "jd_id": "3904384595",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.477,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed, and the preferred certification is not mentioned in the resume."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds degrees in Criminal Justice and Public Safety/Emergency Management, which are related to the job domain but lack specific details about the relevance to the position."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 17.2 yrs (capped to 17.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in Customer Service, which aligns with the job responsibilities. However, the experience does not specifically mention sales or commercial business."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience as a supervisor, indicating some level of leadership, but the details are not sufficient to evaluate their leadership skills in the context of the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on past responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills in Customer Service and Sales, which align with the job requirements. However, there is no mention of proficiency in Microsoft software tools like Word and Excel."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists some soft skills, but they do not fully match the extensive list provided in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in Microsoft software tools like Word and Excel, which are required skills for the job."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section mentions criminal justice, public safety, sales, and scheduling, which could be transferable to the job, but the details are not specific enough to fully assess their applicability."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.436
+}

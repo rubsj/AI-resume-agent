@@ -1,0 +1,51 @@
+{
+    "resume_id": "16223371",
+    "jd_id": "3886837207",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.659,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has only listed a high school diploma and a business degree as a freshman, which does not provide a clear educational background relevant to the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales and customer service, which aligns with the job responsibilities. However, the lack of detail in the job titles and responsibilities does not fully match the required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills, which aligns with the job description's requirement for leadership abilities."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some alignment with the job responsibilities, particularly in managing accounts and handling customer service. However, the lack of detail in the job descriptions prevents a full match."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as bi-lingual, excellent communication skills, outstanding people skills, leadership, and efficient under pressure. However, there is no mention of specific technical skills related to NAPA or Microsoft Office."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists soft skills such as earning trust, respect, and followership, which aligns well with the job description's requirement for these skills."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, which contrasts with the job description requiring knowledge of NAPA and Microsoft Office."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in communication, leadership, and efficiency are transferable to the job, but the lack of specific technical skills limits the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.608
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "22008817",
+    "jd_id": "3902863976",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.361,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds advanced degrees in health administration and communication, which are relevant to the healthcare domain. The GPA is not provided but the magna cum laude distinction suggests strong academic performance."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 16.1 yrs (capped to 16.1), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare consulting and administrative roles, which matches the job responsibilities. However, the job description requires more seniority and specific technical skills that are not fully covered by the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it could benefit from more explicit statements about the candidate's skills and achievements."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing operations, but the job description requires more senior leadership and strategic alignment skills that are not fully demonstrated."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities, such as leading projects and managing operations. However, the job description requires more senior leadership and strategic alignment skills that are not fully demonstrated."
+        },
+        "skills": {
+            "score": 0.465,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 1}. Matched skills: ['Information Technology (substring)', 'Leadership (exact)', 'Team management (fuzzy)', 'AI (substring)'] | (LLM 0.4): The candidate has extensive experience in healthcare consulting and administrative roles, which aligns well with the required skills in engineering, IT, and strategy. However, there is no explicit mention of leadership or communication skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions teamwork and leadership indirectly through role descriptions, but does not explicitly state these soft skills."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Azure (fuzzy)'] | (LLM 0.4): No tools or technologies are explicitly mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like data analysis, project management, and communication, which are relevant to the job responsibilities. However, the resume lacks explicit evidence of technical skills like cloud technologies or AI."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.54
+}

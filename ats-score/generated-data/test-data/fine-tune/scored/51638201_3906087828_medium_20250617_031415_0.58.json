@@ -1,0 +1,51 @@
+{
+    "resume_id": "51638201",
+    "jd_id": "3906087828",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.553,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate possesses CPR certification, which is relevant but lacks specific certifications like Storm Water Compliance Manager, Ultraweld Exothermic Connection training, and knowledge of transformers, high voltage switchgear, etc., which are mentioned in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section does not provide any information about degree or field of study, which is required according to the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in construction management roles that match the responsibilities outlined in the job description. The experience includes leading projects, managing budgets, and overseeing various aspects of construction, which are key responsibilities mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and assess. However, some sections lack detail or clarity, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading construction projects and managing teams aligns with leadership skills mentioned in the job description. However, there is no explicit mention of mentoring assistant project managers, architects, or superintendents, which is part of the leadership skills mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with many of the responsibilities listed in the job description, such as project planning, scheduling, resource allocation, and communication. However, there is no direct evidence of experience in job site safety or compliance, which are mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Project Management (substring)', 'Information Technology (substring)'] | (LLM 0.4): The candidate has relevant experience in construction management, which aligns with the required skill set. However, there is no explicit mention of proficiency in Microsoft Office, Adobe Creative Suite, Facebook, or Salesforce, which are optional tools mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates strong interpersonal skills, which is aligned with the soft skills required in the job description. However, there is no explicit mention of job site safety, safe work practices, or technical direction, which are part of the soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions proficiency in Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce, but the candidate's resume does not explicitly state these skills."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume shows skills like budget management, expense tracking, and project planning, which are transferable skills mentioned in the job description. However, there is no evidence of experience in areas like zero punch list program, meeting management, or contract management."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.58
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "22019500",
+    "jd_id": "3904365277",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.497,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume mentions only a technical degree and a high school diploma, which may not be directly relevant to the pharmaceutical construction domain."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 30 years of experience in construction and engineering, which is highly relevant to the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing large teams and projects indicates strong leadership capabilities."
+        },
+        "responsibilities": {
+            "score": 0.433,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Documentation (exact)'] | (LLM 0.5): The candidate's responsibilities in managing teams, overseeing projects, and ensuring compliance align with the job responsibilities mentioned in the description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in telecommunications and construction, which aligns well with the required skills in pharmaceutical construction and manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like leadership, communication, and attention to detail, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools or technologies are listed in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as project management, documentation, and communication are transferable from the candidate's previous roles to the pharmaceutical construction domain."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.554
+}

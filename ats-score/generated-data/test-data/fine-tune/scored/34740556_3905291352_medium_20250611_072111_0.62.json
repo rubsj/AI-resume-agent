@@ -1,0 +1,51 @@
+{
+    "resume_id": "34740556",
+    "jd_id": "3905291352",
+    "domain": "HR",
+    "resume_jd_similarity": 0.76,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Science in Business Administration is mentioned, but the GPA is not provided, which is a common detail in a resume."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 16.9 yrs (capped to 16.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR roles, including senior positions, which aligns well with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles, but there is no explicit mention of leadership skills or achievements that align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, particularly in areas like HR support, talent management, and conflict resolution. However, there is no mention of specific responsibilities related to Workday."
+        },
+        "skills": {
+            "score": 0.648,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (fuzzy)', 'Human Resources (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'HR', 'Human Resources', 'Employee Relations', 'Training', 'Benefits Administration', and 'Conflict Resolution'. However, there is no mention of specific tools like 'Workday' which is required."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include 'Conflict-resolution skills', 'Relationship building', and 'Strong customer-service mindset', which are aligned with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)', 'PowerPoint (exact)'] | (LLM 0.4): The candidate has experience with MS Office tools, but there is no mention of the required tool 'Workday'."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'Training employees', 'Managing', and 'Coaching', but there is no mention of specific skills related to the job description like 'Executive presence' or 'Accountability'."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.625
+}

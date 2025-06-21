@@ -1,0 +1,51 @@
+{
+    "resume_id": "14225422",
+    "jd_id": "3903881660",
+    "domain": "HR",
+    "resume_jd_similarity": 0.462,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education does not match the required degree level or field of study specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 40.2 yrs (capped to 40.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR management, which aligns with the job responsibilities. However, the total years of experience do not match the required minimum."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership skills in the candidate's resume or the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, but there is no explicit mention of managing all project phases or creating project plans."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate possesses skills in ADP payroll, which matches the required skill set. However, there is no explicit mention of consulting or project management skills, which are also required."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills align with the soft skills listed in the job description, but there is no explicit mention of leadership or analytical skills."
+        },
+        "tools": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Visio (substring)'] | (LLM 0.4): The candidate has experience with Ceridian HRIS, which is similar to the tools mentioned in the job description. However, there is no explicit mention of Microsoft Office, Microsoft Project, or Visio."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not explicitly mentioned in the job description, but they may be inferred from their experience in HR management."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.525
+}

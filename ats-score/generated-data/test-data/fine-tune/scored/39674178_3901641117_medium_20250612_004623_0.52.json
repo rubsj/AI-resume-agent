@@ -1,0 +1,51 @@
+{
+    "resume_id": "39674178",
+    "jd_id": "3901641117",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.695,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, whereas the job description prefers candidates with a Bachelor's degree in Accounting, Finance, or a related field."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks details about the candidate's educational background beyond stating they have a Bachelor of Science in Management from Park University. The job description requires a Bachelor's degree in Accounting, Finance, or a closely related field."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.2 yrs (capped to 28.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, particularly in government accounting and financial management, which matches the job's requirement for at least 10 years of experience. The detailed descriptions of past roles show a strong track record of managing financial processes and systems."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in certain sections reduces its overall effectiveness in matching the job description."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as a supervisor and leader in previous roles indicates a level of leadership that aligns with the job's requirement for strategic leadership. However, there is no specific mention of leading the accounting team or fostering skill development."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities, such as managing financial processes and systems. However, there is no clear indication of leading the month-end close process or developing internal controls, which are mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and financial management, which aligns well with the job's requirement for advanced financial skills. However, there is no mention of specific certifications or advanced software proficiency."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong analytical, organizational, and leadership skills, which are aligned with the soft skills required by the job description. There is also evidence of communication skills through the detailed descriptions of past roles."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Excel, which is mentioned in the job description as a preferred tool. However, there is no explicit mention of advanced financial software systems, which is also listed as a preferred tool."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various accounting roles demonstrates transferable skills, but there is no explicit mention of how these skills can be applied specifically to the job responsibilities mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.524
+}

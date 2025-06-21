@@ -1,0 +1,51 @@
+{
+    "resume_id": "21904897",
+    "jd_id": "3901925281",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): Only a high school diploma is listed, which does not match the required experience level."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 30.2 yrs (capped to 30.2), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience as a chef, including managing kitchen staff and developing menus, which aligns with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience managing kitchen staff, indicating leadership skills, but the resume does not emphasize this aspect."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as preparing food, managing inventory, and maintaining cleanliness, which matches some of the job responsibilities."
+        },
+        "skills": {
+            "score": 0.96,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience as a chef, which aligns well with the job's requirement for food preparation and service area inspection."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, but their experience in managing staff and food preparation suggests they possess qualities like attention to detail and adaptability."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like multitasking and attention to detail are transferable from the candidate's experience to the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.657
+}

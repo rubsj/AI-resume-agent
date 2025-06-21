@@ -1,0 +1,51 @@
+{
+    "resume_id": "10138632",
+    "jd_id": "3903467194",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.698,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is listed as a High School Diploma, which does not meet the inferred educational requirement of a Bachelor's degree or higher."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.3 yrs (capped to 20.3), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in Sales Management, which aligns with the job description's requirement for supervising the Boat Sales Department. However, the lack of specific experience in boats or marine sales reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing staff and carrying out supervisory responsibilities indicates leadership skills, but there is no explicit mention of leadership in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as supporting customer service, meeting financial plans, executing sales plans, managing staff, coordinating training, resolving issues, and carrying out supervisory responsibilities, which align with the job responsibilities. However, the lack of detail on specific responsibilities related to boats reduces the score."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Administration and Management, Critical Thinking, Negotiation, Persuasion, and Sales and Marketing, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are mentioned in their summary and experience, including critical thinking, negotiation, persuasion, and sales, which align with the job requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are evident in their experience and summary, but they do not specifically mention skills that are directly transferable to boat sales."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.648
+}

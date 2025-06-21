@@ -1,0 +1,51 @@
+{
+    "resume_id": "63083944",
+    "jd_id": "3903815462",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.656,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an OSHA certification, but lacks certifications in EVMS, Primavera P6, ASPE, and AACE, which are mentioned in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two degrees, one in Information Technology and one in Telecommunications, which are relevant to the job description. However, the lack of specific details about GPA and graduation year reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in various managerial roles, which matches the required years of experience and responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing teams and projects indicates leadership skills, which aligns with the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as schedule planning, maintenance, and monitoring, which aligns with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Oracle (exact)'] | (LLM 0.4): The candidate has relevant experience in project management and operations, which aligns with the required skills in the job description. However, there is no direct mention of advanced Excel, Word, PowerPoint, or Oracle skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned in the resume, but the experience in leadership and communication can be considered as soft skills that match the job description."
+        },
+        "tools": {
+            "score": 0.364,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Excel (fuzzy)', 'Oracle (exact)'] | (LLM 0.4): The candidate has experience with Oracle, which is mentioned in the job description, but lacks experience with other tools like MS Excel, MS Word, MS PowerPoint, and Primavera P6."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not explicitly stated in the resume, but the experience in project management, operations, and communication can be considered as transferable skills that match the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.545
+}

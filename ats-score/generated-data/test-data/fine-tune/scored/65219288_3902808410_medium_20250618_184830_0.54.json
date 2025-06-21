@@ -1,0 +1,51 @@
+{
+    "resume_id": "65219288",
+    "jd_id": "3902808410",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.344,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which might be a concern given the job's emphasis on specific regulatory knowledge."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's degree in Business, Supply Chain Management, Finance, or similar (fuzzy)\"] | (LLM 0.5): A Bachelor's degree is mentioned, but it lacks a GPA, which could indicate academic performance issues."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.8 yrs (capped to 19.8), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has extensive experience in management and operations, including safety and training, which closely matches the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership skills are mentioned, but there is no evidence of leadership in a professional context, which is crucial for this role."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job's responsibilities, particularly in managing and directing suppliers and teams."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as management, manufacturing, and loss prevention, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills such as leadership, communication, and problem-solving are mentioned, but they are not as detailed or specific as those listed in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in tools like Deltek Costpoint, Coupa system(s), FAR, Space Act Agreements, Collaborative Research and Development Agreements, ITAR/EAR, which are essential for the job."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like budgeting, managing, and facilitating are transferable, but they lack depth compared to the job's requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.538
+}

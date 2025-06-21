@@ -1,0 +1,51 @@
+{
+    "resume_id": "66832845",
+    "jd_id": "3903485863",
+    "domain": "INFORMATION-TECHNOLOGY",
+    "resume_jd_similarity": 0.28,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications, whereas the job description requires basic qualifications including a Bachelor's degree and experience in politically sensitive issues."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education section is incomplete and does not provide details about degrees or institutions, unlike the job description's requirement for a Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate's experience closely matches the job description's required experience level and responsibilities related to IT administration and server management. However, there is no explicit mention of the required soft skills or leadership qualities."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not explicitly mention leadership skills, and the candidate's resume does not highlight any leadership experiences."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines responsibilities related to scenario planning, stakeholder coordination, and executive communications, which are not reflected in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in IT administration and server management, which aligns well with the required skills in the job description. However, there is no mention of specific tools or technologies that match the job description's requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description requires skilled writing and political acumen, which are not mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description mentions specific tools like ArcGIS and Windows 2012 - Powershell, but the candidate's resume does not provide evidence of proficiency or use of these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as problem-solving and technical expertise, which could be relevant to the job description's responsibilities. However, there is no direct alignment with the required soft skills or leadership qualities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.543
+}

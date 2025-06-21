@@ -1,0 +1,51 @@
+{
+    "resume_id": "12144825",
+    "jd_id": "3902861915",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.323,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed that are directly related to aviation mechanics or the required skills for the job."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's degree in Electrical Engineering is not directly related to the aviation field or the specific requirements of the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 14.2 yrs (capped to 14.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in software development and automation, which aligns with some of the responsibilities in the job description. However, the experience is not specifically in aviation maintenance or repair."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not mention any leadership requirements, so there is no direct comparison."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines responsibilities related to aircraft maintenance, which the candidate's experience does not cover."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in.NET, C++, C#, and SQL, which are not explicitly mentioned in the job description but are commonly used in aviation software development. The candidate also has experience in scripting languages like Bash and Python, which can be useful for automation tasks."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The job description does not mention any soft skills required for the position, so there is no direct comparison."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not mention any specific tools or technologies required for the position, so there is no direct comparison."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in programming, software development, and automation, which could be applicable to various industries including aviation. However, these skills are not aligned with the specific job responsibilities mentioned in the description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.528
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "39581020",
+    "jd_id": "3904373122",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.698,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The highest education mentioned is a High School Diploma, which does not match the required degree level for the position."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales roles, including Key Holder and Sales Associate positions. However, the experience is not as recent as the job description suggests it prefers."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted, uses proper grammar, and is free of typos."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience or skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with most of the job responsibilities listed in the job description, but there is no mention of offering Protection Plans or being involved in the credit card program."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills like 'coach', 'Communication Skills', 'credit', 'Leadership Skills','marketing', 'window', 'Problem Solving Skills','sales', 'Teamwork', and 'telephone'. However, there is no mention of 'Business Development' which is required."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Excellent communication skills' and 'Service-focused mindset', which are aligned with the job description. However, there is no explicit mention of these skills in the resume."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'teamwork', 'problem-solving', and 'communication', which are relevant to the job description. However, there is no mention of specific skills like 'business development' or'sales strategy' which are preferred."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.587
+}

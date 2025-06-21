@@ -1,0 +1,51 @@
+{
+    "resume_id": "41523474",
+    "jd_id": "3901942410",
+    "domain": "HR",
+    "resume_jd_similarity": 0.339,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned match the job requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): An MBA degree is relevant but lacks specific details and GPA, which could impact credibility."
+        },
+        "experience": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Resume: 1.2 yrs (capped to 1.2), JD requires: 4.0 yrs. | (LLM 0.5): The candidate's experience closely matches the job responsibilities, particularly in HR management tasks."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership roles are mentioned briefly, but there is no detailed evidence of leadership skills or achievements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing projects and conducting research, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in computer software like SPSS, MS Office, internet & email operations, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication and teamwork skills, which are essential soft skills for the position."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like MS Office, which are listed as required skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like meeting objectives, identifying problems, and effective communication are transferable but lack depth in the resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.469
+}

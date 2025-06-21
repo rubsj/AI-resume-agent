@@ -1,0 +1,51 @@
+{
+    "resume_id": "19336728",
+    "jd_id": "3904587377",
+    "domain": "HR",
+    "resume_jd_similarity": 0.565,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate does not have any certifications listed that match the job requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Organizational Leadership, which is relevant to the job requirements, but lacks specific details about the Associate Degree and EMT Certification."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in HR-related roles, including an HR Assistant Internship and owning and operating a retail store, which shows some transferable skills to the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership experience or skills that align with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not provide specific responsibilities from previous jobs that match the job requirements."
+        },
+        "skills": {
+            "score": 0.608,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills such as administrative support, repairs, and spreadsheet management, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions some soft skills like attention to detail, communication, customer service, problem-solving, and teamwork, which are relevant to the job requirements."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.4): The candidate does not list any tools or technologies used, which could be relevant to the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like administrative support, repairs, and spreadsheet management, which can be transferred to the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.473
+}

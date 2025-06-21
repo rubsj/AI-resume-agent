@@ -1,0 +1,51 @@
+{
+    "resume_id": "14640322",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.443,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the preferred PMP Certification."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Human Resources and Finance, which is relevant but not directly aligned with the job description's preferred degree in IT or Computer Science."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 9.4 yrs (capped to 9.4), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR Generalist roles, which closely matches the job description's required experience and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in HR Generalist roles suggests they have some leadership qualities, though not explicitly called out as leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's requirements for project management and HRIS implementation, but there is no mention of specific tools or technologies used."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has strong skills in Human Resources, Information Technology, and Project Management, aligning closely with the job description requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership and communication, are relevant to the job description's requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No specific tools or technologies used are mentioned in the resume that match the job description's requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not explicitly stated, but given their experience in HR and IT, they could potentially apply these skills in the new role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.466
+}

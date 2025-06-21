@@ -1,0 +1,51 @@
+{
+    "resume_id": "16203589",
+    "jd_id": "3903825132",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.727,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A Bachelor's degree in Interior Design is mentioned, but it lacks details such as GPA and graduation year, which could be important for the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 10.9 yrs (capped to 10.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in project management and construction, which aligns with the job description. However, the lack of specific details about the job responsibilities might lower the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, such as managing construction teams and facilitating meetings, aligns well with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.335,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Estimating construction projects (fuzzy)'] | (LLM 0.5): The candidate's experience includes responsibilities like managing projects, overseeing construction, and facilitating meetings, which match some of the job responsibilities listed. However, there is no clear indication of estimating projects or creating budgets."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Auto CAD, leadership, operation monitoring, and time management, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as leadership and communication, which are aligned with the job requirements. However, the lack of specific examples or quantifiable achievements might lower the score."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No mention of tools or technologies used is provided in the resume, which could be crucial for the job."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like judgment and decision making, management of personnel resources, and multitasking are mentioned, which can be considered transferable. However, the lack of specific examples or achievements might lower the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.653
+}

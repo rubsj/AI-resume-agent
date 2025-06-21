@@ -1,0 +1,51 @@
+{
+    "resume_id": "18155310",
+    "jd_id": "3905331171",
+    "domain": "HR",
+    "resume_jd_similarity": 0.691,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds certifications such as ServSafe Food Protection Manager and Certified Food Service Manager, which are relevant to the job description's certifications section. However, the Professional in Human Resources certification is pending, which may not fully meet the requirement."
+        },
+        "education": {
+            "score": 0.325,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['High school diploma with some college or associate degree (fuzzy)'] | (LLM 0.5): The candidate has an Associates degree in Business Management from Robert Morris College, which is aligned with the education requirements but does not match the preferred Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 22.3 yrs (capped to 22.3), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has over 22 years of experience in various HR and administrative roles, which is significantly more than the required 1-2 years. This experience aligns well with the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise, enhancing the overall readability."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are not required for the position. The experience in managing teams or leading projects could be considered as indirect indicators of leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in various HR and administrative tasks matches several responsibilities listed in the job description, such as supporting HR functions, coordinating training, and handling administrative tasks. However, there is no direct mention of specific responsibilities like coordinating wellness plans or interfacing with recruiting agencies."
+        },
+        "skills": {
+            "score": 0.648,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (exact)', 'Human Resources (substring)'] | (LLM 0.4): The candidate has extensive experience in Human Resources and Administrative roles, aligning closely with the job description's required skills. The resume includes specific skills like 'Customer Service', 'Receptionist', 'Retail Sales', and 'Budget', which are relevant to the job responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like communication, relationship management, and attention to detail are aligned with the soft skills required by the job description. However, there is no explicit mention of maintaining confidentiality or analytical ability in root cause analysis."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience with tools like ADP, Microsoft Office, Facebook, Salesforce, and others is not explicitly mentioned in the resume, making it difficult to assess the level of proficiency. However, the job description mentions these tools as required, so the score reflects the potential fit."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like customer service, retail sales, budgeting, and administrative functions are transferable to the HR Administration Specialist role. However, the lack of direct experience in strategy planning or professionalism might slightly reduce the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.547
+}

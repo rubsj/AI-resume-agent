@@ -1,0 +1,51 @@
+{
+    "resume_id": "71576860",
+    "jd_id": "3901947070",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.428,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume that directly correlate with the required skills or degrees in the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Graphic Design degree and a High School Diploma, neither of which are directly related to the required Bachelor's or Master's degree in Architecture or a related field."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 11.1 yrs (capped to 11.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in Retail Management, which can be transferred to Project Management. However, the experience does not specifically mention skills related to Architecture or Construction, which are required for the job."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of alignment with the job description's requirements reduces the score slightly."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing staff, which is relevant to leadership skills required for the job. However, the lack of direct experience in construction or architecture limits the score."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully align with the job responsibilities listed in the job description, particularly those related to architectural design and construction management."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant experience in Retail Floor Management, which aligns with the required skills of Project Designer such as Project Management and Information Technology. The candidate also possesses strong communication skills, which is beneficial for both roles."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions strong communication skills, which is aligned with the soft skills required for the job. However, other soft skills like detail-oriented, problem-solving, teamwork, adaptability, etc., are not explicitly mentioned."
+        },
+        "tools": {
+            "score": 0.12,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Revit (fuzzy)'] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their past roles, which contrasts with the job description's requirement for proficiency in Revit and AutoCAD."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as customer relations, organizing, and time management are transferable from the candidate's retail management experience to the role of a Project Designer. However, specific architectural skills are lacking."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.445
+}

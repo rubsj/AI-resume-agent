@@ -1,0 +1,51 @@
+{
+    "resume_id": "11130200",
+    "jd_id": "3901965350",
+    "domain": "FITNESS",
+    "resume_jd_similarity": 0.222,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job requirement of a Bachelor's Degree."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks formal education details, which is a requirement for the mid-senior level position."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 15.5 yrs (capped to 15.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant work experience in roles that involve handling materials, operating machinery, and performing tasks similar to those described in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience or skills in the resume that align with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide evidence of responsibilities related to training, development, or leadership, which are key aspects of the job description."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills like Forklift operator, Hand trucks, Inventory, machinery, Building Materials Read and Interpret Drawings, Safety, Service, and Time Management, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills such as Leadership, Teamwork, Collaboration, Mentorship, Coaching, Guidance, Proactivity, Organization, Inspiration, Clear Goals, Effective Coaching, Tailored Support, Teamwork, Professional Growth, and Collaboration are not demonstrated through the resume content."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume, which contrasts with the job requirement of a Manager of Learning and Development role."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Time Management, Safety, and Service are transferable to the role but lack specific context related to training or development."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.466
+}

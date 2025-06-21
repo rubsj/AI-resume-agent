@@ -1,0 +1,51 @@
+{
+    "resume_id": "21238396",
+    "jd_id": "3885835246",
+    "domain": "FITNESS",
+    "resume_jd_similarity": 0.3,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's lack of certification requirements."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A Bachelor of Arts degree in Psychology and Sociology is relevant but does not directly align with the job's technical requirements."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 19.2 yrs (capped to 19.2), JD requires: 6.0 yrs. | (LLM 0.5): The candidate's experience in coordinating events and managing community outreach aligns well with the job's responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership skills are mentioned in the resume, but they do not specifically align with the job's leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing events and community outreach are somewhat aligned with the job's responsibilities, but there is no direct match with the job's technical responsibilities."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in multiple POS systems, Microsoft Excel, organization sites, G-Drive applications, problem-solving, and team leadership, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills in problem-solving, team leadership, and energy management align well with the job's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are listed in the resume, which contrasts with the job description's mention of JSAF, MTWS, and other M&S systems."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like multitasking and customer focus are transferable but may not be as directly applicable as those listed in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.677
+}

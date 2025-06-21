@@ -1,0 +1,51 @@
+{
+    "resume_id": "41910253",
+    "jd_id": "3902914694",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.66,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume lacks specific details about the degree obtained, which is required by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in a healthcare setting, which aligns with the job requirements. However, the resume does not provide detailed responsibilities that match the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership roles or achievements in the resume that would indicate the candidate's leadership capabilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions skills that could align with some responsibilities listed in the job description, but there is no direct match."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as EPIC, Microsoft Office Suite, Healthcare Systems, Insurance/Billing, Sorian Scheduling, etc., which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like communication, interpersonal skills, etc., which are aligned with the soft skills required by the job description. However, there is no explicit mention of teamwork or teaching/learning new skills."
+        },
+        "tools": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate has experience with tools like EPIC, Microsoft Office Suite, etc., which are mentioned in the job description. However, there is no explicit mention of database/data entry experience."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like data analysis, databases, decision-making, etc., which could be transferable to the job requirements. However, there is no explicit mention of specific skills like knowledge of medical terminology or ability to perform basic arithmetic computations."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.562
+}

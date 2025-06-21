@@ -1,0 +1,51 @@
+{
+    "resume_id": "14358578",
+    "jd_id": "3901952717",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.664,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which contrasts with the requirement for a'retail management degree' in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume indicates an expected Bachelor of Science degree in Psychology and Political Science from University of Scranton, but it does not specify when the degree will be completed. The job description requires 'Post-Secondary education' or a'retail management degree'."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as a Sales Associate, which aligns with the job responsibilities. However, the resume lacks details about leadership roles or direct management responsibilities, which are mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of detail in certain sections reduces its overall effectiveness."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership roles or responsibilities in the candidate's resume, which contrasts with the requirement for demonstrated leadership skills in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume provides some details on responsibilities, such as customer service and sales, which align with the job responsibilities. However, there is no mention of leadership or team management responsibilities."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills in Sales, Exceptional Customer Service, and Social Perceptiveness, which align well with the job requirements. However, there is no mention of Business Development, which is a required skill."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists skills like Exceptional Customer Service and Social Perceptiveness, which align with the soft skills required. However, there is no mention of demonstrated leadership skills or qualities."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume, which contrasts with the requirement for 'Business Development' in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as Sales, Customer Service, and Problem-solving, which could be beneficial in a retail management role. However, there is no evidence of advanced skills or certifications that might set the candidate apart."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.532
+}

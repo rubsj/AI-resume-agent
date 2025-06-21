@@ -1,0 +1,51 @@
+{
+    "resume_id": "75286906",
+    "jd_id": "3902319512",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may limit the candidate's qualifications compared to those with relevant certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Accountancy and a Liberal Arts degree, which are relevant to the job requirements, but the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.0 yrs (capped to 24.0), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in accounting roles, including responsibilities that closely match the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume, which may limit the candidate's qualifications for roles requiring leadership."
+        },
+        "responsibilities": {
+            "score": 0.423,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Bank reconciliations (substring)'] | (LLM 0.5): The candidate's job responsibilities align with the job responsibilities listed in the job description, indicating a strong fit for the role."
+        },
+        "skills": {
+            "score": 0.488,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Word (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, including skills in accounts payable, accounts receivable, and Microsoft Excel, which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as attention to detail and customer service focus, are mentioned but could be more explicitly aligned with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.49,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft Excel (fuzzy)', 'Word (exact)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Excel, Outlook, Word, and Epicor Prophet 21, which are mentioned in the job description, but lacks specific details about proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like analytical skills and fast-paced environment adaptability, which are beneficial for the role, but the lack of explicit mention in the job description reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.561
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "87968870",
+    "jd_id": "3903485863",
+    "domain": "HR",
+    "resume_jd_similarity": 0.45,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be a concern given the required experience and soft skills in the job description."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a BBA in Human Resource Management and an Associate of Science degree in Liberal Arts, which aligns well with the job requirements. However, the lack of specific GPA details could be seen as a minor weakness."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in HR roles, including experience in recruitment, retention, employee relations, and organizational development, which matches the job description. The resume also includes specific achievements like increasing the employee base by 15%, indicating strong performance."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in some sections could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership skills or experience, which might be expected given the senior-level position described in the job title."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in past roles do not directly match the job responsibilities listed in the description. While they have experience in various HR areas, there is no clear alignment with the specific responsibilities such as scenario planning, preparing communications for executives, or maintaining relationships with key stakeholders."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills relevant to the job description, including HR, benefits, and technology tools like ADP and SharePoint. However, there is no mention of political astuteness or complex idea synthesis, which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks explicit soft skills that are mentioned in the job description, such as skilled writing and politically astute. This could be a significant gap in their qualifications."
+        },
+        "tools": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate has experience with tools like ADP and SharePoint, which are mentioned in the job description. However, there is no explicit mention of the required experience working on politically sensitive issues or having experience in corporate advocacy, communications, or public affairs."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like employee relations, performance management, and understanding of HR policies and procedures, which are relevant to the job. However, there is no evidence of experience in politically sensitive issues or corporate DEI best practices."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.7
+}

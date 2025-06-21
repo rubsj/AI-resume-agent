@@ -1,0 +1,51 @@
+{
+    "resume_id": "37370455",
+    "jd_id": "3904719458",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.674,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Finance from Oklahoma State University and a Diploma in Banking from Mara Institute of Technology (UITM). While these qualifications are relevant, they do not directly match the educational requirements specified in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 15.7 yrs (capped to 15.7), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant work experience in various accounting roles, including positions as an Accountant, Assistant Finance Manager, and Accounts Executive. This experience aligns well with the responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and self-assessment are clear and concise."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership qualities in their self-assessment, but there is no evidence of supervisory experience or leadership roles in their work history, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles cover many of the responsibilities listed in the job description, such as preparing financial statements, managing accounts, and ensuring compliance. However, some specific responsibilities like maintaining a professional working relationship and promoting open lines of communication are not directly addressed."
+        },
+        "skills": {
+            "score": 0.397,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting, financial reporting, and management, which aligns well with the required skills in the job description. The candidate also possesses advanced skills in accounting software and processes, which are essential for the role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-assessment includes skills such as independence, fast learning, and good communication, which align with the soft skills required in the job description. However, the candidate does not explicitly mention having leadership qualities, which is one of the soft skills listed."
+        },
+        "tools": {
+            "score": 0.372,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate's experience includes proficiency in tools such as Microsoft Office, Hyperion, and SAP, which are mentioned in the job description. However, there is no explicit mention of the required computerized financial information systems or property software."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, financial management, and software proficiency are transferable to the role. However, the lack of specific technical skills mentioned in the job description may limit the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.549
+}

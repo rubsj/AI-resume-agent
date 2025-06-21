@@ -1,0 +1,51 @@
+{
+    "resume_id": "16877897",
+    "jd_id": "3901938807",
+    "domain": "HR",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume."
+        },
+        "education": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor of Education, MBA, and a Bachelor of Science degree, which aligns well with the education requirements for the role."
+        },
+        "experience": {
+            "score": 0.77,
+            "reason": "(Rule 0.5): Resume: 4.2 yrs (capped to 4.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, but the job description requires more depth in HR technology and analytics, which is not fully covered in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it could benefit from more detailed descriptions of experiences and skills."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are listed in the resume, but they lack detail on end-to-end ownership of HRIS systems and advanced data analytics capabilities."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills including SAP R/3 4.7, MS Office suite proficiency, and functional knowledge in HR processes. However, the resume lacks specific details on proficiency in SQL, HTML, CSS, and JavaScript."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as attention to detail and strong work ethic, which are aligned with the job description. However, the resume does not explicitly mention flexibility and comfort interacting with employees."
+        },
+        "tools": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Excel (exact)', 'PowerPoint (fuzzy)'] | (LLM 0.4): The candidate has experience with SAP R/3 4.7 and MS Office tools, which are mentioned in the job description. However, there is no mention of specific tools like Workday, Tableau, or other HRIS systems."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in recruitment, organization management, time management, payroll, benefits, personal administration, training, and development. However, the resume lacks specifics on how these skills are applied in an HR technology context."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.621
+}

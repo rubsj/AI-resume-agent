@@ -1,0 +1,51 @@
+{
+    "resume_id": "28867567",
+    "jd_id": "3904960001",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.675,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be a requirement or preferred skill in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a BS in Hospitality & Business Management, which is related to the job description but lacks detail about the field of study or GPA, making it less clear how well it aligns with the required business-related degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in sales and management roles, including responsibilities that closely match those listed in the job description such as strategic planning, sales forecasting, and client account management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism. However, the lack of detailed information in certain sections reduces the score slightly."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, which aligns with the job description's requirement for leadership and management. However, there is no explicit mention of leading sales function or managing sales leadership."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the responsibilities listed in the job description, particularly in sales strategy execution and team management. However, there is no mention of strategic planning or influencing peers across other groups."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant experience in sales and management, which aligns with the required skills in sales business acumen, client engagement, and solution skills. However, there is no mention of specific technology solutions or strategic planning, which could be more aligned with the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as relationship selling, territory sales, and leadership, are relevant to the job description. However, the lack of detail on specific soft skills like sales business management or talent management and enablement reduces the score."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume, which contrasts with the job description's lack of specific tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as organizational and people skills, are generally aligned with the job description. However, the absence of specific skills like sales business management or strategic planning limits the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.594
+}

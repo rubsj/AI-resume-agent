@@ -1,0 +1,51 @@
+{
+    "resume_id": "28243590",
+    "jd_id": "3905311644",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.261,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job description requirements."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds advanced degrees in Finance and Economics, which are relevant to the job description's requirement for degrees in Engineering, Biology, or related scientific fields."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in consulting roles, which aligns with the job responsibilities. However, the experience does not specifically mention medical device/combination product regulatory/quality/development experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles suggests they have leadership skills, which are required by the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like leadership and technical consulting, but it does not cover all the responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.76,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Consulting (exact)', 'Management (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Consulting', 'Finance', and 'accounting system', which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include communication and leadership, which are aligned with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume, and the job description does not require any specific tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in finance, economics, and consulting are transferable to the job responsibilities, though they may not be directly applicable."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.607
+}

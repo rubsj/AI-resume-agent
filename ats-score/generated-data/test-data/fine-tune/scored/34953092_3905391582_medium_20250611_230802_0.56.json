@@ -1,0 +1,51 @@
+{
+    "resume_id": "34953092",
+    "jd_id": "3905391582",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.684,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may be required or preferred for the position."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds degrees in Computer Engineering and Finance, which are relevant to the field of finance. However, the GPA is not provided, which could be important for assessing academic performance."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 2.0 yrs (capped to 2.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in corporate banking and financial analysis, but the details provided are limited and do not fully match the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership experience in a Chinese Business Student Association, which could be seen as a transferable skill, but it is not directly related to the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly align with the job responsibilities listed in the job description, particularly in terms of risk management strategies and client-facing tasks."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as Finance, Corporate Banking, Financial Forecasting, and Financial Analysis, which align well with the job requirements. However, there are missing details in the skills section."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, but the resume includes a section on leadership, which could be considered a soft skill. The candidate lacks specific soft skills that are directly aligned with the job responsibilities."
+        },
+        "tools": {
+            "score": 0.309,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['SQL (exact)', 'Python (exact)'] | (LLM 0.4): The candidate has experience with tools like VBA, which is mentioned in the job description under 'tools and technologies'. However, there is no explicit mention of proficiency in Microsoft Excel, Access, Visio, SQL, Python, CRM tool, email, escalation paths, business documents, or current loan information."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from previous roles, such as problem-solving and project management, which are relevant to the job. However, these skills are not explicitly stated in relation to the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.555
+}

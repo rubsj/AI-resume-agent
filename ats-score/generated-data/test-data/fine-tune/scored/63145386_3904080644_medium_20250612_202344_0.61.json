@@ -1,0 +1,51 @@
+{
+    "resume_id": "63145386",
+    "jd_id": "3904080644",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.653,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, and the job description does not specify any required certifications."
+        },
+        "education": {
+            "score": 0.725,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Finance, which is relevant to the financial aspects of the job. However, the GPA is not provided, which could be a factor in assessing academic achievement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in construction project management, including roles as a Construction Project Manager, Project Controller, and Purchasing Analyst. These roles demonstrate experience in project control, financial management, and purchasing, which are key areas of the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary statement is concise and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership roles or achievements, which are important for the job responsibilities. The job description emphasizes leadership skills, but they are not fully reflected in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume highlights experience in managing projects, budgets, and personnel, which aligns with the job responsibilities. However, there is no direct mention of specific responsibilities like attending Hand-Off Meetings or Rackley Roofing Company meetings, which are mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.456,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has extensive experience in construction project management, which aligns well with the job's requirement for managing projects, overseeing budgets, and ensuring profitability. The resume also lists proficiency in software tools like Microsoft Office, Adobe Creative Suite, and others, which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly list soft skills, but mentions qualities like determination and motivation. The job description emphasizes soft skills such as communication, leadership, and problem-solving, which are not fully reflected in the resume."
+        },
+        "tools": {
+            "score": 0.38,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Salesforce (fuzzy)'] | (LLM 0.4): The candidate's resume lists proficiency in several software tools, including Microsoft Office, Adobe Creative Suite, and others, which are mentioned in the job description. However, there is no explicit mention of Salesforce, which is one of the tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes skills like project control, financial management, and purchasing, which are transferable to the job responsibilities. However, there is no explicit mention of skills like customer service or industry-specific knowledge, which are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.606
+}

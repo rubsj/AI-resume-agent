@@ -1,0 +1,51 @@
+{
+    "resume_id": "29087505",
+    "jd_id": "3902796587",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.668,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not mention any certifications, while the job description requires a Professional Engineer certification."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an AA degree, which is less than the preferred B.S. degree in Civil Engineering mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.7 yrs (capped to 13.7), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction and management, which aligns with the job description's responsibilities. However, the total experience is less than the required 7+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills under the 'Leadership' section, which aligns with the job description's soft skills. However, there is no explicit mention of leading staff development or mentoring staff."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job description, such as managing projects and leading teams. However, there is no explicit mention of overseeing project pursuits, managing engineering resources within budget, or driving customer value."
+        },
+        "skills": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Leadership (exact)', 'Problem-solving (substring)'] | (LLM 0.4): The candidate has relevant skills in framing, machinery, office, Windows, Microsoft, Mac, Apple, works, networking, painting, and problem-solving skills, which align with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills under the 'Leadership' section, which aligns with the job description's soft skills. However, there is no explicit mention of communication, teamwork, innovation, creativity, or mentorship."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Salesforce (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is listed in the job description's tools and technologies. However, there is no mention of Adobe Creative Suite, Facebook, Salesforce, or other tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like time management, teaching, learning, and client negotiations, which could be beneficial in the role. However, there is no explicit mention of detail-oriented work, commitment to project excellence, or excellent communication skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.417
+}

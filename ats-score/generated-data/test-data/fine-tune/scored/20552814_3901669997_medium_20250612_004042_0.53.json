@@ -1,0 +1,51 @@
+{
+    "resume_id": "20552814",
+    "jd_id": "3901669997",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.665,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a High School Diploma, but the year is missing. The GPA is also missing, so it's unclear how well they performed academically."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in retail, customer service, and sales roles, which aligns with the job description requirements. The detailed descriptions of their duties match many of the responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, there are some missing details like dates, which could affect the clarity of the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, which contrasts with the job description mentioning leadership responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the responsibilities outlined in the job description, such as customer service, sales, and managing the sales floor."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'cash management', 'communication skills', 'computer literate', and 'customer service'. However, there is no mention of specific tools like 'Omni shopping experience' or 'belk.com' which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'customer service', 'communication skills', and 'adaptability', which are aligned with the job description. However, some specific soft skills mentioned in the job description, such as 'friendly', 'welcoming attitude', and 'coaching', are not explicitly stated in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their previous roles, which contrasts with the job description mentioning 'Omni shopping experience', 'belk.com', and 'OSHA regulations'."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'cash management', 'computer literacy', and 'customer service', which are relevant to the job description. However, there is no explicit mention of skills like'suggestive selling' or'merchandising standards', which are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.53
+}

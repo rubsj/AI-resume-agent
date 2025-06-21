@@ -1,0 +1,51 @@
+{
+    "resume_id": "82140102",
+    "jd_id": "3905327716",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.308,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required 'ASE Certification Preferred, But Not Required'."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): Only a High School Diploma is listed, lacking the required degree level for the job."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.8 yrs (capped to 18.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in insurance claims adjustment, particularly in managing complex claims and negotiations, which matches the job's requirement for experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No responsibilities related to sales or commercial business management are mentioned, which are required for the job."
+        },
+        "skills": {
+            "score": 0.632,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Customer Service', 'Insurance', and 'Settlements' which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills such as 'Friendly communication', 'Listening', and 'Problem solving' are not explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in Microsoft software tools like Word or Excel, which are required."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Customer service', 'Communication', and 'Team-oriented' are transferable but lack specific details that would make them more relevant to the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.405
+}

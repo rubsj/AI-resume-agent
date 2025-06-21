@@ -1,0 +1,51 @@
+{
+    "resume_id": "10176815",
+    "jd_id": "3903830250",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.357,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds degrees in relevant fields, but the GPA is lower than what might be expected for a senior-level position."
+        },
+        "experience": {
+            "score": 0.86,
+            "reason": "(Rule 0.5): Resume: 4.1 yrs (capped to 4.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in aviation electronics, which matches the job's requirements for field engineering."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership roles or responsibilities in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with some of the responsibilities listed in the job description, but there is no direct mention of leading projects or teams."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in electronics, aviation, and technical documentation, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills like attention to detail and problem-solving are mentioned, but there is no evidence of leadership or teamwork."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are listed in the resume, which could be crucial for the job."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like calibration, troubleshooting, and quality assurance are transferable to the field engineering role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.683
+}

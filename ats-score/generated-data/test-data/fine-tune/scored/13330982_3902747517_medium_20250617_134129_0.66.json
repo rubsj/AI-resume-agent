@@ -1,0 +1,51 @@
+{
+    "resume_id": "13330982",
+    "jd_id": "3902747517",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.289,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that match the job's requirements."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Master of Education and a Bachelor of Arts, which are relevant to the education field but lack specific details about the qualifications needed for the job."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience as a teacher and a school safety officer, which aligns with some responsibilities of the job, but lacks specifics on leadership and group management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in coaching and teaching suggests leadership skills, but the job description requires more specific leadership responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes teaching and coaching, which aligns with some responsibilities of the job, but lacks specifics on leading groups and ensuring safety."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has experience in classroom instruction, critical thinking, and urban classroom settings, which aligns well with the job's requirement for leadership and group management."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like classroom management and community involvement, which align with the job's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various roles provides transferable skills, but the job description does not specify which ones are most relevant."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.656
+}

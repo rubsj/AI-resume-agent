@@ -1,0 +1,51 @@
+{
+    "resume_id": "17150707",
+    "jd_id": "3901945484",
+    "domain": "HR",
+    "resume_jd_similarity": 0.352,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists a B.S. in Business, which is relevant to the field of human resources, but lacks details such as GPA or graduation year, making it less clear how well-aligned this education is with the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in HR roles that match the job responsibilities described in the job description, particularly in HRIS, benefits administration, and client support. The detailed job descriptions provide evidence of the candidate's ability to perform tasks such as providing customer support, managing HR systems, and conducting data audits."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, it lacks detail in some sections, such as education and certifications, which could affect the clarity of the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not indicate any leadership roles or responsibilities, which are not required by the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as building relationships, conducting phone interviews, and negotiating job offers, which align with the job responsibilities. However, there is no explicit mention of sales behaviors or account management, which are preferred skills."
+        },
+        "skills": {
+            "score": 0.448,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has extensive experience in HRIS, benefits administration, and HR processes, which aligns well with the required skills of the job description. However, there is no explicit mention of sales skills, which are preferred but not required."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly list soft skills like personality, grit, teamwork, or cultural fit, although these are mentioned in the job description as optional skills. The candidate's experience in client support and relationship management suggests some level of these skills, but they are not quantified or detailed."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used in previous roles, whereas the job description mentions Insight Global's internal database and sales tools as required skills."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as customer support, data auditing, and process documentation, which are relevant to the job responsibilities. However, there is no explicit mention of sales-specific transferable skills like negotiation or account management."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.495
+}

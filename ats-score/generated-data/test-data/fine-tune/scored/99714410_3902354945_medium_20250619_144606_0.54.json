@@ -1,0 +1,51 @@
+{
+    "resume_id": "99714410",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.326,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, and the job description requires a PMP certification, which is not present."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds an MBA and BS degrees, which are relevant to the job description. However, the lack of specific years and GPA makes it difficult to fully assess the educational background."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 41.5 yrs (capped to 40.0), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 40 years of experience in manufacturing and leadership roles, which is significantly more than the required 10 years of experience. This extensive experience is highly relevant to the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's use of bullet points and clear sections enhances readability."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading manufacturing, engineering, maintenance, purchasing, scheduling, inventory, supply chain management, logistics, and new product launches demonstrates strong leadership skills, which aligns well with the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in setting and implementing goals, leading teams, conducting assessments, and managing complex operations aligns well with the responsibilities listed in the job description. However, the lack of detail about specific responsibilities may lower the score slightly."
+        },
+        "skills": {
+            "score": 0.327,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched skills: ['Problem solving (substring)', 'Team building (substring)'] | (LLM 0.4): The candidate has extensive experience in Lean Manufacturing, which aligns well with the required skills of being a Senior Project Manager in Systems Integration. The candidate also possesses a wide range of other skills that are beneficial for project management."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership, driving, mentoring, and problem-solving aligns with the soft skills required. However, the lack of specific examples or quantifiable achievements may lower the score slightly."
+        },
+        "tools": {
+            "score": 0.294,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP (exact)', 'Cloud applications (fuzzy)'] | (LLM 0.4): The candidate has experience with ERP systems, which is one of the required tools. However, there is no mention of experience with cloud applications, network, security, Adobe Creative Suite, Facebook, or Salesforce, which are also mentioned as required tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in accounting, direction, and strategic sourcing are transferable skills that could be beneficial in a project management role. However, the lack of specific details or examples may lower the score slightly."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.538
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "26908066",
+    "jd_id": "3901976421",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.36,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the job requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor's degree is mentioned, but it does not specify if it is in accounting/auditing or general business, which are preferred degrees in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 19.0 yrs (capped to 19.0), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has relevant experience in project management, client relations, and compliance-related tasks, such as managing relationships with regulators and external service providers. However, there is no explicit mention of experience in corporate compliance."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but there is no explicit mention of leadership in corporate compliance or managing teams in a corporate compliance context."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities show overlap with the job responsibilities, particularly in managing relationships with regulators and overseeing external service providers. However, there is no explicit mention of leading North American programs or managing AML functions."
+        },
+        "skills": {
+            "score": 0.351,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Customer satisfaction (substring)', 'Implementation (exact)'] | (LLM 0.4): The candidate has strong skills in 'accounting/auditing' and 'general business', which align well with the job requirements. The resume also mentions proficiency in 'CRM and ATS systems', which is beneficial for corporate compliance."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as autonomous working and communicating with stakeholders, align with the job requirements. However, they do not explicitly mention comfort with navigating ambiguity or utilizing Microsoft Office applications."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Excel, which is listed as a required skill in the job description. They also have experience with CRM and ATS systems, which are beneficial for corporate compliance."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like full cycle recruitment and project management are transferable to corporate compliance, but they are not directly related to the specific job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.51
+}

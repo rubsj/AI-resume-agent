@@ -1,0 +1,51 @@
+{
+    "resume_id": "17545780",
+    "jd_id": "3904705714",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.501,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): An M.D. degree is relevant to healthcare, but the lack of GPA information makes it difficult to assess the quality of education received."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.3 yrs (capped to 14.3), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare administration and management, including problem-solving and staff management. However, the job description requires less experience than what the candidate possesses."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including hiring and training staff, which aligns with the job requirements. However, there is no mention of leadership skills specifically mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned, such as supervision and adherence to budgetary guidelines. However, there is no mention of conducting deliveries or maintaining stock-on-hand, which are specific responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has strong skills in leadership, management, and communication, which align well with the job requirements. However, there is no mention of manufacturing skills, which are preferred but not required."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has strong soft skills such as communication and leadership, which align well with the job requirements. However, there is no mention of specific soft skills like strong communication skills or ability to lift containers, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.284,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['DEA (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office products, which is aligned with the job requirements. However, there is no mention of other tools or technologies specified in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as problem-solving and phone handling, which are relevant to the job. However, there is no mention of specific skills like quality assurance or OSHA knowledge, which are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.511
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "25127518",
+    "jd_id": "3885104612",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.654,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not mention any certifications, which are preferred in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an Associate of Applied Science degree in Accounting, which meets the minimum educational requirement specified in the job description. However, the GPA is not provided, which could be a point of concern."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant work experience in accounting roles that align with the job responsibilities listed in the job description. The experience includes managing budgets, accounts payable, accounts receivable, and other tasks that are part of the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate uses clear and concise language throughout the document."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are not explicitly mentioned in the job description but could be important for certain roles."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed in the job description, such as managing accounts payable and receivable, and overseeing budgeting processes. However, there is no direct mention of responsibilities related to job costing or government reports."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the required skills in the job description. The resume also mentions proficiency in various accounting software and tools, such as Sage, which matches the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as multitasking and strong communication abilities, align well with the soft skills required in the job description. The candidate's experience in managing multiple projects also supports this score."
+        },
+        "tools": {
+            "score": 0.363,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 1}. Matched: ['Job Costing (substring)', 'Government Reports (fuzzy)', 'Tax Returns (substring)'] | (LLM 0.4): The candidate's experience with accounting software like Sage matches some of the tools mentioned in the job description. However, there is no explicit mention of specific tools like Sage 100/CMiC or CMiC, which are preferred in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as attention to detail and organizational skills, are relevant to the job description. However, there is no explicit mention of skills related to construction accounting or internal/external partner support."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.528
+}

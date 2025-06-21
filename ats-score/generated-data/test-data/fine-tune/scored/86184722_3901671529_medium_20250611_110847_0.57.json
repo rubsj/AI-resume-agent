@@ -1,0 +1,51 @@
+{
+    "resume_id": "86184722",
+    "jd_id": "3901671529",
+    "domain": "HR",
+    "resume_jd_similarity": 0.705,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Business Administration degree and a Bachelor's degree in Public Administration, which are relevant to the job description's preferred degree of a Bachelor's Degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 10 years of experience in HR roles, including experience in labor relations, talent management, and employee development, which closely matches the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience is explicitly stated in the resume, and the job description does not require leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as safety process support, compliance promotion, and union awareness, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.371,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Safety (exact)'] | (LLM 0.4): The candidate has a strong background in administrative tasks, streamlining processes, and using ADP, which aligns well with the job description's required skills in human resources and manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication, compliance, and continuous improvement, match the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are listed in the resume, and the job description does not mention any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, like data entry, record keeping, and customer service, are relevant to the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.571
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "25953797",
+    "jd_id": "3905300513",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.559,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume mentions a 'Food Service Sanitation ServSafe ServSafe Certification', but it lacks a specific date issued, which is preferred by the job description."
+        },
+        "education": {
+            "score": 0.825,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume provides an Associate of Applied Science Degree in Culinary Arts from Robert Morris University &ndash; Illinois, which aligns well with the educational requirement of the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The resume includes relevant experience as a Head Chef and Line Cook, which matches the job responsibilities. However, the internship experience does not directly correlate with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which might be expected given the role of a head chef."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume highlights some responsibilities like managing menus, taking inventory, and scheduling, which align with the job responsibilities. However, it lacks details on other responsibilities such as serving on tray assembly lines or performing cleaning duties."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The resume lists skills in 'Arts, inventory', which matches the required skill 'Management'. However, there is no direct match for 'Manufacturing' as specified in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not explicitly mention soft skills, which are important for food service workers as per the job description."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No tools or technologies are listed in the resume, whereas the job description requires knowledge of 'Management' and 'Manufacturing', which are not considered tools or technologies."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lists 'Arts, inventory' under skills, which could be considered transferable skills. However, it lacks specific details that would make these skills stand out as highly relevant to the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.542
+}

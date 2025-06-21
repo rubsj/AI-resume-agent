@@ -1,0 +1,51 @@
+{
+    "resume_id": "37540732",
+    "jd_id": "3905306037",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.692,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's lack of certification requirement."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Administration from The Citadel, which is relevant to the retail domain but lacks specific details about GPA."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.5 yrs (capped to 28.5), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has over 28 years of experience in sales and management roles, which matches the job description's requirement for at least 1 year of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing sales teams indicates leadership capabilities, but the job description does not explicitly require leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing sales teams and achieving sales targets align well with the job description's responsibilities, though specifics like leading by example and emphasizing customer service are not directly mentioned."
+        },
+        "skills": {
+            "score": 0.72,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has extensive experience in sales and related skills, aligning closely with the job description's required skills of Business Development and Sales."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in sales and management demonstrate strong communication and interpersonal skills, which align with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No mention of tools or technologies used is provided in the resume, which contrasts with the job description's lack of tool requirement."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as sales, operations, and customer service are transferable to the retail domain, but the lack of detail on specific retail-related skills reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.708
+}

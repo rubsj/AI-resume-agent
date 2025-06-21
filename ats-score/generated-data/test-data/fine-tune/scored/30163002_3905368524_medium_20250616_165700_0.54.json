@@ -1,0 +1,51 @@
+{
+    "resume_id": "30163002",
+    "jd_id": "3905368524",
+    "domain": "HR",
+    "resume_jd_similarity": 0.413,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts degree in Psychology, which aligns with the preferred degrees listed in the job description. However, the GPA is not provided, which could be a factor in assessing the level of education."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 3.8 yrs (capped to 3.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles that involve administrative tasks, customer service, and some aspects of business development. However, the experience does not specifically mention the tools and technologies required for the job."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors. The language is clear and professional."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership experience or skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume mentions responsibilities that align with the job responsibilities listed in the job description, such as managing reception, handling correspondence, and providing customer service. However, there is no mention of responsibilities related to policy analysis or interpretation."
+        },
+        "skills": {
+            "score": 0.872,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Business Development (substring)', 'Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'business development','sales', and 'Microsoft Office'. However, there is no mention of specific tools like 'ARIES', 'SNAP', 'Medicaid', 'TEA' which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions soft skills such as'strong writing skills', 'communication', and 'problem-solving', which align with the soft skills required for the job. However, there is no explicit mention of skills like 'interpretation of SNAP policy' or'reviewing evidence of compliance'."
+        },
+        "tools": {
+            "score": 0.132,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['ARIES (fuzzy)', 'TEA (substring)'] | (LLM 0.4): The candidate's resume does not mention proficiency in the tools and technologies required for the job, such as 'ARIES', 'SNAP', 'Medicaid', 'TEA'."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes transferable skills such as attention to detail, customer service, and organizational skills. However, there is no mention of specific skills related to policy analysis or interpretation."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.544
+}

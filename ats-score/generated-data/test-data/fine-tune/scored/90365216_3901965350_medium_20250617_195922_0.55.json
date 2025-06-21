@@ -1,0 +1,51 @@
+{
+    "resume_id": "90365216",
+    "jd_id": "3901965350",
+    "domain": "FITNESS",
+    "resume_jd_similarity": 0.358,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has certifications in 'Certified Nutritionist' and 'Certified Weight Management Consultant', but these do not directly align with the required skills in the job description."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an Associate of Science degree in Nursing, which does not directly match the required Bachelor's Degree in the job description."
+        },
+        "experience": {
+            "score": 0.57,
+            "reason": "(Rule 0.5): Resume: 2.2 yrs (capped to 2.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in roles that involve managing teams, conducting training, and providing customer service, which aligns with the job responsibilities. However, the experience is not as extensive as required by the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leading a team and conducting training, which could be seen as a form of leadership. However, there is no explicit mention of leadership skills or experiences in the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as leading initiatives, mentoring, and fostering a collaborative culture, which aligns with the job responsibilities. However, the experience is not as extensive as required by the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Training (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Management', 'Training', 'Communication skills', 'Customer service', and 'Problem-solving'. However, there is no direct match for 'Leadership' and 'Teamwork' which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include 'Communication skills', 'Customer service', and 'Problem-solving', which align with the soft skills mentioned in the job description. However, there is no direct match for 'Leadership', 'Teamwork', and 'Collaboration'."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used, which contrasts with the job description that mentions 'Management' and 'Training' as required skills."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Management', 'Training', and 'Problem-solving' can be considered transferable to the role. However, the lack of direct matches for 'Leadership', 'Teamwork', and 'Collaboration' reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.547
+}

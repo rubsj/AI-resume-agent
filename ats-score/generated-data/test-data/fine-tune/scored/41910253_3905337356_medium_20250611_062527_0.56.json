@@ -1,0 +1,51 @@
+{
+    "resume_id": "41910253",
+    "jd_id": "3905337356",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.681,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, which is a requirement for the job."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume lacks details about the degree obtained, which is a requirement for the job."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 23.4 yrs (capped to 23.4), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in healthcare management, but the job requires specific experience in billing and revenue cycle management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills in their summary, but there is no detailed evidence of leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on job responsibilities, which are specified in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has listed skills that align with the required tools (EPIC) and soft skills (Communication, Leadership). However, there is no mention of specific certifications like CRCR."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong leadership and communication skills, which align with the job requirements."
+        },
+        "tools": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Epic (exact)'] | (LLM 0.4): The candidate has experience with EPIC, which is a required tool for the job."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists transferable skills such as data analysis and databases, which are relevant to the job, but they lack specifics."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.56
+}

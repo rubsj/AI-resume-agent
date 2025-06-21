@@ -1,0 +1,51 @@
+{
+    "resume_id": "12011623",
+    "jd_id": "3901950969",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.444,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description requires U.S. Citizenship and the ability to obtain and maintain a US Secret Level Security Clearance."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Analytics and Environmental Science and Technology, which aligns with the job requirements. However, the degree in Resource Management does not directly match the required field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 10.2 yrs (capped to 10.2), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in engineering and quality control, teaching, and research, which aligns with the job responsibilities. However, there is no direct experience in FPGA development or related fields."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no information in the resume indicating leadership experience or skills."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There are no responsibilities listed in the resume that directly match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in data analysis, data mining, and machine learning, which align well with the job requirements. However, there is no mention of FPGA programming or specific tools like Verilog or VHDL HDL languages."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions good communication skills and self-motivation, which align with the soft skills required. However, there is no explicit mention of ethical practice."
+        },
+        "tools": {
+            "score": 0.034,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Altera (fuzzy)'] | (LLM 0.4): The resume does not mention any tools or technologies used in FPGA development, which is a requirement in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in data analysis, teaching, and research, which could be applicable in the role. However, there is no direct mention of skills related to FPGA development."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.419
+}

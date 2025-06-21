@@ -1,0 +1,51 @@
+{
+    "resume_id": "30344127",
+    "jd_id": "3904089064",
+    "domain": "APPAREL",
+    "resume_jd_similarity": 0.528,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed match the required skills or qualifications."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): Bachelor's degree in Metallurgy and Materials Engineering is relevant but lacks specific details like GPA or graduation year."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 19.1 yrs (capped to 19.1), JD requires: 10.0 yrs. | (LLM 0.5): Experience includes roles that align with the job description such as Senior Materials Analyst and Quality Analyst. However, the job requires more years of experience than the candidate has."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership roles or achievements that align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No responsibilities listed that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Analyst', 'continuous improvement','materials', 'Excel', 'Microsoft Office', 'quality','reporting','sales', 'Six Sigma', 'SPC','statistics', 'Tableau', 'validation'. However, there is no direct match for'management', 'project management', and 'product management' which are required skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills mentioned do not align with the required skills such as'self-starter', 'comfortable with ambiguity', 'fast-paced environment', 'answer business/operational questions', 'across functional boundaries'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools or technologies used that match the required skills like 'large datasets', 'data visualization', 'financial modeling', 'F2 Data Engineering', 'tech-enabled solutions', 'tools to common executional pain points'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'analytic', 'communication', 'teamwork', and 'problem-solving' are transferable but lack specific examples that match the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.415
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "42487883",
+    "jd_id": "3905209022",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.456,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description mentions SOX compliance, CISA, CIA, CISSP, CPA certification, and other IT-related certifications as optional requirements."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Accounting and Information Management and a Bachelor of Arts in Psychology, which aligns with the preferred degree in the job description. However, the lack of specific details about GPA and graduation years may reduce the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.1 yrs (capped to 20.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience as an accountant, which matches the job title. The detailed job descriptions provided show alignment with the responsibilities mentioned in the job description. However, the lack of specific IT-related experience reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary is concise and highlights relevant skills and experiences."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are not a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned in the job description, such as performing risk-based compliance audits, preparing workpapers, and communicating audit findings. However, there is no explicit mention of IT audit work or SOX compliance, which are key responsibilities in the job description."
+        },
+        "skills": {
+            "score": 0.344,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['CIA (substring)'] | (LLM 0.4): The candidate has relevant skills such as account reconciliation, financial modeling, variance analysis, corporate G&A and COGS accounting, cash forecasting, capitalization and fixed assets, and analytical reasoning. However, there is no mention of specific IT skills which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as excellent communication and strong analytical skills, match the soft skills required in the job description. However, there is no explicit mention of rapid assimilation of knowledge of processes and systems, which is another soft skill mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SAP (exact)'] | (LLM 0.4): The candidate lists various accounting software and tools they are proficient in, but the job description specifically mentions ACL software, PeopleSoft Financials, and SAP as preferred tools. There is no indication that the candidate has expertise in these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as effective time management and superior research skills, are generally aligned with the job description. However, there is no explicit mention of IT-specific skills or knowledge, which could be considered transferable in an IT audit context."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.417
+}

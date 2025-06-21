@@ -1,0 +1,51 @@
+{
+    "resume_id": "17150707",
+    "jd_id": "3902371521",
+    "domain": "HR",
+    "resume_jd_similarity": 0.365,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks specific details about the degree obtained, which is a requirement in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 17.3 yrs (capped to 17.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, particularly in HRIS, benefits administration, and project management, which aligns with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience is provided in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles overlap with the job responsibilities, such as managing benefits programs, providing customer support, and conducting data audits."
+        },
+        "skills": {
+            "score": 0.568,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'administrative', 'ADP', 'Benefits', 'counseling', 'client', 'customer support', 'Documentation', 'forms', 'HRIS', 'human resource', 'HR', 'law', 'Director','market', 'Microsoft Office', 'payroll', 'PeopleSoft', 'personnel', 'policies', 'processes','reporting','researching','research', 'SAP', 'technical support'. These skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Excellent interpersonal and communication skills' and 'Ability to maintain a high degree of confidentiality', which are essential for the role."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'administrative', 'ADP', 'Benefits', 'counseling', 'client', 'customer support', etc., are transferable to the new role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.548
+}

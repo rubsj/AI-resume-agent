@@ -1,0 +1,51 @@
+{
+    "resume_id": "11262933",
+    "jd_id": "3904931344",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.662,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has certifications in 'Certification as Nursing Assistant' and 'MLS Real Estate School', which are not directly related to finance or accounting."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only mentioned two degrees without specifying their relevance to the job requirements. The 'Associates Degree' field is duplicated and unclear. The 'Certification' fields lack context."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 7.1 yrs (capped to 7.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles such as 'Account Receivable', 'Treasury Services Advisor', and 'Lead Ops Representative'. However, the job description requires specific experience in accounts payable and accounts receivable processes."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors. However, it lacks clarity in some sections like education and certifications."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume. Leadership is not a focus area in the job description either."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, but not all. There is no direct match with responsibilities like 'Process receivables, payables, payroll for foreign employees' or 'Support interaction with external auditors'."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Microsoft Office', 'Excel', 'Access', 'PowerPoint', 'Lotus notes', 'Outlook', and 'Data entry'. However, there is no mention of 'Great Plains' or similar accounting software."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, but they have experience in 'client service', 'communication', and 'team management'. These skills are relevant but not fully aligned with the job description."
+        },
+        "tools": {
+            "score": 0.45,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with tools like 'Microsoft Office', 'Excel', 'Access', 'PowerPoint', 'Lotus notes', 'Outlook', but lacks experience with 'Great Plains' or similar accounting software."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'account management', 'customer service', and 'data entry'. However, these skills are not specifically mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.583
+}

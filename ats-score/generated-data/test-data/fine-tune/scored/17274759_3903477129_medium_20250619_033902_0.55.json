@@ -1,0 +1,51 @@
+{
+    "resume_id": "17274759",
+    "jd_id": "3903477129",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.312,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists three technical certificates, but does not specify the fields or institutions, making it difficult to assess the relevance to the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.3 yrs (capped to 28.3), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 28 years of experience in logistics and supply management, which aligns closely with the required experience range of 3-5 years. The detailed descriptions of past roles also match the responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles, but there is no explicit mention of leading teams or managing multiple units, which are key aspects of leadership in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like strategic policy assessment, program development, and contract management, which are aligned with the job description. However, there is no mention of direct sales or business development."
+        },
+        "skills": {
+            "score": 0.335,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Excel (exact)'] | (LLM 0.4): The candidate has extensive experience in logistics management, supply chain, inventory management, purchasing, and other relevant skills. However, there is no mention of specific certifications or advanced degrees."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include written and oral communication, attention to detail, and teamwork, which are relevant soft skills. However, there is no explicit mention of customer experience or pressure handling."
+        },
+        "tools": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Salesforce (fuzzy)'] | (LLM 0.4): The candidate possesses knowledge of various tools such as Excel, PowerPoint, and PBUSE, which are mentioned in the job description. However, there is no explicit mention of Salesforce or Adobe Creative Suite."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in logistics forecasting, strategic planning, and supply process and procedures are transferable to the job description. However, there is no mention of industry leading practices or lean agile approaches."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.549
+}

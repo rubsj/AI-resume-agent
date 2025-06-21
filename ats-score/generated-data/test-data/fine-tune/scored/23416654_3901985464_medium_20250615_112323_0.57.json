@@ -1,0 +1,51 @@
+{
+    "resume_id": "23416654",
+    "jd_id": "3901985464",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.477,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not mention any specific certifications, whereas the job description prefers candidates with CA/CPA or equivalent designation."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a BBA in Accounting and Finance from University of North Alabama, which aligns with the preferred degree in the job description. However, the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 22.5 yrs (capped to 22.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting and finance roles, including senior staff accountant, quality manager, and contract accountant, which matches the job description's requirement for experience. However, the lack of specific details about the job responsibilities reduces the score slightly."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections could be more detailed to better align with the job description."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is not explicitly mentioned in the resume, although they have held positions of responsibility such as quality manager. The job description mentions leadership skills but does not specify any leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully match the detailed responsibilities listed in the job description, particularly in areas like revenue recognition and reporting processes."
+        },
+        "skills": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, including roles in senior staff accountant, quality manager, and contract accountant, which aligns well with the required skills of the job description. The candidate also possesses knowledge in various software tools such as Excel, SAP, PowerPoint, and QuickBooks, which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as analytical and problem-solving abilities, align with the job description's requirements. However, there is no explicit mention of experience with SAP, which is listed as a preferred skill."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)', 'PowerPoint (exact)'] | (LLM 0.4): The candidate possesses knowledge in several tools mentioned in the job description, such as Excel, SAP, PowerPoint, and QuickBooks. However, there is no explicit mention of proficiency in SAP, which is listed as a preferred skill."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as month-end close, year-end close, and cash management, align with the job description's requirements. However, there is no explicit mention of experience with SAP, which is listed as a preferred skill."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.573
+}

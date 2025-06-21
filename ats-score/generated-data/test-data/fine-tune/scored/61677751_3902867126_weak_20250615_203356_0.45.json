@@ -1,0 +1,51 @@
+{
+    "resume_id": "61677751",
+    "jd_id": "3902867126",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.438,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and none are required in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has degrees in Supply Chain Management and Sport Management, which do not directly align with the required degree fields of Engineering or Information Technology."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in Sales and Business Development, which aligns with the job responsibilities of designing and developing computer software. However, the experience does not directly match the required skills in software engineering or programming."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams in various roles, which aligns with the leadership requirement in the job description. However, they lack specific experience in leading software development teams."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in sales and business development do not directly match the job responsibilities of software development tasks such as designing, testing, and maintaining computer software."
+        },
+        "skills": {
+            "score": 0.364,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Research (exact)', 'Project Management (substring)'] | (LLM 0.4): The candidate has skills in Business Development, Business Operations, and Business Process Expertise, which align well with the required skills in Software Engineering and Systems Life Cycle Management. However, there is no direct match with the tools and technologies listed."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills in analytical thinking, problem-solving, and leadership align with the soft skills required in the job description. However, they lack skills in agile engineering best practices and project management."
+        },
+        "tools": {
+            "score": 0.055,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['C# (substring)', 'Azure (fuzzy)'] | (LLM 0.4): The candidate does not mention any specific tools or technologies used in their experience, which contrasts with the job description requiring knowledge of.Net Core, Angular, C#, Xamarin, etc."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in managing teams, coaching, and process improvement, which could be beneficial in a software development role. However, these skills are not directly related to software development."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.453
+}

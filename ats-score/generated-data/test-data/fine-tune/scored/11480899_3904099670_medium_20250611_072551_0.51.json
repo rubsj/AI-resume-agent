@@ -1,0 +1,51 @@
+{
+    "resume_id": "11480899",
+    "jd_id": "3904099670",
+    "domain": "HR",
+    "resume_jd_similarity": 0.696,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate mentions completing ongoing training courses but does not have any professional HR certifications listed, which is preferred in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Public Administration and a Bachelor's degree in Education, which are relevant to the job description's required education level. However, the lack of specific details about the institution and year of graduation reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.8 yrs (capped to 21.8), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in HR roles, including managerial positions, which closely matches the job description's required experience level. The detailed job descriptions provide clear examples of responsibilities and achievements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are some missing details in sections like education and experience, which slightly affects the score."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in HR management roles indicates leadership capabilities, but there is no explicit mention of leading the HR function in a fast-paced growth environment or experience with non-profit or impact investing."
+        },
+        "responsibilities": {
+            "score": 0.457,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 1, 'substring': 1, 'fuzzy': 1}. Matched: ['HR Operations (fuzzy)', 'Compensation and Benefits (substring)', 'Compliance (exact)'] | (LLM 0.5): The candidate's job history includes responsibilities that match several of the job description's responsibilities, such as HR operations, talent acquisition, and employee relations. However, there is no direct mention of strategic planning or technology and metrics oversight."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in various HR functions such as recruitment, compensation, benefits, and administration, which aligns well with the job description's required skills. However, there is no mention of specific certifications or advanced degrees."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are somewhat aligned with the job description's requirements, particularly in terms of leadership and influencing abilities. However, there is no explicit mention of experience with the Clifton Strengths framework or deep understanding of HR best practices."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office packages and internet surfing, which aligns with some of the tools mentioned in the job description. However, there is no explicit mention of proficiency in HRIS, LMS platforms, or cloud-based collaboration tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as good communication, interpersonal skills, and continuous improvement, which are relevant to the job description. However, there is no explicit mention of experience in a virtual working environment or proficiency with cloud-based collaboration tools."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.509
+}

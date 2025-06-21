@@ -1,0 +1,51 @@
+{
+    "resume_id": "11163645",
+    "jd_id": "3905323805",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.704,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement for a Bachelor's degree in finance or a related field."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks formal education details, specifically a degree in finance or a related field, which is a requirement according to the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 32.0 yrs (capped to 32.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, including accounts payable and receivable, which matches the job responsibilities. However, the lack of specific details about recent experience may lower the score slightly."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating professionalism and attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume, which contrasts with the requirement for independence and little supervision."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities listed in the job description, such as reconciling discrepancies and processing payroll. However, there is no direct match for responsibilities like submitting journal entries or creating new purchase orders for payroll and benefits."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounts payable and receivable, which aligns well with the required skills in accounting and finance. The mention of QuickBooks Enterprise indicates proficiency in a tool often used in payroll accounting."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-motivation and teamwork skills are relevant to the soft skills required, but the lack of specific examples or quantifiable achievements may lower the score."
+        },
+        "tools": {
+            "score": 0.047,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Journal Entries (substring)'] | (LLM 0.4): The resume does not mention any tools or technologies used in payroll accounting, which contrasts with the job description's requirement for knowledge of General Ledger, Journal Entries, Accruals, etc."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like customer service, data entry, and attention to detail are transferable and align with the job responsibilities. However, the lack of specific technical skills related to payroll accounting reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.423
+}

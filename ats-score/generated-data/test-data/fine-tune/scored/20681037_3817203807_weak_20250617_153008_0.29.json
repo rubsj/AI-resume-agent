@@ -1,0 +1,51 @@
+{
+    "resume_id": "20681037",
+    "jd_id": "3817203807",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.312,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No degree or field of study mentioned in the resume."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): Experience is relevant to construction, but lacks depth and detail compared to the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership roles or achievements in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): Responsibilities are not detailed in the resume."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has some relevant skills like Windows, PowerPoint, Microsoft Word, Excel, Outlook, and Internet research, but lacks specific construction-related tools and technologies."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of using Procore or Blue Beam, which are required tools according to the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like customer service, communication, and attention to detail are transferable to the role, but lack specific examples or metrics."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.286
+}

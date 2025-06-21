@@ -1,0 +1,51 @@
+{
+    "resume_id": "20255404",
+    "jd_id": "3901965350",
+    "domain": "FITNESS",
+    "resume_jd_similarity": 0.452,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds certifications in fitness and emergency medical services, which may be relevant but do not directly match the required certifications in training."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelor’s Degree (fuzzy)'] | (LLM 0.5): The educational background includes a bachelor's degree in biology and an associate's degree in surgical technology, neither of which directly align with the required bachelor's degree in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 23.8 yrs (capped to 23.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in various sales and management roles, which closely matches the required experience level of 5-7 years. The detailed descriptions of responsibilities also align well with the job responsibilities listed."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in certain sections could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): While the candidate has experience in leadership roles, there is no explicit mention of leadership skills or experiences that directly align with the job description's leadership requirements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, such as leading initiatives for upskilling team members and fostering a culture of teamwork and collaboration. However, there is no explicit mention of designing and delegating approaches to augment corporate training programs."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Training (exact)'] | (LLM 0.4): The candidate has extensive experience in sales and business development, aligning well with the required skills of management and training. However, there is no direct mention of leadership or specific tools used in the resume."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's accomplishments demonstrate leadership and teamwork, which align with some soft skills mentioned in the job description. However, there is no explicit mention of mentoring, coaching, or providing guidance."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): There is no mention of any specific tools or technologies used in the resume, which contrasts with the requirement for tools and technologies in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as account management, budgeting, and project management, align well with the job responsibilities and requirements. However, there is no explicit mention of training or development-specific skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.691
+}

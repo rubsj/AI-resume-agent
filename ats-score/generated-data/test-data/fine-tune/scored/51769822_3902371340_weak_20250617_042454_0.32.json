@@ -1,0 +1,51 @@
+{
+    "resume_id": "51769822",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.534,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the preferred certifications in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelor’s degree in IT, Computer Science, or related discipline (fuzzy)'] | (LLM 0.5): The candidate's highest education is a BA in Administration Commercial, which does not match the preferred degree in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.2 yrs (capped to 15.2), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has experience in Human Resources and Project Management, which aligns with the job description. However, the total experience is less than the required experience years."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have leadership experience listed that matches the leadership requirements in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have responsibilities listed that match the job responsibilities in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in Human Resources, Information Technology, and Project Management, which align with the job description. However, there is no mention of specific certifications or advanced degrees."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have soft skills listed that match the soft skills in the job description."
+        },
+        "tools": {
+            "score": 0.022,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP System (fuzzy)'] | (LLM 0.4): The candidate does not have any tools or technologies listed that match the tools and technologies in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as customer service, inventory management, and project management, which are relevant to the job description. However, these skills are not as specific as those required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.32
+}

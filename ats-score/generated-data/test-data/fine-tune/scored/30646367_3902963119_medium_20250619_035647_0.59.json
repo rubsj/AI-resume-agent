@@ -1,0 +1,51 @@
+{
+    "resume_id": "30646367",
+    "jd_id": "3902963119",
+    "domain": "HR",
+    "resume_jd_similarity": 0.327,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a single certification, MIOSHA Level One Certification, which is relevant but not as directly applicable as the required skills."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in Human Resources, which is aligned with the job requirements, but the lack of GPA and specific field of study reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has a strong history of experience in Human Resources and Payroll, including roles that closely match the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly demonstrate leadership skills, which are typically required for a technical recruiter."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes many responsibilities that match those listed in the job description, such as recruiting, scheduling interviews, and performing reference checks."
+        },
+        "skills": {
+            "score": 0.872,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'Sales (exact)'] | (LLM 0.4): The candidate has extensive experience in Human Resources and Payroll, which aligns well with the job requirements. The skills listed also match the job description's preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates strong soft skills like conflict resolution, communication, and teamwork, which are important for the role."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description does not specify any tools or technologies required, and the candidate's experience does not mention using any of the tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows a range of transferable skills, including Excel proficiency, attention to detail, and ability to handle sensitive information."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.591
+}

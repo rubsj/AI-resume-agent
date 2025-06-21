@@ -1,0 +1,51 @@
+{
+    "resume_id": "18669563",
+    "jd_id": "3886886429",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.661,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may reduce the ATS score compared to candidates with relevant certifications."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in International Business and a Bachelor's degree in Business Administration Finance, both of which are relevant to the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 7.2 yrs (capped to 7.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, including project accounting, subcontract accounting, administrative coordination, and administrative officer positions, which align with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.95,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which could be important for certain roles."
+        },
+        "responsibilities": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles match several responsibilities listed in the job description, such as reviewing and recording transactions, generating financial reports, and ensuring tax compliance."
+        },
+        "skills": {
+            "score": 0.46,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate possesses relevant skills such as accounting, financial management, and Microsoft Excel proficiency, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong communication and teamwork skills through their previous roles, which align with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Excel and accounting software packages, which are mentioned in the job description, but lacks specific mention of Bullhorn and Sage Intacct."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, finance, and administration are transferable to the role, but there is no explicit mention of leadership skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.551
+}

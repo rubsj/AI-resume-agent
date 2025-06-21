@@ -1,0 +1,51 @@
+{
+    "resume_id": "36252245",
+    "jd_id": "3902805516",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.516,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not mention any certifications, whereas the job description requires 'A.S. Degree in manufacturing' as an optional skill."
+        },
+        "education": {
+            "score": 0.525,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education history includes a high school diploma and some college credits, but it lacks the specific degree level required by the job description, which prefers a degree in manufacturing."
+        },
+        "experience": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Resume: 0.0 yrs (capped to 0.0), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in aviation supply management, hazardous material handling, and ammunition specialist roles, which aligns well with the job responsibilities of managing tank production. However, the lack of specific details about the educational background and certifications might affect the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's mention of excellent leadership skills aligns with the soft skills required. However, the lack of specific examples or leadership roles in the past might lower the score."
+        },
+        "responsibilities": {
+            "score": 0.338,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Other duties as assigned (substring)'] | (LLM 0.5): The candidate's experience in managing teams, ensuring product quality, and implementing cost reduction processes aligns with the job responsibilities. However, the lack of detailed experience in forecasting, continuous improvement, and safety management might lower the score."
+        },
+        "skills": {
+            "score": 0.408,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Public Relations (substring)'] | (LLM 0.4): The candidate possesses skills relevant to the job description such as Accounting, ADR, Army, Budgeting, etc., which align with the required skills of 'Marketing', 'Public Relations', and 'Writing/Editing'. However, there is a lack of direct alignment with the optional skills like 'A.S. Degree in manufacturing' and 'Lean Manufacturing environment'."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong leadership skills and proficiency in Microsoft Office, which aligns with the soft skills required. However, the lack of specific examples or quantifiable achievements might lower the score."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Salesforce (substring)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office, which aligns with the job description's requirement for proficiency in Windows and Microsoft Office. However, there is no mention of specific tools like Primavera (P6), Open Plan, or MS Project that are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, documentation, and financial management are transferable to the job responsibilities. However, the lack of specific skills related to manufacturing and aerospace industry might lower the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.446
+}

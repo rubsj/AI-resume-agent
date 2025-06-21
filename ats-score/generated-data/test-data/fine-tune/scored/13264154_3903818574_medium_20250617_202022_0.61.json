@@ -1,0 +1,51 @@
+{
+    "resume_id": "13264154",
+    "jd_id": "3903818574",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.376,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed that align with the job description requirements."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education does not match the required degree level or field of study for the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in food manufacturing, particularly in roles that involve leadership, supervision, and various aspects of production, which aligns well with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, free of grammatical errors, and clearly presents the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams, managing staff, and organizing events, which indicates strong leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.461,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Quality Control (substring)'] | (LLM 0.5): The candidate's experience includes responsibilities such as equipment operation, quality control, safety compliance, sanitation, and production efficiency, which are aligned with the job responsibilities listed."
+        },
+        "skills": {
+            "score": 0.632,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Management', 'Manufacturing', 'Photoshop', 'Illustrator', and 'English'. However, there is no mention of specific certifications related to food manufacturing or Redzone tools."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like attention to detail, communication, and teamwork, which are essential for the role. However, the resume lacks explicit mention of these skills in the context of food manufacturing."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): There is no mention of proficiency in tools like Redzone, which is mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like budgeting, costing, and time-management are transferable but may not be directly applicable to the specific job responsibilities mentioned in the description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.609
+}

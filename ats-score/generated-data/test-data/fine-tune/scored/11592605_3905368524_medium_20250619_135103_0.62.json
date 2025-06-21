@@ -1,0 +1,51 @@
+{
+    "resume_id": "11592605",
+    "jd_id": "3905368524",
+    "domain": "HR",
+    "resume_jd_similarity": 0.384,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a relevant certification in SHRM Essentials of Human Resource Management, which is beneficial for the role."
+        },
+        "education": {
+            "score": 0.55,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['psychology (exact)'] | (LLM 0.5): The candidate has a BA in Justice Studies and an ABA Approved Paralegal Program Certification, which are relevant but not directly aligned with the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.3 yrs (capped to 14.3), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has significant experience in HR roles, including experience in visa processes and non-immigrant petitions, which matches the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly mention leadership skills or experience, which are not directly mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as gathering information, drafting policies, and interpreting eligibility requirements, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as administrative, human resource management, and proficiency in Microsoft Office tools, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary highlights strong communication skills, which are mentioned as soft skills in the job description, but there is no direct evidence of proficiency in interpretation of SNAP policy."
+        },
+        "tools": {
+            "score": 0.536,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'ARIES (fuzzy)', 'TEA (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are listed as required skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in administrative tasks and general office management are transferable to the role, but they lack specific skills in business development and sales, which are preferred degrees."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.622
+}

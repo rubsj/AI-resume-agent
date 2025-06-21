@@ -1,0 +1,51 @@
+{
+    "resume_id": "16702198",
+    "jd_id": "3903874233",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.231,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a single certification relevant to the job, but it is not specified when it was issued, which may affect its relevance."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest degree is a Bachelor of Arts in Business Management, which does not directly match the job's requirement for a terminal academic doctoral degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 25 years of experience in sales and account management, which is highly relevant to the job's requirements for experience and skills."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide enough information to assess leadership skills, which are mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like developing business plans, managing budgets, and conducting educational programs, which aligns well with the job's responsibilities."
+        },
+        "skills": {
+            "score": 0.752,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Education (substring)', 'Training (exact)'] | (LLM 0.4): The candidate has extensive experience in account management, key account selling, product expertise, and training, which aligns well with the job's requirement for education and training skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like excellent teaching skills, strong research abilities, and effective communication, which are relevant to the soft skills required by the job."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like ASHA Certificate of Clinical Competence in speech-language pathology, but the candidate's resume does not provide any information about having such certifications or experience."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in account management, key account selling, and product expertise can be transferred to the role, although the job description does not explicitly mention these skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.52
+}

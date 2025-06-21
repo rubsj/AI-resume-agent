@@ -1,0 +1,51 @@
+{
+    "resume_id": "16702198",
+    "jd_id": "3902931235",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.658,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate has a Certified Medical Representative certification, which is relevant to the healthcare industry but not specifically mentioned in the job description."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in Business Management, which is less directly relevant to the job requirements compared to a degree in Business Administration or Health Administration."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.3 yrs (capped to 24.3), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has a history of success in sales and account management across various roles, demonstrating strong experience in the required areas such as budget, business plans, and educational programs. The job description requires at least 2 years of experience, and the candidate has over 24 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes accomplishments such as being a winner of the Tactical Action Unit of the Year Award and having consistent achievements over the years, indicating leadership qualities. However, there is no explicit mention of leadership responsibilities or skills in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description's requirements for developing and maintaining customer relationships, managing accounts, and ensuring client satisfaction. However, there is no mention of driving product adoption or collaboration with sales teams, which are specific responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.848,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Business Development (substring)', 'Sales (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in account management, key account selling, product expertise, and training, which aligns well with the job requirements. However, there is no mention of CRM systems or remote patient monitoring technologies, which are optional but preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong interpersonal skills, negotiation abilities, and professionalism, which are aligned with the soft skills required in the job description. There is no mention of exceptional listening or ethical understanding, which are also listed as soft skills."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['CRM systems (fuzzy)'] | (LLM 0.4): The job description mentions CRM systems and healthcare technology as tools, but the candidate's resume does not explicitly mention these tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include project management, prospecting, and sales presentations, which are relevant to the job requirements. However, there is no mention of remote patient monitoring technologies or healthcare technology, which are tools mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.598
+}

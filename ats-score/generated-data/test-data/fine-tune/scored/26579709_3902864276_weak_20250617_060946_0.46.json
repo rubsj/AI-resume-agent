@@ -1,0 +1,51 @@
+{
+    "resume_id": "26579709",
+    "jd_id": "3902864276",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.434,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed, which may be a requirement for the position."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is only listed as current and incomplete, lacking details such as degree type, field, institution name, and GPA."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 27.1 yrs (capped to 27.1), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has relevant experience in leadership and management roles, but lacks specific details about the skills used in these positions, particularly in product management and technology-related tasks."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but lacks specific details about leadership skills, such as leading cross-functional teams, communication, and strategic planning."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not detail specific responsibilities that align with the job description's requirements for product strategy, leadership, innovation, stakeholder management, data-driven decision making, product lifecycle management, strategic partnerships, and go-to-market strategies."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has a strong set of skills relevant to product management, including leadership, analytical thinking, innovative mindset, and results-oriented approach. However, there is no explicit mention of marketing skills, which are required."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills aligned with the job description, such as leadership, analytical thinking, innovative mindset, and results-orientation. However, these skills are not quantified or detailed in the resume."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No tools or technologies are mentioned in the candidate's resume, which could be crucial for the role requiring knowledge of integrated payables systems."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like attention to detail, problem-solving, and teamwork, but these are not explicitly stated or quantified in the resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.464
+}

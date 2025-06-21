@@ -1,0 +1,51 @@
+{
+    "resume_id": "15289348",
+    "jd_id": "3903447792",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.735,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA and two BBA degrees, which are relevant to the job requirements. However, the lack of specific years of study and GPAs reduces the score slightly."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 9.4 yrs (capped to 9.4), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has a total of 9.4 years of experience in various accounting roles, including senior positions, which closely matches the required experience level of 3-4 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience or skills in the candidate's resume, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, such as preparing journal entries, account reconciliations, and ensuring compliance with US GAAP. However, there is no explicit mention of support for monthly close and internal reporting process."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, including roles as a Senior Accountant, Corporate Tax Analyst, and Financial Advisor. They possess skills in Microsoft Excel, Access Database Queries, and other relevant tools, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's professional skills section indicates proficiency in deadline orientation, attention to detail, organizational skills, handling multiple projects, teamwork, and collaboration, which are soft skills that match the job requirements."
+        },
+        "tools": {
+            "score": 0.47,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate possesses skills in Microsoft Excel, Access Database Queries, and other tools that are listed in the job description. However, they do not mention proficiency in SAP, which is one of the required tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's professional skills section provides some transferable skills, but it lacks specifics that would directly correlate with the job responsibilities listed in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.602
+}

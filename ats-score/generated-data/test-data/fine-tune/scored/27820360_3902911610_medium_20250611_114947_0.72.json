@@ -1,0 +1,51 @@
+{
+    "resume_id": "27820360",
+    "jd_id": "3902911610",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.667,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement for certifications in the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume mentions a Diploma in Culinary Arts and General Courses, but lacks specific details about the institution and GPA, which could be more informative for the job description's emphasis on formal education."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 8.2 yrs (capped to 8.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has multiple years of experience as an Executive Chef, which directly matches the required experience level. The detailed job descriptions provide evidence of skills and responsibilities that align with the job responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, some sections lack detail or clarity, which could affect the ATS's ability to accurately match the candidate to the job description."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as an Executive Chef demonstrates leadership skills, as they have managed kitchen staff and operations. However, there is no explicit mention of leadership training or director-level experience."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience as an Executive Chef includes responsibilities that match the job responsibilities listed in the job description, such as managing kitchen operations, maintaining cleanliness, and overseeing staff."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience as an Executive Chef, which aligns with the required soft skills of producing an excellent culinary experience, adapting to changes, and working under pressure. The resume also lists skills like attention to detail, budget management, and leadership, which are relevant to the job responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like attention to detail, leadership, and customer service, which align with the soft skills required in the job description. However, there is no explicit mention of skills like creative approaches to plate presentations or regular research of new menu items."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume, which contrasts with the requirement for proficiency in certain tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills like attention to detail, budget management, and leadership, which can be considered transferable skills. However, these skills are not explicitly aligned with the job responsibilities or soft skills required in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.718
+}

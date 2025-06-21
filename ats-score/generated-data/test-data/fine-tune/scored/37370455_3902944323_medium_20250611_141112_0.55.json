@@ -1,0 +1,51 @@
+{
+    "resume_id": "37370455",
+    "jd_id": "3902944323",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.714,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the preferred CPA or CMA, which are highly valued in the finance sector."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Finance and a Diploma in Banking, which are relevant to the field, but the GPA is below average."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.7 yrs (capped to 15.7), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has a strong background in accounting roles with responsibilities that closely match those outlined in the job description, including financial reporting, budgeting, and tax compliance."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership roles or responsibilities, which are important in the senior accountant position."
+        },
+        "responsibilities": {
+            "score": 0.425,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Oversee accounts payable and receivable (fuzzy)'] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed, such as financial reporting, budgeting, and tax compliance, though there is no explicit mention of partnership with accounting staff."
+        },
+        "skills": {
+            "score": 0.613,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 3, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)', 'Excel (exact)', 'analytical (exact)', 'communication (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting, financial reporting, and management, aligning well with the required skills. However, there is a lack of specific mention of GAAP and financial services industry knowledge."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-assessment includes traits like independence, fast learning, and good communication, which are aligned with soft skills required, but lacks explicit leadership qualities."
+        },
+        "tools": {
+            "score": 0.43,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with AS400, Hyperion, and SAP, which are tools mentioned in the job description, but lacks experience with Excel, QuickBooks, Salesforce, and Paycom."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting system management, accounts payable and receivable, and financial statement preparation are transferable, but there is a lack of detail on specific technical skills like Excel proficiency."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.554
+}

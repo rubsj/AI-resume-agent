@@ -1,0 +1,51 @@
+{
+    "resume_id": "34740556",
+    "jd_id": "3904077457",
+    "domain": "HR",
+    "resume_jd_similarity": 0.602,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, which contrasts with the preferred degrees in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not provide any specific field of study related to Human Resources or the required skills for the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.9 yrs (capped to 16.9), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in Human Resources and Recruiting, particularly in managing HR operations and leading teams, which aligns with the job responsibilities. However, the lack of direct experience in research and strategic planning reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing HR operations, which indicates leadership capabilities. However, the lack of explicit leadership responsibilities in the job description reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully align with the job responsibilities described in the job description, particularly in terms of managing research quality and generating actionable business ideas."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in Human Resources and Recruiting, which aligns well with the required skills in the job description. The skills listed are relevant and closely match the required skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong communication, project management, and teamwork, are aligned with the job description's requirements for these skills."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No mention of specific tools or technologies used in the candidate's resume, which contrasts with the job description's requirement for experience with qualitative and quantitative data analysis tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like conflict resolution, coaching, and leadership, which are relevant to the job description but may not be directly applicable to the specific responsibilities outlined."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.533
+}

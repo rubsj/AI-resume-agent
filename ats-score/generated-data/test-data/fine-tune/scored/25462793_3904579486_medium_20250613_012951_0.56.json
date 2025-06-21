@@ -1,0 +1,51 @@
+{
+    "resume_id": "25462793",
+    "jd_id": "3904579486",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.659,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Certified Public Accountant (CPA) (fuzzy)'] | (LLM 0.5): The candidate holds a Certified Public Accountant certification, which is required by the job description. However, the specific CPA license number is not provided, which could be important for verification."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Business Administration Accounting and a Bachelor's degree in Accounting, both from reputable institutions, which align well with the education requirements of the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 19.1 yrs (capped to 19.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that involve financial reporting, accounting functions, and compliance, which align with the job responsibilities. However, the job description requires at least 5 years of experience, and the candidate has more than 19 years of experience, which exceeds the requirement."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which are mentioned in the job description. Leadership experience is not explicitly stated."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, such as maintaining the general ledger and preparing financial statements. However, the job description requires designing solutions and maintaining system updates, which are not explicitly mentioned in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.71,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Finance (fuzzy)', 'Sales (exact)', 'Certified Public Accountant (CPA) license (fuzzy)'] | (LLM 0.4): The candidate has relevant skills in accounting, bookkeeping, and financial statement preparation, which align with the job requirements. However, there is no mention of ERP systems or specific software tools like Oracle, Workday, or SAP."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong problem-solving skills and attention to detail, which align with the soft skills required. However, they do not explicitly state strategic thinking, customer focus, or team player attributes, which are also mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their work, which contrasts with the job description's requirement for experience with ERP systems like Oracle, Workday, or SAP."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, bookkeeping, and financial statement preparation can be transferred to the role, but the lack of specific ERP system experience reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.564
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "22560013",
+    "jd_id": "3905333869",
+    "domain": "PUBLIC-RELATIONS",
+    "resume_jd_similarity": 0.39,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A BA in Graphic Design is relevant to the job description, but the GPA is not provided, which could indicate academic performance."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 30.5 yrs (capped to 30.5), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has experience in operations and management, which aligns with the job responsibilities. However, the job description specifies Corporate Communications, which might not directly match the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks details in certain sections, such as specific achievements or responsibilities."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, which aligns with the job description. However, there is no explicit mention of leading people or projects within the context of corporate communications."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that match those listed in the job description, such as budget management and project coordination. However, there is no direct match for responsibilities like financial reporting or vendor management."
+        },
+        "skills": {
+            "score": 0.569,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Project management (substring)'] | (LLM 0.4): The candidate has extensive experience in Adobe Creative Suite, which matches the required tools in the job description. However, there is no mention of specific skills like manufacturing or financial management."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in communication, leadership, and project management align with the soft skills required by the job description. However, there is no explicit mention of strong organizational skills or adherence to deadlines."
+        },
+        "tools": {
+            "score": 0.72,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 2, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Adobe Creative Suite (substring)', 'Facebook (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Office, Adobe Creative Suite, and other tools mentioned in the job description. There is a slight mismatch regarding Facebook and Salesforce, which are not listed in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in graphic design and management are transferable to the job description, but there is no evidence of skills specifically related to corporate communications."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.582
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "23841877",
+    "jd_id": "3905315070",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.326,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, which matches the absence of required certifications in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education details are incomplete and do not match the required degree level or field specified in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 29.8 yrs (capped to 29.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that align with the job responsibilities mentioned in the job description, including management and operations experience. However, the total experience years exceed the required experience years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. The candidate's summary is concise and relevant to the job title. However, there are some inconsistencies in the dates provided in the experience section."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as Kitchen Manager and Assistant Manager, which aligns with the job description's requirement for leadership skills. However, the candidate does not explicitly mention any leadership skills that are specifically listed in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job responsibilities mentioned in the job description, such as managing personnel, overseeing operations, and providing customer service. However, the candidate's experience does not cover all the responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Customer and Client relations, Bookkeeping and Accounting, Inventory control, Scheduling of Personnel, Problem solving, Strategic Planning, and Strong oral Communications. However, there are no specific skills listed under'required_skills' in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong oral communication, align with the soft skills expected in the job description. However, the candidate does not explicitly mention any soft skills that are specifically listed in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate lists some tools they are familiar with, but none of them are listed in the job description's required tools and technologies section."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like customer service, bookkeeping, and inventory control, which are relevant to the job description. However, these skills are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.575
+}

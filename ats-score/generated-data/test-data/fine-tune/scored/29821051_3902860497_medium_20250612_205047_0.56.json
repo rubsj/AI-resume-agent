@@ -1,0 +1,51 @@
+{
+    "resume_id": "29821051",
+    "jd_id": "3902860497",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description prefers candidates with CPA or CFA certifications. This is a significant mismatch."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Accounting, which is relevant to the job description's preferred degree requirement. However, the lack of GPA information and the unusual comma in the year field may indicate a lack of detail or precision in education details."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 27.7 yrs (capped to 27.7), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in various finance-related roles, including financial accounting, sales, and business analysis, which closely matches the job description's required experience and responsibilities. The experience is detailed and relevant to the job."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. The formatting is clear, and the information is presented logically. However, the inclusion of a 'Skills' section that lists skills in bullet points without clear headings might affect readability."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes managing teams and projects, which suggests some level of leadership ability. However, there is no explicit mention of leadership or management experience in the context of the job description's responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with many of the responsibilities listed in the job description, particularly in financial analysis, budgeting, and sales. However, there is no direct evidence of experience in leading monthly closes or developing financial insights through action-oriented reporting."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)', 'Sales (exact)'] | (LLM 0.4): The candidate has a strong background in finance-related skills, including financial analysis, budgeting, and financial reporting, which align well with the job description's required skills. However, there is no mention of advanced Excel skills or specific tools like Essbase, which could be considered a slight mismatch."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section mentions strong communication and analytical skills, which align with the soft skills required in the job description. However, there is no explicit mention of leadership or mentoring skills, which are also important for this role."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Office Suite, which includes Excel, but lacks specific knowledge of advanced tools like Essbase mentioned in the job description. This indicates a potential gap in technical skills."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in account reconciliation, budget analysis, and financial reporting are transferable to the job description's required skills. However, the lack of specific technical skills like Essbase or advanced Excel skills may limit the transferability."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.557
+}

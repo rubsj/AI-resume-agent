@@ -1,0 +1,51 @@
+{
+    "resume_id": "13294301",
+    "jd_id": "3904391173",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.654,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Bachelor of Science degree in Accounting and Finance from Oakland University and an Associate degree in Accounting from Macomb Community College. The lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.5 yrs (capped to 12.5), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience as an Accountant, Branch Service Specialist, and Cashier. However, the job description requires 1-3 years of experience specifically in manufacturing accounting, which is not mentioned in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with some responsibilities listed in the job description, such as compiling financial data and meeting reporting deadlines. However, specific responsibilities like learning multiple aspects of manufacturing accounting and conducting self-audit procedures are not mentioned."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Microsoft Office, Account Reconciliation Processes, Financial statements, Interpersonal skills, and Customer service. However, there is no mention of SAP or inventory warehouse management system."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong soft skills such as interpersonal, active listening, and critical thinking. These skills are aligned with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, but lacks experience with SAP and inventory warehouse management system."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as data entry, superior analytical skills, and general ledger proficiency. However, these skills are not directly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.642
+}

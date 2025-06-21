@@ -1,0 +1,51 @@
+{
+    "resume_id": "19336728",
+    "jd_id": "3906097252",
+    "domain": "HR",
+    "resume_jd_similarity": 0.463,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the preferred or required certifications in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelors of Art in Organizational Leadership, which aligns with the preferred degree requirement. However, there is also an incomplete Associate Degree entry."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.8 yrs (capped to 20.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in administrative roles, including HR Assistant Internship and Owner, Operator experience, which aligns with the job responsibilities. The Preservation Technician I role provides additional transferable skills but does not directly match the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience or skills in the candidate's resume that align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like managing and posting jobs, sourcing candidates, and coordinating interviews, which align with the job responsibilities. However, there is no direct match for all responsibilities listed."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (exact)'] | (LLM 0.4): The candidate has relevant skills such as administrative support, repairs, and spreadsheet proficiency, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section mentions excellent communication skills, which align with the soft skills required by the job description. However, there is no explicit mention of negotiation tactics, proactivity, or independence."
+        },
+        "tools": {
+            "score": 0.38,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Indeed (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office Suite, which matches the tools and technologies required by the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's Preservation Technician I role provides skills in repairs and attention to detail, which can be considered transferable to the job responsibilities. However, the role is not directly related to human resources."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.469
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "32947778",
+    "jd_id": "3901938807",
+    "domain": "HR",
+    "resume_jd_similarity": 0.676,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor of Arts in Human Resource Management from the UNIVERSITY OF PHEONIX, which is relevant to the job description but lacks quantitative details like GPA."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.3 yrs (capped to 12.3), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has a total of 12.3 years of experience in various HR roles, which aligns with the required experience range of 5-8 years. However, the detailed experience descriptions do not fully match the responsibilities listed in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free of grammatical errors, making it easy to read and understand. The candidate's language is clear and professional."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as HR Manager and Sr. Executive Assistant, which indicates potential leadership qualities. However, there is no explicit mention of leadership skills or achievements."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job description, such as managing HR processes and systems. However, the detailed responsibilities do not cover all aspects mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a comprehensive set of skills that align with the job description, including HR management, recruitment, training, and compliance, which are essential for the role of Vice President, HR Technology."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as attention to detail and strong work ethic, are generally aligned with the job description's expectations. However, there is no direct mention of flexibility or interaction with employees in the resume."
+        },
+        "tools": {
+            "score": 0.26,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office products and basic Excel skills, which are mentioned in the job description's tools and technologies section. However, there is no explicit mention of Workday or other HRIS systems."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like project management, training, and compliance, which are relevant to the job description. However, the specific skills related to HR technology and data analytics are lacking."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.629
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "18132924",
+    "jd_id": "3903447792",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.652,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a Certified Public Accountant (CPA) certification, which is relevant to the job, but the certification dates overlap with the required experience years."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two degrees in unrelated fields, which may not directly qualify them for the position."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.1 yrs (capped to 15.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that match the job responsibilities, including experience with accounting software and auditing."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide clear evidence of leadership skills, which are important for the senior accountant role."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with most of the job responsibilities, but there is no mention of experience with SAP, which is listed as a preferred tool in the job description."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as Analytical reasoning, Budget forecasting expertise, Account reconciliation expert, Financial planner, Effective time management, Advanced computer proficiency, Strong organizational skills, and Excellent managerial techniques, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in deadline orientation, attention to detail, organizational skills, ability to handle multiple projects, teamwork, and collaboration align well with the soft skills required for the job."
+        },
+        "tools": {
+            "score": 0.57,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Windows (fuzzy)', 'Excel (exact)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Windows, MS Office Software, Excel, and Adobe, which are listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are not explicitly mentioned in the resume, making it difficult to assess their relevance to the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.659
+}

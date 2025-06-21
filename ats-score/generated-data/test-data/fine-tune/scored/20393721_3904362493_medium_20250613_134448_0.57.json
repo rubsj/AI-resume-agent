@@ -1,0 +1,51 @@
+{
+    "resume_id": "20393721",
+    "jd_id": "3904362493",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.653,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume that directly correspond to the job description requirements."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Taxation and a Bachelor's degree in Accounting, which aligns well with the preferred degree requirement in the job description. However, the specific field of study does not exactly match the required BA/BS in Accounting."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.3 yrs (capped to 19.3), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles that cover many of the responsibilities listed in the job description, including financial statement analysis, tax compliance, and financial reporting. The experience spans multiple industries and includes roles that require detailed work and adherence to accounting standards."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, the summary section is incomplete, which slightly affects the score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience or skills in the candidate's resume that would indicate they have managed teams or led projects, which is not explicitly mentioned in the job description but could be inferred from the experience section."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with several responsibilities listed in the job description, such as preparing journal entries, managing intercompany transactions, and performing month-end closings. However, there is no explicit mention of the use of ERP systems or other specified tools."
+        },
+        "skills": {
+            "score": 0.72,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting and finance, including roles that align closely with the required skills in the job description such as financial statement analysis, tax accounting, and financial reporting. The skills listed also match the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like detailed work, ability to work independently, and demonstrated ability to work in a dynamic environment, which align with some soft skills listed in the job description. However, there is no direct mention of strong organizational skills or efficiency in time management."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their work, which contrasts with the job description's requirement for ERP system experience."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like financial statement analysis, tax research, and financial reporting are transferable to the role described in the job description. However, the lack of specific tool or technology skills reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.568
+}

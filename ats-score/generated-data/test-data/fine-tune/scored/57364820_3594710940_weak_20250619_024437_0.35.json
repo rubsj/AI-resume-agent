@@ -1,0 +1,51 @@
+{
+    "resume_id": "57364820",
+    "jd_id": "3594710940",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.391,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the required or preferred certifications in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not match the required degree level or field of study specified in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 25.0 yrs (capped to 25.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Sr. Consultant and Consultant/Sr. Consultant, which aligns with the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership experience, which is mentioned as an optional skill in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on specific responsibilities that match the job description's requirements."
+        },
+        "skills": {
+            "score": 0.512,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Project Management (substring)'] | (LLM 0.4): The candidate has a strong set of skills including IBM/AIX, Application Development, AS/400, etc., which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks information on soft skills such as Insatiable Curiosity, Self-Starter, Highly Organized/Excellent Time Management, Problem-Solving, Skilled Communicator, Effective Writer, Commitment to Excellence, Integrity, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.105,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate does not list any tools or technologies used, which contrasts with the job description requiring knowledge of Microsoft Office, Adobe Creative Suite, Facebook, Salesforce, etc."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight any transferable skills that could be applied to the job responsibilities outlined in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.352
+}

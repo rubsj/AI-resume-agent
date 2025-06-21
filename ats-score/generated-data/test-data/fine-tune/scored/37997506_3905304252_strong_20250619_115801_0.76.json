@@ -1,0 +1,51 @@
+{
+    "resume_id": "37997506",
+    "jd_id": "3905304252",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.387,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement for advanced Excel skills in the job description."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds an MBA and a B.A. in Accounting, which aligns with the educational background expected for the position. However, the lack of specific details about the institutions and GPAs reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 7.6 yrs (capped to 7.6), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has a strong history of experience in various accounting roles, which closely matches the responsibilities listed in the job description. The detailed job descriptions provide evidence of relevant skills and experiences."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand. However, there are minor inconsistencies in formatting and missing details that slightly reduce the score."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and initiatives suggests some level of leadership skills, but the lack of explicit leadership roles or achievements reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that match the job responsibilities outlined in the job description, such as leading initiatives, planning and implementing strategies, and collaborating with cross-functional teams. However, the lack of detail on specific responsibilities reduces the score."
+        },
+        "skills": {
+            "score": 0.94,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting and finance, which aligns well with the required skills in the job description. The resume mentions proficiency in GAAP, GASB, IFRS, and automated systems like QuickBooks, Sun system, and Peachtree Accounting, which are relevant tools and technologies."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly mention soft skills like leadership, cross-functional collaboration, analytical thinking, influence, and communication, which are listed in the job description. However, the experience in leading teams and initiatives suggests some level of these skills."
+        },
+        "tools": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's experience with accounting software and systems like QuickBooks, Sun system, and Peachtree Accounting aligns with the tools and technologies required in the job description. However, the lack of specific certifications in these areas reduces the score."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes a variety of skills that could be transferable to the role, such as accounting, budgeting, and financial reporting. However, the lack of specific technical skills like advanced Excel proficiency reduces the score."
+        }
+    },
+    "match_quality": "strong",
+    "final_ats_score": 0.763
+}

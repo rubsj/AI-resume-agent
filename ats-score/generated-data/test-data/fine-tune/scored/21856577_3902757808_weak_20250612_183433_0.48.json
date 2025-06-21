@@ -1,0 +1,51 @@
+{
+    "resume_id": "21856577",
+    "jd_id": "3902757808",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.665,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, and the job description requires NMLS registration and Safe Act compliance, which are not provided."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks formal education details, which is a requirement for the job description stating a Bachelor's Degree/University degree is preferred."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD required years = 0. | (LLM 0.5): The candidate has over 20 years of experience in banking roles, which closely matches the required experience range of 0-2 years. The detailed job responsibilities in the resume align well with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for some missing details like dates and specific job titles."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which is a requirement for the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job responsibilities listed in the description, particularly in sales, client service, and product promotion."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Sales (exact)'] | (LLM 0.4): The candidate has extensive experience in banking and customer service, which aligns well with the job requirements. The resume mentions skills like 'client service', 'customer service', and'relationship management', which are directly relevant to the role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly stated in the resume, but given their experience in customer service and relationship management, they likely possess strong communication and interpersonal skills, which are essential for the role."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, whereas the job description requires proficiency in Smart Banking tools and technologies."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as problem resolution, quality maintenance, and adherence to policies, are relevant to the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.485
+}

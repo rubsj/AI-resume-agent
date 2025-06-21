@@ -1,0 +1,51 @@
+{
+    "resume_id": "20110597",
+    "jd_id": "3904366288",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.454,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Web/IVR Certificate, which is relevant to the job, but lacks a Property/Casualty License, which is required."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Business Administration, which is preferred by the employer, but the degree field is not specified."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in sales and customer service roles, which align with the job responsibilities. However, the total experience years do not match the required experience range."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not fully cover all the responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Time Management, Effective Communication, Troubleshooting, Problem Solving, and Cloud technology, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as Communication and Detail-oriented, which are aligned with the job requirements."
+        },
+        "tools": {
+            "score": 0.564,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Outlook (exact)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office Suite, Skype, and others listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from previous roles that could be applicable to the job, but there is a lack of specific skills like Consulting and Finance."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.497
+}

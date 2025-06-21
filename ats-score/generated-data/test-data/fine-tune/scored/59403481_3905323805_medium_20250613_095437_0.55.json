@@ -1,0 +1,51 @@
+{
+    "resume_id": "59403481",
+    "jd_id": "3905323805",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.677,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a certification in medical billing/coding, which is not directly relevant to the job description's requirements."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is in Accounting, which is aligned with the job description's preferred degree requirement. However, the GPA is not provided, which could be a concern."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 20.4 yrs (capped to 20.4), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including experience in AP, AR, general ledger, and financial analysis, which matches the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is not explicitly mentioned in the resume, which is a concern given the job description's emphasis on leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job description's responsibilities, such as reviewing general ledger accounts, submitting journal entries, and processing payroll."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the required skills in the job description. The resume also lists specific skills like AP, AR, and general ledger, which match the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong communication and ability to handle sensitive information, are relevant to the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.46,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 3, 'fuzzy': 1}. Matched: ['General Ledger (substring)', 'Journal Entries (substring)', 'Accruals (exact)', 'Purchase Orders (substring)', 'Finance (fuzzy)', 'Tax (exact)'] | (LLM 0.4): The candidate's experience does not explicitly mention proficiency in tools like General Ledger, Journal Entries, Accruals, Purchase Orders, Finance, Shared Services, Tax, or Payroll Module, which are listed as required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as managing tasks and working independently, are generally applicable but may not be directly specified in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.551
+}

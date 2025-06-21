@@ -1,0 +1,51 @@
+{
+    "resume_id": "86322251",
+    "jd_id": "3902356768",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.293,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: [\"Bachelor's (fuzzy)\"] | (LLM 0.5): The candidate holds a Bachelor's and Master's degree in Education from a reputable university, which matches the required education level of a Bachelor's degree in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.8 yrs (capped to 14.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in education and teaching, including roles as a Reading Teacher, On-Site Professional Developer, and Girls JV Basketball Coach. However, the experience is not directly related to residence life or student housing, which is the focus of the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles such as Sunshine Social Chairperson and On-Site Professional Developer, which indicates leadership capabilities. However, the context of these roles is not directly related to the leadership required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job description outlines responsibilities related to residence life, student housing, and operations, while the candidate's experience is primarily in teaching and coaching, lacking direct relevance to these responsibilities."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Education (exact)'] | (LLM 0.4): The candidate has a strong background in education and teaching, which aligns well with the required skills of Education and Training in the job description. The candidate's experience in classroom management, student development, and leadership is particularly relevant."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as communication, time management, attention to detail, and supporting the academic mission, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of specific tools or technologies used in the resume, and the job description mentions two specific tools (NCCD, LLC and SRJC), but these are not aligned with the candidate's experience."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like motivation, innovation, and classroom discipline are transferable to the role, but the lack of direct experience in residence life or student housing reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.524
+}

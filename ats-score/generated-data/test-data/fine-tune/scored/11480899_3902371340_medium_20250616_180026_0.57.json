@@ -1,0 +1,51 @@
+{
+    "resume_id": "11480899",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.57,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['PMP Certification (fuzzy)'] | (LLM 0.5): The candidate has completed some training courses but does not have a formal certification listed, such as PMP, which is preferred in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds Master's and Bachelor's degrees in relevant fields, which aligns with the education requirements. However, the lack of graduation years makes it difficult to assess the relevance of the educational background to the current job position."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.8 yrs (capped to 21.8), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has significant experience in Human Resources, including roles as HR Manager and HR & Admin Manager, which closely matches the required experience and responsibilities. The experience shows a progression in responsibility and skill development."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles suggests they have leadership skills, but there is no explicit mention of leading diverse, cross-functional teams or managing projects in classic agile models."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles cover many aspects mentioned in the job description, such as project management, team management, and system implementation. However, there is no direct mention of leading major business system implementation projects."
+        },
+        "skills": {
+            "score": 0.444,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched skills: ['Human Resources (fuzzy)', 'PMP Certification (fuzzy)', 'Procore (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, which aligns with the required skills. The resume also mentions proficiency in Information Technology and Project Management, which are part of the inferred domain. However, there is no explicit mention of PMP Certification or specific IT tools like Deltek or Procore."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership, problem-solving, and communication, are aligned with the job description. However, there is no explicit mention of critical thinking or resource planning, which are part of the soft skills listed."
+        },
+        "tools": {
+            "score": 0.284,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Procore (fuzzy)', 'Procore (fuzzy)'] | (LLM 0.4): The candidate's experience includes use of HRIS systems and general IT tools, which aligns with the tools and technologies mentioned in the job description. However, there is no explicit mention of specific tools like Deltek or Procore."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as analytical problem solving, strategic planning, and process improvement, are relevant to the job description. However, there is no explicit mention of Agile methodology or classic agile models."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.575
+}

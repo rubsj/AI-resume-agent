@@ -1,0 +1,51 @@
+{
+    "resume_id": "37370455",
+    "jd_id": "3905821012",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.704,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the resume, whereas the job description requires a Certified Public Accountant (CPA) certification."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Finance and a Diploma in Banking, which are relevant to the field but do not match the specific educational requirements mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.7 yrs (capped to 15.7), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in accounting roles, which exceeds the minimum required experience of 3 years specified in the job description. The detailed job descriptions provided in the resume align well with the responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and self-assessment sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership qualities in the self-assessment section, which aligns with the job description's requirement for leadership qualities. However, there is no explicit mention of leadership responsibilities or achievements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles cover most of the responsibilities listed in the job description, such as overseeing accounting department systems, managing financial reports, and handling accounts receivables and payables. However, there is no mention of specific responsibilities like tax planning or training vendors and partners."
+        },
+        "skills": {
+            "score": 0.587,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched skills: ['Finance (exact)', 'Grammar (fuzzy)', 'Communication skills (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, financial reporting, and management, aligning well with the required skills. The resume also lists proficiency in various accounting software and systems, which matches the job description's requirement for proficiency in Microsoft Office Suite and Google Teams."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-assessment includes skills like being independent, fast learning, hardworking, and having good communication skills, which align with the soft skills required in the job description. However, there is no explicit mention of customer-centricity or innovative thinking."
+        },
+        "tools": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft Office Suite (fuzzy)'] | (LLM 0.4): The candidate's experience includes proficiency in various accounting software and systems, which matches the tools and technologies required in the job description. However, there is no explicit mention of proficiency in Microsoft Office Suite and Google Teams."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like budgeting, financial management, and communication can be transferred to the role, aligning with the job description's requirements. However, there is no explicit mention of specific transferable skills like supervision or public relations."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.55
+}

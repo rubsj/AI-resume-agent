@@ -1,0 +1,51 @@
+{
+    "resume_id": "94503308",
+    "jd_id": "3904999368",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.658,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, and the job description requires Safety Trained Supervisor (STS) certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Construction Management, which is relevant but does not match the preferred degree of a Bachelor's Degree in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 25.5 yrs (capped to 25.5), JD requires: 17.0 yrs. | (LLM 0.5): The candidate has over 25 years of experience in construction management, project management, and facility management, which significantly exceeds the required experience level of 17 years."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing construction projects and teams indicates strong leadership capabilities, which are essential for the role."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align well with the job responsibilities outlined in the job description, particularly in terms of project management, supervision, and safety."
+        },
+        "skills": {
+            "score": 0.96,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in construction management, project management, and facility management, aligning closely with the required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly mentioned in the resume, although they are important in construction management roles."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are listed in the resume, whereas the job description does not require any specific tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as budget management, documentation, and communication, which are relevant to the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.604
+}

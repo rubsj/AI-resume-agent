@@ -1,0 +1,51 @@
+{
+    "resume_id": "39674178",
+    "jd_id": "3904362493",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.699,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be a concern given the job description's requirement for specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists a Bachelor of Science degree in Management, but it does not specify the GPA or institution details, which could be important for assessing the candidate's educational background."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.2 yrs (capped to 28.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, including positions as a Staff Accountant, Federal Accountant, and Resource Officer. This experience aligns closely with the job description's required experience and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, some sections lack detail or clarity, which could affect the ATS's ability to accurately match the candidate to the job description."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership experience is limited to being a supervisor, which may not meet the job description's requirement for leadership experience in a professional setting."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles, such as managing intercompany transactions and preparing financial reports, align with the job description's responsibilities. However, there is no explicit mention of experience with specific tools or technologies mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the job description's required skills. The resume mentions proficiency in accounting systems, accounts payable and receivable, auditing, balance sheets, budgets, and financial reporting, which are all relevant to the job responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong organizational skills and the ability to work independently, match the job description's requirements. However, the resume lacks specific examples or quantifiable achievements that would strengthen this score."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP system (fuzzy)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used in their previous roles, which contrasts with the job description's requirement for experience with ERP systems like Infor LN Manufacturing and OneStream."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like attention to detail and proficiency in accounting software, which are valuable for the role. However, the lack of specific technical skills or certifications may limit the transferability of these skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.553
+}

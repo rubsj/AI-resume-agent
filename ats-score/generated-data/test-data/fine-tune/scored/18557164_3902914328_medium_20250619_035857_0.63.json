@@ -1,0 +1,51 @@
+{
+    "resume_id": "18557164",
+    "jd_id": "3902914328",
+    "domain": "HR",
+    "resume_jd_similarity": 0.382,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a Six Sigma Yellow Belt certification, which is relevant but not as prominent as the required Master's degree in the job description."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Business Management, which is aligned with the job requirements but lacks the depth and specialization expected for a Director-level position."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 32.8 yrs (capped to 32.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has extensive experience in Human Resources and Leadership roles, particularly in retail and banking sectors, which closely matches the job responsibilities. The experience is detailed and relevant."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, there are some unclear sections such as the summary and education details."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, particularly in retail and banking, indicates strong leadership skills. However, there is no explicit mention of leading employee programs or fostering culture."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as leading employee engagement programs, fostering culture, and organizing events, which align with the job responsibilities. However, there is no direct match with the specific responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate possesses relevant skills such as Human Resources, Leadership, and Communication, which align with the job requirements. However, there is a lack of specific technical skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates soft skills such as excellent communication and teamwork, which are essential for the role. However, there is no explicit mention of critical thinking or prioritization skills."
+        },
+        "tools": {
+            "score": 0.264,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Microsoft Office Suite (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are mentioned in the job description. However, there is no explicit mention of proficiency with Event Planning Software, Budgeting Tools, or other specialized tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in administrative tasks, attention to detail, and fast-paced environments are transferable to the role. However, there is a lack of emphasis on business development and sales skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.626
+}

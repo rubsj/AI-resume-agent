@@ -1,0 +1,51 @@
+{
+    "resume_id": "23513618",
+    "jd_id": "3906093762",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.434,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, and there are no specific certifications required in the job description."
+        },
+        "education": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Master's degree in Accounting from a reputable university, which aligns well with the education requirements of two to five years of related experience. However, the Bachelor's degree is missing the year of graduation, which could be seen as incomplete information."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in accounting roles that match the job description's requirements. However, the job description does not specify the exact number of years of experience required, so the total experience years are considered adequate but not fully aligned."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to understand and highlighting the candidate's qualifications effectively."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or achievements, which are not required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.38,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Attention to detail (substring)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, such as identifying and resolving problems, gathering and analyzing information, and ensuring accuracy in records and reports. However, the job description provides more detailed responsibilities that are not fully covered by the candidate's resume."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills relevant to the job description, including accounting, auditing, and finance, which aligns well with the required skills of 'Accounting/Auditing' and 'Administrative'. The skills also cover areas like budgeting, financial analysis, and customer service, which are mentioned in the soft skills section."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in communication, organization, and attention to detail align well with the soft skills required in the job description. However, the job description provides more specific soft skills that are not fully matched by the candidate's resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions 'AppFolio software' as a preferred tool, but the candidate's resume does not mention any experience or proficiency with this software."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, auditing, and finance are transferable to the job description's requirements. However, the job description includes specific tools and technologies like 'AppFolio software', which the candidate does not have experience with."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.569
+}

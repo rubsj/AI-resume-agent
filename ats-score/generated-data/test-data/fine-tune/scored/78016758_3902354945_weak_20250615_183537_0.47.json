@@ -1,0 +1,51 @@
+{
+    "resume_id": "78016758",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.531,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds certifications like MCSE: Communication and MCSA: Office 365, which are relevant but not as directly aligned as required skills."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education does not provide clear information about the field of study or level of achievement, making it difficult to assess relevance to the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.5 yrs (capped to 16.5), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in roles that involve project management and technical solutions, aligning with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership experience or achievements that would be considered essential for the role."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully match the detailed responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Consulting, Information Technology, and Project Management, which align with the job description requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include leadership and communication, which are relevant soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.313,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['ERP (substring)', 'Network (exact)'] | (LLM 0.4): The candidate's experience includes tools like Microsoft Office and Lync, which are mentioned in the job description, but there is no explicit mention of proficiency or usage."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like go live, architecture, and design are transferable to the role but may not be as directly applicable as required skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.472
+}

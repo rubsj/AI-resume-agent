@@ -1,0 +1,51 @@
+{
+    "resume_id": "56525735",
+    "jd_id": "3887474760",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.679,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate possesses certifications like Microsoft Project Certification and OSHA safety programs, which are beneficial but not as critical as skills and experience."
+        },
+        "education": {
+            "score": 0.416,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Architecture (exact)'] | (LLM 0.5): A Bachelor of Architecture degree is relevant to the field, but more specific degrees like Engineering or Construction Management would be preferred according to the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 13.1 yrs (capped to 13.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in construction management, including roles that directly match the job requirements, such as Senior Construction Project Manager."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing projects indicates leadership capabilities, but the job description does not emphasize leadership as a key requirement."
+        },
+        "responsibilities": {
+            "score": 0.372,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Budget management (substring)'] | (LLM 0.5): The candidate's experience includes responsibilities like budget management and project schedule creation, which align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.327,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Building codes (substring)'] | (LLM 0.4): The candidate has relevant skills such as Construction Management, budget management, and project management, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention soft skills like initiative, self-motivation, or written communication, which are important for the role."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Microsoft Office and Microsoft Project, which are mentioned in the job description, but lacks experience with Adobe Creative Suite and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like supervision, technical support, and communication are transferable and align with the job requirements, though they may not be as directly specified."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.58
+}

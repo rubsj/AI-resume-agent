@@ -1,0 +1,51 @@
+{
+    "resume_id": "17855844",
+    "jd_id": "3902764098",
+    "domain": "HR",
+    "resume_jd_similarity": 0.376,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 1.0,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a PHR certification, matching the job requirement."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a B.S. in Communications, which is relevant but not directly aligned with the job requirements in Human Resources."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.0 yrs (capped to 24.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has extensive experience in Human Resources, including roles as HR Manager, Human Resources Consultant, and Human Resources Manager, which closely matches the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading HR departments and managing staff, which aligns with the job requirements for leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, such as managing leave events and providing case management services, but there is no direct match with all responsibilities."
+        },
+        "skills": {
+            "score": 0.536,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'HRIS (exact)'] | (LLM 0.4): The candidate possesses skills in Human Resources, which aligns with the job requirements. However, there is no mention of Information Technology skills, which are preferred but not required."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as critical thinking, communication, problem-solving, adaptability, empathy, and attention to detail, are relevant to the job requirements."
+        },
+        "tools": {
+            "score": 0.35,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['HRIS (exact)'] | (LLM 0.4): The candidate has experience with tools like Ceridian, KRONOS, and Oracle, which are mentioned in the job description, but not extensively detailed."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as change management, decision-making, and organizational development, are relevant to the job requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.638
+}

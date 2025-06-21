@@ -1,0 +1,51 @@
+{
+    "resume_id": "10076271",
+    "jd_id": "3904096178",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.459,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job requirement of having 'certifications' listed."
+        },
+        "education": {
+            "score": 0.825,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds an MBA and a BS in Business Administration from Florida A&M University, which matches the educational background required for the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 24.2 yrs (capped to 24.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare management and operations, but lacks specific details about sales operations and revenue management, which are crucial for the role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are concise and relevant."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including CEO and Healthcare Management Representative, which indicates strong leadership skills. However, they lack specific experience in sales leadership or thought leadership."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes managing teams and projects, but does not explicitly demonstrate responsibilities related to designing and implementing go-to-market strategies or monitoring revenue pipelines, which are key responsibilities for the role."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills in Microsoft Office, Internet usage, PC/MAC software proficiency, Microsoft Project, and has experience with Information Resources Inc and databases, which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like clear strategic thinking, effective communication, and negotiation, which align with the soft skills required for the position. However, they lack experience in sales leadership and thought leadership."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office, Microsoft Project, and Information Resources Inc, which are tools mentioned in the job description. However, there is no mention of Salesforce.com or GTM operations, which are also required."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in project management, technology utilization, and team leadership, which are beneficial for the role. However, they lack specific experience in manufacturing or sales operations, which are mentioned as optional skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.571
+}

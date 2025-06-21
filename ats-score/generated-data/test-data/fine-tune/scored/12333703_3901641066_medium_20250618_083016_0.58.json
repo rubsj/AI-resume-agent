@@ -1,0 +1,51 @@
+{
+    "resume_id": "12333703",
+    "jd_id": "3901641066",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.211,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has some relevant education in fields like Electrical Assistant & HVAC-R, but lacks formal degrees in business or related fields."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 19.1 yrs (capped to 19.1), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has extensive experience in facility management, operations, and retail, which aligns with the job description. However, the experience does not explicitly match the required years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it lacks details in certain sections, such as certifications and tools used."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has demonstrated leadership in various roles, including managing staff and overseeing projects. However, there is no explicit mention of leading cross-functional teams or strategic planning."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job description, particularly in areas like project management, operations, and customer service. However, there is no explicit mention of market strategy or product development."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Product Management (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as 'HVAC', 'budget', 'project management', and 'customer service'. However, there is no explicit mention of'marketing' or 'product management' which are required skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'customer service', 'team leadership', and 'problem solving', which are beneficial for the role. However, there is no explicit mention of 'communication' or 'adaptability'."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'budgeting', 'project management', and 'team leadership', which could be applicable in the new role. However, there is no explicit mention of specific technical skills required for the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.583
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "42487883",
+    "jd_id": "3905301905",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.658,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor of Science in Accounting and Information Management and a Bachelor of Arts in Psychology, which provides a foundational understanding of business principles but lacks specific accounting credentials."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 10 years of experience in accounting roles, demonstrating proficiency in key areas such as account reconciliation, financial reporting, and process optimization, which closely matches the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume, which could be a requirement for the job."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, particularly in areas like financial reporting, accounts payable, and general ledger management. However, there is no mention of specific responsibilities related to revenue recognition."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in account reconciliation, financial modeling, variance analysis, corporate G&A and COGS accounting, cash forecasting, capitalization and fixed assets management, analytical reasoning, time management, and research skills, which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-motivation, effective communication, and attention to detail are highlighted, which are crucial soft skills for the job. The resume also mentions teamwork, which is beneficial for collaborative environments."
+        },
+        "tools": {
+            "score": 0.47,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate possesses intermediate Excel skills and knowledge of various accounting software tools, which are essential for the job. However, the resume does not specify proficiency in all required tools like Excel pivot tables and Vlookup/Hlookup formulas."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various accounting roles and responsibilities demonstrates transferable skills, but the lack of specific details about revenue recognition might limit the alignment with the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.652
+}

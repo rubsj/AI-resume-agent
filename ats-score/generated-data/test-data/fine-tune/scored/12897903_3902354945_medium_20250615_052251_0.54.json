@@ -1,0 +1,51 @@
+{
+    "resume_id": "12897903",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.441,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description prefers candidates with a PMP certification."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a Master's degree and two Bachelor's degrees, which are relevant to the job description. However, the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 22.1 yrs (capped to 22.1), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in various roles that match the job responsibilities, including leadership positions and project management tasks."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles, but there is no explicit mention of leading multiple efforts simultaneously or managing a portfolio."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows proficiency in defining business cases, managing stakeholders, and overseeing project work, which aligns with the job responsibilities. However, there is no explicit mention of leading multiple efforts simultaneously."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Consulting, Information Technology, and Project Management, which align with the job description. However, there is no mention of specific certifications like PMP, which might be preferred."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates strong soft skills such as leadership and communication, but there is no explicit mention of influencing or motivating others."
+        },
+        "tools": {
+            "score": 0.247,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['ERP (substring)'] | (LLM 0.4): The candidate's experience includes tools like Microsoft Office and Adobe Creative Suite, but the job description mentions more advanced tools like ERP, Cloud applications, and Salesforce, which are not covered."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like problem-solving and team building, which are relevant to the job description. However, there is no explicit mention of negotiation or conflict management."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.535
+}

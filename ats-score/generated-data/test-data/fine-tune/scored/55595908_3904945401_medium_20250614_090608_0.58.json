@@ -1,0 +1,51 @@
+{
+    "resume_id": "55595908",
+    "jd_id": "3904945401",
+    "domain": "ENGINEERING",
+    "resume_jd_similarity": 0.434,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education provided does not match the job requirements, which do not specify any degree or field of study."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 18.0 yrs (capped to 18.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has experience in assembly and manufacturing, which aligns with the job responsibilities. However, the job description requires at least 1 year of experience, and the candidate has over 18 years of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership skills are mentioned in the resume, and the job description does not require any specific leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with some of the job responsibilities, such as performing hands-on operations and maintaining a clean work environment. However, the job description also requires specific skills like operating forklifts and using scanning applications, which are not mentioned in the resume."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Manufacturing (exact)'] | (LLM 0.4): The candidate has relevant skills in manufacturing, assembly, and technical support, which align with the job requirements. However, there is no explicit mention of management skills, which are required."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like being a hard worker and team player, which align with the soft skills required by the job description. However, there is no explicit mention of safety orientation or physical intensity."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['equipment (exact)'] | (LLM 0.4): No tools or technologies used are mentioned in the resume, while the job description mentions forklifts and scanning applications."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various assembly roles and technical skills are transferable to the job responsibilities. However, there is no explicit mention of leadership skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.583
+}

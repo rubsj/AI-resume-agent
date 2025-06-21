@@ -1,0 +1,51 @@
+{
+    "resume_id": "72876163",
+    "jd_id": "3904361706",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.248,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the required skills in the job description."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds advanced degrees in relevant fields, but the lack of specific details about GPA or field of study limits the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 19.8 yrs (capped to 19.8), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has significant experience in IT management, which is relevant to the job responsibilities. However, the lack of direct experience in actuarial analysis reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in supervising staff and leading teams is relevant to leadership skills required in the job description. However, the lack of specific leadership achievements reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in managing and leading teams aligns with some responsibilities, but the lack of specific actuarial analysis experience reduces the score."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in IT management, which aligns well with the required skills in actuarial analysis and consulting. The candidate's skills in budget management, supervision, and vendor management are particularly relevant."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership and supervision skills aligns with soft skills required in the job description. However, the lack of explicit communication skills reduces the score."
+        },
+        "tools": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched: ['R (substring)', 'MS Office suite (substring)'] | (LLM 0.4): The candidate has experience with tools like MS Office suite, which is listed as a required skill in the job description. However, there is no mention of proficiency in R or Python, which are also required."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in project management, problem-solving, and strategic thinking are transferable skills that align with the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.579
+}

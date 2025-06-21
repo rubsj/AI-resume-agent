@@ -1,0 +1,51 @@
+{
+    "resume_id": "22946204",
+    "jd_id": "3905370797",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.432,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds degrees in Mechanical Engineering from two different institutions, which aligns with the job requirements. However, the lack of GPA information may be seen as a weakness."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 10.1 yrs (capped to 10.1), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in product development and research assistance, but the job description requires specific skills and tools that are not fully covered in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with some responsibilities mentioned in the job description, but there is no direct match with the specific responsibilities listed."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as CAD, Mechanical Engineering, and experience with various tools like computer, diagnostic scan tools, and pneumatic air tools. However, there are missing details in the resume that could provide more context about proficiency levels."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools mentioned in the job description such as computer, diagnostic scan tools, and pneumatic air tools. However, there is no explicit mention of AMR repair orders or maintenance databases."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a range of transferable skills including programming languages, data analysis, and mechanical design, which could be beneficial in the role. However, there is no clear indication of how these skills are applied in a work context."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.554
+}

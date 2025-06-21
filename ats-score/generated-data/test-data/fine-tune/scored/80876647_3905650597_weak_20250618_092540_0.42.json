@@ -1,0 +1,51 @@
+{
+    "resume_id": "80876647",
+    "jd_id": "3905650597",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.202,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a CPR certification, which is relevant, but lacks other certifications that are preferred in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only completed high school education, which does not meet the minimum requirement of a college or university degree in health, safety, environment, engineering, or related field."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in various roles that align with the job responsibilities, but lacks experience in the specific areas mentioned in the job description such as Health, Safety and Environment Incident Investigation and Root Cause Analysis."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership roles or responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job responsibilities, but lacks specific details on how they have contributed to health, safety, and environmental management systems."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has some relevant skills such as CPR Certified, first aid, and inventory management, but lacks specific technical skills required for the role like Training Delivery and Implementation of Risk Controls."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions some soft skills like teamwork and customer service, but lacks specific examples of how these skills were applied in a professional setting."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate's resume does not mention any tools or technologies used, which is a requirement in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like administrative abilities and fast learning, but lacks specific technical skills required for the role."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.421
+}

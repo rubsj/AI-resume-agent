@@ -1,0 +1,51 @@
+{
+    "resume_id": "20345168",
+    "jd_id": "3905838573",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.71,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are listed in the resume, while a Certified Public Accountant designation is listed as a preferred skill in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Management, which is relevant but does not match the preferred degree of a Bachelor's degree in Accounting or Business Administration."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has a history of managing accounting departments and performing various accounting tasks, which aligns with the job responsibilities. However, the job description requires more senior-level experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in managing teams and departments, which indicates leadership skills. However, the job description requires more senior-level leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience covers many of the responsibilities listed in the job description, such as managing accounting functions and overseeing accounting operations. However, there is no mention of overseeing tax planning or audits, which are part of the responsibilities."
+        },
+        "skills": {
+            "score": 0.514,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting software and processes, which matches the required skills in accounting and finance tools. The resume also lists proficiency in Microsoft Office, which is mentioned as a required skill."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights strong organizational skills, effective time management, and flexibility, which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate is proficient in Microsoft Office, which is a required tool. However, they lack specific knowledge of accounting and tax preparation software mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like financial statement analysis and account reconciliation, which can be transferred to the role. However, the job description mentions specific skills like tax planning and auditing that are not covered in the resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.569
+}

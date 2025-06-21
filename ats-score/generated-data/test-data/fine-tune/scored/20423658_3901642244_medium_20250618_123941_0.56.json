@@ -1,0 +1,51 @@
+{
+    "resume_id": "20423658",
+    "jd_id": "3901642244",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.396,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job requirement of having a Bachelor's degree or equivalent work experience."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Political Science/History and another unspecified degree in Organizational Leadership & Learning. This education aligns with the job's preferred degree requirement but lacks detail on the relevance to sales and marketing."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in sales roles, including management positions, which closely matches the job's requirements for sales and field sales experience. The experience also includes leadership and customer service aspects."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail or clarity, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates leadership through promotions and involvement in development programs, which aligns with the job's leadership requirement. However, there is no explicit mention of leading sales teams or managing projects."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as sales, customer service, and training, which align with the job's responsibilities. However, there is no explicit mention of strategic marketing initiatives or brand promotion."
+        },
+        "skills": {
+            "score": 0.592,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', 'Customer service (substring)'] | (LLM 0.4): The candidate has relevant experience in sales and retail sales, which aligns with the job requirements. However, there are no specific skills listed that match the job's need for proficiency in Salesforce and Facebook."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights skills like communication, self-motivation, teamwork, and organization, which are aligned with the job's soft skill requirements. However, these are not quantified or detailed."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any proficiency in tools like MS Office, Salesforce, or Facebook, which are required by the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions transferable skills such as leadership, customer service, and sales knowledge, which are relevant to the job. However, these are not explicitly linked to the job's specific requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.556
+}

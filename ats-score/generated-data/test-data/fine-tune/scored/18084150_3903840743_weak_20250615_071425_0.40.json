@@ -1,0 +1,51 @@
+{
+    "resume_id": "18084150",
+    "jd_id": "3903840743",
+    "domain": "HR",
+    "resume_jd_similarity": 0.474,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job description's requirements."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in Industrial/Organization Psychology and Business Administration Human Resources Management, which are relevant to the job description's preferred degrees."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 16.6 yrs (capped to 16.6), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in HR roles that align with the job description's responsibilities, such as managing HR support, enforcing policies, and managing budgets."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not have any explicit leadership experience mentioned in their resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills like ADP, benefits, budget, databases, employee relations, etc., which align well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills mentioned in the job description such as motivation, entrepreneurship, customer service, communication, networking, teamwork, compassion, and collaboration."
+        },
+        "tools": {
+            "score": 0.067,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Databases (exact)'] | (LLM 0.4): No tools or technologies used by the candidate match those listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like project management, leadership, and management, which are relevant to the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.4
+}

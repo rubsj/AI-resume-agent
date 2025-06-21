@@ -1,0 +1,51 @@
+{
+    "resume_id": "44476983",
+    "jd_id": "3905291352",
+    "domain": "HR",
+    "resume_jd_similarity": 0.794,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in Organizational Management, Human Resources, which aligns with the required degree of a Bachelor's degree. However, the GPA is not mentioned."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 9.5 yrs (capped to 9.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in various HR roles, including HR Business Partner, Sr. HR Consultant and TA Specialist, Human Resources Consultant IV, and Principal Consultant. This experience closely matches the required and preferred experience years and responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, some details such as GPA and specific tools used are missing."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as HR Business Partner and Principal Consultant, which indicates leadership capabilities. However, there is no explicit mention of leadership responsibilities in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with many of the responsibilities listed in the job description, such as providing HR support, managing onboarding, handling exit interviews, and providing policy guidance. However, there is no explicit mention of Workday processing or data management."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Leadership development, Collaborative, Organization and efficiency, Exemplary verbal and written communication, Time management, Conflict mediation, Self-starter, and HR experience in Technology Field. However, there is no mention of specific tools like Workday in their skills section."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as Leadership development, Collaboration, and Communication, which are aligned with the soft skills required in the job description. However, there is no explicit mention of Executive presence or Judgment."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)', 'PowerPoint (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Suite but does not explicitly mention proficiency in Excel, PowerPoint, or Workday, which are listed as required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include Leadership development, Collaboration, and Communication, which are relevant to the job description. However, there is no explicit mention of Business Development or Executive presence."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.591
+}

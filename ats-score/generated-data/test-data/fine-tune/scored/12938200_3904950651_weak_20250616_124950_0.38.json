@@ -1,0 +1,51 @@
+{
+    "resume_id": "12938200",
+    "jd_id": "3904950651",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.446,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description requires a Fellowship accreditation (FCAS)."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Social Work, which is relevant to the job description's inferred domain of insurance, although the field of study does not directly match the job's requirements."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in healthcare roles, which could be transferable to the insurance industry, but the job description specifically seeks an Actuarial Director role, which requires specialized knowledge and skills not evident in the candidate's resume."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is grammatically clean and professionally formatted."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate leadership experience or responsibilities that align with the job description's leadership section."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not detail responsibilities that align with the job description's responsibilities section."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate possesses strong customer service skills, which align with the job's requirement for excellent customer service. However, there is no mention of advanced Excel proficiency, which is listed as a preferred skill."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong customer service skills, which align with the job description's soft skills section. However, there is no mention of team leadership or coaching abilities."
+        },
+        "tools": {
+            "score": 0.35,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Microsoft Office and Excel, which are mentioned in the job description's tools and technologies section. However, there is no explicit mention of actuarial software proficiency."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes bilingualism and advanced Excel proficiency, which could be transferable to the job description's requirements. However, there is no mention of actuarial knowledge or financial analysis skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.377
+}

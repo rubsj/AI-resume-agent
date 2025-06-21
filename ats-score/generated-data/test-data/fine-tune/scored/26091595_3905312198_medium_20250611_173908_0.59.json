@@ -1,0 +1,51 @@
+{
+    "resume_id": "26091595",
+    "jd_id": "3905312198",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.692,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned that match the preferred ones in the job description."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a High School Diploma and an Electrical Engineering degree, which is relevant but not at the level of a bachelor's or master's degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.8 yrs (capped to 18.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 18 years of experience in OSP Engineering and Construction, which is significantly more than the required minimum of 5 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly mention leadership roles or responsibilities, which are part of the job description's responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes managing projects, overseeing contractors, and performing tasks that align with the responsibilities listed in the job description. However, there is no explicit mention of managing field teams or assembling accurate estimates."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in OSP Engineering and Construction, which aligns well with the required skills of management and manufacturing. However, there is no explicit mention of PMP certification or Universal EPA certification, which are preferred."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary indicates strong decision-making skills and attention to detail, which align with the soft skills required. However, there is no explicit mention of leadership or effective communication."
+        },
+        "tools": {
+            "score": 0.31,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Project (fuzzy)'] | (LLM 0.4): The candidate has experience with MS Office tools, which are listed as required skills in the job description. However, there is no explicit mention of proficiency with Gantt schedules or specific software tools like MS Project."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in OSP Engineering and Construction provides transferable skills such as project management and resource allocation, which are relevant to the job description. However, there is no explicit mention of manufacturing skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.588
+}

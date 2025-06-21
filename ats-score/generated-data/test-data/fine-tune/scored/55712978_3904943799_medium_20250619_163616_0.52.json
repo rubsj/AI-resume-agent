@@ -1,0 +1,51 @@
+{
+    "resume_id": "55712978",
+    "jd_id": "3904943799",
+    "domain": "AGRICULTURE",
+    "resume_jd_similarity": 0.334,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume that directly match the job description requirements."
+        },
+        "education": {
+            "score": 0.825,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched: ['BS (substring)', 'MS (substring)'] | (LLM 0.5): The candidate holds advanced degrees in relevant fields and has a strong educational background that aligns well with the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.2 yrs (capped to 13.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in research and teaching, which aligns with some aspects of the job description, but lacks specific experience in food safety and regulatory compliance."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading a research lab, which indicates strong leadership skills, aligning with the job description's requirement for leadership."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not explicitly mention responsibilities related to the job description, such as creating FDA-compliant labels or managing product compliance."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong skill set that aligns well with the job description, including proficiency in FDA regulations, nutrition facts panels, and product formulas."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills in attention to detail, communication, problem-solving, teamwork, innovation, collaboration, and continuous learning, which are aligned with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the resume that match the job description requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as research, teaching, and leadership, which could be applicable to the job description, but they are not specifically mentioned."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.523
+}

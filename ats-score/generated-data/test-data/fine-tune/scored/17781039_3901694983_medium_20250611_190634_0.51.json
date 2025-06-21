@@ -1,0 +1,51 @@
+{
+    "resume_id": "17781039",
+    "jd_id": "3901694983",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.659,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lacks specific details about degrees and fields of study that match the job requirements."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales and management, but the job description requires specific tools and technologies knowledge which is not evident in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, which is a requirement for the job."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The responsibilities section is missing from the resume."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has experience in leadership roles and mentions skills like 'Event Management and Promotion', 'Leader', 'Strong Negotiation Skills', and 'Team Building and Team Leadership'. These align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like 'Business Development', 'Sales', and 'Team Player', which align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.056,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['ICE Product (fuzzy)', 'Content (exact)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used in previous roles."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'Event Management and Promotion', 'Leader', and 'Strong Negotiation Skills' that could be applicable to the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.508
+}

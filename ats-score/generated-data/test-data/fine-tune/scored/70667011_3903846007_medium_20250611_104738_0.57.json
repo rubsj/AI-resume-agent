@@ -1,0 +1,51 @@
+{
+    "resume_id": "70667011",
+    "jd_id": "3903846007",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.659,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement for FNMA, FHLMC, FHA, VA, and USDA mortgage servicing experience."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A BS in Business Management is relevant but lacks specific details like GPA and dates, which could impact the assessment."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 24.2 yrs (capped to 24.2), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has extensive experience in banking operations, mortgage lending, and credit analysis, which matches the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams, but there is no explicit mention of leadership skills or responsibilities related to the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, but there is no mention of managing the oversight of the foreclosure group, which is a key responsibility."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as credit analysis, financial management, and mortgage compliance, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as leadership and communication, which are essential for the role."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate has experience with Unifi system, which is relevant, but lacks specifics about other tools like Microsoft Office, Outlook, and Excel."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like problem-solving and teamwork are transferable but lack specific examples or context from the resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.568
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "80876647",
+    "jd_id": "3905366732",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.321,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a certification listed ('CPR Certified'), but there is no evidence of additional certifications required by the job description such as 'writing samples' or specific knowledge in 'Medicaid State Plan and Waiver documents'."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's highest education is a High School Diploma, which does not match the required education level for the job description."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 2.8 yrs (capped to 2.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in healthcare roles, which aligns with the inferred domain of the job description. However, the total experience years do not meet the required experience years specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills or experience, which is required by the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with some of the responsibilities listed in the job description, such as overseeing systems operations and creating reports. However, there is no direct evidence of experience in creating reports for AR Medicaid to state and federal authorities."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills listed that align with the job description such as 'administrative', 'basic', 'CPR certified', and 'inventory'. However, there is no evidence of proficiency in specific tools like 'public health data-analysis' or 'Medicaid data' which are required."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention soft skills required by the job description such as 'communication', 'teamwork', or 'problem-solving'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's skills list does not include any of the tools mentioned in the job description such as 'public health data-analysis', 'Medicaid data', or'metrics development'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills list includes skills that can be transferred to the job description such as 'administrative', 'inventory', and 'fast learner'. However, there is no evidence of specific skills like'software proficiency' or 'project management' which might be beneficial for the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.508
+}

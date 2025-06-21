@@ -1,0 +1,51 @@
+{
+    "resume_id": "18557164",
+    "jd_id": "3904362556",
+    "domain": "HR",
+    "resume_jd_similarity": 0.585,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds a 'Six Sigma Yellow Belt' certification, which is relevant but not directly related to the job description requirements."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Business Management, which aligns with the required degree level but lacks specific details about the institution or GPA."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 32.8 yrs (capped to 32.8), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR and management, particularly in retail and banking sectors, which matches the job description requirements. However, the lack of specific achievements or metrics reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including HR Business Partner II and various management positions, which aligns well with the job description's requirements."
+        },
+        "responsibilities": {
+            "score": 0.362,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Client Management (fuzzy)'] | (LLM 0.5): The candidate's responsibilities align with the job description's requirements for people management, client management, and contribution to sales. However, the lack of detailed responsibilities reduces the score."
+        },
+        "skills": {
+            "score": 0.544,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Human Resources', 'Consultant', and 'Customer Service'. However, there is no mention of specific tools like 'Oracle' or 'Workday', which are often required in HR roles."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Leadership' and 'Communication', which are essential for the job. However, the lack of specific examples or metrics reduces the score."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.4): The candidate does not mention any specific tools or technologies used in their work, which could be crucial for the job."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Attention to Detail' and 'Organizational Skills', which are beneficial. However, the lack of specific examples or metrics reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.573
+}

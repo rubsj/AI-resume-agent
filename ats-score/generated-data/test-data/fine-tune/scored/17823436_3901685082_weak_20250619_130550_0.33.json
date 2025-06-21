@@ -1,0 +1,51 @@
+{
+    "resume_id": "17823436",
+    "jd_id": "3901685082",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.348,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have the required CPA certification listed in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Engineering degree in Information Technology from University of Mumbai, which is relevant to the job description but lacks details such as GPA."
+        },
+        "experience": {
+            "score": 0.613,
+            "reason": "(Rule 0.5): Resume: 5.1 yrs (capped to 5.1), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has experience in software implementation and business analysis, which aligns well with the job description. The detailed job descriptions provide clear examples of relevant skills and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, the use of commas instead of periods in some sections could indicate a lack of attention to detail."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate leadership skills or experiences that align with the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not mention any responsibilities that align with the job description's responsibilities section."
+        },
+        "skills": {
+            "score": 0.304,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Excel (substring)', 'Communication (exact)'] | (LLM 0.4): The candidate has a strong set of technical skills including programming languages, databases, and tools relevant to the job description. However, the lack of specific certifications and the unclear summary prevent a perfect match."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are mentioned in the job description such as self-starter, adaptable, and initiative."
+        },
+        "tools": {
+            "score": 0.62,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The candidate lists Excel as a tool, which is mentioned in the job description, but does not explicitly state proficiency in Excel or any other tools that are specifically required."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in project management, communication, and teamwork based on their experience and skills sections. However, these are not explicitly aligned with the job description's responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.325
+}

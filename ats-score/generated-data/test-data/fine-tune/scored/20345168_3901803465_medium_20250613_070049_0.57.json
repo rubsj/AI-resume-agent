@@ -1,0 +1,51 @@
+{
+    "resume_id": "20345168",
+    "jd_id": "3901803465",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.701,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which does not match the requirement for a Bachelor's degree in Accounting, Finance, or related field in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks a degree in Accounting, Finance, or related field, which is a preferred degree in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 23.2 yrs (capped to 23.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, including experience in payroll, employee management, and benefits, which aligns with the job responsibilities. However, the total experience years exceed the required range."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, there are some sections that could be more detailed or specific to better align with the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in leading teams or departments in the candidate's resume, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume provides some details on responsibilities, such as managing accounts receivable and performing monthly billing. However, it lacks specifics on responsibilities like reviewing account reconciliations and ensuring timely completion, which are mentioned in the job responsibilities."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting software and processes, which matches the required skills in the job description. The resume also lists proficiency in Microsoft Office tools, which are mentioned as required tools."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights strong organizational skills and effective time management, which align with the soft skills required in the job description. However, it does not explicitly mention strong working knowledge of GAAP or ability to interpret and apply accounting principles."
+        },
+        "tools": {
+            "score": 0.825,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 1, 'fuzzy': 1}. Matched: ['Word (exact)', 'Excel (exact)', 'PowerPoint (fuzzy)', 'Accounting software (substring)'] | (LLM 0.4): The candidate's resume lists proficiency in Microsoft Office tools, which are mentioned as required tools in the job description. Additionally, they have experience with Abila MIP Fund Accounting Software and QuickBooks, which are also mentioned as required tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like financial statement analysis and account reconciliation expertise, which are transferable skills mentioned in the job description. However, it lacks details on leadership skills and specific examples of how the candidate has led teams or departments."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.575
+}

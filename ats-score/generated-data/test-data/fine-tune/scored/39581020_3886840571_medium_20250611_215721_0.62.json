@@ -1,0 +1,51 @@
+{
+    "resume_id": "39581020",
+    "jd_id": "3886840571",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.683,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate only has a High School Diploma and a Training certificate, neither of which are specified as required or preferred degrees in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as a Sales Associate and Key Holder, which matches the job responsibilities. However, the experience is not detailed enough to fully align with the specific job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, and the job description does not require leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like answering questions, organizing events, and maintaining cleanliness, which align with the job responsibilities. However, there is no direct match with the specific responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate possesses skills like 'coach', 'Communication Skills', 'credit', 'Leadership Skills','marketing', 'window', 'Problem Solving Skills','sales', 'Teamwork', and 'telephone', which align well with the job responsibilities requiring customer service and sales skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include 'Communication Skills', 'Leadership Skills', and 'Teamwork', which are soft skills required for the job. However, these skills are not explicitly mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are listed in the candidate's resume, and the job description does not specify any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'coach','marketing', and 'Problem Solving Skills' can be considered transferable, but they are not directly aligned with the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.623
+}

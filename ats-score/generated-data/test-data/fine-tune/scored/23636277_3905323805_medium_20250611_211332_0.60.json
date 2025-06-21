@@ -1,0 +1,51 @@
+{
+    "resume_id": "23636277",
+    "jd_id": "3905323805",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.66,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor's degree in Commerce and an LLB degree, which are relevant to the field of finance and accounting. However, the job description does not specify the required educational background."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 15.4 yrs (capped to 15.4), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in various accounting roles, including experience with QuickBooks, SAP, and other financial software, which matches the requirements of the job description. The candidate's experience also includes financial analysis and tax preparation, which are relevant to the position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The formatting is consistent and professional."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams and coordinating with department staff, which indicates leadership skills. However, there is no explicit mention of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.385,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Processing payroll (substring)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the responsibilities listed in the job description, such as reconciling general ledger accounts, submitting journal entries, and processing payroll. However, there is no direct match for all responsibilities."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting, auditing, and financial analysis, which aligns well with the required skills in the job description. The candidate also possesses knowledge in Microsoft Office tools, which is beneficial for the position."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong communication and ability to handle sensitive information, are relevant to the job description. However, there is no explicit mention of these skills in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.547,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 2, 'fuzzy': 0}. Matched: ['General Ledger (substring)', 'Journal Entries (substring)', 'Finance (exact)', 'Tax (exact)'] | (LLM 0.4): The candidate has experience with tools such as QuickBooks, SAP, and Microsoft Office, which are mentioned in the job description. However, there is no explicit mention of proficiency in all the tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as bookkeeping, financial reporting, and tax preparation, are aligned with the job description. However, there is no explicit mention of these skills in the candidate's resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.602
+}

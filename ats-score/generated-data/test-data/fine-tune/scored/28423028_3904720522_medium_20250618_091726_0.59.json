@@ -1,0 +1,51 @@
+{
+    "resume_id": "28423028",
+    "jd_id": "3904720522",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.329,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the required or preferred certifications in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume includes multiple degrees but lacks specific details about the field of study, GPA, and graduation year, making it difficult to assess relevance to the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.2 yrs (capped to 19.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in healthcare operations, including roles in medical practice management, hospital administration, and behavioral health, aligning closely with the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including managing teams and providing operational leadership, which aligns with the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles overlap with some of the job responsibilities listed, but there is no direct mention of coordinating internal and external clinical studies or working with cross-functional project teams."
+        },
+        "skills": {
+            "score": 0.626,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Information Technology (substring)', 'Research (exact)', 'Management (exact)', 'Strategy (fuzzy)'] | (LLM 0.4): The candidate has a wide range of skills relevant to the job description, including APM, administrative support, streamlining processes, and healthcare-specific skills like coding and regulatory compliance."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as communication, presentation, and writing, which are essential for the role."
+        },
+        "tools": {
+            "score": 0.315,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Office, which is listed in the job description, but lacks specifics on other tools like Salesforce or Adobe Creative Suite."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in areas like strategic planning, leadership, and process improvement, which are valuable for the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.59
+}

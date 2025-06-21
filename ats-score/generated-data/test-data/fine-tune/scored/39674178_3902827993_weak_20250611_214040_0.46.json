@@ -1,0 +1,51 @@
+{
+    "resume_id": "39674178",
+    "jd_id": "3902827993",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.653,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not list any certifications, which may be a concern given the preference for CPA or CFA designations in the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science degree in Management, but the GPA is not provided, which could indicate a lack of academic achievement relevant to the job."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.2 yrs (capped to 28.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 26 years of experience in government accounting and financial management, which significantly exceeds the required minimum of 10 years. This extensive experience aligns closely with the job's emphasis on leadership and management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, the inclusion of personal information sections that do not directly relate to qualifications could slightly detract from its professionalism."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates significant leadership experience, including supervisory roles and responsibilities in managing staff. This aligns well with the job's emphasis on leadership and management."
+        },
+        "responsibilities": {
+            "score": 0.361,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Financial analysis (fuzzy)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with many of the job responsibilities listed, such as leading finance/accounting teams, driving strategic recommendations, and managing budgets. However, there is no specific mention of leading modeling efforts or preparing monthly forecasts, which are mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the job's requirement for advanced skills in Accounting/Auditing. The resume also mentions proficiency in accounting systems and processes, which is beneficial for the role."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned in the resume, but their experience in leadership positions suggests they possess ownership and accountability. Communication skills are also implied through their leadership roles."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience includes using Excel and accounting systems, which are mentioned as tools in the job description. However, there is no explicit mention of proficiency in data visualization tools, which could be a limitation."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat limited in the resume. While they have experience in various accounting roles, there is no clear indication of how these skills can be transferred to the new role, particularly in terms of advanced Excel skills or specific financial modeling techniques."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.457
+}

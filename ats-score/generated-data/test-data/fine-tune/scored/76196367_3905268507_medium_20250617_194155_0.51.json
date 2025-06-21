@@ -1,0 +1,51 @@
+{
+    "resume_id": "76196367",
+    "jd_id": "3905268507",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.256,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which does not match the required degrees listed in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Education and a Bachelor of Science in Elementary Education, which aligns with the preferred degrees in the job description. However, the lack of specific details about the years and institutions makes it difficult to fully assess the relevance."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 21.6 yrs (capped to 21.6), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience as a classroom teacher, which matches the required experience level. The job description focuses more on administrative tasks related to admissions rather than teaching experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume appears to be well-written and free of grammatical errors, indicating a high level of professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership roles or responsibilities in the resume, which contrasts with the job description's emphasis on leadership in managing student populations and events."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not mention any responsibilities that directly correspond to the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Education (exact)'] | (LLM 0.4): The candidate has extensive experience in education and teaching, which aligns well with the required skills of 'Education' and 'Training'. The resume also mentions skills like 'Instruction', 'Curriculum Development', and 'Content Development & Management', which are relevant to the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes some soft skills such as 'Good organizational and interpersonal skills', but these are not explicitly mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies are mentioned in the resume, which contrasts with the job description's lack of specific tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like 'Instruction', 'Curriculum Development', and 'Content Development & Management' can be considered transferable to the role, despite the job description focusing on admissions-related tasks."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.507
+}

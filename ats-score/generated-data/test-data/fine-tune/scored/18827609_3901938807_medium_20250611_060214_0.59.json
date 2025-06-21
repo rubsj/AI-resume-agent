@@ -1,0 +1,51 @@
+{
+    "resume_id": "18827609",
+    "jd_id": "3901938807",
+    "domain": "HR",
+    "resume_jd_similarity": 0.658,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any certifications."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds a Bachelor of Science degree in Business Administration and Psychology, which is relevant to the field of Human Resources. However, the degree is not directly related to HRIS systems or advanced Excel skills, which are mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.66,
+            "reason": "(Rule 0.5): Resume: 3.1 yrs (capped to 3.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in various HR roles, including HR Associate, HR Intern, and Orientation Leader. However, the experience does not specifically mention advanced skills in HRIS systems or data analytics, which are required for the job."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors. However, it lacks specific details in some sections, such as the job responsibilities and leadership experience, which could affect the ATS score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, whereas the job description mentions end-to-end ownership of the HRIS system and management of HRIS functionalities."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully align with the job responsibilities listed in the job description. The candidate has experience in university recruitment, internship programs, and employee relations, but lacks specific details about managing HRIS systems, developing HR analytics, and overseeing data security."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills that align with the job description, including Recruiting, Onboarding, Project Management, Event Planning, Employee Relations, and Public Speaking. However, there is no mention of specific tools like Tableau or advanced Excel skills, which are mentioned as optional skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as attention to detail, strong work ethic, flexibility, comfort interacting with employees, and discretion, align well with the job requirements. These skills are crucial for managing HRIS systems and ensuring data integrity."
+        },
+        "tools": {
+            "score": 0.472,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (exact)', 'HRIS systems (substring)', 'Workday (exact)'] | (LLM 0.4): The candidate has experience with ADP, Workday, and Microsoft Office Suite, which are mentioned as tools in the job description. However, there is no mention of advanced Excel skills or Tableau, which are also mentioned as tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as teamwork, collaboration, and project management, which are relevant to the job. However, the candidate lacks specific skills in areas like data analytics, third-party integrations, and advanced Excel skills, which are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.592
+}

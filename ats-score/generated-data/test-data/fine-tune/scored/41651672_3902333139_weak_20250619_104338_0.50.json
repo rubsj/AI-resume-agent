@@ -1,0 +1,51 @@
+{
+    "resume_id": "41651672",
+    "jd_id": "3902333139",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.398,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BA degree but lacks specific certifications mentioned in the job description such as CPA, Masters in Taxation, etc."
+        },
+        "education": {
+            "score": 0.384,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Bachelors degree (fuzzy)'] | (LLM 0.5): The candidate has a BA degree from Colorado State University, which is relevant to the finance and accounting domain, but the GPA is missing."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 19.8 yrs (capped to 19.8), JD requires: 15.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales, asset management, and property management, which aligns with the job description's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes managing teams and leading projects, which aligns with the leadership section of the job description, but the lack of detailed leadership experience reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing portfolios, leasing, financial reporting, and project coordination, which aligns with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.375,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'approach', 'Banking', 'benefits', 'Book', 'cold — calling', 'competitive', 'credit', etc., which align well with the job description's required skills like 'Business Development', 'Sales', 'Strong analytical skills', 'Hands on working knowledge of HFM, SAP, OneSource, Wdesk', etc."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include 'customer service', 'negotiations', 'networking', and 'presentation', which aligns with the soft skills section of the job description."
+        },
+        "tools": {
+            "score": 0.26,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['SAP (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Salesforce.com CRM, which is relevant to the job description's tools and technologies section, but lacks hands-on experience with HFM, SAP, OneSource, Wdesk."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills like 'approach', 'Banking', 'benefits', 'Book', 'cold — calling', 'competitive', etc., can be transferred to the role, but the lack of specific technical skills like 'Hands on working knowledge of HFM, SAP, OneSource, Wdesk' reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.496
+}

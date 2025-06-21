@@ -1,0 +1,51 @@
+{
+    "resume_id": "18172739",
+    "jd_id": "3904568646",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.301,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the job description's requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has relevant degrees in business administration, but the job description prefers more specialized degrees such as MHA or a graduate degree in STEM."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 25.5 yrs (capped to 25.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in project management and leadership, which aligns with the job description. However, the job description requires more direct experience in business development and strategic planning."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. The job description also emphasizes the importance of clear communication, which is reflected in the candidate's resume."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and projects, which aligns with the job description's requirement for leadership skills. However, the job description also requires more specific leadership skills related to venture management."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in coordinating meetings and leading teams aligns with some responsibilities mentioned in the job description. However, the job description requires more specific responsibilities related to venture recruiting and management."
+        },
+        "skills": {
+            "score": 0.621,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Project Management (substring)', 'Project Management (substring)', 'Communication Skills (substring)'] | (LLM 0.4): The candidate has strong skills in project management, which matches the job description's requirement. However, there is no mention of specific business development skills, which could be a slight mismatch."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in leadership, collaboration, and problem-solving align with the soft skills mentioned in the job description. However, the job description also emphasizes critical thinking and decision-making, which are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are mentioned in the job description. However, the job description also mentions Salesforce, which the candidate does not have experience with."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in project management, leadership, and communication, which are mentioned in the job description. However, the job description also requires specific skills in financial modeling and strategic planning, which are not evident from the candidate's resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.573
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "73077810",
+    "jd_id": "3901938807",
+    "domain": "HR",
+    "resume_jd_similarity": 0.592,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The education section lacks details about the field of study and GPA, which could be important for the role."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 9.2 yrs (capped to 9.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles, including experience with HRIS systems and processes. However, the job description requires more specific experience with Workday and data analytics."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, but there is no direct mention of end-to-end ownership of HRIS or data analytics."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong set of skills that aligns well with the job requirements, including ADP, benefits, HRIS, HR, insurance, and more. However, there is no mention of specific tools like Workday or Tableau."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills that match the job requirements, such as attention to detail and strong work ethic. However, there is no explicit mention of flexibility or comfort interacting with employees."
+        },
+        "tools": {
+            "score": 0.08,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume mentions some tools but does not specify expertise in Workday or other technologies mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills that could be useful in the role, such as customer service and problem-solving. However, there is no mention of specific technical skills required for the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.586
+}

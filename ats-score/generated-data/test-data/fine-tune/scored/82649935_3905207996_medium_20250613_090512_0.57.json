@@ -1,0 +1,51 @@
+{
+    "resume_id": "82649935",
+    "jd_id": "3905207996",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.674,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description prefers CPA certification or progress towards CPA."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in Economics from City College of New York, which is relevant but not specifically in Accounting or Finance, as preferred by the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 14.7 yrs (capped to 14.7), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in finance and accounting roles, including senior positions, which closely matches the job responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are not required for this position."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job responsibilities listed in the job description, including financial reporting, budgeting, auditing, and financial analysis."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills such as MS Excel, Word, Outlook, Intacct, Professional Accounting System, SAGE 100 Fund Accounting, BOA CashPro, ADP, BenefitMall Payroll, Fidelity, and Choice Strategies, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as detail-oriented, proactive, strong analytical and problem-solving abilities, excellent organizational skills, and strong communication skills, which are aligned with the job requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description mentions specific tools like Intacct, SAGE 100 Fund Accounting, BOA CashPro, ADP, BenefitMall Payroll, Fidelity, and Choice Strategies, but the candidate's resume does not explicitly mention these tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include proficiency in MS Excel, Word, and Outlook, which are commonly used in finance and accounting roles."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.567
+}

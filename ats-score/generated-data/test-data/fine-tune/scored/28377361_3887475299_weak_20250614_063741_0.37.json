@@ -1,0 +1,51 @@
+{
+    "resume_id": "28377361",
+    "jd_id": "3887475299",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.491,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed, and the job description does not specify any required certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The education section lacks detail and does not provide a degree or field of study, which is a requirement for the job."
+        },
+        "experience": {
+            "score": 0.55,
+            "reason": "(Rule 0.5): Resume: 1.5 yrs (capped to 1.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in sales associate roles, which aligns with the job responsibilities. However, the lack of detail in the education section reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, contributing to a high score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, and the job description does not specify any required leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like customer service, which aligns with the job responsibilities. However, the lack of detail in the education section reduces the score."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has skills in cash register operations, closing procedures, and POS systems, which align with the job requirements. However, there is no evidence of engineering, management, or manufacturing skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication and problem-solving, align with the job requirements. The lack of detail in the education section reduces the score slightly."
+        },
+        "tools": {
+            "score": 0.026,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Amp Meters (fuzzy)'] | (LLM 0.4): No tools or technologies used are mentioned in the candidate's resume, and the job description does not specify any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like oral communication, written communication, and organization are transferable to the job, but the lack of detail in the education section reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.367
+}

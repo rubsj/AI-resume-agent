@@ -1,0 +1,51 @@
+{
+    "resume_id": "27847081",
+    "jd_id": "3904707714",
+    "domain": "HR",
+    "resume_jd_similarity": 0.659,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a certification in human resources, but it does not specify if it aligns with the required certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Business Administration, which is relevant to the job description. However, the lack of specific details about the degree might slightly reduce the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.8 yrs (capped to 17.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR, including roles that involve recruitment, employee relations, training, and administration, which closely matches the job description requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate has included relevant information without unnecessary verbosity."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervising teams, which indicates some level of leadership. However, there is no explicit mention of leadership roles or specific leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the responsibilities listed in the job description, such as managing HR processes, talent management, and employee relations. However, there is no direct mention of responsibilities related to business development."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (fuzzy)', 'Training (exact)'] | (LLM 0.4): The candidate has a strong set of skills that aligns well with the job description, including administrative support, agency, charts, closing, coaching, communication skills, and more. However, there is no mention of specific tools like SuccessFactors."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication and interpersonal skills, are relevant to the job description. However, there is no explicit mention of skills like positive internal climate or advising executives and managers."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies, such as SuccessFactors, which are required according to the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like administrative support, data analysis, and computer proficiency, which are beneficial for the job. However, there is no mention of specific skills related to HR software or tools."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.607
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "12890045",
+    "jd_id": "3904093392",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.428,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has two certifications, but no formal degree is mentioned in the resume. The certifications are relevant to the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No formal education is mentioned in the resume, which is a requirement in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 10.0 yrs (capped to 10.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction management and project coordination, which aligns with the job description. The experience is detailed and shows proficiency in various aspects of project management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate has used appropriate language and formatting."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions being a natural leader and having experience in leading teams, which aligns with the leadership requirement in the job description. However, there is no explicit mention of leadership in the context of construction management or project coordination."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not fully match the detailed responsibilities listed in the job description. There are some overlaps, but many responsibilities are not mentioned."
+        },
+        "skills": {
+            "score": 0.472,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)'] | (LLM 0.4): The candidate has relevant skills such as Microsoft Excel, PowerPoint, Word, and has certifications like OSHA 30-Hour Construction and Property & Casualty Insurance. However, there is no formal education mentioned which could impact the score."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills and experience in project management, which aligns with the soft skills required in the job description. However, there is no explicit mention of skills like Communication or Technical Reviews."
+        },
+        "tools": {
+            "score": 0.54,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Excel and web-based software, which are mentioned in the job description. However, there is no mention of any other specific tools or technologies required by the job."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills that can be transferred from their previous roles, such as project management and communication. However, these skills are not explicitly aligned with the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.547
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "23782450",
+    "jd_id": "3902831418",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.671,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required or preferred certifications in the job description."
+        },
+        "education": {
+            "score": 0.125,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['High School diploma or equivalent (fuzzy)'] | (LLM 0.5): The candidate's highest education is a High School Diploma, which does not meet the preferred degree requirement of a Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Resume: 4.8 yrs (capped to 4.8), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in Sales Management, which aligns with the job description. However, the details provided do not fully match the required experience level or responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume that align with the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has skills in Customer Service and Management, which align with the job description. However, there is no mention of Business, Marketing, Retail Management, or Another related field."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lacks soft skills that are specifically mentioned in the job description, such as Leadership, Coaching, and Exceptional Customer Service."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No tools used by the candidate match the tools and technologies listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills do not match the skills required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.285
+}

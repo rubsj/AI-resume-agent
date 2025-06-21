@@ -1,0 +1,51 @@
+{
+    "resume_id": "17274759",
+    "jd_id": "3904060387",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.519,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the JD does not specify any required certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lists technical certificates, but no bachelor's degree or higher education is mentioned. The JD prefers a bachelor's degree, so there is a mismatch in educational qualifications."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 28.3 yrs (capped to 28.3), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has over 28 years of experience in logistics and supply management, which exceeds the required 4 years of experience. The JD mentions specific responsibilities that align closely with the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and assess."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles, but the JD does not explicitly mention leadership skills or require them."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as performing inspections, documenting results, providing training, and coordinating component inducting, which aligns with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in logistics management, supply chain, inventory management, purchasing, and other relevant skills. The JD requires skills in engineering and IT, which are not directly mentioned but could be inferred given the aviation domain. The candidate's skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include attention to detail, analytical skills, problem-solving abilities, effective communication, and collaboration, which are aligned with the soft skills required by the JD."
+        },
+        "tools": {
+            "score": 0.096,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['ERP system (fuzzy)', 'Salesforce (fuzzy)'] | (LLM 0.4): The JD mentions tools like ERP systems, Microsoft Office, Adobe Creative Suite, Facebook, Salesforce, etc., but these are not listed in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in logistics forecasting, project management, supply chain management, and other areas can be transferred to the aviation industry, although specific aviation-related skills are lacking."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.518
+}

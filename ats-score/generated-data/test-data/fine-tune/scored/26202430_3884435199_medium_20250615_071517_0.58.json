@@ -1,0 +1,51 @@
+{
+    "resume_id": "26202430",
+    "jd_id": "3884435199",
+    "domain": "HR",
+    "resume_jd_similarity": 0.402,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor's degree is listed, but the field of study does not match the job's preferred degree requirement."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 8.6 yrs (capped to 8.6), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in HRIS, Business Analysis, and HR Consulting, which aligns with the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience is mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like project coordination, testing, and training, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.493,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Human Resources (substring)', 'Time management (fuzzy)'] | (LLM 0.4): The candidate possesses advanced Excel, Access, Word, Visio, Power Point, VBA, SAP HCM, Success Factors, Microsoft Project Management, Service Now, Smartsheet, Panaya, SilkRoad - Red Carpet skills, which align well with the job's required tools and technologies."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication and problem-solving, are relevant to the job's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.816,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 3, 'substring': 0, 'fuzzy': 2}. Matched: ['MS Word (fuzzy)', 'Excel (exact)', 'PowerPoint (fuzzy)', 'HRIS (exact)', 'ADP (exact)'] | (LLM 0.4): The candidate's experience with MS Word, Excel, PowerPoint, HRIS, and ADP matches the job's tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like data analysis and system documentation are transferable to the job's responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.578
+}

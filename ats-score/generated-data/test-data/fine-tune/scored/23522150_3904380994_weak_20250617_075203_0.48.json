@@ -1,0 +1,51 @@
+{
+    "resume_id": "23522150",
+    "jd_id": "3904380994",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.43,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have the required certifications listed in the job description."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education history includes only high school diplomas and general studies degrees, lacking formal qualifications in automotive or related fields."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales and customer service roles, but lacks direct experience in automotive repair or mechanics, which is required for the Master Technician position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not provide evidence of leadership skills or experience, which may be beneficial for a Master Technician role."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities section does not align with the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.872,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)', 'Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as Customer Service and Sales, which match the job description requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate soft skills such as competitiveness and teamwork, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate does not mention any specific tools or technologies used in automotive repair, which is a requirement for the Master Technician position."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like multitasking, attention to detail, and communication, which can be applied in an automotive setting."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.476
+}

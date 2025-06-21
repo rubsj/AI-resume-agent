@@ -1,0 +1,51 @@
+{
+    "resume_id": "20748929",
+    "jd_id": "3904410424",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.391,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the preferred degree of MBA in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks specific details about the GPA, which is a requirement in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.8 yrs (capped to 15.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in Business Development, Operations Management, and Systems Coordination, which aligns with the job responsibilities. However, the total years of experience do not match the required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clear communication of qualifications."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership roles or achievements in the resume, which contrasts with the job description's expectation of mid-senior level experience."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some overlap with the job responsibilities, particularly in strategic planning and project management. However, the depth of experience does not fully align with the job description's expectations."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate possesses skills such as Data analysis, Excel, Office, Outlook, Power Point, Works, Google, SQL, Strategic planning, and Troubleshooting, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include Data analysis, Strategic planning, and Troubleshooting, which are aligned with the soft skills required in the job description. However, the lack of specific examples or achievements may lower the score."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has proficiency in Microsoft Office tools like Excel, Word, PowerPoint, and Outlook, which matches the tools required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in Data analysis, Excel, and Strategic planning can be transferred to the role, but the lack of specific achievements or certifications may limit the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.467
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "28828844",
+    "jd_id": "3902771656",
+    "domain": "HR",
+    "resume_jd_similarity": 0.488,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications, which may be a requirement or preference for the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is not directly relevant to the job description, which focuses on experience and skills rather than formal education."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 16.8 yrs (capped to 16.8), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has over 16 years of experience in various HR roles, which matches the required experience level of 4+ years mentioned in the job description. The detailed job history shows a strong track record of managing HR processes and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are some inconsistencies in formatting and missing punctuation, which slightly detracts from the overall cleanliness."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide evidence of leadership skills, which might be important for certain HR roles. The job description does not require leadership experience specifically."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes many responsibilities that align with the job description, such as managing benefits, conducting new hire orientations, and serving as a primary contact for benefits. However, there is no direct mention of specific responsibilities like troubleshooting tier-1 issues or maintaining compliance schedules."
+        },
+        "skills": {
+            "score": 0.608,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (exact)', 'Human Resources (substring)'] | (LLM 0.4): The candidate has extensive experience in human resources, which aligns well with the job requirements. The resume mentions skills like 'administrative support', 'ADP', 'Benefits', 'coaching', 'customer satisfaction', 'employee relations', 'Excel', 'PowerPoint', 'Word', 'Payroll', 'People Soft', 'performance management', and 'Spanish'. These skills are relevant to the job responsibilities listed in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly stated in the resume, but given their experience in HR, they likely possess skills like 'creativity', 'positivity', and 'empathy'. The job description also mentions these skills, indicating a potential fit."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like ADP, PeopleSoft, Excel, PowerPoint, and Word, which are mentioned in the job description under 'tools and technologies'. However, there is no explicit mention of Microsoft Office, so the score is not full."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as 'administrative support', 'customer service', and 'problem solving', are relevant to the job description. However, there is no explicit mention of these skills in the context of the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.529
+}

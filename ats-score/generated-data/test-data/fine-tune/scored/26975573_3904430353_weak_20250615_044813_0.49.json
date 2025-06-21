@@ -1,0 +1,51 @@
+{
+    "resume_id": "26975573",
+    "jd_id": "3904430353",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.419,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume that directly match the requirements in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Accounting, which is relevant to the job description. However, the lack of specific details about the Bachelor's degree may reduce the score slightly."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting and financial management, which aligns with the job responsibilities. However, the lack of direct experience in data science or machine learning reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills is provided in the resume, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing financial functions and coordinating daily accounting functions show some alignment with the job responsibilities. However, the lack of specific responsibilities related to data science or machine learning reduces the score."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting and financial analysis, which aligns well with the required skills in data science, particularly in modeling and machine learning. The candidate's skills also include proficiency in tools like Python, R, TensorFlow, PyTorch, Spark, and cloud platforms, which are essential for the role."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as effective communication and self-starter attitude, align well with the job description's requirements. However, the lack of specific examples or quantifiable achievements reduces the score."
+        },
+        "tools": {
+            "score": 0.43,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['R (substring)', 'Spark (fuzzy)'] | (LLM 0.4): The candidate possesses skills in Python, R, TensorFlow, PyTorch, Spark, and cloud platforms, which are crucial tools for the job description. The skills in Excel and PowerPoint are also beneficial but less critical compared to the listed tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting system, accruals, and financial management are transferable to the data science role. However, the lack of specific skills in data science or machine learning reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.488
+}

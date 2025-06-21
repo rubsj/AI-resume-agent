@@ -1,0 +1,51 @@
+{
+    "resume_id": "10281555",
+    "jd_id": "3905306027",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.585,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not specify any required certifications."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds two associate degrees, but neither is directly related to stormwater construction, which is the inferred domain of the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.8 yrs (capped to 14.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in construction site management and supervision, which matches the job responsibilities that require managing and overseeing construction projects."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in supervising construction workers and coordinating projects indicates leadership capabilities, which align with the job responsibilities requiring leadership."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as scheduling crews and maintaining open communication, which aligns with the job responsibilities that require managing and coordinating construction projects."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant experience in construction site management and supervision, which aligns well with the job responsibilities requiring oversight and coordination of construction projects."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions good communication and decision-making skills, which are aligned with the soft skills required for the job responsibilities."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the resume, and the job description does not specify any required tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include problem-solving and teamworking, which can be transferred to the role requiring oversight and coordination of construction projects."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.648
+}

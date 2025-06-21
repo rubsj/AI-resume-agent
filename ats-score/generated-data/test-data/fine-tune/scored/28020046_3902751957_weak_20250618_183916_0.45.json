@@ -1,0 +1,51 @@
+{
+    "resume_id": "28020046",
+    "jd_id": "3902751957",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.354,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed match the job's requirements."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education does not specify any field that matches the job's requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in Quality Assurance and Process Improvement, which aligns with the job's requirement for experience in preparing and executing debriefing military exercises."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership experience or skills."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the job's responsibilities related to Air Force and Intelligence operations."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has skills in Software: Dynamics CRM, Desktop Publishing: Photoshop, Illustrator, Microsoft: MS Access, MS Excel, MS Outlook, MS Power Point, Microsoft Publisher, MS Word, and Business Management: ERP - NetSuite, which align well with the job's required skills in Marketing, Public Relations, and Writing/Editing."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not specified in the resume."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['Excel (exact)', 'PowerPoint (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Microsoft Word, Excel, PowerPoint, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills such as Client Relations, Team Management, and Problem Solving align with the job's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.45
+}

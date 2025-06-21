@@ -1,0 +1,51 @@
+{
+    "resume_id": "24402267",
+    "jd_id": "3901938807",
+    "domain": "HR",
+    "resume_jd_similarity": 0.667,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The MBA in Human Resource provides foundational knowledge but lacks specific details that could better align with the job requirements."
+        },
+        "experience": {
+            "score": 0.67,
+            "reason": "(Rule 0.5): Resume: 3.2 yrs (capped to 3.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate's experience includes roles that align with the job responsibilities, particularly in HR coordination and management, but lacks depth in HR technology and Workday-specific experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities, particularly in HR coordination and management, but lacks experience with end-to-end HRIS system ownership and data analytics."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in HRIS, ISO, Recruitment, Performance Appraisal, Training & Development, Leave & Attendance, and Entry & Exit, which aligns with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as attention to detail and strong work ethic, align with the job requirements, but lacks experience in comfort interaction with employees and discretion handling sensitive information."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office products and basic Excel skills, which are mentioned in the job description, but lacks advanced Excel skills and experience with HRIS systems like Workday."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills in HR coordination and management are relevant, but lack specific skills in HR technology and Workday system management."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.572
+}

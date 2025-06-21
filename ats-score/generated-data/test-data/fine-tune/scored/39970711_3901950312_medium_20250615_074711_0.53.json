@@ -1,0 +1,51 @@
+{
+    "resume_id": "39970711",
+    "jd_id": "3901950312",
+    "domain": "HR",
+    "resume_jd_similarity": 0.476,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a PHR certification, which is directly relevant to the job requirements."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Human Resource Management, but the Bachelor's degree is not specified, which may not fully meet the job description's educational requirement."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 15.2 yrs (capped to 15.2), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR management, but the job description requires at least 4 years of experience, which is less than the candidate's total experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading change management and cultural transformation efforts indicates strong leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes managing HR and safety, but the job description focuses on supervisory and continuous improvement responsibilities."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has a Master's degree in Human Resource Management and extensive experience in various HR roles, which aligns well with the required skills of the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions strong soft skills such as leadership and communication, which align with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Project management tools (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office and SharePoint, which are mentioned in the job description, but lacks experience with other tools like Lean and Six Sigma."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in HR strategic planning, training, and performance management are transferable to the job description's focus on supervision and continuous improvement."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.528
+}

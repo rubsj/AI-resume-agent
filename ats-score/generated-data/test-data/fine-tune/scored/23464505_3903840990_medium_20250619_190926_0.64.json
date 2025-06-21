@@ -1,0 +1,51 @@
+{
+    "resume_id": "23464505",
+    "jd_id": "3903840990",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.357,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds advanced degrees in Computer Science from reputable institutions, which matches the educational background expected for the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.1 yrs (capped to 12.1), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in software development and testing, but the job description requires specific experience in marine insulation and mechanics, which is not covered in the resume."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of detailed information on certain sections reduces the overall score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the candidate's resume that would indicate proficiency in managing marine operations or leading teams in the marine industry."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that match the job description's requirements for marine operations."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in programming languages like Java, JavaScript, and C++, which align with the job requirements. However, there is no mention of specific tools or technologies that are directly mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong analytical skills and teamwork, which are somewhat aligned with the job description's emphasis on teamwork and problem-solving. However, the resume lacks details on soft skills related to marine industry operations."
+        },
+        "tools": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate lists some tools they are familiar with, but the job description focuses on marine-specific tools and technologies that are not mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills in software development, which can be applied across different industries, including marine operations. However, the resume does not highlight specific skills that are directly relevant to marine engineering or maintenance."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.642
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "19446337",
+    "jd_id": "3903469999",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.669,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate is a Certified Management Accountant Candidate, which aligns with the preferred certifications in the job description. However, there is no mention of a CPA certification, which is listed as optional but preferred."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Accounting and a Bachelor's degree in Business Administration, both from Ball State University, which matches the required education level of a Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 13.9 yrs (capped to 13.9), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in senior accounting roles, including managing accounting operations, preparing financial statements, and overseeing the accounting department, which aligns with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience does not explicitly highlight leadership roles or responsibilities, which could be beneficial for the position."
+        },
+        "responsibilities": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as managing accounting operations, preparing financial statements, and overseeing the accounting department, which aligns with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in accounting software and processes, which matches the required skills of the job description. The resume also lists proficiency in Microsoft Office, particularly Excel, which is a required tool."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions a positive, can-do attitude, attention to detail, and strong communication skills, which align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with NetSuite, Epicor, Sage, Quickbooks, and other tools mentioned in the job description, but not with Oracle, which is one of the tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include proficiency in various accounting software and tools, which are relevant to the job description. However, there is no explicit mention of leadership skills or specific technical accounting issues."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.632
+}

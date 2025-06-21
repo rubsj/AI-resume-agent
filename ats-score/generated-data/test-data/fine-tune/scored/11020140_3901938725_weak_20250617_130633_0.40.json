@@ -1,0 +1,51 @@
+{
+    "resume_id": "11020140",
+    "jd_id": "3901938725",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.365,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required 'Professional registration (PE or PG)', 'CHG' for the position."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds relevant degrees in Computer Science, but the JD does not specify the required level of education beyond a Bachelor's degree in geology or engineering."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 30.9 yrs (capped to 30.9), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has over 30 years of experience, significantly exceeding the required minimum of 8 years. Experience in various roles supports the job responsibilities but lacks specifics on strategic planning, business development, and client management."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): While the candidate mentions project leadership roles, the job description specifically requires leadership skills without providing details on how they are applied in the context of environmental consulting."
+        },
+        "responsibilities": {
+            "score": 0.025,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Career development (fuzzy)'] | (LLM 0.5): The candidate's responsibilities do not align with the job's requirements for collaboration, strategic planning, business development, project management, cost and schedule management, meeting client expectations, career development, and technical report preparation."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in various technologies and environments, aligning closely with the job's requirement for 'Consulting', 'Engineering', and 'Science'. However, there is no explicit mention of 'geology' or specific engineering disciplines."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, which contrasts with the job's requirement for leadership, business performance goals, risk management, writing, and communication."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are explicitly mentioned, which contrasts with the job's requirement for proficiency in 'Software Development Life Cycle (SDLC)' and 'Computer Systems Validation Requirements and Documentation'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like analytical skills, problem-solving, and communication align with the job's requirements, but the lack of specific skills like 'geology', 'project management', and 'client relationship management' reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.4
+}

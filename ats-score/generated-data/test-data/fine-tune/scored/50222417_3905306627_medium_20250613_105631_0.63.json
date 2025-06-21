@@ -1,0 +1,51 @@
+{
+    "resume_id": "50222417",
+    "jd_id": "3905306627",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.652,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds relevant certifications such as Certified Public Accountant, which matches the job's certification requirement."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Finance Management and IT, which is relevant but not as directly aligned as the required Bachelor's degree in Accounting."
+        },
+        "experience": {
+            "score": 0.93,
+            "reason": "(Rule 0.5): Resume: 4.8 yrs (capped to 4.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 4 years of experience in various accounting roles, demonstrating proficiency in financial management, budget analysis, and financial reporting."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership skills are not explicitly mentioned in the resume, which could be a concern given the importance of leadership in managing teams and projects."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, particularly in financial analysis, budget management, and financial reporting."
+        },
+        "skills": {
+            "score": 0.696,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Analyst (fuzzy)', 'Finance (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting, financial analysis, and financial reporting, aligning well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in communication and attention to detail are evident from their resume, which is important for financial roles."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Dynamics and Excel, which are mentioned as tools in the job description, but lacks specific mention of ERP manufacturing systems and Business Intelligence reporting software."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as problem-solving and critical thinking, which are essential for financial analysis and decision-making."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.634
+}

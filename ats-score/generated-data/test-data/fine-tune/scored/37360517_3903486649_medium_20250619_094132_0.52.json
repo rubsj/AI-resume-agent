@@ -1,0 +1,51 @@
+{
+    "resume_id": "37360517",
+    "jd_id": "3903486649",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.397,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are listed in the resume, and the job description does not specify any required certifications."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The resume lacks details about the candidate's educational background, which is not a requirement for the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 12.2 yrs (capped to 12.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in retail and operations, specifically in roles that involve inventory management, customer service, and supervision, which matches the job responsibilities. The experience is detailed and provides examples of achievements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail or clarity, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervisory roles, but the resume does not provide clear evidence of leadership skills or experience in driving strategic initiatives, which are key aspects of the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to inventory management and customer service, which align with the job responsibilities. However, the resume does not provide specifics on leading cross-functional initiatives or developing tools and automation."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills in clerical, administrative, and sales, which align with the job requirements. However, there is no mention of specific IT skills required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like self-starting and organization, which are beneficial for the role. However, the resume does not explicitly mention data extraction and analytical capabilities, which are preferred skills in the job description."
+        },
+        "tools": {
+            "score": 0.14,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)'] | (LLM 0.4): The resume does not mention proficiency in any tools or technologies specified in the job description, such as Excel, SQL, or process improvement techniques."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include administrative, clerical, and sales abilities, which could be applicable in the role. However, the resume lacks detail on specific IT skills or advanced leadership experience."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.521
+}

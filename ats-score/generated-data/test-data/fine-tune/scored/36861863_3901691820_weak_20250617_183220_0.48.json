@@ -1,0 +1,51 @@
+{
+    "resume_id": "36861863",
+    "jd_id": "3901691820",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.322,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, which may be preferred or required for the position."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds a Bachelor of Arts degree in Business Management, but the field of study does not directly match the healthcare domain required for the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.4 yrs (capped to 15.4), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that involve customer service, management, and sales, which aligns with the job responsibilities. However, the total experience years do not meet the minimum requirement of 4+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience through supervisory roles, but there is no explicit mention of leadership skills or achievements that would stand out in the context of the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities related to customer service and management, but lacks details on sales-specific responsibilities such as managing sales territories and growing platforms."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'High customer service standards', 'Call center management experience', and 'Customer Relationship Management software (CRM)', which align well with the job requirements for sales and account management."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'Strong Time Management', 'Planning Skills', and 'Collaboration', which are beneficial for the role. However, they lack specific skills like 'KOL Engagement' and 'Hospital-Based Pharmaceutical or Medical Device Experience'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention any specific tools or technologies used in their experience, which are required for the job such as 'Operating Room', 'Suturing', 'Surgical Stapling', etc."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles, such as problem-solving and conflict resolution, which could be applicable in the new role. However, these skills are not as directly aligned with the job responsibilities as those mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.482
+}

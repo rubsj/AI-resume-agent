@@ -1,0 +1,51 @@
+{
+    "resume_id": "26780935",
+    "jd_id": "3902915702",
+    "domain": "HR",
+    "resume_jd_similarity": 0.697,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not mention any certifications, while the job description requires either 'CAphr or PHR certification' or bi-lingual proficiency in Spanish."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in Business Translation/French, which is relevant to the job description's requirement for a degree in a related field."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.0 yrs (capped to 21.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in human resources roles, including positions as HR Coordinator, Server, and Instructor, which closely match the job responsibilities listed in the description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leading implementation projects and training sessions, indicating some level of leadership, but the job description does not explicitly require leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as developing and updating personnel policies, maintaining employee records, and administering performance appraisals, which align with the job responsibilities. However, there is no direct mention of reporting to representatives of the management team."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate possesses skills such as 'Client-focused', 'Effective communication skills', 'Event management', 'Leadership', and 'Ultimate Software Payroll and HRIS expertise', which align well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like 'Organized', 'Effective communicator', and 'Sensitive to customer needs', which are aligned with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.425,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate is proficient in Microsoft Office, which is one of the tools mentioned in the job description. However, they do not mention proficiency in Adobe Creative Suite, Facebook, Salesforce, or other tools listed."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Self-starter', 'Troubleshooting', and 'Problem solving' are transferable but may not directly correlate with specific job responsibilities mentioned in the description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.532
+}

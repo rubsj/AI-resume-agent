@@ -1,0 +1,51 @@
+{
+    "resume_id": "25867805",
+    "jd_id": "3903814954",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.446,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, while the job description prefers CPA certification."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds Master's and Bachelor's degrees in Accounting and Information Management, which matches the education level preferred in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as a Senior Accountant, Project Accountant, and Staff Accountant, which closely matches the job description's required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume, which contrasts with the job description's preference for mid-senior level experience."
+        },
+        "responsibilities": {
+            "score": 0.452,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Prepares journal entries (fuzzy)', 'Account reconciliations (substring)'] | (LLM 0.5): The candidate's responsibilities in previous roles match several responsibilities listed in the job description, such as account reconciliations, financial statement preparation, and ad hoc requests."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting software, account reconciliations, and financial statements, which aligns well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses some soft skills like being self-directed and insightful, but lacks explicit mention of high motivation, results-driven attitude, or detailed results in their resume."
+        },
+        "tools": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Financial systems (fuzzy)'] | (LLM 0.4): The candidate has experience with MS Office tools, which aligns with the job description's tools requirement, but does not mention specific financial systems or ERP (SAP) experience."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting software, financial reporting, and project management are transferable to the job description's requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.516
+}

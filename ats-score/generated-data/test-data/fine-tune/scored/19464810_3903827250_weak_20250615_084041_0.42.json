@@ -1,0 +1,51 @@
+{
+    "resume_id": "19464810",
+    "jd_id": "3903827250",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.499,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a '2013-2014 Louisiana Highly Qualified Teacher' certification, but it does not match the required certification in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest degree is a Bachelor of Science in Elementary Education, which does not meet the preferred degree requirement of a Bachelor's Degree in the job description."
+        },
+        "experience": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has relevant experience in teaching and administrative roles, but lacks experience in special education specifically mentioned in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the responsibilities listed in the job description, but there is no mention of preparing student education plans or serving as a coordinator of IEP implementation."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Training (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Education', 'Training', 'Microsoft Office', 'Critical thinking', and 'Customer service'. However, there is no mention of 'Valid state teaching certificate' or 'State Teacher Certification' which are preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong communication skills and computer proficiency, which are soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.385,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is listed as a tool in the job description. However, there is no mention of Adobe Creative Suite, Facebook, Salesforce, or other tools listed in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as critical thinking, multitasking, and customer service, but lacks specific skills like 'Valid state teaching certificate' or 'State Teacher Certification'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.42
+}

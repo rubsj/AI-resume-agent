@@ -1,0 +1,51 @@
+{
+    "resume_id": "37370455",
+    "jd_id": "3904363876",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.66,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not mention having a CPA certification, which is preferred in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Finance from Oklahoma State University and a Diploma in Banking from Mara Institute of Technology (UITM), which aligns with the education requirements. However, the GPA is lower than the preferred 3.0."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.7 yrs (capped to 15.7), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including managing subsidiaries, preparing financial reports, and overseeing accounting processes, which matches the job responsibilities. The experience is slightly less than the required 5+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.95,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervising and mentoring teams, which aligns with the leadership requirement. However, there is no explicit mention of leadership qualities or demonstrated leadership in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities, but there is no mention of leading the annual budgeting process or implementing necessary adjustments to accounting processes, which are mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.521,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched skills: ['Finance (exact)', 'Financial reporting (substring)', 'Leadership qualities (substring)'] | (LLM 0.4): The candidate has extensive experience in accounting, financial reporting, and management, aligning well with the required skills. However, there is no mention of GAAP or CPA certification, which are preferred."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's self-assessment includes strong analytical skills, attention to detail, and leadership qualities, which align with the soft skills required. However, there is no explicit mention of integrity and ethical standards, which is mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.47,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['SAP (exact)'] | (LLM 0.4): The candidate has experience with accounting software and systems like AS 400, SAP, and QuickBooks, which aligns with the tools required. However, there is no explicit mention of QuickBooks or Oracle, which are listed as required tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas such as budget preparation, financial and management reporting, and financial analysis are transferable to the role. However, there is no mention of specific technical skills like GAAP or advanced Excel proficiency, which are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.56
+}

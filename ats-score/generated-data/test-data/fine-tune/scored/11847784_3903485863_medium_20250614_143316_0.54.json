@@ -1,0 +1,51 @@
+{
+    "resume_id": "11847784",
+    "jd_id": "3903485863",
+    "domain": "HR",
+    "resume_jd_similarity": 0.451,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume lacks information about the field of study or GPA, which are typically required for a mid-senior level position."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in HR roles that involve recruitment, compensation, and policy development, which matches the job's responsibilities. However, there is no mention of experience in politically sensitive issues or external affairs management."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not highlight any leadership experience or achievements that would indicate the candidate's ability to lead teams or manage stakeholders effectively."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on responsibilities that match the job's responsibilities related to scenario planning, stakeholder coordination, and crisis management."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in HR classification, compensation, and recruitment, which aligns well with the job's need for strategic preparedness and external affairs management."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks evidence of soft skills such as skilled writing, political acumen, and diplomacy, which are essential for the job."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The resume does not mention any tools or technologies used, while the job description requires skills in politically sensitive issue management and external affairs."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like problem-solving, negotiation, and customer service, which could be beneficial in the role. However, these skills are not directly aligned with the job's responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.543
+}

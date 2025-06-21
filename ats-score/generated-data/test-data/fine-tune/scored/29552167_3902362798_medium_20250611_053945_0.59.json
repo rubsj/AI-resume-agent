@@ -1,0 +1,51 @@
+{
+    "resume_id": "29552167",
+    "jd_id": "3902362798",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.652,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement of a high school degree or equivalent."
+        },
+        "education": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts degree in Corporate Fitness and an Associate's degree in Business Administration, which may not directly align with the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in banking center management, personal banking, and sales and service specialist roles, which aligns with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as Banking Center Manager, which aligns with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles match the job responsibilities listed, such as handling calls, identifying customer needs, resolving complaints, and providing solutions."
+        },
+        "skills": {
+            "score": 0.776,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as banking, coaching, credit, clients, delivery, financial, general manager, leadership, managing, market, selling, and sales, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like leadership, managing, and coaching, which are aligned with the job requirements."
+        },
+        "tools": {
+            "score": 0.12,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Business products and services (fuzzy)'] | (LLM 0.4): No mention of specific tools or technologies used in the resume, which contrasts with the requirement of office suite programs and business products and services."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include banking, coaching, credit, clients, delivery, financial, general manager, leadership, managing, market, selling, and sales, which are relevant to the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.588
+}

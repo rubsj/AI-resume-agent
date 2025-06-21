@@ -1,0 +1,51 @@
+{
+    "resume_id": "18316239",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.538,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a PHR certification, which is relevant but not as specific as required by the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is listed as an Associate of Applied Science in Business Administration, which does not match the preferred degree of a Bachelor's in IT, Computer Science, or related discipline."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 7.2 yrs (capped to 7.2), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has experience in HR roles, which aligns with the job description. However, the details provided do not fully match the required experience level or specific responsibilities mentioned."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes managing teams and leading home healthcare companies, which indicates some level of leadership. However, there is no explicit mention of leadership responsibilities as described in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job description, such as leading home healthcare companies and managing teams. However, there is no direct mention of project management responsibilities."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'Project Management (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Human Resources', 'Information Technology', and 'Project Management'. However, there is no mention of specific certifications like PMP or experience with Deltek, Procore, or HRIS systems."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include leadership, problem-solving, communication, critical thinking, resource planning, task scheduling, creativity, analytical skills, organization, and time management, which are relevant soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.175,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['HRIS (exact)'] | (LLM 0.4): The candidate lists some tools they are familiar with, but does not specify any of the tools mentioned in the job description such as Deltek, Procore, or HRIS systems."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills are generally transferable, but there is no specific mention of PMP certification or experience with Deltek, Procore, or HRIS systems."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.479
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "13520837",
+    "jd_id": "3901632078",
+    "domain": "HR",
+    "resume_jd_similarity": 0.668,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications mentioned match the preferred ones like SPHR or PHR."
+        },
+        "education": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): Bachelor's degree in Apparel and Merchandising does not directly match the preferred degree in Human Resources or Business Administration."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 15.7 yrs (capped to 15.7), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in HR roles, including managing teams, conducting recruitment, and implementing HR systems, which aligns well with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams and managing processes, which is part of the leadership requirement, but there is no explicit mention of leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, particularly in managing HR processes and systems."
+        },
+        "skills": {
+            "score": 0.648,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (exact)', 'Human Resources (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'administrative', 'Human Resources', and 'other' which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'interpersonal', 'communication', and 'problem-solving' are relevant to the job's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.5,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['HRIS (exact)'] | (LLM 0.4): The candidate has experience with tools like HRIS and Microsoft Office Suite, but the depth of experience is not specified."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'administrative support', 'customer service', and 'decision making' are transferable but may not be as directly applicable as those listed in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.54
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "24533931",
+    "jd_id": "3885829546",
+    "domain": "APPAREL",
+    "resume_jd_similarity": 0.656,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications mentioned in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has two degrees in Business Administration but no specific GPA is mentioned, which makes it difficult to assess the level of education required for the job."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in retail, including roles that involve customer assistance, sales, and stock management, which aligns with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The job responsibilities listed in the job description are not matched by the candidate's experience."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Sales (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Adaptability, Strong work ethic, Time management, Self-confidence, Handling pressure, Creativity, Communication, Team work, Motivation, Cash register, Typing, Basic computer skills, Customer Assistance, Cashier, Customer Assistance, Sales, Stock. These skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions self-confidence, handling pressure, and strong communication skills, which align with the soft skills required for the job."
+        },
+        "tools": {
+            "score": 0.056,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched: ['computer (exact)', 'copier (fuzzy)'] | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Adaptability, Time management, and Team work are transferable from previous roles to the job requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.496
+}

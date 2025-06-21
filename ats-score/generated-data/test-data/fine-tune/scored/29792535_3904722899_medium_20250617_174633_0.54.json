@@ -1,0 +1,51 @@
+{
+    "resume_id": "29792535",
+    "jd_id": "3904722899",
+    "domain": "FITNESS",
+    "resume_jd_similarity": 0.296,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has certifications in ACSM, AFAA, USA Weightlifting, but lacks the Florida Pesticide license required by the job description."
+        },
+        "education": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds Master's degrees in Recreation Administration and Exercise Science, which match the preferred degree requirement."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 15.9 yrs (capped to 15.9), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in fitness coordination and management, but lacks experience in turf management and sports district operations."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience in managing staff and facilities, but lacks evidence of leadership in sports district operations."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing staff and facilities align with some job responsibilities, but lacks specific details on budget preparation and IPM practices."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has skills in Microsoft Office, Adobe CS3, and CMS, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are not explicitly mentioned, making it difficult to assess their relevance to the job."
+        },
+        "tools": {
+            "score": 0.426,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Conference (exact)', 'Microsoft Office (substring)'] | (LLM 0.4): The candidate is proficient in tools like Microsoft Office and Adobe Creative Suite, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from fitness management to grounds management, but lacks specific skills related to turf management."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.544
+}

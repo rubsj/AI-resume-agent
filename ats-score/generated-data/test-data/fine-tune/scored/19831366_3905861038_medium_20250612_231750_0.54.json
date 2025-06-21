@@ -1,0 +1,51 @@
+{
+    "resume_id": "19831366",
+    "jd_id": "3905861038",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.751,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.575,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The resume lists high school diplomas from different institutions without specific fields of study, which might not align closely with the job's educational requirements."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as an Executive Chef, which matches the job's requirement for mid-senior level experience in the food service industry."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Leadership skills are mentioned in the resume under 'Core Qualifications', but there is no explicit evidence of leadership experience."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities, particularly those related to kitchen management and supervision."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Executive Chef', 'Menu Developing', 'Chef de Cuisine', 'Schedule', 'Food & Labor', 'Executive Sous Chef', 'Inventory & Ordering', 'Sous Chef'. These align well with the job responsibilities requiring 'Management' and 'Administrative' skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills like 'communication', 'teamwork', and 'problem-solving' are implied but not explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.4): No tools or technologies are listed in the resume, which could be a concern given the job's lack of specific tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'cooking', 'inventory management', and'scheduling' are transferable and match the job's requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.542
+}

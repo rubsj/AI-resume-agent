@@ -1,0 +1,51 @@
+{
+    "resume_id": "11262933",
+    "jd_id": "3904361668",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.66,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has certifications like 'Certification as Nursing Assistant' and 'MLS Real Estate School', but these are not directly related to the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Associate degree (fuzzy)'] | (LLM 0.5): The candidate has only listed two degrees, neither of which match the preferred degree requirement of an Associate degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 7.1 yrs (capped to 7.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in roles that involve accounting and customer service, which aligns with the job responsibilities. However, the experience is not recent or directly related to billing coordination."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which could be beneficial for the job."
+        },
+        "responsibilities": {
+            "score": 0.231,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Maintain records (fuzzy)'] | (LLM 0.5): The candidate's experience includes responsibilities like 'customer service', 'account management', and 'data entry', but does not specifically mention experience in preparing customer invoices or supporting billing supervisors, which are key responsibilities of the job."
+        },
+        "skills": {
+            "score": 0.47,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)', 'Excel (exact)', 'Outlook (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'account management', 'cash management', 'Excel', and 'customer service' which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as 'communication', 'attention to detail', and 'organization', which are important for the role. However, there is no explicit mention of 'analytical skills' or 'independent thinking', which are also mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.384,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 1}. Matched: ['ERP system (fuzzy)', 'Excel (exact)', 'Outlook (exact)'] | (LLM 0.4): The candidate has experience with tools like 'Excel', 'Outlook', and 'Lotus notes', which are mentioned in the job description, but lacks experience with specific accounting software like 'ERP system' or 'Timberline/Sage accounting software'."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'account management', 'customer service', and 'data entry', which can be applied to the job, but lacks specific skills like 'construction accounting' or 'forensic accounting' that might be beneficial."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.544
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "63083944",
+    "jd_id": "3905393552",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.744,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has an OSHA 510 certification, which is relevant to the construction industry. However, there is no mention of any certifications in the job description, so the score is not high."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science in Information Technology and an Associates in Telecommunications, which might not directly align with the job description's preferred degrees in Construction Management or Engineering. The lack of specific degree requirements in the job description reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has over 19 years of experience in various managerial roles, which significantly exceeds the minimum requirement of 7 years mentioned in the job description. This extensive experience is highly relevant to the position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. This contributes positively to the ATS score."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing teams and projects indicates leadership capabilities, which are essential for the role. However, the job description does not explicitly mention leadership skills, hence the score."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles closely match the job responsibilities listed in the description, such as managing projects, ensuring safety, and handling client relations. This alignment suggests a strong fit for the position."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in project management, which aligns well with the job description's required experience. The resume also mentions skills like attention to detail and communication, which are crucial for project management roles."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, including excellent communication, organization, and attention to detail, are highly valued in project management roles and are aligned with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.328,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Project management software (fuzzy)'] | (LLM 0.4): The candidate's experience includes using various tools such as Microsoft Office suite, document control software, scheduling software, cost control software, and project management software. These tools are mentioned in the job description, indicating a good match."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as attention to detail and communication, are mentioned in the job description. However, the lack of specific details about these skills in the resume reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.576
+}

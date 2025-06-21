@@ -1,0 +1,51 @@
+{
+    "resume_id": "20417897",
+    "jd_id": "3901953529",
+    "domain": "HR",
+    "resume_jd_similarity": 0.452,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not have any certifications listed, which are not required but preferred in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education is not directly aligned with the job requirements. A Bachelor's Degree is preferred, but the candidate lists two unspecified degrees without specifying the field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 29.8 yrs (capped to 29.8), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in administrative roles, including HR-related tasks. However, the job description requires at least 1+ years of experience, and the candidate has over 29 years of experience, which might be too much for the role."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate leadership skills or experience that are specifically mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities listed in the job description, such as acquiring a thorough understanding of job requisition/description, developing a candidate pipeline, and processing resumes. However, the candidate's experience is more detailed than what is typically expected for this level of position."
+        },
+        "skills": {
+            "score": 0.608,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (exact)', 'Human Resources (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Administrative', 'Human Resources', and 'Sales'. However, there is no mention of 'Technical writing proficiency' or 'Extensive knowledge of modern technology', which are optional skills preferred in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'customer service', 'networking', and 'communication', which are mentioned in the job description. However, there is no explicit mention of 'flexibility', another soft skill listed in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any specific tools or technologies used, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'administrative support', 'benefits', and 'billing'. However, these skills are not directly aligned with the job responsibilities or required skills listed in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.466
+}

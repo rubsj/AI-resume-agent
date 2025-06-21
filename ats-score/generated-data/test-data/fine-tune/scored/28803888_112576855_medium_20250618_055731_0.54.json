@@ -1,0 +1,51 @@
+{
+    "resume_id": "28803888",
+    "jd_id": "112576855",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.28,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate mentions CFC certification, which is relevant to HVAC systems, but does not explicitly state any trade certifications that might be required for the job."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The education section lacks specific details such as institution name, degree type, and GPA, making it difficult to assess the candidate's educational background against the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 16.1 yrs (capped to 16.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has detailed work experience in construction and piping engineering, which closely matches the job responsibilities. The experience includes tasks like installation, fabrication, and commissioning, which are essential for the role."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes supervisory roles, indicating some level of leadership. However, there is no clear evidence of leadership skills that specifically match the job responsibilities, such as training and supervising staff."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows a strong focus on construction and piping engineering tasks, which align with some responsibilities mentioned in the job description. However, there is no direct mention of managing maintenance projects or serving as an expert on building operation systems."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in mechanical engineering and construction, particularly in oil and gas industries, which aligns well with the job requirements. However, there is no explicit mention of management or manufacturing skills, which are listed as required."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include computer competency and leadership, which are somewhat aligned with the soft skills required. However, there is no explicit mention of excellent communication, good organizational skills, or emergency response abilities."
+        },
+        "tools": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 2}. Matched: ['Steam (fuzzy)', 'Gas (exact)', 'Electrical (exact)', 'Supervision (fuzzy)'] | (LLM 0.4): The candidate possesses skills in AutoCAD, Microsoft Office tools, and technical writing, which are beneficial. However, the job description requires specific tools and technologies like HVAC, plumbing, and computer proficiency, which are not fully covered."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in engineering activities, quality control, and supervision are transferable to the job, but they lack specifics on how these skills apply directly to the responsibilities and requirements outlined in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.544
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "29087505",
+    "jd_id": "3904718934",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.697,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not mention any certifications, while the job description mentions 'Professional Engineer license' as an optional skill."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only an AA degree, which is less than the preferred Bachelor of Science degree in Civil Engineering mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 13.7 yrs (capped to 13.7), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has experience in construction, which aligns with the job description's domain. However, the job description prefers candidates with at least 4 years of experience, and the candidate has over 13 years of experience, which is more than the requirement."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to understand and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership roles in their resume, such as serving as a leader and instructor of new sub-contractors. This aligns with the job description's leadership requirement. However, the job description mentions specific leadership responsibilities like managing construction implementation, periodically observing construction work, and managing project controls, which are not explicitly mentioned in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing projects, leading teams, and handling various aspects of construction align with the job description's responsibilities. However, the job description mentions specific responsibilities like managing construction implementation, periodically observing construction work, and managing project controls, which are not explicitly mentioned in the candidate's resume."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills like framing, machinery, office, Windows, Microsoft, Mac, Apple, works, networking, painting, problem-solving skills, reading, scheduling, typing, computer, formatting, leadership, teaching, learning, time management, and client negotiations, which align well with the job description's required and preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills like leadership, problem-solving, time management, teamwork, adaptability, customer service, and project management align with the job description's soft skills. However, the job description mentions additional soft skills like communication, detail-oriented, and relationship-building, which are not explicitly mentioned in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft products, which matches the tools and technologies mentioned in the job description. The candidate also has experience with Procore and Microsoft Project, which are mentioned as optional skills."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills like communication, detail-oriented, leadership, problem-solving, time management, teamwork, adaptability, customer service, project management, and decision-making align with the job description's soft skills. However, the job description mentions specific skills like communication, detail-oriented, leadership, problem-solving, time management, teamwork, adaptability, customer service, project management, and decision-making, which are not explicitly mentioned in the candidate's resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.521
+}

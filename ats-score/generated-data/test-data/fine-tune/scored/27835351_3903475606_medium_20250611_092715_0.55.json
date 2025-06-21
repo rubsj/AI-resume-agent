@@ -1,0 +1,51 @@
+{
+    "resume_id": "27835351",
+    "jd_id": "3903475606",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.685,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, which contrasts with the requirement for an outstanding safety record in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate only holds a High School Diploma, which does not meet the minimum educational requirement of a High School Diploma listed in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 10.4 yrs (capped to 10.4), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in maintenance and construction, which aligns with the job responsibilities. However, the total experience years exceed the required 1-year experience, but the specific experience in industrial maintenance is lacking."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, which could be beneficial for managing tasks and leading a team in a manufacturing setting."
+        },
+        "responsibilities": {
+            "score": 0.391,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Maintain facility (fuzzy)'] | (LLM 0.5): The candidate's experience includes some responsibilities that match those listed in the job description, such as maintaining facilities and performing repairs. However, there is no direct mention of monitoring and troubleshooting presses daily, which is a key responsibility."
+        },
+        "skills": {
+            "score": 0.59,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['High School Diploma (substring)', 'mechanical aptitude (substring)'] | (LLM 0.4): The candidate has extensive experience in maintenance and construction, which aligns well with the required skills in industrial maintenance, mechanical aptitude, and understanding of manufacturing processes. The skills section also mentions proficiency in power and hand tools, which is beneficial for the role."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention soft skills, which are important for effective communication and teamwork in a manufacturing environment."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['test stand (fuzzy)'] | (LLM 0.4): The candidate's experience with power and hand tools aligns with the tools and technologies required in the job description. However, there is no explicit mention of proficiency in Microsoft Office, PLC, or test stand, which are mentioned as required skills."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in mechanical repair, troubleshooting, and mechanical aptitude are transferable to the role. However, there is no mention of computer skills or the ability to read and understand hydraulic & electrical schematics, which are required skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.552
+}

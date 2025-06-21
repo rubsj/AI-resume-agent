@@ -1,0 +1,51 @@
+{
+    "resume_id": "26718039",
+    "jd_id": "3905294096",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.696,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): No education information found in resume. | (LLM 0.5): No education details are provided in the resume."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in culinary roles, including management positions, which matches the job description's requirement for mid-senior level experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing kitchen staff suggests leadership skills, but there is no explicit mention of leadership roles or achievements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing kitchen operations, ensuring food quality, and developing new menu items align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.656,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'delivery', 'Detail oriented', 'inventory', 'Inventory Management', 'logistics', 'producing', 'purchasing', 'quality','retail','scheduling', 'Spanish', and 'work-flow'. These align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Detail oriented', 'Attention to detail', and 'Service knowledge' match the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No tools or technologies are listed in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'delivery', 'inventory', 'logistics', and'scheduling' are transferable but may not be directly related to food service."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.568
+}

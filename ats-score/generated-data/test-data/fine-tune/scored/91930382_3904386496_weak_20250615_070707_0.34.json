@@ -1,0 +1,51 @@
+{
+    "resume_id": "91930382",
+    "jd_id": "3904386496",
+    "domain": "HR",
+    "resume_jd_similarity": 0.572,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume that match the required PHR or SPHR certification."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master of Business Administration (MBA) and a Bachelor of Science (B.Sc) degree, but the details are not clear. The Human Resources Business Partner, Employee Relations, Workforce planning and Analytics, Training and Development degree is relevant but lacks clarity."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.5 yrs (capped to 14.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in HR roles, including recruitment, employee relations, and management, which aligns with the job description. However, the lack of detail in some experiences reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.018,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Diversity (fuzzy)'] | (LLM 0.5): The resume does not explicitly state responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.618,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Human Resources (substring)', 'Management (exact)', 'Training (exact)', 'Diversity (fuzzy)'] | (LLM 0.4): The candidate has skills in Bullhorn, Boolean Searches, Google Resume Search, LinkedIn X-ray search, The Ladder, GitHub, Tech Fetch, Monster, Career Builder, LinkedIn, and Indeed, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not mention soft skills that align with the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools used in the resume matches the required Microsoft Office and Advance and WP systems."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not highlight any transferable skills that are specifically mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.34
+}

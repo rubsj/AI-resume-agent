@@ -1,0 +1,51 @@
+{
+    "resume_id": "98509238",
+    "jd_id": "3902763185",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.456,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a LEED certification, which is relevant but not directly related to the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Arts degree in Psychology, which is not directly related to the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 31.7 yrs (capped to 31.7), JD requires: 6.0 yrs. | (LLM 0.5): The candidate has extensive experience in sales and leadership roles, which aligns well with the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, enhancing its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has demonstrated leadership through various roles and achievements, which matches the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing teams, leading projects, and ensuring strategic goals, which aligns with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.328,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Project Management (substring)'] | (LLM 0.4): The candidate has relevant skills like Microsoft Dynamics CRM, Agile Training, and Leadership, which match the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like communication, self-motivation, and adaptability, which are required by the job description."
+        },
+        "tools": {
+            "score": 0.204,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Excel (substring)', 'CRM (exact)'] | (LLM 0.4): The candidate does not have any direct experience with tools mentioned in the job description like Salesforce or Tableau."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like project management and training, which can be applied in the new role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.557
+}

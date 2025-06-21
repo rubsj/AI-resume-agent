@@ -1,0 +1,51 @@
+{
+    "resume_id": "12717345",
+    "jd_id": "3904390809",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.7,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a 'ServSafe certified' certification, which matches one of the required certifications in the job description. However, there is only one certification listed, and the job description requires multiple certifications."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an 'Associate of Arts' degree in 'Culinary Arts', which is less than the preferred degrees of 'High school diploma or equivalent' or 'Two (2) year Associates degree from an accredited Culinary school' mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 10.2 yrs (capped to 10.2), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has extensive experience as an 'Executive Chef', which directly aligns with the job description's requirement for supervisory and culinary expertise. The detailed job responsibilities match the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and assess. The information provided is clear and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as an 'Executive Chef' indicates leadership capabilities, which aligns with the job description's requirement for supervising staff. However, the job description does not provide clear details on leadership expectations."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as supervising staff, culinary expertise, food preparation, and department leadership, which align with the job description's responsibilities. However, the job description mentions additional responsibilities that are not covered in the candidate's resume."
+        },
+        "skills": {
+            "score": 0.577,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Purchasing (exact)', 'Communication (exact)'] | (LLM 0.4): The candidate has relevant skills such as'strong communication skills','special events','multi-tasking', 'pricing', 'purchasing', 'quality', 'devoted to sustainability', and'multi-ethnic cuisines'. These align well with the job description's required skills of 'Purchasing' and 'Supply Chain'."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'communication', 'flexibility', and 'proactivity', which are mentioned in the job description's soft skills section. However, the job description also mentions 'teamwork', which is not explicitly stated in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's experience includes using various tools like online ordering platforms, computers, and office equipment, which are mentioned in the job description's tools and technologies section. However, the job description does not specify if these tools are required or preferred."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists transferable skills such as'strong communication skills','special events', and'multi-tasking', which could be beneficial in the role. However, the job description does not explicitly mention any transferable skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.526
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "36574147",
+    "jd_id": "3884989892",
+    "domain": "BUSINESS-DEVELOPMENT",
+    "resume_jd_similarity": 0.242,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications listed match the requirements of the job description."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate's education does not specify any degree related to software development or computer science."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Resume: 25.9 yrs (capped to 25.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in various roles that involve customer service, training, and sales, which aligns with some of the responsibilities in the job description but lacks direct experience in software development or AWS services."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No information provided about leadership experience or qualifications."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities do not match the detailed responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.72,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)', ', (substring)'] | (LLM 0.4): The candidate has skills in Computer, Interpersonal, Customer Service, Analytical, Relationship Driven, Training, Presentational, and Sales, which aligns with some of the required skills in the job description but lacks specific technical skills like Python SDK."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as interpersonal, customer service, analytical, relationship-driven, training, presentational, and sales, which align with some of the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of using Python SDK or any other tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like computer literacy, interpersonal, customer service, analytical, relationship-driven, training, presentational, and sales can be transferred to software development roles, but they are not directly aligned with the technical skills required for the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.431
+}

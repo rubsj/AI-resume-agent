@@ -1,0 +1,51 @@
+{
+    "resume_id": "12144825",
+    "jd_id": "3901977642",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.275,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has one certification, which is relevant but not as prominent as required skills."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor of Science degree in Electrical Engineering, which is relevant but not as specific as required degrees."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 14.2 yrs (capped to 14.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in software engineering and development, including full stack engineering and software engineering co-op, which aligns with the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading a team through their education and work experience, but the job description specifically requires leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly align with the responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.34,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills in.NET, API, automation, backup, Bash, C, C++, credit, critical thinking, CSS, database, designing, ecommerce, engineer, XML, Google Analytics, HTML, PHP, JavaScript, Linux, MS Access, Excel, exchange, Microsoft Office package, MVC, MySQL, natural language processing, NoSQL, object-oriented, OOP, operating systems, page, Perl, PostgreSQL, programming, Python, scripts, software engineering, software testing, SQL, system administration, troubleshooting, Unix, Visio, Visual Basic, Visual Studio, website design & development, website. These skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in critical thinking, problem-solving, and attention to detail align with soft skills required for the position."
+        },
+        "tools": {
+            "score": 0.279,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Python (exact)'] | (LLM 0.4): The candidate has experience with some tools mentioned in the job description like PHP, Linux, and Microsoft Office package, but lacks experience with others like Jira, Confluence, and Training Management System."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills in project management, team leadership, and technical expertise that could be beneficial in the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.519
+}

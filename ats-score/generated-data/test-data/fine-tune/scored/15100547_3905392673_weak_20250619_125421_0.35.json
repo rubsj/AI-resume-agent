@@ -1,0 +1,51 @@
+{
+    "resume_id": "15100547",
+    "jd_id": "3905392673",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.279,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume that match the job requirements."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume does not mention any degree related to automotive or retail, which are not required but could be beneficial."
+        },
+        "experience": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The resume does not contain any experience related to automotive retail or delivery services, which are required for the job."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, free of grammatical errors, and easy to read."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not mention any leadership roles or responsibilities that align with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not contain responsibilities related to delivering parts, picking and staging parts, or other responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.632,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Customer Service (substring)'] | (LLM 0.4): The candidate has skills in Customer Service, which matches the job requirements. However, there is no evidence of Sales skills, which are optional but preferred."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not mention soft skills such as effective communication, reading documents, basic math skills, or flexibility in working hours, which are required for the job."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There are no transferable skills mentioned in the resume that directly relate to the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.355
+}

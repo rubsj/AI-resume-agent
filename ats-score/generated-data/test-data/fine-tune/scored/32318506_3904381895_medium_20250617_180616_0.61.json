@@ -1,0 +1,51 @@
+{
+    "resume_id": "32318506",
+    "jd_id": "3904381895",
+    "domain": "ARTS",
+    "resume_jd_similarity": 0.26,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds certifications like 'X-Ray Certified', 'RDA', which match the job's certification requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a relevant degree in Dental Assisting, but the JD prefers a Bachelor's degree specifically in education, business, or a related field."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 2.5 yrs (capped to 2.5), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Dental Assistant and RDA, which closely matches the job's experience requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-structured and free from grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership experience or skills, which are preferred in the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed, particularly in terms of patient care and assistance to dentists."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Education (exact)'] | (LLM 0.4): The candidate possesses relevant skills such as '4-Handed Dentistry', 'Preventative Care', 'Instrument Sterilization', etc., which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as teamwork and empathy, are relevant to the job's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 2}. Matched: ['Microsoft Office Suite (fuzzy)', 'Excel (fuzzy)'] | (LLM 0.4): The candidate lacks experience with specific tools mentioned in the job description such as Salesforce, Microsoft Office Suite, Outlook, and Excel."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, while not directly mentioned in the job description, could potentially be applied in an educational setting."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.609
+}

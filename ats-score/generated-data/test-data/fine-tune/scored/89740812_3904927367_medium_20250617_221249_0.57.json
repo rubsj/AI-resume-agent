@@ -1,0 +1,51 @@
+{
+    "resume_id": "89740812",
+    "jd_id": "3904927367",
+    "domain": "AGRICULTURE",
+    "resume_jd_similarity": 0.373,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, which may be a requirement for the role."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA and a BS in Mechanical Engineering, Computer-Aided Design, which are relevant to the field of food production. However, there is no specific degree in food manufacturing or related fields."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 21.5 yrs (capped to 21.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has over 10 years of experience in marketing and IT, which is relevant to the operations manager role. However, the experience does not directly align with food production operations."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams in previous roles, which is a valuable skill for an operations manager. However, there is no specific mention of leadership in food production."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not directly match the responsibilities listed in the job description, particularly in food production operations."
+        },
+        "skills": {
+            "score": 0.596,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Leadership (exact)', 'Customer relations (substring)'] | (LLM 0.4): The candidate has extensive skills in Adobe Creative Suite, Dreamweaver, Photoshop, and Premiere, which align well with the job requirements in food production. However, there is a lack of direct food manufacturing industry skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as communication and problem-solving, which are beneficial for any operations role. However, there is no evidence of self-motivation or independence, which are key soft skills for the position."
+        },
+        "tools": {
+            "score": 0.29,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 3}. Matched: ['ERP systems (fuzzy)', 'Knives (fuzzy)', 'Ladders (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office applications, which are mentioned in the job description. However, there is no mention of custom applications, ERP systems, or other tools specifically required for food production."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from their previous roles in marketing and IT, but these do not directly translate to food production operations."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.573
+}

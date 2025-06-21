@@ -1,0 +1,51 @@
+{
+    "resume_id": "23917826",
+    "jd_id": "3904994235",
+    "domain": "ARTS",
+    "resume_jd_similarity": 0.337,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in English and Journalism from the University of New Mexico, which is relevant to the education domain. However, there is no clear indication of a degree that aligns with the required Bachelor's degree in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in educational and administrative roles, which aligns with the job responsibilities. However, there is no explicit mention of experience in instructional design or training, which are key requirements in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in certain sections reduces its overall effectiveness."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but there is no explicit mention of leadership skills or experiences that align with the job description's requirements."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some aspects of the job responsibilities, such as managing projects and handling customer satisfaction. However, there is no direct match with responsibilities like developing training materials or working with enterprise systems."
+        },
+        "skills": {
+            "score": 0.632,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Education (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Education', 'Training', 'Microsoft Office', 'Customer Service', and 'Customer Satisfaction'. However, there is a lack of specific technical skills like 'Training simulation and video software' and 'Creative design software' mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like 'Leadership', 'Management Skills', and 'Communication', which are aligned with the soft skills required in the job description. However, there is no explicit mention of skills like 'Facilitation' and 'Presentation Skills'."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not list any tools or technologies used in their experience, which contrasts with the job description's requirement for skills in Microsoft Office, training simulation and video software, and creative design software."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in 'Customer Service', 'Multitasking', and 'Professional Experience' are transferable to the role. However, there is no explicit mention of skills like 'Data Collection', 'Analysis', and 'Project Management', which are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.502
+}

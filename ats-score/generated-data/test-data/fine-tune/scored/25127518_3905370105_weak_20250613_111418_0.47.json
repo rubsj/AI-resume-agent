@@ -1,0 +1,51 @@
+{
+    "resume_id": "25127518",
+    "jd_id": "3905370105",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, such as CPA, which is preferred in the job description."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an Associate of Applied Science degree in Accounting, which is a foundational education but lacks the bachelor's degree or higher that the job description prefers."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 26.4 yrs (capped to 26.4), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has over 20 years of experience in accounting roles, which significantly exceeds the minimum requirement of 7-10 years. The detailed job descriptions and responsibilities match well with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, there are some inconsistencies in formatting and missing details in certain sections."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership skills are indicated by their promotion history and ability to manage teams, but there is no explicit mention of leading finance departments or implementing new processes."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align closely with the job description's responsibilities, particularly in managing the accounting team and ensuring compliance. However, there is no direct mention of preparing financial trend analysis or conducting GL detail research."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and related fields, which aligns well with the job description's required skills. However, there is no mention of advanced degrees or specific certifications like CPA, which could be beneficial."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are generally aligned with the job description's soft skills section, including strong communication and analytical skills. However, there is no explicit mention of building a high-performance culture or demonstrating resilience."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Sage software and Microsoft Office suite, which are mentioned in the job description's tools and technologies section. However, there is no explicit mention of ERP systems, which might be expected given the job title."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are evident in their ability to adapt to different roles and industries, but there is no explicit mention of developing financial and budget planning models or using benchmarking tools."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.471
+}

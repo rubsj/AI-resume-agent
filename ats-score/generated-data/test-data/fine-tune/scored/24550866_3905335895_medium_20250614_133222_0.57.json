@@ -1,0 +1,51 @@
+{
+    "resume_id": "24550866",
+    "jd_id": "3905335895",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.441,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has one certification, 'Certified Health Information Technology -Implementation Manager Certification-CHTS-IM', but it lacks a date issued, which is important for assessing the relevance and recency of the certification."
+        },
+        "education": {
+            "score": 0.467,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Management (exact)'] | (LLM 0.5): The candidate holds two degrees in health administration and business administration, which aligns with the required degree of 'Information Technology', 'Management', or 'Other'. However, the lack of specific years and GPA makes it difficult to fully assess the educational background."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 20.8 yrs (capped to 20.8), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has extensive experience in healthcare and business, including roles as a Health Systems Analyst and Healthcare Claims Analyst, which matches the required experience of 1 year. However, the lack of specific details about the responsibilities and achievements in each role reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, there are some inconsistencies in the use of commas and missing details in sections such as education and experience."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervising employees and contributing to organizational objectives, which aligns with the required leadership skill. However, the lack of specific examples or achievements in the resume reduces the score."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly match the responsibilities listed in the job description, such as preparing detailed briefings, conducting information requests, providing expert technical advice, and solving complex problems. The lack of detail in the resume regarding these specific responsibilities reduces the score."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'accounting', 'billing', 'business intelligence', 'data analysis', 'critical thinking', 'financial', 'health information technology', 'insurance', 'coding', and 'project management'. However, there are some discrepancies in the skill list, like'real — time' which seems to be a typo."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as leadership, coordination, analytical review, quality control, and problem-solving, which are aligned with the required soft skills. However, the lack of specific examples or achievements in the resume reduces the score."
+        },
+        "tools": {
+            "score": 0.465,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with tools such as Microsoft Office, which is mentioned in both the resume and job description. This indicates a strong match in terms of required tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as decision support, data reporting, and developing metrics, which are aligned with the required skills. However, the lack of specific examples or achievements in the resume reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.569
+}

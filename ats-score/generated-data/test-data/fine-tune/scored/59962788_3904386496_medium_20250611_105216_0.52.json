@@ -1,0 +1,51 @@
+{
+    "resume_id": "59962788",
+    "jd_id": "3904386496",
+    "domain": "HR",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a CAPM certification, which is relevant but not as critical as other skills mentioned in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an MBA in Human Resource and a B.E in Computer Science Engineering, which aligns well with the job requirements."
+        },
+        "experience": {
+            "score": 0.64,
+            "reason": "(Rule 0.5): Resume: 1.9 yrs (capped to 1.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in HR roles that match the job responsibilities, including experience in developing policies, managing leave administration, and conducting new-hire orientations."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership roles or achievements, which might be expected for an HR Manager position."
+        },
+        "responsibilities": {
+            "score": 0.484,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 1, 'substring': 1, 'fuzzy': 1}. Matched: ['Diversity (fuzzy)', 'Compliance (substring)', 'Communication (exact)'] | (LLM 0.5): The candidate's experience covers most of the responsibilities listed in the job description, such as HR advocacy, recruiting, staffing, and performance management."
+        },
+        "skills": {
+            "score": 0.585,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 3, 'substring': 0, 'fuzzy': 2}. Matched skills: ['Human Resources (fuzzy)', 'Management (exact)', 'Training (exact)', 'Diversity (fuzzy)', 'Organizational Design (fuzzy)', 'Compliance (exact)', 'Communication (exact)'] | (LLM 0.4): The candidate has relevant skills such as New employee orientations, Compensation and benefits, Termination procedures, and has proficiency in MS Office, which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like interpersonal skills and communication, which are important for the role, but there could be more emphasis on business acumen and decision-making."
+        },
+        "tools": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate is proficient in MS Office, which is one of the required tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like project management and system analysis, which are beneficial but not as critical as other skills mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.524
+}

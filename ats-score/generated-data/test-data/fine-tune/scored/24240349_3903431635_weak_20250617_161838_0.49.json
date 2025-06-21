@@ -1,0 +1,51 @@
+{
+    "resume_id": "24240349",
+    "jd_id": "3903431635",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.327,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are mentioned in the resume that match the job description's requirements."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate has an Associate degree in Arts and a Paralegal degree, but these do not directly align with the job description's education requirements."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 14.6 yrs (capped to 14.6), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has relevant experience in administrative and legal assistant roles, which align with the job description's experience requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or achievements are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as record indexing and customer service, which align with the job description's responsibilities."
+        },
+        "skills": {
+            "score": 0.76,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [' (substring)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills such as Administrative duties, Microsoft Office proficiency, and experience in legal and administrative roles, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No soft skills are explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.12,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Slate (fuzzy)'] | (LLM 0.4): No mention of specific tools like Slate or PeopleSoft in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like proofreading ads and sales, maintaining department budgets, and online research are transferable to the job description's requirements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.486
+}

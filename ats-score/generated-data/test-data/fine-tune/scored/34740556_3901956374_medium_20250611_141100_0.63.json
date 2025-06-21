@@ -1,0 +1,51 @@
+{
+    "resume_id": "34740556",
+    "jd_id": "3901956374",
+    "domain": "HR",
+    "resume_jd_similarity": 0.68,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which contrasts with the job description's lack of certification requirements."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume lists a Bachelor of Science degree in Business Administration from the UNIVERSITY OF SOUTHERN MISSISSIPPI, but does not specify the GPA, which could be important for assessing academic achievement."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 16.9 yrs (capped to 16.9), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in various HR roles, including Senior HR Business Partner, HR & Safety Manager, and HR Supervisor, which aligns well with the job description's responsibilities. However, the resume lacks details about specific achievements or metrics that could further strengthen the match."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand. However, there are minor inconsistencies in formatting and missing details that could affect clarity."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership experience or skills, which is a critical aspect of the job description's responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing employee relations, developing training programs, and ensuring compliance with labor laws, which are aligned with the job description. However, there is no explicit mention of overseeing the employee lifecycle or leading compensation and benefits administration."
+        },
+        "skills": {
+            "score": 0.96,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in human resources and recruiting, aligning closely with the required experience level of 7+ years. The resume includes specific skills like 'ADA', 'benefits', 'call center', 'coaching', 'conflict resolution', 'Employee Relations', 'training employees', and'senior management', which are relevant to the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like 'coaching', 'conflict resolution', and 'teamwork', which are soft skills relevant to the job description. However, there is no explicit mention of leadership or other soft skills that might be crucial for the position."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention any specific tools or technologies used, such as Workday, which is mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes a variety of skills that can be transferred to the role, such as 'ADA', 'benefits', 'call center', 'coaching', and 'training employees'. However, there is no explicit mention of specific skills related to HR tools or technologies."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.632
+}

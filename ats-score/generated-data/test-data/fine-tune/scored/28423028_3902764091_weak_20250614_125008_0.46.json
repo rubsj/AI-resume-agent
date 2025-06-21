@@ -1,0 +1,51 @@
+{
+    "resume_id": "28423028",
+    "jd_id": "3902764091",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.423,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required or preferred ones in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds multiple degrees in relevant fields, but the lack of specific details such as graduation dates and GPAs reduces the score."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has substantial experience in healthcare operations and leadership, which matches the job requirements. However, the lack of detail in the job description makes it hard to assess the exact fit."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has demonstrated leadership in various roles, which aligns well with the job requirements. However, there is no explicit mention of leadership skills in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned, particularly in terms of managing operations and providing leadership. However, there is no clear match with the specific responsibilities like first aid support or emergency response."
+        },
+        "skills": {
+            "score": 0.386,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Risk management (substring)', 'Training (exact)', 'Microsoft Office (substring)'] | (LLM 0.4): The candidate has extensive experience in healthcare operations, strategic planning, and leadership, aligning well with the required skills. However, there is a lack of direct experience with first aid, CPR, AED, and specific occupational health skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses many soft skills that are beneficial for the role, such as adaptability, communication, and leadership. However, there is no explicit mention of skills like proactive engagement or awareness, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.146,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['OSHA (exact)', 'Microsoft Office (substring)'] | (LLM 0.4): No mention of specific tools used in the resume matches the job description's tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has a wide range of transferable skills, but there is no clear alignment with the specific skills required in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.457
+}

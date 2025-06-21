@@ -1,0 +1,51 @@
+{
+    "resume_id": "26202430",
+    "jd_id": "3901671529",
+    "domain": "HR",
+    "resume_jd_similarity": 0.535,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor's degree is listed, but the GPA is not provided, which is a common requirement for HR positions."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in HR consulting, people analytics, and business system applications, closely matching the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience is mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job responsibilities, particularly in areas like safety, quality, and compliance."
+        },
+        "skills": {
+            "score": 0.67,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'Training (exact)', 'Quality (exact)', 'Integrity (exact)'] | (LLM 0.4): The candidate has extensive experience in HR applications, business analysis, and system documentation, aligning closely with the required skills of the position."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as communication, compliance, and continuous improvement, which are essential for HR roles."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like advanced Excel, VBA, and project management are transferable to the HR role, though they may not be directly related."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.606
+}

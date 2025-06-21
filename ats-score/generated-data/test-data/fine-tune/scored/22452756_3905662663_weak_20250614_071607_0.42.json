@@ -1,0 +1,51 @@
+{
+    "resume_id": "22452756",
+    "jd_id": "3905662663",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.538,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required ones in the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education does not provide the necessary qualifications for the job."
+        },
+        "experience": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has relevant experience in services engineering, which matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally clean and well-structured, but there are inconsistencies in the use of commas and periods."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership roles or achievements in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job responsibilities, though not all are explicitly mentioned."
+        },
+        "skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has experience in services engineering which aligns with the job responsibilities but lacks specific technical skills mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills are not explicitly stated in the candidate's resume."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are specified in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like consultation, clients, and supervision are transferable to the job responsibilities."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.418
+}

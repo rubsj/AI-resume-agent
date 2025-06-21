@@ -1,0 +1,51 @@
+{
+    "resume_id": "41910253",
+    "jd_id": "3903456391",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.374,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description requires a Medical doctorate."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a degree in Healthcare Management, which is relevant but not a Medical doctorate as required by the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in Healthcare, specifically as a Healthcare Associate, which aligns with the job description's role as a Medical Officer."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates leadership skills through teamwork and collaboration, which is relevant to the job description's requirements."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience does not directly mention responsibilities that match the detailed list provided in the job description."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Research (exact)'] | (LLM 0.4): The candidate has relevant skills such as EPIC, Microsoft Office Suite, Healthcare Systems, Insurance/Billing, Sorian Scheduling, etc., which align well with the job description's required and preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong communication skills and other soft skills, which are aligned with the job description's soft skills requirement."
+        },
+        "tools": {
+            "score": 0.46,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate is proficient in tools like Microsoft Office, which matches the job description's required tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes a list of transferable skills that could be relevant to the job description, but it lacks specific details about how these skills apply to the responsibilities listed."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.565
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "18557164",
+    "jd_id": "3903852025",
+    "domain": "HR",
+    "resume_jd_similarity": 0.656,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a Six Sigma Yellow Belt certification, which is relevant to the job description but not as directly applicable as the required skills."
+        },
+        "education": {
+            "score": 0.15,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Bachelor's degree in Business Management, which is aligned with the preferred degrees listed in the job description. However, the lack of specific details and the missing GPA may reduce the score."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 32.8 yrs (capped to 32.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has over 30 years of experience in various roles related to Human Resources, which matches the required experience level. The detailed job descriptions provide evidence of relevant skills and responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The information is presented clearly and logically."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes roles with leadership responsibilities, such as Regional HR Specialist and Talent Acquisition Consultant. However, the job description specifically mentions demonstrated experience managing and leading employees, which is not explicitly stated in the resume."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as employee engagement, talent review, and organizational design, which align with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.552,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, which aligns well with the job requirements. The resume also lists skills such as 'attention to detail', 'competitive', and 'fast', which are relevant to the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions skills like 'attention to detail', 'competitive', and 'fast', which are soft skills relevant to the job description. However, there is no explicit mention of strategic and tactical leadership, which is a key soft skill mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like Amazon Logistics and HRIS Systems, which are not present in the candidate's resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills that could be transferable to the job, such as 'human resources', 'customer service', and 'administration'. However, these are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.525
+}

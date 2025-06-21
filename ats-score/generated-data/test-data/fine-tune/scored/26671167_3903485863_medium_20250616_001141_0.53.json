@@ -1,0 +1,51 @@
+{
+    "resume_id": "26671167",
+    "jd_id": "3903485863",
+    "domain": "HR",
+    "resume_jd_similarity": 0.433,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications listed match the required certifications for the job."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's highest education is a High School Diploma, which does not meet the required Bachelor's degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in roles that involve customer service, administration, and coordination, which aligns with the job responsibilities. However, the lack of specific skills like'skilled writer' and 'politically astute' reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience that would qualify the candidate for a managerial role."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate lacks experience in building mechanisms for scenario planning, aligning stakeholders, facilitating cross-organizational meetings, monitoring research, preparing communications, creating tracking mechanisms, working under urgency, maintaining relationships, and assisting with other mechanisms supporting team work."
+        },
+        "skills": {
+            "score": 0.84,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'Professional and friendly', 'Exceptional multi-tasker', and 'Delivers exceptional customer service'. However, there is no direct match for'skilled writer' and 'politically astute' which are required soft skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not possess the soft skills'skilled writer' and 'politically astute' which are required for the job."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned, which contrasts with the job requirements."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills from previous roles such as customer service, administration, and coordination. However, these skills do not fully align with the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.531
+}

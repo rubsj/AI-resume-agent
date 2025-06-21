@@ -1,0 +1,51 @@
+{
+    "resume_id": "12338274",
+    "jd_id": "3904720066",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.688,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, whereas the job description prefers candidates with a Certified Public Accountant (CPA) certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA in Finance, which is relevant to the job description. However, the details of the second degree are missing, which might limit the assessment of their educational background."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 12.8 yrs (capped to 12.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 12 years of experience in various accounting roles, which closely matches the required experience level of 5+ years. The detailed descriptions of responsibilities show a strong understanding of accounting principles and practices."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in some sections could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight any leadership roles or achievements that demonstrate leadership qualities, which are essential for a managerial position."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as budget preparation, financial reporting, and managing accounting processes, which align with the job responsibilities. However, there is no direct mention of leading the Technical Accounting team or managing SEC reporting, which are key responsibilities for the position."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the job requirements. However, there is no mention of specific certifications or advanced degrees in accounting, which could be beneficial for a Manager, Technical Accounting role."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention soft skills such as leadership, communication, or accountability, which are crucial for a managerial role. The lack of these skills in the resume might hinder the candidate's application for a managerial position."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Office Suite, which is mentioned in the job description. However, there is no explicit mention of proficiency in Hyperion Financial Management (HFM), which is preferred for the Technical Accounting role."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses a wide range of skills, including accounting, auditing, and financial management, which are transferable to the Technical Accounting role. However, the absence of specific technical skills like U.S. GAAP knowledge or SEC reporting standards reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.468
+}

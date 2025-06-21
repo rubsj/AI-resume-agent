@@ -1,0 +1,51 @@
+{
+    "resume_id": "25067742",
+    "jd_id": "3905305246",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.66,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not mention any certifications, which are required for the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a degree in Accounting and Business Administration, but the details are not clear, and there are no specific certifications mentioned, which might not fully match the job description's requirement for a Bachelor's Degree in Finance."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 21.5 yrs (capped to 21.5), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles with responsibilities that closely match those listed in the job description, including accounts payable, receivable, payroll, financial reporting, and tax preparation."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not demonstrate leadership experience or mention any leadership roles, which are expected for a Division Assistant Controller position."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not exactly match the job description's responsibilities, such as direct supervision of the Accounting Department, preparation of Departmental Operating Budgets, and mentoring employees."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as General Accounting, accounts payable, accounts receivable, Microsoft Office, Outlook, Windows XP, Word, Excel, and Quickbooks Enterprise 17.0, which align well with the job description's required skills of Accounting/Auditing and Finance."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not explicitly mention soft skills, which are important for leadership and team management roles."
+        },
+        "tools": {
+            "score": 0.31,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['financial reports (fuzzy)'] | (LLM 0.4): The candidate mentions proficiency in tools like Microsoft Office, Outlook, Windows XP, Word, Excel, and Quickbooks Enterprise 17.0, which are aligned with the job description's required tools and technologies such as GAAP, cash flows, financial reports, and analytical skills."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting, finance, and technology are transferable to the role, but there is a lack of explicit mention of leadership and soft skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.478
+}

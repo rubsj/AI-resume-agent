@@ -1,0 +1,51 @@
+{
+    "resume_id": "11653906",
+    "jd_id": "3902759276",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.452,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement of an active pharmacist license."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The MBA degree is relevant to the field of healthcare, but the lack of specific details about the GPA and field of study limits the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 26.7 yrs (capped to 26.7), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has significant experience in operations and leadership roles, particularly in healthcare, which closely matches the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, particularly in managing teams and overseeing operations, aligns well with the leadership expectations of the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience in managing teams, conducting performance reviews, and developing strategic initiatives aligns with the job responsibilities. However, there is no mention of creating and maintaining policies and procedures, optimizing staffing workflow, or leading recruitment and onboarding processes."
+        },
+        "skills": {
+            "score": 0.512,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (substring)'] | (LLM 0.4): The candidate has extensive experience in operations and leadership, aligning well with the required skills of business development and sales. The mention of Salesforce.com and Microsoft Office also matches the tools section."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership and strategic management demonstrates interpersonal skills and the ability to work independently, which aligns with the soft skills section. However, there is no explicit mention of exceptional written/verbal communication skills or adherence to company standards."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 2, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)', 'Salesforce (substring)'] | (LLM 0.4): The candidate has experience with Salesforce.com and Microsoft Office, which are listed as required tools. However, there is no mention of DOMO, IPD, Policy Reporter, UpToDate, MediSpan, or EmpiRx Health internal tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in finance and operations provides transferable skills, but there is no mention of business development or sales, which are key requirements for this position."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.522
+}

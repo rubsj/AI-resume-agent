@@ -1,0 +1,51 @@
+{
+    "resume_id": "63145386",
+    "jd_id": "3903432418",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.66,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description requires OSHA 20 Certification."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Finance, which is related to the financial aspect of the job, but lacks specific construction or engineering degrees."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 13.1 yrs (capped to 13.1), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction project management, accounting, and purchasing, which closely matches the job responsibilities. The experience is also recent and includes leadership roles."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and managing projects, which indicates leadership capabilities. However, there is no explicit mention of leading Directors and Senior Directors across the country."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing projects, budgets, and teams align with the job responsibilities. However, there is no mention of leading start-up processes or actively managing supply chain issues."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in construction project management, accounting, and purchasing, which aligns well with the job requirements. However, there is no mention of business development or engineering skills, which are preferred but not required."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses strong communication and organizational skills, which are essential for the job. However, there is no explicit mention of proficiency with Microsoft Office Suite or ability to build positive relationships."
+        },
+        "tools": {
+            "score": 0.73,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 3, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)', 'Word (exact)', 'Outlook (exact)'] | (LLM 0.4): The candidate has proficiency in various software tools listed in the job description, such as Microsoft Office Suite, Excel, Word, and Outlook. However, there is no mention of SAP, PDM, or Hyperion Financial Manager."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in project control, accounting, and purchasing can be transferred to the role, but there is no mention of business development or engineering skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.554
+}

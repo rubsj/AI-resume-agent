@@ -1,0 +1,51 @@
+{
+    "resume_id": "12420359",
+    "jd_id": "3904367434",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.676,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that directly match the required certifications in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Diploma in Patisserie and Baking and a Bachelor of Arts in Economics, but the field of study does not exactly match the required 'Culinary school graduate or related training' degree."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 16.1 yrs (capped to 16.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in pastry arts, which aligns with the job title of Chef De Cuisine. However, the experience is more focused on pastry arts rather than full kitchen operations."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervising teams, which indicates leadership skills. However, there is no explicit mention of leadership responsibilities in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned, such as managing the culinary team and ensuring food quality. However, there is no mention of menu development or recipe standardization."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'basic', 'interpersonal', 'Excel', 'Microsoft Office products', 'organizational', and 'written communication skills'. However, there is no direct match for 'Management' and 'Manufacturing' which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate lists soft skills like 'focus', 'customer service', and 'written communication skills', but these do not directly match the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): The candidate does not list any tools or technologies used, which contrasts with the requirement for 'Manufacturing' skill in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Excel', 'Microsoft Office products', and 'organizational', which could be useful in a kitchen setting. However, there is no evidence of skills like 'Management' or 'Manufacturing'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.439
+}

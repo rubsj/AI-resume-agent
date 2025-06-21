@@ -1,0 +1,51 @@
+{
+    "resume_id": "21853199",
+    "jd_id": "3903874106",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.66,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the requirement of having an Associate degree in accounting or business-related field."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Business Administration in Accounting, which is aligned with the education requirement. However, the degree is listed without a graduation year, which could be considered incomplete information."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.7 yrs (capped to 17.7), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has a long history of experience in accounting roles that match the job responsibilities described in the job description. The detailed job descriptions provide evidence of relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The summary and experience sections are concise and clearly state the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume, which contrasts with the requirement of having basic understanding of principles of accounting."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's job history includes responsibilities that align with the job responsibilities listed in the job description, such as managing collections, overseeing customer accounts, and generating financial reports. However, there is no direct mention of specific responsibilities like auditing and monitoring incoming invoices."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting, which aligns well with the job requirements. The resume includes specific skills like 'accounting', 'accounting systems', 'accounts payable', and 'accounts receivable', which are directly relevant to the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions some soft skills like 'can-do attitude' and 'detail-oriented', but it lacks specifics on skills like 'ability to meet deadlines' and'self-motivated', which are crucial for the job."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention proficiency in tools such as Oracle, Concur T &E Portal, or Microsoft Office Suite, which are listed as required skills in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills that can transfer to the job, such as 'accounting', 'financial reports', and 'communication'. However, it lacks details on specific skills like 'intermediate-level skill in the use of Microsoft Office Suite' and 'proficiency in MS Office (Excel and Word).'"
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.527
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "25315791",
+    "jd_id": "3903843938",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.525,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job description."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): Only a high school diploma is listed, which does not match the required education level for the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in sales and customer service roles, which aligns with the job responsibilities of meeting with stakeholders and generating reports."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written with no obvious grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No leadership experience or skills are mentioned in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows some alignment with responsibilities like meeting with stakeholders and generating reports, but lacks specifics on creating and maintaining documentation."
+        },
+        "skills": {
+            "score": 0.568,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Research (substring)'] | (LLM 0.4): The candidate has relevant skills like'sales', 'customer service', and'sales associate' which align well with the job description requiring 'analyst', 'information technology', and'research'."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions 'excellent communication skills' and 'team player mentality', which align with soft skills like collaboration and communication, but lacks details on attention to detail and project management."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'advertisements', 'calculators', 'cash registers', etc., are not directly transferable to the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.55
+}

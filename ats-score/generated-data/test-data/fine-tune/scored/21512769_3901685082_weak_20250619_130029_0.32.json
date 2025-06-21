@@ -1,0 +1,51 @@
+{
+    "resume_id": "21512769",
+    "jd_id": "3901685082",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.214,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have a CPA certification, which is required for the position."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education does not align with the required degree of CPA in the job description."
+        },
+        "experience": {
+            "score": 0.484,
+            "reason": "(Rule 0.5): Resume: 9.2 yrs (capped to 9.2), JD requires: 12.0 yrs. | (LLM 0.5): The candidate has some experience in consulting, but it is limited and does not fully match the required experience level and specific skill set."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate leadership skills or experience that align with the job description requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There is no evidence that the candidate has fulfilled responsibilities similar to those listed in the job description."
+        },
+        "skills": {
+            "score": 0.333,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Excel (exact)'] | (LLM 0.4): The candidate has strong skills in Excel, which matches the required tool in the job description. However, there is no evidence of experience in accounting, auditing, or consulting, which are the primary required skills."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention soft skills that align with the job description requirements."
+        },
+        "tools": {
+            "score": 1.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Excel, which is explicitly mentioned as a required tool in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as attention to detail and communication, which are mentioned in the job description. However, these skills are not directly related to the core responsibilities of the position."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.317
+}

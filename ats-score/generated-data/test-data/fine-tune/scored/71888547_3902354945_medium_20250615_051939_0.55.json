@@ -1,0 +1,51 @@
+{
+    "resume_id": "71888547",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.47,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires a PMP certification."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate has a Bachelors of Science degree in Health Promotions - Clinical, which is not directly related to the job description but shows some level of education in a field that could be transferable."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.9 yrs (capped to 15.9), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has extensive experience in marketing and management roles, including overseeing marketing efforts, managing budgets, and supervising staff, which aligns well with the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles, such as Marketing Manager and Head Server, indicates strong leadership skills, which align with the job description's requirements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing budgets, supervising staff, and reporting, which align with the job description's responsibilities. However, there is no direct mention of responsibilities like defining business cases or working closely with sales teams."
+        },
+        "skills": {
+            "score": 0.324,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Time management (substring)'] | (LLM 0.4): The candidate has relevant skills such as Sales, public relations, and Microsoft Office, which align with the job description's required skills. However, there is no mention of specific technical skills like ERP implementation or Salesforce, which are preferred."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include interpersonal, leadership, and time management, which align with the soft skills required in the job description. However, there is no explicit mention of negotiation or conflict resolution skills."
+        },
+        "tools": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 2, 'fuzzy': 0}. Matched: ['ERP (substring)', 'Network (exact)', 'Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is mentioned in the job description's tools and technologies section, but lacks experience with more specialized tools like ERP or Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in sales, public relations, and leadership are transferable to the job description's requirements. However, there is no explicit mention of skills like technical solutions or systems integrations."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.545
+}

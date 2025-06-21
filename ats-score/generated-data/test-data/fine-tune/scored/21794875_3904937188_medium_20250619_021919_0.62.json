@@ -1,0 +1,51 @@
+{
+    "resume_id": "21794875",
+    "jd_id": "3904937188",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.226,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The CPA certification is relevant but not directly aligned with the IT skills required for the position."
+        },
+        "education": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate has a Master's degree in Accounting and Bachelor's degrees in Business Administration and Liberal Arts, which are relevant to the financial domain but not specifically IT-related."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 31.5 yrs (capped to 31.5), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has extensive experience in accounting roles, which aligns well with the financial domain of the job description. However, there is no direct IT experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience in a non-IT context, which may not be directly applicable to the IT leadership required for the position."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities are not directly aligned with the IT responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has strong skills in Microsoft Office, QuickBooks, and accounting, which align well with the job's requirement for IT skills like Citrix, Windows Server, and VMware."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as interpersonal skills, analytical abilities, and organizational skills, which are generally transferable to any role."
+        },
+        "tools": {
+            "score": 0.172,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['AD (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are not directly aligned with the IT tools required for the position."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting and general ledger are transferable to the financial domain of the job description, but not directly to IT."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.624
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "11020140",
+    "jd_id": "3905371092",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.544,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in Computer Science, which aligns with the required degree in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 30.9 yrs (capped to 30.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 30 years of experience, significantly exceeding the required 5 years, and has worked in various roles that match the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in project leadership roles indicates potential leadership capabilities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as project leadership, system administration, and software development, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.348,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 2, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Leadership (exact)', 'Problem solving (substring)', 'Communication (exact)'] | (LLM 0.4): The candidate has extensive experience in various technologies and roles relevant to the job description, including consulting, document management, and system administration."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include strong technical skills, analytical skills, and communication skills, which are aligned with the soft skills required."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Computers (fuzzy)'] | (LLM 0.4): The candidate has experience with tools like Documentum, Microsoft Access, and VBA, which are mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in areas like problem-solving and organization are transferable to the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.557
+}

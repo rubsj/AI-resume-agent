@@ -1,0 +1,51 @@
+{
+    "resume_id": "11163645",
+    "jd_id": "3901634983",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.616,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Computer Applications Specialist Certificate, which does not match the preferred Bachelor's degree in accounting."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 32.0 yrs (capped to 32.0), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in various accounting roles, including accounts payable, accounts receivable, and other financial operations, which closely matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, which is not explicitly required for the job."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes many responsibilities listed in the job description, such as month-end close processes, reconciliations, and preparing reports. However, there is no mention of specific software tools like Oracle or PeopleSoft."
+        },
+        "skills": {
+            "score": 0.325,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Communication (substring)'] | (LLM 0.4): The candidate has relevant experience in accounts payable, accounts receivable, and banking, which aligns with the job requirements. However, there is no mention of GAAP or ERP systems, which are preferred skills."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's core qualifications align with soft skills like communication, organization, and confidentiality, which are essential for the role. However, there is no explicit mention of independence or teamwork, which are also important soft skills."
+        },
+        "tools": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Microsoft Excel, Word, and Outlook, which are mentioned in the job description. However, there is no mention of Oracle, PeopleSoft, Sage, or ERP systems, which are tools the job requires proficiency in."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in data entry, customer service, and basic computer applications are transferable to the job, but there is no mention of advanced accounting methods or intercompany transactions, which are specific to the role."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.507
+}

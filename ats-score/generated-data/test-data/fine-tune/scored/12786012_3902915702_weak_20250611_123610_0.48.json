@@ -1,0 +1,51 @@
+{
+    "resume_id": "12786012",
+    "jd_id": "3902915702",
+    "domain": "HR",
+    "resume_jd_similarity": 0.669,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description prefers candidates with CAphr or PHR certification."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA in Human Resource Management and a B.A. in Communications, which are relevant to the job description's preferred degree of a Bachelor's degree in a related field. However, the lack of specific GPA information reduces the score slightly."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 18.8 yrs (capped to 18.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 18 years of experience in Human Resources, including roles that directly match the job responsibilities listed in the job description. This includes experience in recruitment, staffing, employee relations, performance management, and compliance with employment law."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors, making it easy to read and understand. However, the use of commas in the education section could be improved for clarity."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are important in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume outlines responsibilities that align with most of the job responsibilities listed in the job description, such as developing and updating personnel policies, maintaining employee records, and conducting performance appraisals. However, there is no explicit mention of reporting to three representatives of the management team, which is a requirement in the job description."
+        },
+        "skills": {
+            "score": 0.52,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, including roles such as HR Coordinator, HR Generalist, and Independent HR Contractor, which aligns closely with the job description's required skills of Administrative, Human Resources, and Management. The candidate also possesses skills like conflict resolution, direction, and strategic planning, which are mentioned in the job responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights skills like conflict resolution, direction, and strategic planning, which are soft skills mentioned in the job description. However, the lack of specific examples or quantifiable achievements in these areas reduces the score."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions tools like Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce, but the candidate's resume does not explicitly mention proficiency in these tools."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists skills like benchmarking, benefits, and staffing, which can be considered transferable skills relevant to the job description. However, the lack of specific examples or quantifiable achievements in these areas reduces the score."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.483
+}

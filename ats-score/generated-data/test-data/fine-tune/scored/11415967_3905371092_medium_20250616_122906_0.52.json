@@ -1,0 +1,51 @@
+{
+    "resume_id": "11415967",
+    "jd_id": "3905371092",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.468,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master of Science degree in Oil and Gas Enterprise Management and a Bachelor of Science degree in Environmental Management. These degrees are relevant to the job description's preferred degrees but lack the detail of specific fields of study."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in management and administration, particularly in environmental and safety management. However, the job description requires at least 5 years of experience, and the resume does not specify the exact number of years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, it could benefit from more concise language and clearer presentation of information to match the job description's emphasis on detail and clarity."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but the job description requires specific leadership skills such as 'Process improvement' and 'Change management', which are not clearly demonstrated in the resume."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience aligns with some responsibilities listed in the job description, such as leading administrative functions and managing administrative teams. However, the job description includes more detailed responsibilities that are not fully covered in the resume."
+        },
+        "skills": {
+            "score": 0.328,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Project management (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Consulting', 'Science', 'Project Management', and 'Leadership'. However, there is no mention of specific certifications or advanced degrees required by the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Service orientation', 'Collaboration', and 'Decision making', which are aligned with the job description. However, the resume lacks details on how these skills have been applied in previous roles."
+        },
+        "tools": {
+            "score": 0.47,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'Computers (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are mentioned in the job description. However, the job description also mentions Deltek Vision, a tool not mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as 'Project Management', 'Leadership', and 'Communication'. However, the job description does not explicitly list these skills, and the resume could benefit from highlighting these skills more prominently."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.521
+}

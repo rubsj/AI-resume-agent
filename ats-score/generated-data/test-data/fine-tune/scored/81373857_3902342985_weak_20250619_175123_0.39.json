@@ -1,0 +1,51 @@
+{
+    "resume_id": "81373857",
+    "jd_id": "3902342985",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.357,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The resume lists a Bachelor of Science degree from University of Maryland College Park but does not specify the field, which is required by the job description. There is also a duplicate entry for high school education."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in food services and retail, which aligns with the job responsibilities. However, the resume lacks details about the role and responsibilities that specifically match the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary is concise and relevant to the job description."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills or experience in the resume that would indicate the candidate has led teams or managed projects."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on specific responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills like Adobe Software, Instruction, marketing, and Excel, which align with the job requirements. However, there is no mention of SAP, which is listed as a preferred tool."
+        },
+        "soft_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions strong organizational skills and excellent communication skills, which align with the soft skills required in the job description. However, there is no evidence of the ability to comprehend and follow written or verbal procedures or instructions, which is also required."
+        },
+        "tools": {
+            "score": 0.345,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Word (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Excel, Microsoft Outlook, and Microsoft Word, which are listed as required tools in the job description. However, there is no mention of SAP, which is also listed as a required tool."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like communication, instruction, and marketing, which could be beneficial in a laboratory setting. However, there is no evidence of previous work experience within a laboratory environment, which is listed as an optional skill."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.391
+}

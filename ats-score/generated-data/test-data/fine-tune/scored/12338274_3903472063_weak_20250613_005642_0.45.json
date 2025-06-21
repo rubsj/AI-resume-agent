@@ -1,0 +1,51 @@
+{
+    "resume_id": "12338274",
+    "jd_id": "3903472063",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.67,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications mentioned match the requirements specified in the job description."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has an MBA in Finance, but the lack of specific details about the institution and year of completion reduces the score. The additional education entry lacks clarity."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 12.8 yrs (capped to 12.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, which aligns closely with the job description requirements. The detailed descriptions of responsibilities match the job responsibilities listed."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors. However, there are some unclear sections that could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): No evidence of leadership skills or experience is provided in the candidate's resume."
+        },
+        "responsibilities": {
+            "score": 0.435,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Preparation of financial statements (substring)'] | (LLM 0.5): The candidate's experience includes many responsibilities that match those listed in the job description, such as reconciling bank accounts, posting journal entries, and preparing financial statements. However, there are some discrepancies in the specific tools and technologies used."
+        },
+        "skills": {
+            "score": 0.388,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills such as Accounting, Auditing, Finance, and Accounting software applications experience. However, there are some discrepancies in the education section regarding GPA and field of study."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are generally aligned with the job description's requirements, including flexibility, multitasking, and independence. However, there is no explicit mention of these skills in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of tools or technologies used in the candidate's resume matches the job description's requirement for Sage and MAS 500."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like attention to detail, strong communication, and computer proficiency, which are essential for the role. However, there are gaps in the description of specific skills and achievements."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.448
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "88907739",
+    "jd_id": "3902354945",
+    "domain": "CONSULTANT",
+    "resume_jd_similarity": 0.664,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a PMP certification."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds advanced degrees in Software Management and International Business, which aligns well with the job description's inferred domain of'management consulting and engineering'. The GPA scores are also competitive."
+        },
+        "experience": {
+            "score": 0.925,
+            "reason": "(Rule 0.5): Resume: 11.4 yrs (capped to 11.4), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience as a Consultant and Product Strategy Intern, which aligns with the job description's responsibilities. However, the experience is slightly less than the required 10 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.95,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.85,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership skills are evident through their experience in managing projects, leading cross-functional teams, and resolving issues. However, there is a slight mismatch in terms of specific tools and technologies used."
+        },
+        "responsibilities": {
+            "score": 0.444,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Identify internal and external stakeholders. (fuzzy)'] | (LLM 0.5): The candidate's responsibilities in managing projects, leading cross-functional teams, and resolving issues align well with the job description's responsibilities. However, there is a slight mismatch in terms of specific tools and technologies used."
+        },
+        "skills": {
+            "score": 0.63,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Consulting (exact)', 'Project Management (substring)', 'Time management (fuzzy)'] | (LLM 0.4): The candidate has strong skills in 'Strategy & Operations Process Optimization', 'Digital Transformation', 'Cross Functional Team Management', 'Project/Product Management', and 'Agile/Lean Methodologies'. These skills align well with the job description's required skills of 'Consulting' and 'Project Management'. However, there is a slight mismatch in terms of specific tools and technologies mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.85,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills in 'Business Strategy', 'Product Strategy', 'Consulting', 'Data Analysis', and 'Gap Analysis' align well with the job description's soft skills. However, there is a slight mismatch in terms of specific tools and technologies mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.373,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched: ['Network (exact)', 'Microsoft Office (substring)'] | (LLM 0.4): The candidate lists some tools like Balsamiq, ALM Octane, Agile Manager, Trello, Version One, Microsoft Office Suite, and Visio, which are partially aligned with the job description's tools and technologies. However, there is a lack of alignment with tools like ERP, Cloud applications, Network, Cloud/compute, Security, Adobe Creative Suite, Facebook, and Salesforce."
+        },
+        "transferable_skills": {
+            "score": 0.75,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills in 'Business Strategy', 'Product Strategy', 'Consulting', 'Data Analysis', and 'Gap Analysis' align well with the job description's responsibilities. However, there is a slight mismatch in terms of specific tools and technologies used."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.638
+}

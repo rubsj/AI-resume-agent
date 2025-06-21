@@ -1,0 +1,51 @@
+{
+    "resume_id": "30563572",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.481,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.65,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['PMP Certification (fuzzy)'] | (LLM 0.5): The candidate holds a SPHR Certification, which is relevant to the job description's requirement for certifications. However, there is no mention of PMP Certification, which is listed as optional but preferred."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a B.S. in Business Administration and an SPHR Certification, which is relevant to the job description's requirement for education and certifications. However, the lack of specific details about the institution and GPA may reduce the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.1 yrs (capped to 17.1), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has over 17 years of experience in HR roles that align closely with the job description's responsibilities, including strategic business partnership, employee relations, talent management, and change management."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in strategic business partnership and employee relations suggests leadership capabilities, but there is no explicit mention of leading diverse, cross-functional teams or managing projects in classic agile models."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience shows alignment with many of the job description's responsibilities, such as project planning, execution coordination, and change management. However, there is no explicit mention of leading diverse, cross-functional teams or managing projects in classic agile models."
+        },
+        "skills": {
+            "score": 0.488,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, Information Technology, and Project Management, aligning closely with the job description's required skills. The resume also lists proficiency in tools like HRIS, Deltek, Procore, and ERP systems, which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates strong soft skills, such as leadership, problem-solving, and communication, which align with the job description's soft skills. However, there is no explicit mention of critical thinking or resource planning."
+        },
+        "tools": {
+            "score": 0.375,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['HRIS (exact)'] | (LLM 0.4): The candidate's experience includes tools like HRIS, Deltek, Procore, and ERP systems, which are mentioned in the job description. However, there is no explicit mention of Agile methodology or Classic agile models, which are listed as tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various HR roles and skills in tools like HRIS, Deltek, and Procore indicate transferable skills relevant to the job description. However, there is no explicit mention of industry best practices or SDLC."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.608
+}

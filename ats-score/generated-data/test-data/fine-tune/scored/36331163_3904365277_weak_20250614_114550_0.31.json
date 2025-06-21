@@ -1,0 +1,51 @@
+{
+    "resume_id": "36331163",
+    "jd_id": "3904365277",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.497,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate does not list any certifications, whereas the job description mentions preferred degrees but no specific certifications are required."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's education section lacks details about degree, field, institution, year, and GPA, making it difficult to assess the relevance to the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in construction management, project management, and warehouse management, which aligns well with the job description's requirements. The detailed job descriptions provide context for the skills used in these roles."
+        },
+        "grammar_cleanliness": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is generally well-written and free of grammatical errors. However, some sections lack detail or clarity, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not demonstrate leadership experience or mention any leadership-related achievements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide information on responsibilities that align with the job description's responsibilities such as leadership, planning, execution, documentation, metrics and status, program development."
+        },
+        "skills": {
+            "score": 0.28,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Construction Manager, Project Manager, and Warehouse Manager roles, which align with the required skills of the job description. However, there is no mention of specific certifications or advanced degrees that might be preferred."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lacks soft skills that are mentioned in the job description such as leadership, communication, facilitation of issue resolution, disciplined approach, attention to detail, independent worker, self-starter, familiarity with typical building systems, strong written and verbal communication skills, strong project management skills, ability to effectively facilitate conflict to resolution, effective meeting management, and BIM/3D modeling experience."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in any tools listed in the job description, such as Microsoft Office, Adobe Creative Suite, Facebook, Salesforce, etc."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not highlight transferable skills that could be relevant to the job description, such as proficiency in Microsoft Word/Excel/Power Point, which is mentioned as optional skill."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.312
+}

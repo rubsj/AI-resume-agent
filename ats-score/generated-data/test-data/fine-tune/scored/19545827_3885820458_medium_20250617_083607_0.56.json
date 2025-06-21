@@ -1,0 +1,51 @@
+{
+    "resume_id": "19545827",
+    "jd_id": "3885820458",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.424,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds a CPA certification, which is relevant but not explicitly mentioned in the job description."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Christian Education, which does not directly align with the job requirements. However, they also have a Bachelor's degree in Economics and an Associates degree in Accounting, which are more relevant."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 15.5 yrs (capped to 15.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 15 years of experience in various accounting roles, which significantly exceeds the minimum requirement of 5 years specified in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, some sections lack detail, which could affect the clarity of the candidate's qualifications."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, but there is no clear indication of leadership skills or experience in research administration compliance areas, which is a key aspect of the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job responsibilities listed in the job description, such as managing accounts receivable, accounts payable, and payroll. However, they lack specific experience in coordinating audits, which is a key responsibility."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in Accounting, which aligns well with the required skills of the job description. However, there is no mention of specific auditing skills, which could be a potential gap."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows proficiency in various soft skills like organization, problem-solving, and communication, which are important for the role. However, they lack explicit mention of analytical thinking and interpretation, which are crucial soft skills for the job."
+        },
+        "tools": {
+            "score": 0.332,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is one of the tools listed in the job description. However, they lack experience with other tools like Adobe Creative Suite, Facebook, Salesforce, etc., which are not critical for the role."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills such as project management, customer service, and team building, which are beneficial for the job. However, they lack specific skills like policy development and implementation, which are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.564
+}

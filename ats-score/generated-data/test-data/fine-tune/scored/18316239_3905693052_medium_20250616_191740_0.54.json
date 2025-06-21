@@ -1,0 +1,51 @@
+{
+    "resume_id": "18316239",
+    "jd_id": "3905693052",
+    "domain": "HR",
+    "resume_jd_similarity": 0.585,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a PHR certification, but it is not recent and does not specifically mention payroll certification, which is preferred."
+        },
+        "education": {
+            "score": 0.475,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate's education is in Business Administration, but the degree is an Associate of Applied Science, which may not be considered advanced enough for the position."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 7.2 yrs (capped to 7.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has experience in HR roles, including HR Generalist, HR Representative, and HR Assistant. However, there is no specific mention of payroll experience or responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.3,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly highlight leadership skills or experience, which is important for the role."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not directly match the job responsibilities listed in the job description, particularly in terms of payroll processing."
+        },
+        "skills": {
+            "score": 0.688,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Administrative (fuzzy)', 'Human Resources (substring)', 'Training (exact)'] | (LLM 0.4): The candidate has skills in Human Resources, Training, and Administrative tasks, which align well with the job requirements. However, there is no mention of specific payroll processing skills."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like coaching and managing, which could be seen as soft skills relevant to the job. However, there is no direct mention of communication or teamwork skills."
+        },
+        "tools": {
+            "score": 0.568,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 1}. Matched: ['MS Excel (fuzzy)', 'Outlook (exact)', 'Word (exact)'] | (LLM 0.4): The candidate has experience with tools like ADP, ADR, and Excel, which are mentioned in the job description. However, there is no mention of specific payroll tools like SAP Payroll or Kronos."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as training employees, managing processes, and project management, which are relevant to the job. However, there is no mention of specific payroll-related transferable skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.538
+}

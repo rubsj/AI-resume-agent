@@ -1,0 +1,51 @@
+{
+    "resume_id": "12820557",
+    "jd_id": "3904926004",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.654,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job requirements."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A BA degree in Communications from University Of Phoenix is listed, but the required degree is not specified in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in sales and retail roles that match the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience supervising staff, which indicates leadership skills, but the job description does not emphasize leadership."
+        },
+        "responsibilities": {
+            "score": 0.491,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 3}. Matched: ['Merchandising of the store (fuzzy)', 'Customer service (substring)', 'Maintain security of cash (fuzzy)', 'Adhere to policies and procedures (fuzzy)'] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities, such as managing sales staff, ensuring store operations, and maintaining customer service."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as Computer Proficiency, Client Relations, and Retail Sales, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Customer- and service-oriented, Effective Sales, and Communication Skills are present in the resume, aligning with soft skill requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like Cash Handling, Inventory Control, and POS systems are transferable to the role, though not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.686
+}

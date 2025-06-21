@@ -1,0 +1,51 @@
+{
+    "resume_id": "26091595",
+    "jd_id": "3905327816",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.384,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.375,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Electrical Engineering (substring)'] | (LLM 0.5): The candidate holds a High School Diploma and an Electrical Engineering degree, which aligns with the preferred degrees in the job description. However, the lack of a formal degree in Semiconductor Physics or Materials Science reduces the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD required years = 0. | (LLM 0.5): The candidate has over 18 years of experience in OSP Engineering and Construction, which matches the required experience levels for Product Engineer II and Sr. Product Engineer roles. The experience is detailed and relevant to the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities that would indicate leadership skills. However, the experience in project management and crew supervision suggests some level of leadership."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles do not directly match the job responsibilities listed in the job description. While they have experience in project management and construction coordination, the specific responsibilities related to micro-system and interconnect process development are missing."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in OSP Engineering and Construction, which aligns well with the job's requirement for engineering skills. However, there is no explicit mention of semiconductor physics or materials science, which are preferred degrees."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as attention to detail, communication, teamwork, problem-solving, and analytical thinking, which are aligned with the soft skills required by the job description."
+        },
+        "tools": {
+            "score": 0.332,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['C/C++ (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office, which is listed as a required tool in the job description. However, there is no explicit mention of Adobe Creative Suite, Facebook, Salesforce, JMP, Python, MATLAB, or C/C++, which are also mentioned as tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include construction management, multitasking, project tracking and record keeping, network design and drafting, and quality control, which are relevant to the job responsibilities. However, the lack of direct experience in micro-system and interconnect process development reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.567
+}

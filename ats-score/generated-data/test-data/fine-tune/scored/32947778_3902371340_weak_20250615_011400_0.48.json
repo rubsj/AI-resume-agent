@@ -1,0 +1,51 @@
+{
+    "resume_id": "32947778",
+    "jd_id": "3902371340",
+    "domain": "HR",
+    "resume_jd_similarity": 0.539,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description prefers candidates with a Bachelor's degree in IT, Computer Science, or related disciplines."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Arts in Human Resource Management, which is relevant to the job description. However, the lack of GPA information may suggest less academic rigor."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.3 yrs (capped to 12.3), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has relevant experience in various HR roles, including HR Manager, HR Coordinator, HR Representative, and Sr. Executive Assistant. The experience spans multiple companies and positions, indicating a breadth of experience."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing projects and teams suggests leadership capabilities, but there is no explicit mention of leading diverse, cross-functional teams or managing projects in classic agile models."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities mentioned, such as managing teams, achieving milestones, and communicating results to stakeholders. However, there is no direct mention of project planning, execution coordination, or tracking."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 2, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', 'Project Management (substring)'] | (LLM 0.4): The candidate has relevant skills in Human Resources, Information Technology, and Project Management, which align with the job description. However, there is no mention of specific certifications like PMP or experience with Deltek, Procore, or HRIS systems."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as leadership, problem-solving, communication, critical thinking, resource planning, task scheduling, creativity, analytical skills, organization, and time management, are generally aligned with the job description's requirements."
+        },
+        "tools": {
+            "score": 0.055,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['HRIS (exact)'] | (LLM 0.4): The candidate does not list any specific tools or technologies used in their experience, whereas the job description mentions Deltek, Procore, HRIS, ERP System, Agile methodology, Classic agile models, Industry best practices, SDLC, and Project management tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses transferable skills like hiring, training, conflict management, and regulatory compliance, which are relevant to the job description. However, there is no explicit mention of specific technical skills or certifications."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.477
+}

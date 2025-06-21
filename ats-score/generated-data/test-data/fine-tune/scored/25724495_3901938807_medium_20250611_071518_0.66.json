@@ -1,0 +1,51 @@
+{
+    "resume_id": "25724495",
+    "jd_id": "3901938807",
+    "domain": "HR",
+    "resume_jd_similarity": 0.665,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications mentioned in the resume match the job description's requirements."
+        },
+        "education": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate holds an MBA in Human Resource and a Bachelor's degree in Electrical Engineering, which are relevant to the job description's inferred domain of Human Resources."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 5.9 yrs (capped to 5.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has extensive experience in various HR roles, including Regional HR Manager, Employee Relationship Manager, and Recruitment Manager, which directly aligns with the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership skills or experiences in the resume that directly align with the job description's requirements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles, such as managing the HRIS system and overseeing various HR functions, align with the job description's responsibilities. However, there is no direct mention of Workday or other specified tools."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has a strong background in HR with relevant experience in staffing, recruitment, and employee relations, aligning well with the job description's requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like attention to detail, strong work ethic, flexibility, and comfort interacting with employees, which are aligned with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.24,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate is proficient in Microsoft Office Suite, which is listed as a required tool in the job description. However, there is no mention of specific HRIS systems or other tools like Workday, Tableau, etc., which are also mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as interviewing expertise and report writing, are relevant to the job description's requirements."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.66
+}

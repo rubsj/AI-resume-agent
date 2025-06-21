@@ -1,0 +1,51 @@
+{
+    "resume_id": "63989974",
+    "jd_id": "3885810702",
+    "domain": "AUTOMOBILE",
+    "resume_jd_similarity": 0.308,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description requires a Safelite-certified Technician certification."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest education is a Bachelors of Science degree from Devry University, which does not match the preferred degree of High school diploma/GED/equivalent in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in IT project management and system support, which aligns with the job's responsibilities of installing and repairing auto glass and providing additional services. However, there is no direct experience in automotive industry or auto glass installation."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any leadership experience or skills, which are not explicitly required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as troubleshooting network and printer connectivity issues, which aligns with the job's responsibility of installing and repairing auto glass. However, there is no direct experience in calibrating automotive safety systems or providing additional services and products."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Customer service (substring)'] | (LLM 0.4): The candidate has extensive experience in IT-related skills such as network administration, system support, and hardware management, which align well with the job's required skills in mechanical ability, problem-solving, and attention to detail."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not mention any soft skills such as independence, teamwork, flexibility, or positive attitude, which are required for the job."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions specific tools like Auto glass installation tools and Company-issued tools, but the candidate's resume does not mention any tool-specific skills or experience."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in IT project management and system support can be transferred to the role of an Auto Glass Installation Technician Trainee, particularly in terms of attention to detail and problem-solving skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.35
+}

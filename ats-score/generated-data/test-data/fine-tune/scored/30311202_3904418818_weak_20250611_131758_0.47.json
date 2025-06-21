@@ -1,0 +1,51 @@
+{
+    "resume_id": "30311202",
+    "jd_id": "3904418818",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.659,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a Food Safety Certification."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate only has a High School Diploma, which is insufficient compared to the job requirement of Mid-Senior level experience."
+        },
+        "experience": {
+            "score": 0.77,
+            "reason": "(Rule 0.5): Resume: 11.5 yrs (capped to 11.5), JD requires: 18.0 yrs. | (LLM 0.5): The candidate has relevant experience in various roles that align with the job responsibilities, such as Chef, Sous Chef, and food preparer positions. The experience is also recent and relevant."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, there are missing details in some sections, such as specific job titles and responsibilities."
+        },
+        "leadership": {
+            "score": 0.2,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities that align with the job description's requirement for leading culinary operations and promoting hospitality."
+        },
+        "responsibilities": {
+            "score": 0.361,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Establish standards of service (fuzzy)'] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities, such as maintaining food quality, managing staff, and ensuring food safety. However, there is no direct match with responsibilities like leading culinary operations or promoting hospitality."
+        },
+        "skills": {
+            "score": 0.47,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Communication (exact)'] | (LLM 0.4): The candidate has relevant skills such as portion and cost control, waste control, budgeting, food preparation techniques, purchasing, kitchen equipment and tools, verbal and written communication, and dish preparation. However, there is no mention of Microsoft Office proficiency."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as teaching, positive manner, team building, and passion for food. However, there is no evidence of leadership qualities or flexibility, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience using kitchen equipment and tools, but there is no explicit mention of proficiency with Microsoft Office, which is required by the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as communication, organization, and attention to detail, which are relevant to the job responsibilities. However, there is no evidence of systematized approach or delegation skills."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.469
+}

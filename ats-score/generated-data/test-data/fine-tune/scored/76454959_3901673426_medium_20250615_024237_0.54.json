@@ -1,0 +1,51 @@
+{
+    "resume_id": "76454959",
+    "jd_id": "3901673426",
+    "domain": "FINANCE",
+    "resume_jd_similarity": 0.515,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Arts degree in Economics is listed, but it lacks details such as GPA or major courses, which could be relevant for a finance role. The job description does not explicitly require a specific degree level."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 32.2 yrs (capped to 32.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 30 years of experience in finance roles, including positions as a Finance Director, Finance Manager, and Senior Financial Analyst, which matches the required experience level of 2+ years. The detailed job responsibilities and achievements in each role are aligned with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some sections lack detail, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has held leadership roles such as Finance Director and Finance Manager, indicating strong leadership skills. However, the job description emphasizes collaboration and interest in growing financial knowledge, which are not directly reflected in the resume."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles, such as leading the design of incentive compensation plans and conducting financial modeling, align with the job responsibilities mentioned in the description. However, there is no direct mention of implementing quantitative models or conducting machine learning tasks."
+        },
+        "skills": {
+            "score": 0.492,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'C++ (substring)'] | (LLM 0.4): The candidate has extensive experience in financial management, budgeting, and financial modeling, which aligns well with the job's requirement for financial expertise. However, there is no mention of specific technical skills like C++, Java, Python, or machine learning, which are preferred."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leadership roles and financial management indicates strong soft skills, but the resume does not provide examples of creative thinking, passion for software engineering, or collaborative working approaches, which are mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.14,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['C++ (substring)'] | (LLM 0.4): The resume does not mention any specific tools or technologies used in previous roles, while the job description requires proficiency in C++, Java, and Python."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like financial modeling, financial reporting, and leadership are transferable to the job, but the lack of technical skills and specific financial engineering skills reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.543
+}

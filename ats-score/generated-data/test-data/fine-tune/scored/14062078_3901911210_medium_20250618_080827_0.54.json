@@ -1,0 +1,51 @@
+{
+    "resume_id": "14062078",
+    "jd_id": "3901911210",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.227,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): No certifications are mentioned in the resume that match the job description requirements."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Diploma, an A.S degree, and a BSN degree, which are relevant to the nursing field but not specifically mentioned in the job description."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience in various roles related to healthcare and customer service, but the job description focuses on a specific role in customer contact."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leadership roles such as trainer and facilitator, but the job description does not emphasize leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like interpreting tax laws, conducting interviews, and resolving issues, which are somewhat aligned with the job responsibilities but not fully matching."
+        },
+        "skills": {
+            "score": 0.576,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Research (exact)', ', (substring)'] | (LLM 0.4): The candidate has a wide range of skills relevant to customer service, research, and business development, which align well with the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as communication and problem-solving, which are relevant to the job description."
+        },
+        "tools": {
+            "score": 0.465,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are listed as required in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in customer service, research, and business development are transferable to the job description, but there is no explicit mention of these skills in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.54
+}

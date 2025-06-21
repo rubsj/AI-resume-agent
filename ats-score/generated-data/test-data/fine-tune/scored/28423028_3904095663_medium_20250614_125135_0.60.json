@@ -1,0 +1,51 @@
+{
+    "resume_id": "28423028",
+    "jd_id": "3904095663",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.431,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a relevant certification (CPR), but the job description requires a specific certification in health-related field, which is missing."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds multiple degrees in social sciences and health information technology, but lacks a bachelor's degree in a health-related field as specified in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.2 yrs (capped to 19.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has over 19 years of experience in healthcare operations, including roles in medical practice management, hospital administration, behavioral health, and Medicare services, which matches the required experience level."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing operations aligns with the job's leadership requirements, but does not specifically mention clinical research leadership."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing operations, budgets, and staff align with the job's responsibilities, but there is no direct mention of clinical research coordination tasks."
+        },
+        "skills": {
+            "score": 0.728,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Information Technology (substring)', 'Research (exact)'] | (LLM 0.4): The candidate has extensive experience in healthcare operations, strategic planning, and leadership, aligning closely with the job's requirement for skills like APM, administrative support, and strategic thinking."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate demonstrates strong soft skills such as ability to work independently, in teams, and knowledge of GCP, federal regulations, and HIPAA policies, which are aligned with the job's requirements."
+        },
+        "tools": {
+            "score": 0.445,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'Electronic health systems (fuzzy)'] | (LLM 0.4): The candidate possesses knowledge of tools like Microsoft Office Suite, Business Objects, Hyperion, and SharePoint, which are mentioned in the job description, but lacks specific expertise in electronic health systems and databases used in research environments."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in strategic planning, quality improvement, and regulatory compliance are transferable to the role, but lack specific clinical research skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.599
+}

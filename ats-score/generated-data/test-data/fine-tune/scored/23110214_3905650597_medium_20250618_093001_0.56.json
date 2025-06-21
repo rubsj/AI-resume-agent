@@ -1,0 +1,51 @@
+{
+    "resume_id": "23110214",
+    "jd_id": "3905650597",
+    "domain": "HEALTHCARE",
+    "resume_jd_similarity": 0.299,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume that directly match the job's requirement for a professional certification in HSE-related field."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds degrees in healthcare and engineering, which are relevant to the job's educational requirements, but the specific details like GPA and graduation year are missing."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has significant experience in healthcare IT, including roles as Director of Applications, Project Manager, and Healthcare IT Consultant, which directly matches the job's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to understand and assess."
+        },
+        "leadership": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing staff, budgets, and projects demonstrates leadership skills, which are important for the role."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing budgets, implementing projects, and leading teams align well with the job's responsibilities in promoting health, safety, and environmental awareness, designing and implementing controls, and ensuring compliance."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has extensive experience in healthcare IT, strategic planning, business requirements gathering, budget management, and customer service, which aligns well with the job's required skills in health, safety, and environment management."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in leadership, collaboration, and influencing culture are aligned with the soft skills required for the role, such as actively promoting health and safety awareness and working cross-functionally."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like project management, budget management, and strategic planning are transferable to the role, although they are not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.556
+}

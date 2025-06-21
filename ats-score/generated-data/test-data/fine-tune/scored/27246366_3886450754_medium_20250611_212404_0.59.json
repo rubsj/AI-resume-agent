@@ -1,0 +1,51 @@
+{
+    "resume_id": "27246366",
+    "jd_id": "3886450754",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.662,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires a High School Diploma or equivalent, but no specific certifications are mentioned."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Construction Management Technology from Ohio State University, which is relevant to the job description's inferred domain of construction. However, the GPA is not provided, which could be a factor in assessing the level of education."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has 19.5 years of experience as a Senior Construction Manager, which directly matches the job description's required experience of 4 years. The detailed experience section shows a strong background in construction management tasks."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to understand and follow. The candidate's summary and experience sections are clear and concise."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership through mentoring and training of construction workers, but it lacks specific details about leadership roles or achievements that would align closely with the job description's expectations."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume outlines responsibilities that closely match those listed in the job description, such as managing projects, overseeing construction, and ensuring compliance with codes and regulations. However, there are some discrepancies in the details provided."
+        },
+        "skills": {
+            "score": 0.696,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in construction management, which aligns well with the job description's requirement for managing and overseeing construction projects. The resume includes skills like Project Management, Multi Task Management, Expense Control, and Soft Account budgeting, which are relevant to the job responsibilities."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume indicates strong soft skills, including Customer Service Satisfaction, Organization, Time management, and Interpersonal skills, which are aligned with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description mentions the use of 'Build Pro' software, but the candidate's resume does not mention any specific tools or technologies used in their work."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat relevant to the job description, particularly in areas like Project Management and Multi Task Management. However, the lack of specific details about leadership roles or achievements limits the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.594
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "26202430",
+    "jd_id": "3905332871",
+    "domain": "HR",
+    "resume_jd_similarity": 0.419,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, and none are required in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks information about the candidate's educational background, which is required for the job."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 8.6 yrs (capped to 8.6), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR applications and business analysis, which matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume contains grammatical errors and lacks clarity, which affects its readability and professionalism."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume, which is a requirement for the job."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not provide details on the candidate's responsibilities, which are crucial for matching them with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in HR applications and business analysis, which aligns well with the required skills of managing and manufacturing."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume lacks information on soft skills, which are essential for the job."
+        },
+        "tools": {
+            "score": 0.15,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Word (exact)'] | (LLM 0.4): The resume does not mention proficiency in Windows, Word, Google Email, or Google Apps, which are required tools for the job."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not highlight any transferable skills that could be applied to the job."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.347
+}

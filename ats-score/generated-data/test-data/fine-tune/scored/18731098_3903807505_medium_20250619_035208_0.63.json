@@ -1,0 +1,51 @@
+{
+    "resume_id": "18731098",
+    "jd_id": "3903807505",
+    "domain": "HR",
+    "resume_jd_similarity": 0.357,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): No certifications are listed in the resume, which may be a concern given the importance of professional qualifications in the job description."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Health Administration from California State University Northridge, which is relevant to the job. However, the Bachelors of Arts Degree is listed without a field or GPA, which could be seen as incomplete information."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has over 23 years of experience in Human Resources, which is significantly more than the mid-senior level requirement. The detailed job descriptions show a wide range of responsibilities that match the job responsibilities outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors. However, the lack of a field or GPA for the Bachelors of Arts Degree could be considered a minor issue affecting clarity."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in supervising staff and managing HR operations indicates some leadership skills. However, the job description specifically mentions leadership in the context of strategy development and program implementation, which is not directly addressed in the resume."
+        },
+        "responsibilities": {
+            "score": 0.453,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Policy Development (substring)'] | (LLM 0.5): The candidate's experience shows a broad range of responsibilities that align with the job responsibilities listed in the job description, such as employee relations, policy development, and full-cycle recruiting. However, there is no direct mention of strategy development or community outreach."
+        },
+        "skills": {
+            "score": 0.648,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in Human Resources, which aligns closely with the job requirements. The resume includes skills like 'Human Resources', 'administrative support', and 'accounting', which are directly relevant to the position."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly list soft skills like communication, detail-oriented, go-getter mindset, collaboration, influencing, empathy, and adaptability, which are important for the role."
+        },
+        "tools": {
+            "score": 0.385,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Microsoft Office (substring)'] | (LLM 0.4): The candidate has experience with ADP software, which is mentioned in the resume. However, the job description also mentions Microsoft Office, Adobe Creative Suite, Facebook, and Salesforce, which are not explicitly covered in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in managing staff, conducting performance evaluations, and overseeing various HR processes demonstrates transferable skills that are relevant to the job description. However, there is no explicit mention of specific tools or technologies used in the job responsibilities section."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.629
+}

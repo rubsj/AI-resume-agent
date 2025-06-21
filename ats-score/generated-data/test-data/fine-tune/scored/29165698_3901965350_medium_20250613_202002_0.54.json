@@ -1,0 +1,51 @@
+{
+    "resume_id": "29165698",
+    "jd_id": "3901965350",
+    "domain": "FITNESS",
+    "resume_jd_similarity": 0.475,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate has a certification in First Aid/CPR/AED, but lacks certifications in management and training, which are required skills."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a BS in Kinesiology from University of Montevallo, which is relevant to the job, but the GPA is missing."
+        },
+        "experience": {
+            "score": 0.44,
+            "reason": "(Rule 0.5): Resume: 0.9 yrs (capped to 0.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in management roles, which aligns with the job requirements, but the lack of detail in the 'Promoted to manager position' entry reduces the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leading teams and ensuring customer service, which aligns with the job requirements."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not provide responsibilities, which are not specified in the job description."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 2, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)', 'Training (exact)'] | (LLM 0.4): The candidate has skills in budget, conflict resolution, CPR, customer service, and leadership, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills such as leadership, teamwork, and customer service align with the job requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The candidate does not mention any tools or technologies used, which are not specified in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like budget management, customer service, and leadership, which are relevant to the job."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.541
+}

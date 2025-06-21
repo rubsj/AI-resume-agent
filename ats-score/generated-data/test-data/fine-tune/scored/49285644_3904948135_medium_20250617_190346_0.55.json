@@ -1,0 +1,51 @@
+{
+    "resume_id": "49285644",
+    "jd_id": "3904948135",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.38,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Graduate Teaching Licensure and a Bachelor's degree in Marketing Communications, which are relevant to the education domain but lack details such as institution name and GPA."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in educational roles, including teaching, leadership, and program coordination, which aligns well with the job description's focus on learning operations and logistical support."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and descriptions are clear and concise."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, such as being a teacher and a site leader, which indicates some leadership capabilities. However, the job description focuses more on operational and logistical skills rather than leadership in a traditional sense."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles, such as managing logistics, facilitating programs, and coordinating with stakeholders, align with the job description's expectations for operational support and program management."
+        },
+        "skills": {
+            "score": 0.44,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has relevant skills in Microsoft Office and Infinite Campus, which align with the job description's requirement for proficiency in Microsoft Office tools."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, including communication, attention to detail, and teamwork, match the job description's requirements for effective interpersonal and organizational abilities."
+        },
+        "tools": {
+            "score": 0.372,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['Microsoft Office (substring)', 'Salesforce (fuzzy)'] | (LLM 0.4): The candidate has experience with Microsoft Office tools, which are listed as required skills in the job description. However, there is no mention of WorkDay, Adobe Creative Suite, Facebook, Salesforce, or other tools specifically mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat limited as they are primarily focused on education-related experiences and skills. The job description requires more specific skills related to manufacturing, logistics, and operational processes."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.551
+}

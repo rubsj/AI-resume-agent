@@ -1,0 +1,51 @@
+{
+    "resume_id": "12082377",
+    "jd_id": "3903897939",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.677,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, which are required in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's highest education is a High School Diploma, which does not meet the preferred degree requirement of a Bachelor's degree in business marketing or related field."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 12.8 yrs (capped to 12.8), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in sales roles, particularly in territory management and sales representative positions, which aligns with the job responsibilities. However, the total experience is less than the required 5 years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership experience or responsibilities, which are required in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job responsibilities outlined in the job description."
+        },
+        "skills": {
+            "score": 0.848,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Business Development (substring)', 'Sales (exact)', ' (substring)'] | (LLM 0.4): The candidate has relevant skills like 'attention to detail', 'Strong interpersonal skills', 'contracts', 'credit', 'clients', 'database', 'Dependable', 'English', 'estimating', 'outlook', 'natural', 'negotiator', 'Persuasive', 'progress', 'purchasing', 'Sales', 'Sales Management','seminars', 'Spanish', 'Strategic','supervising', 'tops', 'trade shows'. These align well with the required skills of Business Development and Sales in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions soft skills like 'Leadership', 'Coaching', 'Communication', 'Problem-solving', 'Teamwork', 'Time management', 'Adaptability', 'Customer service', which align with the soft skills required in the job description. However, there is no explicit mention of these skills in the resume."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate does not mention proficiency in any specific tools or technologies, whereas the job description requires proficiency in Charter's Sales Process and various systems and tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like 'Business development', 'Organized', 'Fast learner', 'Highly dependable', 'Natural leader', 'Enthusiastic yet professional demeanor', 'Organized', 'Excellent attention to detail', which are relevant but not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.442
+}

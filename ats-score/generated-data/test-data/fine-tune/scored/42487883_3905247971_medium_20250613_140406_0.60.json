@@ -1,0 +1,51 @@
+{
+    "resume_id": "42487883",
+    "jd_id": "3905247971",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.777,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's requirement for a Bachelor's degree in Accounting or Finance."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Accounting and Information Management and a Bachelor of Arts in Psychology, which aligns with the job description's preferred degree requirement. However, the lack of specific degree in Accounting or Finance reduces the score slightly."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 20.1 yrs (capped to 20.1), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has extensive experience as an Accountant, which matches the job description's required experience level. The detailed job responsibilities listed in the resume also closely match those outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and other sections are concise and relevant."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no explicit mention of leadership skills or experiences in the resume, which contrasts with the job description's requirement for leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in their previous roles overlap significantly with the job responsibilities listed in the job description. However, there is no direct mention of proficiency in using Department of State web portals, which is a required skill."
+        },
+        "skills": {
+            "score": 0.507,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as account reconciliation, financial modeling, variance analysis, corporate G&A and COGS accounting, cash forecasting, capitalization and fixed assets management, analytical reasoning, time management, research skills, and intermediate Excel skills. These align well with the job description's required skills."
+        },
+        "soft_skills": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as communication, detail orientation, and a go-getter mindset, align well with the job description's soft skills requirements."
+        },
+        "tools": {
+            "score": 0.62,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['NetSuite (exact)'] | (LLM 0.4): The candidate possesses knowledge of tools like NetSuite, which is mentioned in the job description's tools and technologies section. However, there is no explicit mention of proficiency in Department of State web portals, which is one of the tools required."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as effective time management and superior research skills, are generally aligned with the job description. However, the lack of specific mention of leadership skills reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.603
+}

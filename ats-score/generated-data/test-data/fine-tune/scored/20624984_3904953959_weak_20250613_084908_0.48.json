@@ -1,0 +1,51 @@
+{
+    "resume_id": "20624984",
+    "jd_id": "3904953959",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.684,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The MBA degree is relevant, but the lack of specific details about the field of study reduces the score."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 3.9 yrs (capped to 3.9), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in accounting roles, but the job history descriptions could be more detailed."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities listed in the job description, but there is a lack of detail in the job history descriptions."
+        },
+        "skills": {
+            "score": 0.66,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (exact)'] | (LLM 0.4): The candidate has relevant skills such as accounting, financial reporting, and SAP FI module proficiency. However, there is a lack of detail in the job history descriptions."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as analytical thinking and attention to detail, but these are not explicitly mentioned in the resume."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with SAP FI module, which is relevant, but lacks information on other tools and technologies."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills like financial reporting and accounting, which are relevant to the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.484
+}

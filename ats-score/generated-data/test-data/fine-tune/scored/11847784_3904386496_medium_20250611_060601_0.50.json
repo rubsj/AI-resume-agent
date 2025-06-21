@@ -1,0 +1,51 @@
+{
+    "resume_id": "11847784",
+    "jd_id": "3904386496",
+    "domain": "HR",
+    "resume_jd_similarity": 0.651,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the preferred PHR or SPHR certification in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks specific details about the field of study, GPA, or graduation year, making it difficult to assess the relevance to the job description's Bachelor's degree requirement."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 19.5 yrs (capped to 19.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate's experience includes roles that directly match the job description's responsibilities in HR advocacy, recruiting, staffing, management development, diversity, team member relations, performance management, HR policy/strategy, organizational design, compliance, communication, compensation & benefits, and team member recognition."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, except for some unclear sections like the education details."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's leadership skills are demonstrated through their experience in managing teams, projects, and initiatives, but the resume could benefit from more detail on leadership achievements or specific leadership roles."
+        },
+        "responsibilities": {
+            "score": 0.552,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 2, 'substring': 1, 'fuzzy': 0}. Matched: ['Selection (exact)', 'Performance Management (substring)', 'Communication (exact)'] | (LLM 0.5): The candidate's responsibilities closely match the job description's outlined responsibilities, including HR advocacy, recruiting/staffing, selection, management development/training, diversity, team member relations, performance management, HR policy/strategy, organizational design/change management, compliance, communication, compensation & benefits, team member recognition, and operations support."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Management (exact)'] | (LLM 0.4): The candidate has extensive experience in HR classification, compensation, and recruitment, aligning well with the job description's required skills in Human Resources, Legal, and Management."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like management consultation, negotiation, problem-solving, serving as a change agent, and ensuring excellent customer service, which align with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention proficiency in Microsoft Office or Advance and WP systems, which are listed as tools in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are evident in their experience managing full-cycle recruitment, conducting analyses, and overseeing HR activities, but they lack specific details on how these skills translate to the job description's operational support requirement."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.5
+}

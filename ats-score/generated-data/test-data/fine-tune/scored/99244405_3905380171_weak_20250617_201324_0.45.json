@@ -1,0 +1,51 @@
+{
+    "resume_id": "99244405",
+    "jd_id": "3905380171",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.328,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed, and the job description does not require any specific certifications."
+        },
+        "education": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds MBA and BBA degrees, which are relevant to the field of education research. The lack of GPA information does not significantly affect the score."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): JD required years = 0. | (LLM 0.5): The candidate has experience in teaching and administrative roles, which are relevant to the job. However, the experience does not specifically mention research or quantitative skills."
+        },
+        "grammar_cleanliness": {
+            "score": 1.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the candidate's resume, which is a requirement for the job."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not explicitly state experience in designing studies, managing data, or interpreting results, which are key responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.292,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Communication (exact)', 'Problem Solving (substring)'] | (LLM 0.4): The candidate has skills in communication, problem solving, and teamwork, which align with the job requirements. However, there is no mention of finance or sales skills."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume highlights strong organizational skills, attention to detail, and excellent communication, which align with the soft skills required for the job."
+        },
+        "tools": {
+            "score": 0.082,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 2}. Matched: ['STATA (fuzzy)', 'R (substring)', 'Data Management (fuzzy)'] | (LLM 0.4): The job description mentions tools like STATA, R, Python, etc., but the candidate's resume does not list proficiency in these tools."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): While the candidate has skills in communication and problem solving, the job description requires specific skills such as finance, sales, and statistical analysis that are not covered in the resume."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.45
+}

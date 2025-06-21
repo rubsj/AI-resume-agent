@@ -1,0 +1,51 @@
+{
+    "resume_id": "37792474",
+    "jd_id": "3904068266",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.406,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.45,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate does not have any certifications listed, whereas the job description requires a Bachelor's degree in photography or a related field."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has only a Bachelor of Science in Mechanical Engineering from Lehigh University, which does not match the required education level of a Bachelor's degree in photography or a related field."
+        },
+        "experience": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): Resume: 35.5 yrs (capped to 35.5), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has experience in project management and engineering, which aligns with the job responsibilities. However, the job description specifically mentions digital photography, film photography, products inside of glass, photo production processes, packaging consulting, and art direction, which are not mentioned in the candidate's experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume is well-written and free of grammatical errors. The summary is concise and highlights relevant experience and skills. There are no obvious issues with grammar or formatting."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has leadership experience as indicated by their role as a Project Manager/Construction Manager and Project Manager/Project Engineer. However, the job description does not require leadership skills explicitly."
+        },
+        "responsibilities": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities that align with the job responsibilities, such as managing projects, developing proposals, and ensuring compliance with specifications. However, the job responsibilities specifically mention capturing high-quality images, setting up and managing shoots, providing art direction, ensuring image quality, providing packaging consulting, and assisting with photo production, which are not covered in the candidate's experience."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'budgets', 'Project Management', 'Proposals', and 'Leadership'. However, there is no mention of digital photography, film photography, or packaging consulting which are required skills in the job description."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions excellent communication skills and a keen eye for detail, which align with the soft skills required in the job description. However, the job description also requires 'art direction', which is not mentioned in the candidate's summary."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The job description lists specific tools and technologies required, such as digital photography, film photography, products inside of glass, photo production processes, packaging consulting, and art direction, none of which are mentioned in the candidate's skills or experience."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has transferable skills such as project management, budgeting, and communication, which could be applied in the retail/e-commerce industry. However, the job description requires specific skills like digital photography, film photography, and packaging consulting, which are not present in the candidate's skills or experience."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.417
+}

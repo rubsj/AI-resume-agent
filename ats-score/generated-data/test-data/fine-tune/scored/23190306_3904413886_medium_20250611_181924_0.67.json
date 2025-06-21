@@ -1,0 +1,51 @@
+{
+    "resume_id": "23190306",
+    "jd_id": "3904413886",
+    "domain": "APPAREL",
+    "resume_jd_similarity": 0.684,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.625,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['High School Diploma (substring)'] | (LLM 0.5): The candidate has a High School Diploma and an Associates Degree, but no Bachelor's degree or higher, which is less than the preferred requirement of a High School Diploma."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 8.1 yrs (capped to 8.1), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in retail operations, management, and sales, which closely matches the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with clear sections and no obvious grammatical errors."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience leading teams, managing operations, and serving as a role model, indicating strong leadership skills."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities, such as managing store operations, training staff, and ensuring profitability."
+        },
+        "skills": {
+            "score": 0.64,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)', 'Management (exact)', 'Leadership (exact)'] | (LLM 0.4): The candidate has relevant skills such as 'Leadership', 'Management', 'Customer Service', 'Sales', and 'Inventory' which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions skills like 'Customer Service', 'Leadership', and 'Team Management', which are soft skills required by the job."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No specific tools or technologies are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'Excel', 'Office', and 'Payroll' are transferable and relevant to the job, but there are fewer of these skills compared to other sections."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.674
+}

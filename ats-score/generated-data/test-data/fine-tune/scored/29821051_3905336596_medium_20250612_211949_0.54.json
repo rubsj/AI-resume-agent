@@ -1,0 +1,51 @@
+{
+    "resume_id": "29821051",
+    "jd_id": "3905336596",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.679,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be a concern given the preferred certifications mentioned in the job description."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks specific details about the degree obtained, which is a BS in Accounting, as preferred in the job description."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has extensive experience in various accounting roles, including financial accounting, business analysis, and treasury management, which closely matches the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership experience in the resume, which is not explicitly required but could be beneficial for certain roles."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities, such as preparing financial statements and investor reporting. However, there is no explicit mention of NAV calculations or matrix reporting structure."
+        },
+        "skills": {
+            "score": 0.567,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched skills: ['Finance (exact)', 'US GAAP (fuzzy)'] | (LLM 0.4): The candidate has relevant skills in Accounting, Auditing, and Finance, which align well with the job requirements. However, there is no mention of US GAAP or advanced Excel skills, which are preferred but not required."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section mentions attention to detail and strong organizational skills, which are soft skills aligned with the job description."
+        },
+        "tools": {
+            "score": 0.5,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate has experience with Oracle and Hyperion, which are tools mentioned in the job description, but does not explicitly state proficiency in Excel or Investran."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills section includes a list of transferable skills like USGAAP principles, cash flow analysis, and financial management, which could be beneficial but lack specific details."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.543
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "22510753",
+    "jd_id": "3885830306",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.595,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires 'State Teacher Certification' and other teaching-related certifications."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's degree in Educational Leadership and a Bachelor's degree in Sociology, which aligns with the job description's requirement for a Bachelor's degree. However, the GPA is not provided, which could be a factor in assessing the quality of education."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has experience as a teacher, which matches the job description's requirement for minimum one year of experience. The detailed job responsibilities listed in the resume are also aligned with the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, some details like the GPA and specific tools proficiency are missing."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership skills or experience, which are important for the job description."
+        },
+        "responsibilities": {
+            "score": 0.415,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Prepares materials and classrooms (fuzzy)'] | (LLM 0.5): The candidate's job responsibilities in the resume match most of the responsibilities listed in the job description, including preparing student education plans, supporting learning for students with disabilities, designing instruction, consulting with parents, assisting in developing educational plans, and monitoring student progress."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'arts', 'instruction', 'Leadership skills', 'teaching', and 'teamwork'. However, there is no mention of specific tools like 'Microsoft Office' or 'Excel' which are mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills are generally aligned with the job description, including teamwork, communication, and computer proficiency. However, there is no explicit mention of patient confidentiality, HIPAA requirements, effective elicitation, or information provision."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description mentions specific tools like 'Microsoft Office', but the candidate's resume does not provide information on proficiency with these tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills are somewhat aligned with the job description, particularly in areas like communication, organization, and problem-solving. However, there is no explicit mention of teaching-specific skills like'state teacher certification' or 'learning behavior specialist endorsement'."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.485
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "23760084",
+    "jd_id": "3901800178",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.666,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume, which may be a requirement for the job."
+        },
+        "education": {
+            "score": 0.1,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A Bachelor of Science degree is mentioned, but it lacks details such as GPA and field of study, which could be relevant for the job."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 26.0 yrs (capped to 26.0), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has extensive experience in sales and management roles, which closely matches the job description's requirements. The detailed job descriptions provide clear evidence of relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, there are sections lacking detail, which could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, which is relevant to the job description. However, there is no explicit mention of leading strategic initiatives or managing complex operations."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, particularly in sales and management. However, there is no direct match with the strategic growth initiatives and advanced tools mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has relevant skills such as sales, accounting, and customer service, which align with the job requirements. However, there is no mention of specific tools like Microstrategy or CRM systems."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like communication, adaptability, and teamwork are present in the resume, but there is no explicit mention of professional communication skills, which is a requirement for the job."
+        },
+        "tools": {
+            "score": 0.04,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Sales Force (fuzzy)'] | (LLM 0.4): No specific tools or technologies used are mentioned in the resume, which contrasts with the job description's emphasis on tools like Microstrategy and CRM systems."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills that can be transferred from their previous roles, such as problem-solving and time management. However, there is no evidence of strategic planning or advanced analytical skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.525
+}

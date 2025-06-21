@@ -1,0 +1,51 @@
+{
+    "resume_id": "13812481",
+    "jd_id": "3887477710",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.666,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.6,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate is currently attending Wenatchee Valley College and has a high school diploma. The education does not match the required high school completion."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in retail, customer service, and other roles that demonstrate skills aligned with the job responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with clear sections and grammatically correct sentences. There are no obvious errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no evidence of leadership skills in the resume."
+        },
+        "responsibilities": {
+            "score": 0.43,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: ['Customer service (substring)'] | (LLM 0.5): The candidate's job descriptions cover most of the responsibilities listed in the job description, such as assisting with store operations, merchandising, cash register operations, customer service, and stock replenishment."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as self-motivation, dependability, multitasking, teamwork, computer proficiency, organization, fast learning, creativity, and interpersonal communication. These align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like customer focus, developing potential, results-driven, strong organizational skills, communication, problem-solving, and job knowledge, which are aligned with the job requirements."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): No tools or technologies used are mentioned in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like self-motivation, dependability, and teamwork are transferable to the role, but there is no explicit mention of leadership skills."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.673
+}

@@ -1,0 +1,51 @@
+{
+    "resume_id": "22019500",
+    "jd_id": "3270034794",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.652,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.05,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): Only a high school diploma and technical education are listed, lacking the bachelor's degree preferred in the job description."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 35.9 yrs (capped to 35.9), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has relevant experience in construction management and telecommunications, which matches the job responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is professionally formatted and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience shows leadership through roles as a supervisor and manager, aligning with the job responsibilities."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as project management, coordination, and supervision, which align with the job responsibilities."
+        },
+        "skills": {
+            "score": 0.672,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Project Management (substring)'] | (LLM 0.4): The candidate has extensive experience in telecommunications and construction, aligning closely with the required skills in project management and information technology."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience demonstrates strong organizational skills, attention to detail, and commitment to accuracy, which are soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency in MS Office Suite or Procore, tools mentioned in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like communication, problem-solving, and attention to detail are transferable from the candidate's experience to the job responsibilities."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.523
+}

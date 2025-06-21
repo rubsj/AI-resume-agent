@@ -1,0 +1,51 @@
+{
+    "resume_id": "19506295",
+    "jd_id": "3901991750",
+    "domain": "AVIATION",
+    "resume_jd_similarity": 0.391,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications are mentioned in the resume, which may be a concern given the industry-specific nature of the job."
+        },
+        "education": {
+            "score": 0.775,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate holds multiple degrees in Mechanical Engineering, which is relevant to the job. However, the lack of GPA information could be seen as a potential weakness."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 20.5 yrs (capped to 20.5), JD requires: 4.0 yrs. | (LLM 0.5): The candidate has significant experience in various engineering roles, particularly in fluid systems and thermal accessories, which matches the job description's requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, which is important for making a good first impression."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions leadership skills in the resume, but there are no specific examples or achievements that demonstrate leadership in the context of the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with the job description, but there is no direct mention of spacecraft integration assembly, which is a key responsibility in the job description."
+        },
+        "skills": {
+            "score": 0.456,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has extensive experience in mechanical engineering tools like Solid Edge UG NX, ANSYS, AutoCAD, and programming languages such as MATLAB, which aligns well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses skills like attention to detail, communication, and teamwork, which are important soft skills. However, the lack of specific examples or quantifiable achievements could lower the score."
+        },
+        "tools": {
+            "score": 0.346,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Ovens (fuzzy)'] | (LLM 0.4): The candidate is familiar with tools like Solid Edge UG NX, ANSYS, and AutoCAD, which are mentioned in the job description. However, the lack of specific details about proficiency could lower the score."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has skills like project management and process improvement, which are transferable to the job. However, these skills are not as directly aligned with the job description as others."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.563
+}

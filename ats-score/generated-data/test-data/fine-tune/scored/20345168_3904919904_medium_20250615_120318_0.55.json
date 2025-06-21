@@ -1,0 +1,51 @@
+{
+    "resume_id": "20345168",
+    "jd_id": "3904919904",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.405,
+    "semantic_match_label": "medium",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume, which contrasts with the job description's requirement for advanced Excel and PowerPoint skills."
+        },
+        "education": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): A Bachelor of Science degree in Business Management is listed, but the lack of specific GPA details and field of study alignment may reduce the score."
+        },
+        "experience": {
+            "score": 0.7,
+            "reason": "(Rule 0.5): Missing required or actual experience data. | (LLM 0.5): The candidate has extensive experience in various accounting roles, which closely matches the job responsibilities of managing the executive office and providing administrative support."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, contributing positively to its ATS score."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume does not indicate any leadership experience or responsibilities that would qualify the candidate for a leadership role."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume does not explicitly mention any responsibilities that match the job description's list of responsibilities."
+        },
+        "skills": {
+            "score": 0.92,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as Microsoft Office, Abila MIP Fund Accounting Software, QuickBooks, and ADP, which align with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, such as strong organizational skills and attention to detail, are aligned with the job description's soft skill requirements."
+        },
+        "tools": {
+            "score": 0.4,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['PowerPoint (fuzzy)'] | (LLM 0.4): The candidate possesses skills in tools like Microsoft Office, QuickBooks, and ADP, which are aligned with the job description's tool requirements. However, the lack of advanced Excel proficiency reduces the score slightly."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like financial statement analysis, account reconciliation, and general ledger accounting are transferable to the executive assistant role, but the lack of direct experience in administrative tasks reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.553
+}

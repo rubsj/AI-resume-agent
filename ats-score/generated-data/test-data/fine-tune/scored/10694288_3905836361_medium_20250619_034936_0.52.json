@@ -1,0 +1,51 @@
+{
+    "resume_id": "10694288",
+    "jd_id": "3905836361",
+    "domain": "HR",
+    "resume_jd_similarity": 0.35,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed that match the job requirements."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has two degrees in fields related to human resources and business management, which aligns with the job requirements. However, the lack of specific GPA information may reduce the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 22.9 yrs (capped to 22.9), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has extensive experience in human resources, particularly in leave coordination and benefits administration, which matches the job requirements. The detailed job descriptions provide clear evidence of relevant experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of specific details in some sections could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership roles or responsibilities, which are important for the job description."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with some of the job responsibilities listed, such as managing leave and benefits, but there is no direct match with financial analysis or sales compensation tasks."
+        },
+        "skills": {
+            "score": 0.512,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has relevant skills such as 'Benefits', 'Content', 'counseling', 'editor', 'HRIS', 'HR', 'insurance', 'all Microsoft', 'Navigator', 'newsletter', 'Page', 'Assist patients', 'payroll', 'payroll processing', 'Personnel Management', 'phone system', 'policies','reporting','research', 'phone', 'website'. These skills align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills like 'Analytical', 'Critical thinking', 'Problem-solving', 'Relationship building', and 'Trust', which are required by the job description. However, there is no explicit mention of these skills in the resume."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like MS Office and SAP sales performance management solution, which are mentioned in the job description. However, there is no explicit mention of proficiency or usage in the resume."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as 'analyzing', 'interpreting', and 'counseling', are relevant to the job requirements. However, there is no explicit mention of these skills in the resume."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.521
+}

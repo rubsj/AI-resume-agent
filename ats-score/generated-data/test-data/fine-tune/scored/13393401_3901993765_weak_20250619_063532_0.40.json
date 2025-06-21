@@ -1,0 +1,51 @@
+{
+    "resume_id": "13393401",
+    "jd_id": "3901993765",
+    "domain": "BANKING",
+    "resume_jd_similarity": 0.29,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The resume lacks formal education in finance or business management, which is preferred in the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): Resume: 11.8 yrs (capped to 11.8), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has experience in managing portfolios, leading teams, and performing strategic planning, which aligns with the job responsibilities. However, there is no explicit mention of data science or analytics experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in leadership roles, including COO and VP positions, which indicates strong leadership skills. However, there is no explicit mention of leading data science or analytics teams."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): There is no direct match between the candidate's responsibilities and the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: [] | (LLM 0.4): The candidate has relevant skills such as 'banking', 'budget', 'business development', 'credit', 'financial analysis', 'leadership', 'negotiation', 'project management', and'sales'. However, there is no mention of specific technical skills like Python, SQL, or Tableau which are required."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate possesses soft skills such as'strong communication skills', 'team building', and 'collaboration', which are beneficial for the role. However, there is no explicit mention of 'technical and communication skills', 'problem-solving', or 'business acumen' which are required."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The resume does not mention proficiency in tools like Python, SQL, or Tableau, which are required for the position."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like 'project management', 'planning/execution', and 'cross-functional leadership' are transferable but lack specific details that would indicate proficiency in data science or analytics."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.403
+}

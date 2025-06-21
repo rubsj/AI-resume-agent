@@ -1,0 +1,51 @@
+{
+    "resume_id": "24402267",
+    "jd_id": "3901984523",
+    "domain": "HR",
+    "resume_jd_similarity": 0.357,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the resume."
+        },
+        "education": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds an MBA in Human Resource and a B.COM in Commerce, which aligns with the required degree in Business, Human Resources, or a related field. However, the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.51,
+            "reason": "(Rule 0.5): Resume: 3.2 yrs (capped to 3.2), JD requires: 10.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles that align with the job responsibilities, such as HR Assistant, Management Trainee, and HR Coordinator. However, the total experience is less than the required 10+ years."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide details on leadership skills that match the leadership skills listed in the job description."
+        },
+        "responsibilities": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's resume does not provide details on responsibilities that match the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.56,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Training (exact)'] | (LLM 0.4): The candidate has relevant skills such as HRIS, ISO, Recruitment, Performance Appraisal, Training & Development, Leave & Attendance, and Entry & Exit. However, there is no mention of advanced proficiency in Workday or Microsoft Office, which are preferred tools."
+        },
+        "soft_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide details on soft skills that match the soft skills listed in the job description."
+        },
+        "tools": {
+            "score": 0.2,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with Workday and Microsoft Office, which are preferred tools. However, there is no mention of advanced proficiency in these tools."
+        },
+        "transferable_skills": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not provide details on transferable skills that match the transferable skills listed in the job description."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.331
+}

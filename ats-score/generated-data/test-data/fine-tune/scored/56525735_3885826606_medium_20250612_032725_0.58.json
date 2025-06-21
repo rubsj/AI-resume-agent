@@ -1,0 +1,51 @@
+{
+    "resume_id": "56525735",
+    "jd_id": "3885826606",
+    "domain": "CONSTRUCTION",
+    "resume_jd_similarity": 0.653,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.75,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.5): The candidate possesses certifications like Microsoft Office Suite and Project Certification, which are beneficial but not directly mentioned as required in the job description."
+        },
+        "education": {
+            "score": 0.2,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Architecture degree, which is related to the construction domain but does not explicitly match the preferred degree of engineering, construction management, or a related field."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 13.1 yrs (capped to 13.1), JD requires: 8.0 yrs. | (LLM 0.5): The candidate has extensive experience in construction management, project management, and budget management, which closely matches the job description's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is generally well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in leading teams and managing projects indicates leadership capabilities, which are important for the role, but the resume could benefit from more explicit leadership achievements."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in managing budgets, timelines, and client satisfaction align with the job description's responsibilities, though there is no explicit mention of business development or sales."
+        },
+        "skills": {
+            "score": 0.416,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: [', (substring)'] | (LLM 0.4): The candidate has relevant skills such as Construction Management, budget management, and project management, which align well with the job description's required skills of Business Development and Sales."
+        },
+        "soft_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Soft skills such as communication and teamwork are implied through the candidate's experience, but they are not explicitly stated in the resume."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [', (substring)'] | (LLM 0.4): No specific tools or technologies are mentioned in the candidate's resume that directly correspond to the job description's tool requirements."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like supervision, technical support, and safety management are transferable and relevant to the job description, even if not directly listed."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.577
+}

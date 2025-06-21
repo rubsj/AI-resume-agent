@@ -1,0 +1,51 @@
+{
+    "resume_id": "42487883",
+    "jd_id": "3905334786",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.688,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the resume."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Bachelor of Science in Accounting and Information Management and a Bachelor of Arts in Psychology, which aligns with the required degree in finance or accounting. However, the lack of GPA information reduces the score."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 20.1 yrs (capped to 20.1), JD requires: 5.0 yrs. | (LLM 0.5): The candidate has over 10 years of experience in accounting roles, which matches the required experience level. The detailed job descriptions indicate proficiency in various accounting tasks relevant to the position."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): While the candidate mentions being a self-motivated team player, there is no explicit mention of leadership or supervisory experience."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities aligned with the job description, such as project setup and close-out, revenue recognition, and training and development. However, there is no direct mention of leading or supervising teams or specific financial audits."
+        },
+        "skills": {
+            "score": 0.46,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has relevant skills such as account reconciliation, financial modeling, variance analysis, corporate G&A and COGS accounting, cash forecasting, capitalization and fixed assets management, and analytical reasoning. However, there is no mention of specific SAP skills or advanced Excel proficiency."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary highlights strong communication and customer service skills, which align with the soft skills required. The self-motivated team player attitude also supports leadership potential."
+        },
+        "tools": {
+            "score": 0.88,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 2, 'substring': 0, 'fuzzy': 0}. Matched: ['SAP (exact)', 'Excel (exact)'] | (LLM 0.4): The candidate lists proficiency in tools like SAP, Quickbooks, Cognos Impromptu, JDEdwards, AS400, Sage FAS Fixed Assets, BNA Fixed Assets, BusinessObjects Crystal Reports (SAP Crystal Reports), Hyperion Essbase, but does not specify if they have experience with SAP PS and SD or Excel proficiency as required."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience in various accounting roles demonstrates transferable skills such as time management, research, and problem-solving. However, the lack of specific leadership or team management responsibilities reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.612
+}

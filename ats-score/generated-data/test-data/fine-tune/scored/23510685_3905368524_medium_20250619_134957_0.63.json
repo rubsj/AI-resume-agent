@@ -1,0 +1,51 @@
+{
+    "resume_id": "23510685",
+    "jd_id": "3905368524",
+    "domain": "HR",
+    "resume_jd_similarity": 0.315,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.8,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): The candidate holds certifications in Global Professional of Human Resources (GPHR) and Professional of Human Resources (PHR), which are relevant to the job but not explicitly mentioned in the job description."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a Master's degree in Industrial and Labor Relations and a Bachelor's degree in Human Resource Management, which aligns well with the job requirements."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 11.2 yrs (capped to 11.2), JD requires: 2.0 yrs. | (LLM 0.5): The candidate has extensive experience in various HR roles, including Global HR Manager, Global HR Analyst, and HR Generalist, which matches the job requirements."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience includes leading cross-functional projects and programs, which indicates some leadership skills, but the job description does not emphasize leadership as a requirement."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities such as research, analysis, and interpretation of laws and regulations, which aligns with the job responsibilities listed in the job description."
+        },
+        "skills": {
+            "score": 0.68,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has a wide range of skills relevant to the job, including proficiency in Microsoft Office, which is mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include strong writing skills, communication, problem-solving, and gathering information, which are soft skills that match the job requirements."
+        },
+        "tools": {
+            "score": 0.332,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 1}. Matched: ['ARIES (fuzzy)', 'TEA (substring)'] | (LLM 0.4): The candidate's skills include Adobe Acrobat, which is not mentioned in the job description, while the job description mentions tools like Microsoft Office, ARIES, SNAP, Medicaid, TEA, but the candidate's skills do not cover all these tools."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include strategic thinking, which is a transferable skill that could be beneficial in the job, although it is not explicitly mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.628
+}

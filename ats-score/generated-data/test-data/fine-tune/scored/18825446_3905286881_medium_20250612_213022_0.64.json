@@ -1,0 +1,51 @@
+{
+    "resume_id": "18825446",
+    "jd_id": "3905286881",
+    "domain": "CHEF",
+    "resume_jd_similarity": 0.676,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a certification mentioned in their resume, but it does not directly correlate with the job requirements specified in the job description."
+        },
+        "education": {
+            "score": 0.675,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.5): The candidate holds an Associate of Arts degree in Culinary Arts Hospitality and Restaurant Management, which is relevant to the job description. However, the GPA is missing, which could be a point of concern."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has a long history of experience in food service and catering, which matches the job requirements. The detailed job descriptions provide evidence of the candidate's ability to manage teams, prepare food, and handle various responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. The candidate's summary and experience sections are clear and concise, effectively communicating their qualifications."
+        },
+        "leadership": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's experience as an Executive Chef and Head Chef indicates strong leadership skills, which are crucial for the job description. The resume provides evidence of managing teams, training staff, and overseeing kitchen operations."
+        },
+        "responsibilities": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities that align with the job description, such as managing kitchen operations, training staff, and ensuring quality standards. However, the job description specifies hands-on supervision and oversight for meal preparation, which is not explicitly mentioned in the resume."
+        },
+        "skills": {
+            "score": 0.696,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched skills: ['Management (exact)', ' (substring)'] | (LLM 0.4): The candidate has extensive experience in culinary arts and food service, which aligns well with the job requirements. The resume includes specific skills like 'Operations Management', 'customer service', and 'Leadership skills' that match the job description."
+        },
+        "soft_skills": {
+            "score": 0.8,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume includes skills like 'Strong communication', 'Interpersonal skills', and 'Organizational skills', which are aligned with the soft skills required by the job description. However, the resume does not provide specific examples of how these skills have been applied in previous roles."
+        },
+        "tools": {
+            "score": 0.42,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 1, 'fuzzy': 0}. Matched: [' (substring)'] | (LLM 0.4): The job description does not mention any specific tools or technologies required for the position, so there is no direct comparison."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume lists transferable skills such as 'Leadership skills', 'customer service', and 'Inventory management', which are relevant to the job description. However, the lack of specific details about how these skills have been used in previous roles may affect the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.636
+}

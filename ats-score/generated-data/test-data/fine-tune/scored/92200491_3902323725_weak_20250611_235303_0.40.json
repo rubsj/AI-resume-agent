@@ -1,0 +1,51 @@
+{
+    "resume_id": "92200491",
+    "jd_id": "3902323725",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.656,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): No certifications listed match the required 'Certified Food Safety Manager'."
+        },
+        "education": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): A high school diploma does not meet the preferred degree requirement of a college graduate or equivalent."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience in food service, retail, and customer service, including roles that involve managing teams and responsibilities similar to those outlined in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written, with no grammatical errors or formatting issues."
+        },
+        "leadership": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate has experience in supervisory roles, indicating leadership skills, but lacks explicit leadership responsibilities mentioned in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes responsibilities like managing teams, ensuring compliance, and leading implementation, which align with the job responsibilities. However, there is no explicit mention of financial management or strategic planning."
+        },
+        "skills": {
+            "score": 0.48,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate possesses skills like cash handling, cash register usage, cooking, resolving customer complaints, and sales, which align well with the job requirements."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills like leadership, motivation, and customer satisfaction are present in the candidate's resume, aligning with the soft skills required for the role."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): No mention of proficiency with tools like Financial reports, ACIS, Scheduling, Productivity, CAO, Business Information Systems, CBT, Training Packet, or Training Aid courses."
+        },
+        "transferable_skills": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): Skills such as fast food experience, retail experience, and customer service skills are transferable but do not directly match the job-specific skills required."
+        }
+    },
+    "match_quality": "weak",
+    "final_ats_score": 0.4
+}

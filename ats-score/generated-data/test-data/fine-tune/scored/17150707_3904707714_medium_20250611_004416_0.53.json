@@ -1,0 +1,51 @@
+{
+    "resume_id": "17150707",
+    "jd_id": "3904707714",
+    "domain": "HR",
+    "resume_jd_similarity": 0.674,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are listed in the candidate's resume."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a B.S. in Business, which is relevant to the job requirements, but the GPA is not provided, which could be important for some employers."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 17.3 yrs (capped to 17.3), JD requires: 3.0 yrs. | (LLM 0.5): The candidate has relevant experience in HR roles that match the job responsibilities, such as HR Shared Services Analyst, Human Resources Representative, Benefits Manager/HRIS Specialist, and HR Specialist. The experience is detailed and shows progression in responsibilities."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, making it easy to read and understand. However, the lack of details in certain sections could affect the ATS scoring."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): There is no mention of leadership roles or responsibilities in the candidate's resume, which is a requirement in the job description."
+        },
+        "responsibilities": {
+            "score": 0.4,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities in previous roles align with the job responsibilities, such as providing customer support, managing HR processes, and ensuring compliance with laws. However, there is no mention of specific responsibilities related to talent management."
+        },
+        "skills": {
+            "score": 0.568,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 1, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Human Resources (substring)'] | (LLM 0.4): The candidate has extensive experience in HRIS, benefits administration, and HR processes, which aligns well with the job requirements. However, there is no mention of SuccessFactors, which is a key tool mentioned in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills include customer support, client management, and process documentation, which are soft skills relevant to the job. However, there is no explicit mention of effective communication, interaction with people, or positive internal climate, which are key soft skills mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.0,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate's resume does not mention any specific tools or technologies used in their previous roles, unlike the requirement for SuccessFactors in the job description."
+        },
+        "transferable_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in administrative tasks, ADP, and Microsoft Office are transferable to the job, but there is no mention of specific skills related to business development or training, which are mentioned in the job description."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.525
+}

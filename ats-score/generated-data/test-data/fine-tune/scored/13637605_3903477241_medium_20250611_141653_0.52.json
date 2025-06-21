@@ -1,0 +1,51 @@
+{
+    "resume_id": "13637605",
+    "jd_id": "3903477241",
+    "domain": "SALES",
+    "resume_jd_similarity": 0.668,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.0,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate does not have any certifications listed, while the job description requires a CPSI license (Certified Playground Safety Inspector)."
+        },
+        "education": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No preferred degrees listed in JD. | (LLM 0.5): The candidate's education is only a High School Diploma, which does not match the required degree level for the job description."
+        },
+        "experience": {
+            "score": 0.85,
+            "reason": "(Rule 0.5): JD experience string did not specify clear years. | (LLM 0.5): The candidate has relevant experience as a Sales Associate/Cashier, which aligns with the job responsibilities of performing sales activities, identifying potential customers, and maintaining customer relationships. However, the lack of specific details about sales achievements may lower the score."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, contributing to a high score in this category."
+        },
+        "leadership": {
+            "score": 0.0,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate does not mention any leadership experience or skills, which contrasts with the requirement for leadership in the job description."
+        },
+        "responsibilities": {
+            "score": 0.3,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's responsibilities align with some of the job responsibilities mentioned, such as performing sales activities, maintaining customer relationships, and providing excellent services. However, the lack of detail in the resume prevents a higher score."
+        },
+        "skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Sales (exact)'] | (LLM 0.4): The candidate has skills in Sales expertise, Active listening, Verbal/written communication, Team player mentality, Outgoing personality, Time management ability, Enthusiasm, and Detail oriented, which aligns well with the required skills of Business Development, Customer Service, and Sales in the job description."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's soft skills, including interpersonal communication, written and verbal communication, critical thinking, problem solving, self-discipline, and time management, align well with the soft skills required in the job description."
+        },
+        "tools": {
+            "score": 0.6,
+            "reason": "(Rule 0.6): No tools required by JD. | (LLM 0.4): The job description does not mention any specific tools or technologies required, so there is no basis to evaluate the candidate's proficiency in these areas."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills, such as client focus, detail orientation, teamwork, and phone proficiency, are relevant but not explicitly mentioned in the job description, leading to a moderate score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.52
+}

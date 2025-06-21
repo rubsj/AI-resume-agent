@@ -1,0 +1,51 @@
+{
+    "resume_id": "63391085",
+    "jd_id": "3901977789",
+    "domain": "TEACHER",
+    "resume_jd_similarity": 0.231,
+    "semantic_match_label": "weak",
+    "section_scores": {
+        "certifications": {
+            "score": 0.5,
+            "reason": "(Rule 0.5): No certifications required by JD. | (LLM 0.5): No certifications are mentioned in the candidate's resume, whereas the job description does not explicitly require any specific certifications."
+        },
+        "education": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds a Master's and Bachelor's degree, which is less than the minimum requirement of a Bachelor's degree for Level II. The GPA is not provided, which could affect the assessment."
+        },
+        "experience": {
+            "score": 0.9,
+            "reason": "(Rule 0.5): Resume: 28.7 yrs (capped to 28.7), JD requires: 7.0 yrs. | (LLM 0.5): The candidate has extensive teaching experience, which is relevant to the job description. However, there is no direct mention of laboratory coordination or technical leadership, which are key responsibilities in the job description."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume mentions leadership skills in a general sense, but there is no specific mention of technical leadership or collaboration, which are key skills in the job description."
+        },
+        "responsibilities": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate's experience includes some responsibilities like managing budgets and providing administrative support, but there is no clear alignment with the job description's responsibilities such as coordinating day-to-day operations or assisting in lab instruction."
+        },
+        "skills": {
+            "score": 0.453,
+            "reason": "(Rule 0.6): Required: {'exact': 1, 'substring': 0, 'fuzzy': 0}, Optional: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Research (exact)', 'Research (exact)'] | (LLM 0.4): The candidate has relevant skills such as administrative support, budget management, and computer proficiency, which align with the job requirements. However, there is a lack of direct technical skills like analyst or IT knowledge."
+        },
+        "soft_skills": {
+            "score": 0.7,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate mentions excellent communication and leadership skills, which align with the job description's soft skill requirements. However, there is no explicit mention of diversity awareness or advanced mathematical calculations."
+        },
+        "tools": {
+            "score": 0.32,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.4): The candidate has experience with tools like Microsoft Office, which matches the job description's requirement. However, there is no explicit mention of personal computer usage."
+        },
+        "transferable_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's transferable skills include multi-tasking, internet research, and teamwork, which are relevant. However, there is no clear alignment with the job description's requirement for technical leadership or continuous improvement."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.522
+}

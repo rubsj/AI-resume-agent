@@ -1,0 +1,51 @@
+{
+    "resume_id": "28969385",
+    "jd_id": "3904701745",
+    "domain": "ACCOUNTANT",
+    "resume_jd_similarity": 0.707,
+    "semantic_match_label": "strong",
+    "section_scores": {
+        "certifications": {
+            "score": 0.25,
+            "reason": "(Rule 0.5): Certifications matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate has a CPA certificate, which matches one of the preferred degrees in the job description. However, the job description also mentions a 'CPA track' as an optional skill, which is not explicitly listed among the candidate's certifications."
+        },
+        "education": {
+            "score": 0.35,
+            "reason": "(Rule 0.5): Degrees matched: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched: [] | (LLM 0.5): The candidate holds multiple degrees in Accounting from reputable institutions, which aligns well with the job description's requirement for a four-year degree in Accounting. The lack of specific GPA details does not significantly impact the score."
+        },
+        "experience": {
+            "score": 0.95,
+            "reason": "(Rule 0.5): Resume: 12.0 yrs (capped to 12.0), JD requires: 1.0 yrs. | (LLM 0.5): The candidate has relevant experience in various accounting roles, including experience in tax preparation, financial reporting, and accounting system implementations, which closely matches the job description's responsibilities and required experience."
+        },
+        "grammar_cleanliness": {
+            "score": 0.9,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The resume is well-written and free of grammatical errors, ensuring clarity and professionalism, which is crucial for ATS scoring."
+        },
+        "leadership": {
+            "score": 0.4,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's resume does not explicitly mention leadership experience or responsibilities, which contrasts with the job description's requirement for mid-senior level experience."
+        },
+        "responsibilities": {
+            "score": 0.381,
+            "reason": "(Rule 0.5): Responsibilities matched: {'exact': 0, 'substring': 0, 'fuzzy': 1}. Matched: ['Assists with month end close (fuzzy)'] | (LLM 0.5): The candidate's experience includes responsibilities such as month-end closing, financial reporting, and reconciliation, which aligns with the job description's responsibilities. However, there is no direct match for some specific responsibilities mentioned in the job description."
+        },
+        "skills": {
+            "score": 0.36,
+            "reason": "(Rule 0.6): Required: {'exact': 0, 'substring': 0, 'fuzzy': 1}, Optional: {'exact': 0, 'substring': 0, 'fuzzy': 0}. Matched skills: ['Finance (fuzzy)'] | (LLM 0.4): The candidate has extensive experience in accounting and auditing, including proficiency in various accounting software and tools like QuickBooks, Turbo Tax, Vision Accounting Software, Peach Tree, Dac — Easy, Sage, PeopleSoft, and advanced Excel skills. This aligns well with the job description's requirement for advanced Excel skills and proficiency in accounting software."
+        },
+        "soft_skills": {
+            "score": 0.6,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's summary mentions formal recognition for excellence in financial analysis, budgeting, and forecasting, which aligns with the soft skills required in the job description. However, the candidate does not explicitly mention professional skepticism, which is a key soft skill mentioned in the job description."
+        },
+        "tools": {
+            "score": 0.47,
+            "reason": "(Rule 0.6): Tools matched: {'exact': 1, 'substring': 0, 'fuzzy': 0}. Matched: ['Excel (exact)'] | (LLM 0.4): The candidate's proficiency in Microsoft Office Suite, Access, and various accounting software aligns well with the job description's requirement for proficiency in Excel and other accounting tools."
+        },
+        "transferable_skills": {
+            "score": 0.5,
+            "reason": "(Rule 0.0):  | (LLM 1.0): The candidate's skills in accounting software and tools are transferable to the role, but the lack of explicit mention of specific soft skills and leadership experience reduces the score."
+        }
+    },
+    "match_quality": "medium",
+    "final_ats_score": 0.528
+}
